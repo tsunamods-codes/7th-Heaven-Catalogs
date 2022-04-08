@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Sega Catalog">
+  <Mods>
+    <Mod>
+      <ID>efc4bc61-7f80-4635-b583-f52c5c9d239f</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1qyE-RmNZdiYWLX-eO1TjzKbMVv4pfPfd</Link>
+        <Version>2.0994</Version>
+        <ReleaseDate>2022-02-16</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>35000</DownloadSize>
+      </LatestVersion>
+      <Name>New Threat 2.0</Name>
+      <Description>An extensive gameplay rebalance and content mod.</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
+    <Mod>
+      <ID>debe4027-3b07-4fab-a45b-d7acb444973a</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1_WaB2EXFw8Aa-xzIX3eea_tV_dtEqJeR</Link>
+        <Version>1.51</Version>
+        <ReleaseDate>2020-07-28</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/ctPek1l.jpg</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>20000</DownloadSize>
+      </LatestVersion>
+      <Name>New Threat 1.5</Name>
+      <Description>An extensive gameplay rebalance and content mod.</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
+    <Mod>
+      <ID>1c79292b-bbeb-429b-aea6-07b7c825ff86</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/11LDcUMZmgjkBObFmOAoddcjBH3lIAaUj</Link>
+        <Version>1.51</Version>
+        <ReleaseDate>2020-07-28</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/ctPek1l.jpg</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>14000</DownloadSize>
+      </LatestVersion>
+      <Name>New Threat Vanilla Combat</Name>
+      <Description>New Threat mod but with vanilla enemies and character balancing</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
+    <Mod>
+      <ID>0d386420-d581-4ea6-a4cf-5dbe5e6fbaa5</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=17008.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1IXYoK1B75dezh-f9djdr9Zk3Fiw2ESZA</Link>
+        <Version>1.21</Version>
+        <ReleaseDate>2021-01-14</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/MqJ5lGO.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>1440</DownloadSize>
+      </LatestVersion>
+      <Name>True Necrosis</Name>
+      <Description>Challenge Mod: Start with 9999HP/MP but no way to recover it!</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
+    <Mod>
+      <ID>5e2792c8-14a6-4e31-b583-5f38133aa9bb</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15155.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1D_fWLx7dkeR7vZOiltxX8xkANl9UA_vL</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2014-04-18</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/9WXItJa.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>500</DownloadSize>
+      </LatestVersion>
+      <Name>Lv1 Challenge</Name>
+      <Description>Challenge Mod: Beat the game with a Lv.1 Party</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
+    <Mod>
+      <ID>f109d541-9de5-43fc-922f-9d92ed8fb322</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1Pt5AM_Kd9_XgUqBx703PJ3JE1ehd7sAS</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2020-05-24</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/Tx0N5Wp.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>500</DownloadSize>
+      </LatestVersion>
+      <Name>Mouth Texture Replacer</Name>
+      <Description>Removes or replaces the O mouths of default Field Model NPCs</Description>
+      <Category>Field Models</Category>
+      <Tags>
+        <string>Field Models</string>
+      </Tags>
+    </Mod>
+    <Mod>
+      <ID>fd337dbc-5c77-4031-b06e-afadf78ecd2c</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1Vz1uzWSa8xUnH2MG8PQxRbu0FvHBeCAw</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2020-06-25</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/hAESdnj.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>3600</DownloadSize>
+      </LatestVersion>
+      <Name>Battle Model Swaps OG style</Name>
+      <Description>A series of costume/model swaps for battle models using the Original Game style (shaded polygons)</Description>
+      <Category>Battle Models</Category>
+      <Tags>
+        <string>Graphics</string>
+        <string>Battle Models</string>
+      </Tags>
+    </Mod>
+  </Mods>
+</Catalog>
