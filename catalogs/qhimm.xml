@@ -39,20 +39,22 @@
       <Link></Link>
       <LatestVersion>
         <Link>iros://Url/http$motr.7thheaven.rocks/60FPS/NewThreat60FPSAnimations.iro</Link>
-        <Version>1.0</Version>
+        <Version>1.01</Version>
         <ReleaseDate>2022-05-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes>REQUIRES "New Threat 2.0" and "60 FPS Gameplay" mods
   
   Changelog:
-   - 1.0: First release
+   - 1.00: First release
+   - 1.01: 100% match files with "60 FPS Gameplay" mod (Fix crash in temple of ancients boss (uzda))
+           Add "Full 30 FPS" compatibility option with "60 FPS Gameplay" mod
   </ReleaseNotes>
         <DownloadSize>94903</DownloadSize>
       </LatestVersion>
-      <Name>60 FPS Animations for New Threat 2.0</Name>
+      <Name>60/30 FPS Animations for New Threat 2.0</Name>
       <Category>Animations</Category>
-      <Description>Interpolated 60 FPS animations for New Threat 2.0</Description>
+      <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
       <Tags>
         <string>MotR</string>
         <string>60</string>
