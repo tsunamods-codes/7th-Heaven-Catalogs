@@ -1042,21 +1042,21 @@ Not compatible with other Gameplay mods.</Description>
       </Tags>
     </Mod> 
 
- ## OST Remastered ##
+ ## OST Music Remastered ##
     <Mod>
       <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
       <Author>Author Unknown</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/OST Remastered - Author Unknown.iro</Link>
-        <Version>1.01</Version>
+        <Version>1.02</Version>
         <ReleaseDate>2015-02-28</ReleaseDate>
         <PreviewImage>https://i.imgur.com/E3yG6yf.png</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>354493</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>OST Remastered</Name>
+      <Name>OST Music Remastered</Name>
 	  <Category>Media</Category>
       <Description>Remastered versions of the original soundtrack. (If original author can be found message strife98)</Description>
       <Tags>
