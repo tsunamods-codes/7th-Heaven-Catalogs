@@ -1914,8 +1914,7 @@ Battle Avatars Support</Description>
       <Author>Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-	  	<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[Tsunamods].SYW.V5.Worldmap.Textures.V5.01.iro</Link>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Worldmap.Textures.V5.02.7z</Link>
+        	<Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Worldmap.Textures.V5.02.7z</Link>
         <Version>5.02</Version>
         <ReleaseDate>2021-05-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
