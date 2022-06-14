@@ -320,31 +320,6 @@
       </Tags>
    </Mod>
  
- ## Kaldarasha's Cloud Dynamic Weapons ##
- ##  <Mod>
- ##     <ID>63b5b1c5-4e71-4bfb-b318-d2eae78dbefa</ID>
- ##     <Author>Kaldarasha</Author> 
- ##     <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
- ##     <LatestVersion>
- ##       <Link>iros://Url/http$motr.7thheaven.rocks/ChaOS/Cloud-Dynamic-Weapons.7z</Link>
- ##       <Version>1.702</Version>
- ##       <ReleaseDate>2019-05-18</ReleaseDate>
- ##       <CompatibleGameVersions>All</CompatibleGameVersions>
- ##       <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
- ##       <ReleaseNotes/>
- ##       <DownloadSize>16907</DownloadSize>
- ##     </LatestVersion>
- ##     <Name>Cloud Dynamic Weapons For ChaOS</Name>
- ##     <Category>Field Models</Category>
- ##     <Description>Makes the weapon on Clouds back on the fields be his currently equipped weapon.</Description>
- ##     <Tags>
- ##       <string>Kaldarasha</string>
- ##       <string>Field Models</string>
- ##       <string>Dynamic Weapons</string>
- ##       <string>MotR</string>
- ##     </Tags>
- ##  </Mod> 
-
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>4055f4be-1edc-4b40-acef-5a69e41a032c</ID>
