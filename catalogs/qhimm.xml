@@ -1011,7 +1011,7 @@ Not compatible with other Gameplay mods.</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Chibi FMV Replacement</Name>
 	  <Category>Media</Category>
-      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models.</Description>
+      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. (Deprecated. Use Cosmos FMV.)</Description>
       <Tags>
 	  <string>DrLilo</string>
 	  <string>Media</string>
