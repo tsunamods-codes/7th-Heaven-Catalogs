@@ -195,14 +195,13 @@ Changelog:
       <Author>Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[Tsunamods].SYW.V5.Battle.Textures.V5.00.iro</Link>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Battle.Textures.V5.00.7z</Link>
-        <Version>5.0</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Battle.Textures.V5.01.7z</Link>
+        <Version>5.01</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/hz4QfZL.jpg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
-        <DownloadSize>203763</DownloadSize>
+        <DownloadSize>204538</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V5 Battle Textures</Name>
       <Category>Battle Textures</Category>
@@ -404,13 +403,13 @@ Changelog:
       <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Field.Textures.V5.21.7z</Link>
-        <Version>5.21</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Field.Textures.V5.22.7z</Link>
+        <Version>5.22</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/2ddBcgw.jpg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. This pack also upscales all of the field animations. Those animations can cause slowdown on some fields on some computers. If you get slowdown, please disable the "Advanced Texture Animations" option. (double click on this mod and turn off the "Advanced Texture Animations") To get proper Advanced Texture Animations you need to: -Be on the lastest updated 7th Heaven version from here: https://github.com/tsunamods-codes/7th-Heaven/releases. (Scroll down, click "Assets", and grab 7thHeaven-vxxx_Release.zip) -Then go in 7th "Settings/General Settings" and on the bottom-left you'll find the FFNx section, click canary then check for updates, say yes and then go to "Settings/Game Driver Settings, and click "Restore defaults" next to save. -Then go in 7th "Settings/Game Driver - Animated Textures" and set it to ON.</ReleaseNotes>
-        <DownloadSize>2455593</DownloadSize>
+        <DownloadSize>2476101</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V5 Field Textures</Name>
       <Category>Field Textures</Category>
@@ -809,13 +808,13 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-		    <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.61.iro</Link>
-        <Version>6.61</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+		    <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.03.7z</Link>
+        <Version>6.03</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OPPh6or.jpg</PreviewImage>
         <ReleaseNotes>The FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
-        <DownloadSize>1552836</DownloadSize>
+        <DownloadSize>1552831</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V6 Upscaled FMV</Name>
       <Category>Media</Category>
@@ -829,21 +828,45 @@ Not compatible with other Gameplay mods.</Description>
 
 ## Satsuki SYW V5 30FPS Upscaled FMV ##
     <Mod>
-      <ID>50000000-5555-ff75-5775-630000000005</ID>
+      <ID>50000000-5555-ff75-5775-634000000005</ID>
       <Author>Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.36.iro</Link>
-        <Version>6.36</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.37.7z</Link>
+        <Version>6.37</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OPPh6or.jpg</PreviewImage>
         <ReleaseNotes>Those FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled and interpolated at 30fps with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
-        <DownloadSize>1878928</DownloadSize>
+        <DownloadSize>2499197</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V6 30FPS Upscaled FMV</Name>
       <Category>Media</Category>
       <Description>AI upscaled 30fps FMV</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Media</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+	   
+## Satsuki SYW V5 60FPS Upscaled FMV ##
+    <Mod>
+      <ID>50000000-5555-ff75-5775-660000000005</ID>
+      <Author>Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.62.7z</Link>
+        <Version>6.62</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/OPPh6or.jpg</PreviewImage>
+        <ReleaseNotes>Those FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled and interpolated at 60fps with lots of manual tweaks to get an HD experience of the original game design (some artifact are visible).</ReleaseNotes>
+        <DownloadSize>2591811</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] SYW V6 60FPS Upscaled FMV</Name>
+      <Category>Media</Category>
+      <Description>AI upscaled 60fps FMV</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
@@ -1074,14 +1097,13 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Satsuki_Yatoshi, Aavock, Grimmy</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[Tsunamods].SYW.V5.Minigames.Textures.V5.21.iro</Link>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Minigames.Textures.V5.21.7z</Link>
-        <Version>5.21</Version> 
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Minigames.Textures.V5.22.7z</Link>
+        <Version>5.22</Version> 
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/DkwdEJ9.jpg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with some manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
-        <DownloadSize>32927</DownloadSize>
+        <DownloadSize>32887</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V5 Minigame Textures</Name>
       <Category>Minigames</Category>
@@ -1229,14 +1251,13 @@ E.g., Bolt2 = Thundara</Description>
       <Author>Kela51, Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-	  	<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[Tsunamods].SYW.V5.Spell.Textures.V5.00.iro</Link>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Spell.Textures.V5.00.7z</Link>
-        <Version>5.0</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Spell.Textures.V5.01.7z</Link>
+        <Version>5.01</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/UWVyfOD.jpg</PreviewImage>
         <ReleaseNotes>The textures are close to vanilla textures, but done from scratch in HD.</ReleaseNotes>
-        <DownloadSize>506676</DownloadSize>
+        <DownloadSize>503357</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V5 Spell Textures</Name>
       <Category>Spell Textures</Category>
@@ -1507,19 +1528,19 @@ Battle Avatars Support</Description>
       </Tags>
    </Mod>
 
-## Satsuki SYW V5 Menu Fonts and Textures ##
+## Satsuki SYW V5 Menu Fonts and Textures (with credits) ##
     <Mod>
       <ID>50000000-5555-ff75-5775-522000000010</ID>
       <Author>Aavock, Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Menu.and.Fonts.Textures.V5.26.7z</Link>
-        <Version>5.26</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Menu.and.Fonts.Textures.V5.27.7z</Link>
+        <Version>5.27</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/rAUDqt9.jpg</PreviewImage>
         <ReleaseNotes>Those textures are as close as possible as vanilla texture but done from scratch in HD</ReleaseNotes>
-        <DownloadSize>2884</DownloadSize>
+        <DownloadSize>7379</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V5 Menu Fonts and Textures</Name>
       <Category>User Interface</Category>
@@ -1892,13 +1913,13 @@ Battle Avatars Support</Description>
       <Author>Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-        	<Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Worldmap.Textures.V5.02.7z</Link>
-        <Version>5.02</Version>
-        <ReleaseDate>2021-05-05</ReleaseDate>
+        	<Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Worldmap.Textures.V5.03.7z</Link>
+        <Version>5.03</Version>
+        <ReleaseDate>2022-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fbMMGnm.jpg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. The minimap design is from Team avalanche.</ReleaseNotes>
-        <DownloadSize>27028</DownloadSize>
+        <DownloadSize>26515</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW V5 World Textures</Name>
       <Category>World Textures</Category>
