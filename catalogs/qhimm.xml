@@ -1472,8 +1472,8 @@ E.g., Bolt2 = Thundara</Description>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced Stock UI-rel2.7z</Link>
       	  <Link>iros://GDrive/1oP_y8rf1ADmAfKK3DVSyB3DOkezyLKR3</Link>
-        <Version>2.54</Version>
-        <ReleaseDate>2021-08-09</ReleaseDate>
+        <Version>2.56</Version>
+        <ReleaseDate>2022-06-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Version 2.5 Adds Small Battle Avatars support.
@@ -1534,9 +1534,9 @@ Battle Avatars Support</Description>
       <Author>Aavock, Satsuki_Yatoshi</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Menu.and.Fonts.Textures.V5.27.7z</Link>
-        <Version>5.27</Version>
-        <ReleaseDate>2022-06-20</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Menu.and.Fonts.Textures.V5.28.7z</Link>
+        <Version>5.28</Version>
+        <ReleaseDate>2022-06-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/rAUDqt9.jpg</PreviewImage>
         <ReleaseNotes>Those textures are as close as possible as vanilla texture but done from scratch in HD</ReleaseNotes>
