@@ -905,20 +905,19 @@ Not compatible with other Gameplay mods.</Description>
       <ID>2e4c6623-97b9-4d5c-b2f3-b4f24f06a911</ID> 
       <Author>Bonez</Author>
       <Link>https://forums.qhimm.com/index.php?topic=20475.0</Link>
-      <DonationLink>https://tinyurl.com/56pfft97</DonationLink>
+      <DonationLink>https://cash.app/$wturner859</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.011</Version>
-        <ReleaseDate>2021-07-10</ReleaseDate>
+        <Version>1.1</Version>
+        <ReleaseDate>2022-07-1</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
-        <ReleaseNotes>REQUIRES 7th Heaven 2.3.3+ and FFNx 1.10.1.197+
-  
--Separated fmv audio for use with any video
--Changed battle swirl sound to something closer to original
--Added world map footsteps
--Added mkup FMV sounds (forgotten in last release)
--Adjusted volume of some sounds</ReleaseNotes>
+        <ReleaseNotes>
+-Center battle sfx option
+-Rework volume of all sounds to match originals
+-Highwind worldmap sounds
+-Remove rarely used menu sound sets
+-Various changes/fixes</ReleaseNotes>
         <DownloadSize>358400</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -931,7 +930,7 @@ Not compatible with other Gameplay mods.</Description>
   -Ground-conditional footstep sounds.
   -Updates all video cutscene sound effects.
   -Shuffles sounds so repeating sounds don't sound the same.
-  -8 selectable menu sound sets.
+  -3 selectable menu sound sets.
    </Description>
       <Tags>
         <string>MotR</string>
