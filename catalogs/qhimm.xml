@@ -161,19 +161,19 @@ Changelog:
       </Tags>
     </Mod>
 
-## NinoStyle HD Battle Models ##
+## NinoStyle Battle Models ##
     <Mod>
       <ID>93936eff-acee-42bd-9148-d20506b9d730</ID>
       <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20-%20Battle%20Models.iro</Link>
-        <Version>1.65</Version>
+        <Version>1.66</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>49823</DownloadSize>
+        <DownloadSize>329145</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
@@ -328,12 +328,12 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20-%20Chibi%20Field%20Models.iro</Link>
-        <Version>0.245</Version>
+        <Version>0.251</Version>
         <ReleaseDate>2022-05-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>67124</DownloadSize>
+        <DownloadSize>548019</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
@@ -352,12 +352,12 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Field Models/Ninostyle%20-%20HD%20Field%20Models.7z</Link>
-        <Version>1.7</Version>
+        <Version>1.66</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/2UbkNOO.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>29505</DownloadSize>
+        <DownloadSize>39534</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
       <Category>Field Models</Category>
@@ -378,12 +378,12 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Field Models/Field%20Models%20-%20Non%20Player%20Characters%20NinoStyle%20compatible.7z</Link>
-        <Version>1.41</Version>
+        <Version>1.65</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/EUEKw0h.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>51360</DownloadSize>
+        <DownloadSize>54397</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle NPC Field Models</Name>
       <Category>Field Models</Category>
@@ -1145,7 +1145,7 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Minigames/Ninostyle%20-%20minigames.iro</Link>
-        <Version>0.1</Version>
+        <Version>1.66</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/i1TCjN6.png</PreviewImage>
@@ -1859,7 +1859,7 @@ Battle Avatars Support</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldModels/NinoStyle%20-%20Vehicles.iro</Link>
-        <Version>1.63</Version>
+        <Version>1.66</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/RvySqoE.png</PreviewImage>
@@ -1885,12 +1885,12 @@ Battle Avatars Support</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldModels/Ninostyle%20-%20World%20Models.iro</Link>
-        <Version>1.501</Version>
+        <Version>1.66</Version>
         <ReleaseDate>2022-04-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4ZfwtBk.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>28562</DownloadSize>
+        <DownloadSize>28604</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle World Models</Name>
       <Category>World Models</Category>
