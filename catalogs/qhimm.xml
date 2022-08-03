@@ -112,7 +112,7 @@ Changelog:
       </Tags>
     </Mod>
 	
-	## Kaldarasha's Rise of the Black Wolf ##
+## Kaldarasha's Rise of the Black Wolf ##
     <Mod>
       <ID>b6629e6b-4a35-4ea7-b837-ad9655d01cfe</ID>
       <Author>Kaldarasha</Author> 
@@ -167,13 +167,13 @@ Changelog:
       <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20-%20Battle%20Models.iro</Link>
-        <Version>1.65</Version>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
+        <Version>22.0802</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>329145</DownloadSize>
+        <DownloadSize>51895</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
@@ -327,13 +327,13 @@ Changelog:
       <Author>Ninostyle</Author> 
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20-%20Chibi%20Field%20Models.iro</Link>
-        <Version>0.251</Version>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
+        <Version>22.0802</Version>
         <ReleaseDate>2022-05-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>548019</DownloadSize>
+        <DownloadSize>91625</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
@@ -351,13 +351,13 @@ Changelog:
       <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Field Models/Ninostyle%20-%20HD%20Field%20Models.7z</Link>
-        <Version>1.71</Version>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20HD.7z</Link>
+        <Version>22.0802</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/2UbkNOO.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>39534</DownloadSize>
+        <DownloadSize>113059</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
       <Category>Field Models</Category>
@@ -366,30 +366,6 @@ Changelog:
         <string>NinoStyle</string>
         <string>Tsunamix</string>
         <string>Shiniboy</string>
-        <string>Field Models</string>
-        <string>MotR</string>
-      </Tags>
-   </Mod>
- 
-## NinoStyle NPC Field Models ##
-    <Mod>
-      <ID>e6843553-c42b-44d2-9199-48d198cf3313</ID>
-      <Author>NiNoStyle</Author> 
-      <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Field Models/Field%20Models%20-%20Non%20Player%20Characters%20NinoStyle%20compatible.7z</Link>
-        <Version>1.41</Version>
-        <ReleaseDate>2021-01-04</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/EUEKw0h.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>54397</DownloadSize>
-      </LatestVersion>
-      <Name>NinoStyle NPC Field Models</Name>
-      <Category>Field Models</Category>
-      <Description>A version of 'Field Models - Non-Player Characters' that is compatible with NinoStyle's Highly Detailed Models.</Description>
-      <Tags>
-        <string>NinoStyle</string>
         <string>Field Models</string>
         <string>MotR</string>
       </Tags>
@@ -1137,30 +1113,6 @@ Not compatible with other Gameplay mods.</Description>
 	  <string>Textures</string>
       </Tags>
     </Mod> 
-
-## NinoStyle Minigames ##
-    <Mod>
-      <ID>6932f604-96dd-4158-ac8d-c1523f77d127</ID>
-      <Author>NiNoStyle</Author> 
-      <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Minigames/Ninostyle%20-%20minigames.iro</Link>
-        <Version>0.1</Version>
-        <ReleaseDate>2021-01-04</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/i1TCjN6.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>7922</DownloadSize>
-      </LatestVersion>
-      <Name>NinoStyle Bike Minigame Models</Name>
-      <Category>Minigames</Category>
-      <Description>bike and truck models.</Description>
-      <Tags>
-        <string>NinoStyle</string>
-        <string>Minigames</string>
-        <string>MotR</string>
-      </Tags>
-   </Mod>
  
 ## MISCELLANEOUS ## 
 
@@ -1848,62 +1800,8 @@ Battle Avatars Support</Description>
 	  <string>User Interface</string>
 	  <string>Zendar</string>
       </Tags>
-    </Mod>
+    </Mod>	   
 
-## WORLD MODELS ##
-
-## NinoStyle Vehicle Models ##
-    <Mod>
-      <ID>66b1c2d2-a5ee-436e-8bba-3930a0e709ad</ID>
-      <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
-      <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldModels/NinoStyle%20-%20Vehicles.iro</Link>
-        <Version>1.63</Version>
-        <ReleaseDate>2021-01-04</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/RvySqoE.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>38273</DownloadSize>
-      </LatestVersion>
-      <Name>NinoStyle Vehicle Models</Name>
-      <Category>World Models</Category>
-      <Description>Vehicle Models.</Description>
-      <Tags>
-        <string>NinoStyle</string>
-        <string>Tsunamix</string>
-        <string>Shiniboy</string>
-        <string>World Models</string>
-        <string>MotR</string>
-      </Tags>
-   </Mod>
-
-## NinoStyle World Models ##
-    <Mod>
-      <ID>572513f1-bea7-4c33-85dd-a43290de841b</ID>
-      <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
-      <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldModels/Ninostyle%20-%20World%20Models.iro</Link>
-        <Version>1.501</Version>
-        <ReleaseDate>2022-04-22</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/4ZfwtBk.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>28604</DownloadSize>
-      </LatestVersion>
-      <Name>NinoStyle World Models</Name>
-      <Category>World Models</Category>
-      <Description>World Character Models.</Description>
-      <Tags>
-        <string>NinoStyle</string>
-        <string>Tsunamix</string>
-        <string>Shiniboy</string>
-        <string>World Models</string>
-        <string>MotR</string>
-      </Tags>
-   </Mod>
- 
 ## WORLD TEXTURES ##
 
 ## Satsuki SYW V5 World Textures ##
