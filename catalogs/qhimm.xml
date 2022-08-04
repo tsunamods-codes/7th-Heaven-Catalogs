@@ -258,7 +258,8 @@ Changelog:
       <MetaVersion>0</MetaVersion>
       <Name>Remako 4k HD Battle Textures</Name>
 	  <Category>Battle Textures</Category>
-      <Description>AI Upscaled Battle Textures by CaptRobau</Description>
+      <Description>AI Upscaled Battle Textures by CaptRobau
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>Remako</string>
 	  <string>Battle</string>
@@ -267,7 +268,7 @@ Changelog:
       </Tags>
     </Mod>
 	
-## Team Avalanche Fields ##
+## [Retexture] HD Battle Scenes ##
     <Mod>
       <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
       <Author>Felix Leonhart, Mago Chocobo, Bloodshot, Team Avalanche</Author>
@@ -413,7 +414,8 @@ Changelog:
       <MetaVersion>0</MetaVersion>
       <Name>Remako 4k HD Field Textures</Name>
 	  <Category>Field Textures</Category>
-      <Description>AI Upscaled Field Textures by CaptRobau</Description>
+      <Description>AI Upscaled Field Textures by CaptRobau
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>Remako</string>
 	  <string>Field</string>
@@ -422,31 +424,6 @@ Changelog:
       </Tags>
     </Mod>
  
- ## Team Avalanche Field Textures ##
-    <Mod>
-      <ID>15b0e094-4c5b-4031-9e9c-991dbd7ae158</ID>
-      <Author>Team Avalanche</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/TeamAvalancheFields.7z</Link>
-        <Version>0.003</Version>
-        <ReleaseDate>2015-02-28</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/qdfP8FO.jpg</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>756000</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Team Avalanche Field Textures</Name>
-	  <Category>Field Textures</Category>
-      <Description>Handmade 3D Field Textures by Team Avalanche</Description>
-      <Tags>
-	  <string>Team Avalanche</string>
-	  <string>Field</string>
-	  <string>Textures</string>
-	  <string>3D</string>
-      </Tags>
-    </Mod>
-	
 ## 3d Remade Field Textures ##
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
@@ -983,7 +960,8 @@ Not compatible with other Gameplay mods.</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Remako HD Movies</Name>
 	  <Category>Media</Category>
-      <Description>Upscaled FMV's by CaptRobau</Description>
+      <Description>Upscaled FMV's by CaptRobau
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>Remako</string>
 	  <string>CaptRobau</string>
@@ -1009,7 +987,8 @@ Not compatible with other Gameplay mods.</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Chibi FMV Replacement</Name>
 	  <Category>Media</Category>
-      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. (Deprecated. Use Cosmos FMV.)</Description>
+      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. 
+(Deprecated. Use Cosmos FMV.)</Description>
       <Tags>
 	  <string>DrLilo</string>
 	  <string>Media</string>
@@ -1870,7 +1849,8 @@ Battle Avatars Support</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Remako HD World Textures</Name>
 	  <Category>World Textures</Category>
-      <Description>AI Upscaled World Textures</Description>
+      <Description>AI Upscaled World Textures
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>AI</string>
 	  <string>World Textures</string>
