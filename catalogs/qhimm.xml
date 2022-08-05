@@ -177,7 +177,7 @@ Changelog:
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
-      <Description>Battle Models.</Description>
+      <Description>Replacement for battle models.</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Tsunamix</string>
@@ -339,7 +339,7 @@ Changelog:
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
-      <Description>NinoStyle Chibi Field Models.</Description>
+      <Description>Replacement for field, world, minigame and vehicle models</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Field Models</string>
@@ -363,7 +363,7 @@ Changelog:
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
       <Category>Field Models</Category>
-      <Description>NinoStyle Character HD Field Models.</Description>
+      <Description>Replacement for field, world, minigame and vehicle models</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Tsunamix</string>
