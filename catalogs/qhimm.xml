@@ -863,16 +863,12 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://cash.app/$wturner859</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2022-07-01</ReleaseDate>
+        <Version>1.101</Version>
+        <ReleaseDate>2022-08-09</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
--Center battle sfx option
--Rework volume of all sounds to match originals
--Highwind worldmap sounds
--Remove rarely used menu sound sets
--Various changes/fixes</ReleaseNotes>
+-Fix highwind deck ambience</ReleaseNotes>
         <DownloadSize>358400</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
