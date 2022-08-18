@@ -860,15 +860,15 @@ Not compatible with other Gameplay mods.</Description>
       <ID>2e4c6623-97b9-4d5c-b2f3-b4f24f06a911</ID> 
       <Author>Bonez</Author>
       <Link>https://forums.qhimm.com/index.php?topic=20475.0</Link>
-      <DonationLink>https://cash.app/$wturner859</DonationLink>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.101</Version>
-        <ReleaseDate>2022-08-09</ReleaseDate>
+        <Version>1.102</Version>
+        <ReleaseDate>2022-08-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
--Fix highwind deck ambience</ReleaseNotes>
+-Fix issue of CM wrongly changing audio sample rate</ReleaseNotes>
         <DownloadSize>358400</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -1127,6 +1127,7 @@ Not compatible with other Gameplay mods.</Description>
       <ID>8c1020f8-562c-4a1e-87ab-dd328c0aa567</ID>
       <Author>Bonez</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=19884.0</Link>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
 		<Version>1.61</Version>
@@ -1513,6 +1514,7 @@ Battle Avatars Support</Description>
       <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID> 
       <Author>Bonez, Lap Pun Cheung</Author>
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
         <Version>1.05</Version>
