@@ -168,16 +168,16 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.0802</Version>
+        <Version>22.0815</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Add Ansgar's Busterizer</ReleaseNotes>
         <DownloadSize>51895</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
-      <Description>Battle Models.</Description>
+      <Description>Replacement for battle models.</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Tsunamix</string>
@@ -258,7 +258,8 @@ Changelog:
       <MetaVersion>0</MetaVersion>
       <Name>Remako 4k HD Battle Textures</Name>
 	  <Category>Battle Textures</Category>
-      <Description>AI Upscaled Battle Textures by CaptRobau</Description>
+      <Description>AI Upscaled Battle Textures by CaptRobau
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>Remako</string>
 	  <string>Battle</string>
@@ -267,7 +268,7 @@ Changelog:
       </Tags>
     </Mod>
 	
-## Team Avalanche Fields ##
+## [Retexture] HD Battle Scenes ##
     <Mod>
       <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
       <Author>Felix Leonhart, Mago Chocobo, Bloodshot, Team Avalanche</Author>
@@ -328,16 +329,18 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>22.0802</Version>
+        <Version>22.0806</Version>
         <ReleaseDate>2022-05-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
-        <ReleaseNotes/>
+         <ReleaseNotes>Add Dynamic Weapons (BETA)
+  Add Remake Tifa Outfit
+  Chocobo Sage</ReleaseNotes>
         <DownloadSize>91625</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
-      <Description>NinoStyle Chibi Field Models.</Description>
+      <Description>Replacement for field, world, minigame and vehicle models</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Field Models</string>
@@ -361,7 +364,7 @@ Changelog:
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
       <Category>Field Models</Category>
-      <Description>NinoStyle Character HD Field Models.</Description>
+      <Description>Replacement for field, world, minigame and vehicle models</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Tsunamix</string>
@@ -413,7 +416,8 @@ Changelog:
       <MetaVersion>0</MetaVersion>
       <Name>Remako 4k HD Field Textures</Name>
 	  <Category>Field Textures</Category>
-      <Description>AI Upscaled Field Textures by CaptRobau</Description>
+      <Description>AI Upscaled Field Textures by CaptRobau
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>Remako</string>
 	  <string>Field</string>
@@ -422,31 +426,6 @@ Changelog:
       </Tags>
     </Mod>
  
- ## Team Avalanche Field Textures ##
-    <Mod>
-      <ID>15b0e094-4c5b-4031-9e9c-991dbd7ae158</ID>
-      <Author>Team Avalanche</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/TeamAvalancheFields.7z</Link>
-        <Version>0.003</Version>
-        <ReleaseDate>2015-02-28</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/qdfP8FO.jpg</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>756000</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Team Avalanche Field Textures</Name>
-	  <Category>Field Textures</Category>
-      <Description>Handmade 3D Field Textures by Team Avalanche</Description>
-      <Tags>
-	  <string>Team Avalanche</string>
-	  <string>Field</string>
-	  <string>Textures</string>
-	  <string>3D</string>
-      </Tags>
-    </Mod>
-	
 ## 3d Remade Field Textures ##
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
@@ -881,20 +860,17 @@ Not compatible with other Gameplay mods.</Description>
       <ID>2e4c6623-97b9-4d5c-b2f3-b4f24f06a911</ID> 
       <Author>Bonez</Author>
       <Link>https://forums.qhimm.com/index.php?topic=20475.0</Link>
-      <DonationLink>https://cash.app/$wturner859</DonationLink>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2022-07-01</ReleaseDate>
+        <Version>1.103</Version>
+        <ReleaseDate>2022-08-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
--Center battle sfx option
--Rework volume of all sounds to match originals
--Highwind worldmap sounds
--Remove rarely used menu sound sets
--Various changes/fixes</ReleaseNotes>
-        <DownloadSize>358400</DownloadSize>
+-Fix issue of CM wrongly changing audio sample rate
+-Fix vanilla ui sounds cut off to early</ReleaseNotes>
+        <DownloadSize>346000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
       <Category>Media</Category>
@@ -983,7 +959,8 @@ Not compatible with other Gameplay mods.</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Remako HD Movies</Name>
 	  <Category>Media</Category>
-      <Description>Upscaled FMV's by CaptRobau</Description>
+      <Description>Upscaled FMV's by CaptRobau
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>Remako</string>
 	  <string>CaptRobau</string>
@@ -1009,7 +986,8 @@ Not compatible with other Gameplay mods.</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Chibi FMV Replacement</Name>
 	  <Category>Media</Category>
-      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. (Deprecated. Use Cosmos FMV.)</Description>
+      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. 
+(Deprecated. Use Cosmos FMV.)</Description>
       <Tags>
 	  <string>DrLilo</string>
 	  <string>Media</string>
@@ -1150,6 +1128,7 @@ Not compatible with other Gameplay mods.</Description>
       <ID>8c1020f8-562c-4a1e-87ab-dd328c0aa567</ID>
       <Author>Bonez</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=19884.0</Link>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
 		<Version>1.61</Version>
@@ -1536,13 +1515,14 @@ Battle Avatars Support</Description>
       <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID> 
       <Author>Bonez, Lap Pun Cheung</Author>
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
-        <Version>1.03</Version>
+        <Version>1.05</Version>
         <ReleaseDate>2021-05-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://imgur.com/keudmWY.png</PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Added glow to active battle avatar</ReleaseNotes>
         <DownloadSize>154489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
@@ -1800,6 +1780,29 @@ Battle Avatars Support</Description>
 	  <string>User Interface</string>
 	  <string>Zendar</string>
       </Tags>
+    </Mod>
+	   
+ ## Compact Battle UI ##
+    <Mod>
+      <ID>b24eb637-79e1-44a6-b06a-1003a23e5048</ID>
+      <Author/>
+      <Link/>
+      <LatestVersion>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/cbui.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2020-04-30</ReleaseDate>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes>Incompatible with ESUI.</ReleaseNotes>
+        <DownloadSize>820</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Compact Battle UI</Name>
+	  <Category>User Interface</Category>
+      <Description>Compact Battle UI for SYW/Vanilla Fonts</Description>
+      <Tags>
+	  <string>Battle</string>
+	  <string>User Interface</string>
+      </Tags>
     </Mod>	   
 
 ## WORLD TEXTURES ##
@@ -1870,7 +1873,8 @@ Battle Avatars Support</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Remako HD World Textures</Name>
 	  <Category>World Textures</Category>
-      <Description>AI Upscaled World Textures</Description>
+      <Description>AI Upscaled World Textures
+	    (Deprecated. Use SYW5)</Description>
       <Tags>
 	  <string>AI</string>
 	  <string>World Textures</string>
