@@ -432,17 +432,22 @@ Changelog:
       <Author>Jusete, Team Avalanche, SoulEvan</Author>
       <Link>https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/</Link>
       <LatestVersion>
-		<Link>iros://Url/https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/7th_Heaven_All_100_Field_Scenes_V0.15_DDS-Files.iro</Link>
-        <Version>0.15</Version>
-        <ReleaseDate>2022-01-22</ReleaseDate>
+		<Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes_0.151.iro.7z</Link>
+        <Version>0.151</Version>
+        <ReleaseDate>2022-08-25</ReleaseDate>
         <PreviewImage>https://i.imgur.com/wT1mFDC.png</PreviewImage>
-        <ReleaseNotes>To check for updates, you have to visit the page in the link area and view the download area of this site.</ReleaseNotes>
-        <DownloadSize>1747928</DownloadSize>
+        <ReleaseNotes>  
+  -Import mds5_2
+  -Fix issue on nmkin_1
+  -Import md8brdg2
+  -Import mds5_3
+  -Import cargoin</ReleaseNotes>
+        <DownloadSize>730000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Final Fantasy VII HD Field Scenes</Name>
 	  <Category>Field Textures</Category>
-      <Description>This package contains all currently available HD Backgrounds for Final Fantasy VII</Description>
+      <Description>This package contains all currently available (14.2%) HD Backgrounds for Final Fantasy VII</Description>
       <Tags>
 	  <string>Team Avalanche</string>
 	  <string>Field</string>
