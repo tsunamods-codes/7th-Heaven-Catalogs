@@ -329,11 +329,11 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>22.0829</Version>
+        <Version>22.0830</Version>
         <ReleaseDate>2022-05-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
-         <ReleaseNotes></ReleaseNotes>
+         <ReleaseNotes>Add L@zar0's Upgrades</ReleaseNotes>
         <DownloadSize>91625</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
