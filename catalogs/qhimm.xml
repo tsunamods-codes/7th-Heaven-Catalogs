@@ -168,11 +168,11 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.0815</Version>
+        <Version>22.0829</Version>
         <ReleaseDate>2021-01-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
-        <ReleaseNotes>Add Ansgar's Busterizer</ReleaseNotes>
+        <ReleaseNotes>Add Bottomswell</ReleaseNotes>
         <DownloadSize>51895</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
@@ -329,13 +329,11 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>22.0806</Version>
+        <Version>22.0829</Version>
         <ReleaseDate>2022-05-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
-         <ReleaseNotes>Add Dynamic Weapons (BETA)
-  Add Remake Tifa Outfit
-  Chocobo Sage</ReleaseNotes>
+         <ReleaseNotes></ReleaseNotes>
         <DownloadSize>91625</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
