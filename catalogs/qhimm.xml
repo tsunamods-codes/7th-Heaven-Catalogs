@@ -1521,11 +1521,11 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
-        <Version>1.05</Version>
-        <ReleaseDate>2021-05-25</ReleaseDate>
+        <Version>1.06</Version>
+        <ReleaseDate>2022-09-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://imgur.com/keudmWY.png</PreviewImage>
-        <ReleaseNotes>Added glow to active battle avatar</ReleaseNotes>
+        <ReleaseNotes>Added 2 avatar variants</ReleaseNotes>
         <DownloadSize>154489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
