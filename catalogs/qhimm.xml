@@ -1521,12 +1521,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
-        <Version>1.07</Version>
-        <ReleaseDate>2022-09-02</ReleaseDate>
+        <Version>1.08</Version>
+        <ReleaseDate>2022-09-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://imgur.com/keudmWY.png</PreviewImage>
-        <ReleaseNotes>Added 3 avatar variants</ReleaseNotes>
-        <DownloadSize>154489</DownloadSize>
+        <ReleaseNotes>Added 4 avatar variants
+	      Added Full ESUI Theme</ReleaseNotes>
+        <DownloadSize>350489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
@@ -1535,7 +1536,7 @@ Battle Avatars Support</Description>
   New start menu background featuring art from Lap Pun Cheung.
   New game over screen featuring art from Lap Pun Cheung.
   Original Tetsuya Nomura portrait-style character avatars.
-  New ESUI menu border bars.
+  Full ESUI Theme.
   Dialogue/Battle Menu Avatars.
   </Description>
       <Tags>
