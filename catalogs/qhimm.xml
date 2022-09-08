@@ -39,7 +39,6 @@ Changelog:
       <Category>Animations</Category>
       <Description>Interpolates all 3D model animations (battle character models, battle enemy models, field character models, ...) except world character models (unnecessary), chocobo mode models, submarine mode models and highway mode models.</Description>
       <Tags>
-        <string>MotR</string>
         <string>60</string>
         <string>fps</string>
         <string>Animations</string>
@@ -73,7 +72,6 @@ Changelog:
       <Category>Animations</Category>
       <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
       <Tags>
-        <string>MotR</string>
         <string>60</string>
         <string>fps</string>
         <string>Animations</string>
@@ -103,7 +101,6 @@ Changelog:
       <Category>Battle Models</Category>
       <Description>This mod makes your darkest nightmares come true. The Barret cells have spread to everyone in the Final Fantasy VII universe, and have gained the appearance of Barret.</Description>
       <Tags>
-        <string>MotR</string>
         <string>Models</string>
 		<string>UpRisen</string>
         <string>Sega Chief</string>
@@ -132,7 +129,6 @@ Changelog:
       <Tags>
         <string>Kaldarasha</string>
         <string>Battle Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 	
@@ -155,7 +151,6 @@ Changelog:
       <Category>Battle Models</Category>
       <Description>A group of cmh175's Battle Models</Description>
       <Tags>
-        <string>MotR</string>
         <string>Battle Models</string>
         <string>CMH175</string>
       </Tags>
@@ -168,12 +163,12 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.0829</Version>
-        <ReleaseDate>2021-01-04</ReleaseDate>
+        <Version>22.0908</Version>
+        <ReleaseDate>2022-09-08</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
         <ReleaseNotes>Add Bottomswell</ReleaseNotes>
-        <DownloadSize>51895</DownloadSize>
+        <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
@@ -183,7 +178,6 @@ Changelog:
         <string>Tsunamix</string>
         <string>Shiniboy</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -209,7 +203,6 @@ Changelog:
       <Tags>
         <string>Satsuki</string>
         <string>Battle Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -232,7 +225,6 @@ Changelog:
       <Category>Battle Textures</Category>
       <Description>High resolution battle fields</Description>
       <Tags>
-        <string>MotR</string>
         <string>Avalanche</string>
         <string>Tsunamods</string>
         <string>Battle Fields</string>
@@ -318,14 +310,13 @@ Changelog:
       <Tags>
         <string>Kaldarasha</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e2</ID>
-      <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
+      <Author>Ninostyle + L@zar0 + Tsunamix + Shiniboy</Author> 
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
@@ -334,7 +325,7 @@ Changelog:
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
          <ReleaseNotes>Update L@zar0's Upgrades</ReleaseNotes>
-        <DownloadSize>91625</DownloadSize>
+        <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
@@ -342,7 +333,6 @@ Changelog:
       <Tags>
         <string>NinoStyle</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -368,7 +358,6 @@ Changelog:
         <string>Tsunamix</string>
         <string>Shiniboy</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -394,7 +383,6 @@ Changelog:
       <Tags>
         <string>Satsuki</string>
         <string>Field Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
@@ -479,7 +467,6 @@ Adds mini avatar's to game dialog.
 Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Chrysalis</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -672,7 +659,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>A group of cmh175's HQ FMV's</Description>
       <Tags>
-        <string>MotR</string>
         <string>FMV</string>
         <string>CMH175</string>
       </Tags>
@@ -697,7 +683,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
       <Tags>
-        <string>MotR</string>
         <string>FMV</string>
         <string>Cosmos</string>
         <string>Satsuki</string>
@@ -725,7 +710,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
       <Tags>
-        <string>MotR</string>
         <string>FMV</string>
         <string>Cosmos</string>
         <string>Satsuki</string>
@@ -780,7 +764,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -804,7 +787,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 	   
@@ -828,7 +810,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -888,11 +869,11 @@ Not compatible with other Gameplay mods.</Description>
   -3 selectable menu sound sets.
    </Description>
       <Tags>
-        <string>MotR</string>
         <string>Bonez</string>
         <string>Tsunamods</string>
-		<string>Media</string>
-		<string>Sound</string>
+	<string>Media</string>
+	<string>Sound</string>
+	<string>sfx</string>
       </Tags>
     </Mod>
 
@@ -914,7 +895,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>Alternate Soundtrack</Description>
       <Tags>
-        <string>MotR</string>
         <string>Arranged</string>
         <string>Soundtrack</string>
         <string>Tsunamix</string>
@@ -1067,7 +1047,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Minigame Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1122,7 +1101,6 @@ Not compatible with other Gameplay mods.</Description>
 -Press = to toggle borderless fullscreen. (Set your desired resolution in Game Driver Settings first!)</Description>
       <Tags>
         <string>Unab0mb</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1146,9 +1124,9 @@ Not compatible with other Gameplay mods.</Description>
       <Description>Updates spell names to official names used in modern Final Fantasy games and improves spell/item info.
 E.g., Bolt2 = Thundara</Description>
       <Tags>
-        <string>Bonez'</string>
+        <string>Bonez</string>
+	<string>tsunamods</string>
         <string>Miscellaneous</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
@@ -1198,7 +1176,6 @@ E.g., Bolt2 = Thundara</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Spell Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
@@ -1392,7 +1369,6 @@ E.g., Bolt2 = Thundara</Description>
       <Tags>
         <string>Chrysalis</string>
         <string>Fewtch</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1422,7 +1398,6 @@ Choice of Icons
 Controller Icons
 Battle Avatars Support</Description>
       <Tags>
-        <string>MotR</string>
         <string>Menu</string>
         <string>Chrysalis</string>
         <string>ChrisC79UK</string>
@@ -1457,7 +1432,6 @@ Battle Avatars Support</Description>
       <Tags>
         <string>AxlRose</string>
         <string>User Interface</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1481,7 +1455,6 @@ Battle Avatars Support</Description>
       <Tags>
         <string>Satsuki</string>
         <string>User Interface</string>
-        <string>MotR</string>
         <string>Font</string>
       </Tags>
    </Mod>
@@ -1504,9 +1477,6 @@ Battle Avatars Support</Description>
       <Category>User Interface</Category>
       <Description>Multiple choice avatars</Description>
       <Tags>
-        <string>MotR</string>
-        <string>Arranged</string>
-        <string>Soundtrack</string>
         <string>Tsunamix</string>
         <string>TheWez1981</string>
         <string>Tsunamods</string>
@@ -1540,10 +1510,9 @@ Battle Avatars Support</Description>
   Dialogue/Battle Menu Avatars.
   </Description>
       <Tags>
-        <string>MotR</string>
         <string>Bonez</string>
         <string>Tsunamods</string>
-		<string>User Interface</string>
+	<string>User Interface</string>
       </Tags>
     </Mod>
 
@@ -1831,7 +1800,6 @@ Battle Avatars Support</Description>
       <Tags>
         <string>Satsuki</string>
         <string>World Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
