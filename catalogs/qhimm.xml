@@ -743,6 +743,34 @@ Not compatible with other Gameplay mods.</Description>
         <string>Media</string>
       </Tags>
     </Mod>
+	   
+## Deet's XG Music
+    <Mod>
+      <ID>d87f1f00-2a1f-4122-a5fa-0ee68d19d329</ID>
+      <Author>Dte102</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=20005.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/Media/DEET%27S%20XG%20MUSIC.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2020-05-26</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/qWeaJro.png</PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+      <DownloadSize>400000</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Deet's XG Music</Name>
+      <Description>Yamaha S-YXG50 softsynth</Description>
+      <Category>Media</Category>
+      <Tags>
+        <string>deet</string>
+        <string>dte102</string>
+        <string>Music</string>
+        <string>Media</string>
+	<string>yamaha</string>
+	<string>xg</string>
+      </Tags>
+    </Mod>
 
 ## Satsuki SYW V5 Upscaled FMV ##
     <Mod>
