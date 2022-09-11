@@ -1407,15 +1407,14 @@ E.g., Bolt2 = Thundara</Description>
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
-      <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced Stock UI-rel2.7z</Link>
-      	  <Link>iros://GDrive/1oP_y8rf1ADmAfKK3DVSyB3DOkezyLKR3</Link>
-        <Version>2.56</Version>
+      <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/UserInterface/Tsunamods__Enhanced_Stock_UI_2.561.iro.7z</Link>
+        <Version>2.561</Version>
         <ReleaseDate>2022-06-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Version 2.5 Adds Small Battle Avatars support.
 Read Readme for detailed changelog.</ReleaseNotes>
-        <DownloadSize>37928</DownloadSize>
+        <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
       <Category>User Interface</Category>
@@ -1519,13 +1518,14 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
-        <Version>1.095</Version>
-        <ReleaseDate>2022-09-07</ReleaseDate>
+        <Version>2.0</Version>
+        <ReleaseDate>2022-09-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
-        <ReleaseNotes>Added 4 avatar variants
+        <ReleaseNotes>Added 6 avatar variants
+		Added 1 battle avatar variant
 	      Added Full ESUI Theme</ReleaseNotes>
-        <DownloadSize>250489</DownloadSize>
+        <DownloadSize>277489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
@@ -1534,8 +1534,8 @@ Battle Avatars Support</Description>
   New start menu background featuring art from Lap Pun Cheung.
   New game over screen featuring art from Lap Pun Cheung.
   Original Tetsuya Nomura portrait-style character avatars.
-  Full ESUI Theme.
   Dialogue/Battle Menu Avatars.
+  Full ESUI Theme.
   </Description>
       <Tags>
         <string>Bonez</string>
