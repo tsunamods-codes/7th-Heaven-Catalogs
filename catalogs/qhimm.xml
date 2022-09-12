@@ -1714,18 +1714,18 @@ Battle Avatars Support</Description>
  ## wictoriously Avatars ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc812</ID>
-      <Author>wictoriously</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Author>Wictoriously, Reiletuag</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/wictoriously.7z</Link>
-        <Version>1.0</Version>
+        <Version>2.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/v5Bo8Pl.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>8520</DownloadSize>
+        <PreviewImage>https://i.imgur.com/a/Ts7aNbX.png</PreviewImage>
+        <ReleaseNotes>Added V2 ESUI Thinnest</ReleaseNotes>
+        <DownloadSize>23000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>wictoriously Avatars</Name>
+      <Name>Wictoriously Avatars</Name>
 	  <Category>User Interface</Category>
       <Description>Multple custom avatar choices by wictoriously</Description>
       <Tags>
