@@ -451,7 +451,7 @@ Changelog:
       <Author>Chrysalis</Author> 
       <Link>https://forums.qhimm.com/</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm@7thheaven.rocks/Catalog%204.0/UserInterface/ESUI_Controller_Addon_1.101.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/UserInterface/ESUI_Controller_Addon_1.101.iro</Link>
 		<Version>1.101</Version>
         <ReleaseDate>2022-09-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
