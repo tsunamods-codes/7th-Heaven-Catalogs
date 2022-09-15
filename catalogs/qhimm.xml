@@ -451,10 +451,9 @@ Changelog:
       <Author>Chrysalis</Author> 
       <Link>https://forums.qhimm.com/</Link>
       <LatestVersion>
-        <Link>iros://Url/http$chris.7thheaven.rocks/ESUI-Controller-Addon.7z</Link>
-        <Link>iros://GDrive/1H-5RJmUsqVwIqmBDNpVZAV73PLSbhwq5</Link>
-		<Version>1.10</Version>
-        <ReleaseDate>2021-07-06</ReleaseDate>
+        <Link>iros://Url/http$qhimm@7thheaven.rocks/Catalog%204.0/UserInterface/ESUI_Controller_Addon_1.101.iro</Link>
+		<Version>1.101</Version>
+        <ReleaseDate>2022-09-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/taztZvt.png</PreviewImage>
         <ReleaseNotes/>
@@ -1407,9 +1406,9 @@ E.g., Bolt2 = Thundara</Description>
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
-      <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/UserInterface/Tsunamods__Enhanced_Stock_UI_2.561.iro.7z</Link>
-        <Version>2.561</Version>
-        <ReleaseDate>2022-06-21</ReleaseDate>
+      <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/UserInterface/Tsunamods__Enhanced_Stock_UI_2.562.iro.7z</Link>
+        <Version>2.562</Version>
+        <ReleaseDate>2022-09-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Version 2.5 Adds Small Battle Avatars support.
@@ -1518,16 +1517,19 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.01</Version>
-        <ReleaseDate>2022-09-13</ReleaseDate>
+        <Version>2.1</Version>
+        <ReleaseDate>2022-09-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>Added 6 avatar variants
-		Added 1 battle avatar variant
-	      Added Full ESUI Theme
-	        Fix text spacing when not using battle avatars
-  various tweaks/changes</ReleaseNotes>
-        <DownloadSize>121489</DownloadSize>
+Added 1 new battle avatar variant
+ESUI Theme
+Fix text spacing when not using battle avatars
+Fix field cursor position
+Built in required ESUI components
+Built in required Controller Addon components
+various fixes and changes</ReleaseNotes>
+        <DownloadSize>159489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
