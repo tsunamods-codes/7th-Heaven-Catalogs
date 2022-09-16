@@ -169,11 +169,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.0908</Version>
-        <ReleaseDate>2022-09-08</ReleaseDate>
+        <Version>22.0916</Version>
+        <ReleaseDate>2022-09-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
-        <ReleaseNotes>Add Bottomswell</ReleaseNotes>
+        <ReleaseNotes>Added icaa Battle model</ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
@@ -1523,8 +1523,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.1</Version>
-        <ReleaseDate>2022-09-15</ReleaseDate>
+        <Version>2.101</Version>
+        <ReleaseDate>2022-09-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>Added 6 avatar variants
@@ -1534,7 +1534,8 @@ Fix text spacing when not using battle avatars
 Fix field cursor position
 Built in required ESUI components
 Built in required Controller Addon components
-various fixes and changes</ReleaseNotes>
+various fixes and changes
+Add battle bar artifact fix toggle</ReleaseNotes>
         <DownloadSize>159489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
