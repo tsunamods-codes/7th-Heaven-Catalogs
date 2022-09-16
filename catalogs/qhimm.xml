@@ -10,9 +10,9 @@
       <Author>Vertex2995, Obesebear, Kaldarasha</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Animations/60%20FPS%20Gameplay.iro</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2022-04-03</ReleaseDate>
+        <Link>iros://Url/http$motr.7thheaven.rocks/60FPS/60%20FPS%20Gameplay.iro</Link>
+        <Version>1.12</Version>
+        <ReleaseDate>2022-09-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4T7hFii.png</PreviewImage>
         <ReleaseNotes>REQUIRES 7th Heaven 2.3.3+ and FFNx 1.11.0+
@@ -32,12 +32,18 @@ Changelog:
               Add optional fix for FIELD mode 60 FPS animation glitches (Look at README file)
    - 1.11: Add advanced animation option for FIELD mode (e.g. ChaOS, NinostyleHD)
               Small fix of battle animation files (Godo: hada)
+   - 1.12: Small fix for char animation FSEB.a (set frame 59 equal to frame 58). Necessary to avoid visual glitch.
+              Fix 60 fps counter speed of lock inside Nibelheim Manor (field map: sinin2_1)
           </ReleaseNotes>
         <DownloadSize>96999</DownloadSize>
       </LatestVersion>
-      <Name>60 FPS Gameplay</Name>
+      <Name>60/30 FPS Gameplay</Name>
       <Category>Animations</Category>
-      <Description>Interpolates all 3D model animations (battle character models, battle enemy models, field character models, ...) except world character models (unnecessary), chocobo mode models, submarine mode models and highway mode models.</Description>
+      <Description>This mod allows the game to run on a higher FPS than the original. It contains two possible modes: 
+  - Full 60 FPS: This bumps up the FPS to 60 for battle, field, and world mode.
+  - Full 30 FPS: This bumps up the FPS to 30 for battle mode
+The mod contains 3D model interpolated animations (battle character models, battle enemy models, field character models, ...) except world character models (unnecessary), chocobo mode models, submarine mode models and highway mode models.
+      </Description>
       <Tags>
         <string>60</string>
         <string>fps</string>
