@@ -457,9 +457,9 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Author>Chrysalis</Author> 
       <Link>https://forums.qhimm.com/</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/UserInterface/ESUI_Controller_Addon_1.101.iro</Link>
-		<Version>1.101</Version>
-        <ReleaseDate>2022-09-15</ReleaseDate>
+        <Link>iros://Url/http$chris.7thheaven.rocks/ESUI-Controller-Addon.7z</Link>
+	<Version>1.102</Version>
+        <ReleaseDate>2022-09-17</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/taztZvt.png</PreviewImage>
         <ReleaseNotes/>
