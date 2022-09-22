@@ -1523,19 +1523,18 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.101</Version>
-        <ReleaseDate>2022-09-16</ReleaseDate>
+        <Version>2.11</Version>
+        <ReleaseDate>2022-09-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>Added 6 avatar variants
 Added 1 new battle avatar variant
-ESUI Theme
-Fix text spacing when not using battle avatars
-Fix field cursor position
+Added full ESUI theme
 Built in required ESUI components
 Built in required Controller Addon components
-various fixes and changes
-Add battle bar artifact fix toggle</ReleaseNotes>
+Add battle bar artifact fix toggle
+Add custom battle view
+Various fixes and changes</ReleaseNotes>
         <DownloadSize>159489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
