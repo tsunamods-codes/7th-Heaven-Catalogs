@@ -1381,6 +1381,61 @@ E.g., Bolt2 = Thundara</Description>
  
 ## USER INTERFACE ##
 
+## KACTUAR - Controller and Keyboard Icons ##
+    <Mod>
+      <ID>3cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
+      <Author>KWRRK</Author> 
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1vA2aPo1m_4G3sW7_BhqpNmfYjyQqzqgE</Link>
+        <Version>1</Version>
+        <ReleaseDate>2022-09-22</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/HctX0kL.png</PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>339000</DownloadSize>
+      </LatestVersion>
+      <Name>KACTUAR - Controller and Keyboard Icons</Name>
+      <Category>User Interface</Category>
+      <Description>Adds controller or keyboard icons to the default FF7 interface. Made to be compatible with SYW Menu and Fonts, New Threat, Echo-S.</Description>
+      <Tags>
+        <string>KWRRK</string>
+        <string>User Interface</string>
+        <string>Font</string>
+        <string>Controller</string>
+        <string>Keyboard</string>	      
+      </Tags>
+   </Mod>	   
+	
+## IFRIT - Default FF7 Interface Tweaks ##
+    <Mod>
+      <ID>4cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
+      <Author>KWRRK</Author> 
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1rnderXmkOZgekKPtXi5OHGs-Chk0TaiA</Link>
+        <Version>2</Version>
+        <ReleaseDate>2022-09-22</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/peqxBHz.png</PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>123000</DownloadSize>
+      </LatestVersion>
+      <Name>IFRIT - Default FF7 Interface Tweaks</Name>
+      <Category>User Interface</Category>
+      <Description>A collection of tweaks for the default FF7 interface:
+- Neatly align default main menu UI elements 
+- Neatly align default battle UI elements
+- Move battle UI to the bottom of the screen
+- Transparent dialogue boxes
+- Eight different styles of AI enhanced Avatars   </Description>
+      <Tags>
+        <string>KWRRK</string>
+        <string>User Interface</string>
+        <string>Avatar</string>
+      </Tags>
+   </Mod>	   
+	   
 ## Remake ESUI Theme ##
     <Mod>
       <ID>0b038238-8e3e-48a5-b56d-55a3fe0aa929</ID>
