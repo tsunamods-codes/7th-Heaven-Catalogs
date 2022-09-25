@@ -1467,9 +1467,9 @@ E.g., Bolt2 = Thundara</Description>
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
-      <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/UserInterface/Tsunamods__Enhanced_Stock_UI_2.562.iro.7z</Link>
-        <Version>2.562</Version>
-        <ReleaseDate>2022-09-15</ReleaseDate>
+      <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
+        <Version>2.563</Version>
+        <ReleaseDate>2022-09-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Version 2.5 Adds Small Battle Avatars support.
