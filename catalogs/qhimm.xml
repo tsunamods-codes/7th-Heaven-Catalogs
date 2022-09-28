@@ -1387,13 +1387,13 @@ E.g., Bolt2 = Thundara</Description>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/https$kwrrk.com/wp-content/uploads/mods/KACTUAR - Controller and Keyboard Icons.iro</Link>
+        <Link>iros://Url/http$drive.google.com/uc?export=download&id=1BpECbiZcoZUmyBwxmB1uA_KfsGQW1lJ2</Link>
         <Version>1</Version>
         <ReleaseDate>2022-09-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/HctX0kL.png</PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>339000</DownloadSize>
+        <DownloadSize>13000</DownloadSize>
       </LatestVersion>
       <Name>KACTUAR - Controller and Keyboard Icons</Name>
       <Category>User Interface</Category>
@@ -1413,13 +1413,16 @@ E.g., Bolt2 = Thundara</Description>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/https$kwrrk.com/wp-content/uploads/mods/IFRIT - Default FF7 Interface Tweaks.iro</Link>
-        <Version>1</Version>
-        <ReleaseDate>2022-09-23</ReleaseDate>
+        <Link>iros://Url/http$drive.google.com/uc?export=download&id=1_N2wHfItlO2SAayZfmMt-rofjLRnunx1</Link>
+        <Version>1.1</Version>
+        <ReleaseDate>2022-09-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/peqxBHz.png</PreviewImage>
-        <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>123000</DownloadSize>
+        <ReleaseNotes>Version 1.1
+- Added avatar resolution option
+- Added new avatar style 'Slanted Transparent'
+- Added Echo-S main menu support</ReleaseNotes>
+        <DownloadSize>38000</DownloadSize>
       </LatestVersion>
       <Name>IFRIT - Default FF7 Interface Tweaks</Name>
       <Category>User Interface</Category>
