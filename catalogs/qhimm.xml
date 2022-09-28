@@ -1581,19 +1581,17 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.112</Version>
-        <ReleaseDate>2022-09-24</ReleaseDate>
+        <Version>2.113</Version>
+        <ReleaseDate>2022-09-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
-        <ReleaseNotes>Added 6 avatar variants
-Added 1 new battle avatar variant
+        <ReleaseNotes>Added 7 avatar variants
+Added 2 new battle avatar variant
 Added full ESUI theme
-Built in required ESUI components
-Built in required Controller Addon components
-Add battle bar artifact fix toggle
 Add custom battle view
 Various fixes and changes
 Add wide screen version of custom battle view
+Echo-s compatability
 </ReleaseNotes>
         <DownloadSize>159489</DownloadSize>
       </LatestVersion>
@@ -1603,8 +1601,8 @@ Add wide screen version of custom battle view
   3 New prelude credit sequences featuring art from Lap Pun Cheung.
   New start menu background featuring art from Lap Pun Cheung.
   New game over screen featuring art from Lap Pun Cheung.
-  Original Tetsuya Nomura portrait-style character avatars.
-  Dialogue/Battle Menu Avatars.
+  8 avatar sets.
+  3 dialogue/battle menu avatar sets.
   Full ESUI Theme.
   </Description>
       <Tags>
