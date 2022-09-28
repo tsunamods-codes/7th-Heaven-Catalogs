@@ -10,9 +10,9 @@
       <Author>Vertex2995, Obesebear, Kaldarasha</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Animations/60%20FPS%20Gameplay.iro</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2022-04-03</ReleaseDate>
+        <Link>iros://Url/http$motr.7thheaven.rocks/60FPS/60%20FPS%20Gameplay.iro</Link>
+        <Version>1.12</Version>
+        <ReleaseDate>2022-09-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4T7hFii.png</PreviewImage>
         <ReleaseNotes>REQUIRES 7th Heaven 2.3.3+ and FFNx 1.11.0+
@@ -32,14 +32,19 @@ Changelog:
               Add optional fix for FIELD mode 60 FPS animation glitches (Look at README file)
    - 1.11: Add advanced animation option for FIELD mode (e.g. ChaOS, NinostyleHD)
               Small fix of battle animation files (Godo: hada)
+   - 1.12: Small fix for char animation FSEB.a (set frame 59 equal to frame 58). Necessary to avoid visual glitch.
+              Fix 60 fps counter speed of lock inside Nibelheim Manor (field map: sinin2_1)
           </ReleaseNotes>
         <DownloadSize>96999</DownloadSize>
       </LatestVersion>
-      <Name>60 FPS Gameplay</Name>
+      <Name>60/30 FPS Gameplay</Name>
       <Category>Animations</Category>
-      <Description>Interpolates all 3D model animations (battle character models, battle enemy models, field character models, ...) except world character models (unnecessary), chocobo mode models, submarine mode models and highway mode models.</Description>
+      <Description>This mod allows the game to run on a higher FPS than the original. It contains two possible modes: 
+  - Full 60 FPS: This bumps up the FPS to 60 for battle, field, and world mode.
+  - Full 30 FPS: This bumps up the FPS to 30 for battle mode
+The mod contains 3D model interpolated animations (battle character models, battle enemy models, field character models, ...) except world character models (unnecessary), chocobo mode models, submarine mode models and highway mode models.
+      </Description>
       <Tags>
-        <string>MotR</string>
         <string>60</string>
         <string>fps</string>
         <string>Animations</string>
@@ -73,7 +78,6 @@ Changelog:
       <Category>Animations</Category>
       <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
       <Tags>
-        <string>MotR</string>
         <string>60</string>
         <string>fps</string>
         <string>Animations</string>
@@ -103,7 +107,6 @@ Changelog:
       <Category>Battle Models</Category>
       <Description>This mod makes your darkest nightmares come true. The Barret cells have spread to everyone in the Final Fantasy VII universe, and have gained the appearance of Barret.</Description>
       <Tags>
-        <string>MotR</string>
         <string>Models</string>
 		<string>UpRisen</string>
         <string>Sega Chief</string>
@@ -132,7 +135,6 @@ Changelog:
       <Tags>
         <string>Kaldarasha</string>
         <string>Battle Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 	
@@ -155,7 +157,6 @@ Changelog:
       <Category>Battle Models</Category>
       <Description>A group of cmh175's Battle Models</Description>
       <Tags>
-        <string>MotR</string>
         <string>Battle Models</string>
         <string>CMH175</string>
       </Tags>
@@ -168,12 +169,12 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.0815</Version>
-        <ReleaseDate>2021-01-04</ReleaseDate>
+        <Version>22.0916</Version>
+        <ReleaseDate>2022-09-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/NcPkd1B.png</PreviewImage>
-        <ReleaseNotes>Add Ansgar's Busterizer</ReleaseNotes>
-        <DownloadSize>51895</DownloadSize>
+        <ReleaseNotes>Added icaa Battle model</ReleaseNotes>
+        <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
@@ -183,7 +184,6 @@ Changelog:
         <string>Tsunamix</string>
         <string>Shiniboy</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -209,7 +209,6 @@ Changelog:
       <Tags>
         <string>Satsuki</string>
         <string>Battle Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -232,7 +231,6 @@ Changelog:
       <Category>Battle Textures</Category>
       <Description>High resolution battle fields</Description>
       <Tags>
-        <string>MotR</string>
         <string>Avalanche</string>
         <string>Tsunamods</string>
         <string>Battle Fields</string>
@@ -318,25 +316,22 @@ Changelog:
       <Tags>
         <string>Kaldarasha</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e2</ID>
-      <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
+      <Author>Ninostyle + L@zar0 + Tsunamix + Shiniboy</Author> 
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>22.0806</Version>
-        <ReleaseDate>2022-05-06</ReleaseDate>
+        <Version>22.0908</Version>
+        <ReleaseDate>2022-09-08</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/oCiQ8uv.png</PreviewImage>
-         <ReleaseNotes>Add Dynamic Weapons (BETA)
-  Add Remake Tifa Outfit
-  Chocobo Sage</ReleaseNotes>
-        <DownloadSize>91625</DownloadSize>
+         <ReleaseNotes>Update L@zar0's Upgrades</ReleaseNotes>
+        <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
@@ -344,7 +339,6 @@ Changelog:
       <Tags>
         <string>NinoStyle</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -370,7 +364,6 @@ Changelog:
         <string>Tsunamix</string>
         <string>Shiniboy</string>
         <string>Field Models</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -396,7 +389,6 @@ Changelog:
       <Tags>
         <string>Satsuki</string>
         <string>Field Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
@@ -432,17 +424,22 @@ Changelog:
       <Author>Jusete, Team Avalanche, SoulEvan</Author>
       <Link>https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/</Link>
       <LatestVersion>
-		<Link>iros://Url/https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/7th_Heaven_All_100_Field_Scenes_V0.15_DDS-Files.iro</Link>
-        <Version>0.15</Version>
-        <ReleaseDate>2022-01-22</ReleaseDate>
+		<Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes_0.151.iro.7z</Link>
+        <Version>0.151</Version>
+        <ReleaseDate>2022-08-25</ReleaseDate>
         <PreviewImage>https://i.imgur.com/wT1mFDC.png</PreviewImage>
-        <ReleaseNotes>To check for updates, you have to visit the page in the link area and view the download area of this site.</ReleaseNotes>
-        <DownloadSize>1747928</DownloadSize>
+        <ReleaseNotes>  
+  -Import mds5_2
+  -Fix issue on nmkin_1
+  -Import md8brdg2
+  -Import mds5_3
+  -Import cargoin</ReleaseNotes>
+        <DownloadSize>730000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Final Fantasy VII HD Field Scenes</Name>
 	  <Category>Field Textures</Category>
-      <Description>This package contains all currently available HD Backgrounds for Final Fantasy VII</Description>
+      <Description>This package contains all currently available (14.2%) HD Backgrounds for Final Fantasy VII</Description>
       <Tags>
 	  <string>Team Avalanche</string>
 	  <string>Field</string>
@@ -461,9 +458,8 @@ Changelog:
       <Link>https://forums.qhimm.com/</Link>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/ESUI-Controller-Addon.7z</Link>
-        <Link>iros://GDrive/1H-5RJmUsqVwIqmBDNpVZAV73PLSbhwq5</Link>
-		<Version>1.10</Version>
-        <ReleaseDate>2021-07-06</ReleaseDate>
+	<Version>1.102</Version>
+        <ReleaseDate>2022-09-17</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/taztZvt.png</PreviewImage>
         <ReleaseNotes/>
@@ -476,7 +472,6 @@ Adds mini avatar's to game dialog.
 Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Chrysalis</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -487,11 +482,11 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/TweaksandCheats.iro</Link>
-        <Version>4.02</Version>
-        <ReleaseDate>2009-08-21</ReleaseDate>
+        <Version>4.03</Version>
+        <ReleaseDate>2022-09-17</ReleaseDate>
         <PreviewImage>https://i.imgur.com/oHJvuQE.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>46900</DownloadSize>
+        <DownloadSize>5802</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Tweaks and Cheats</Name>
@@ -669,7 +664,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>A group of cmh175's HQ FMV's</Description>
       <Tags>
-        <string>MotR</string>
         <string>FMV</string>
         <string>CMH175</string>
       </Tags>
@@ -694,7 +688,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
       <Tags>
-        <string>MotR</string>
         <string>FMV</string>
         <string>Cosmos</string>
         <string>Satsuki</string>
@@ -722,7 +715,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
       <Tags>
-        <string>MotR</string>
         <string>FMV</string>
         <string>Cosmos</string>
         <string>Satsuki</string>
@@ -756,6 +748,34 @@ Not compatible with other Gameplay mods.</Description>
         <string>Media</string>
       </Tags>
     </Mod>
+	   
+## Deet's XG Music
+    <Mod>
+      <ID>d87f1f00-2a1f-4122-a5fa-0ee68d19d329</ID>
+      <Author>Dte102</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=20005.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/Media/DEET%27S%20XG%20MUSIC.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2020-05-26</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/qWeaJro.png</PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+      <DownloadSize>400000</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Deet's XG Music</Name>
+      <Description>Yamaha S-YXG50 softsynth</Description>
+      <Category>Media</Category>
+      <Tags>
+        <string>deet</string>
+        <string>dte102</string>
+        <string>Music</string>
+        <string>Media</string>
+	<string>yamaha</string>
+	<string>xg</string>
+      </Tags>
+    </Mod>
 
 ## Satsuki SYW V5 Upscaled FMV ##
     <Mod>
@@ -777,7 +797,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -801,7 +820,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 	   
@@ -825,7 +843,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -885,11 +902,11 @@ Not compatible with other Gameplay mods.</Description>
   -3 selectable menu sound sets.
    </Description>
       <Tags>
-        <string>MotR</string>
         <string>Bonez</string>
         <string>Tsunamods</string>
-		<string>Media</string>
-		<string>Sound</string>
+	<string>Media</string>
+	<string>Sound</string>
+	<string>sfx</string>
       </Tags>
     </Mod>
 
@@ -911,7 +928,6 @@ Not compatible with other Gameplay mods.</Description>
       <Category>Media</Category>
       <Description>Alternate Soundtrack</Description>
       <Tags>
-        <string>MotR</string>
         <string>Arranged</string>
         <string>Soundtrack</string>
         <string>Tsunamix</string>
@@ -1064,7 +1080,6 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Minigame Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1119,7 +1134,6 @@ Not compatible with other Gameplay mods.</Description>
 -Press = to toggle borderless fullscreen. (Set your desired resolution in Game Driver Settings first!)</Description>
       <Tags>
         <string>Unab0mb</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1143,9 +1157,9 @@ Not compatible with other Gameplay mods.</Description>
       <Description>Updates spell names to official names used in modern Final Fantasy games and improves spell/item info.
 E.g., Bolt2 = Thundara</Description>
       <Tags>
-        <string>Bonez'</string>
+        <string>Bonez</string>
+	<string>tsunamods</string>
         <string>Miscellaneous</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
@@ -1195,7 +1209,6 @@ E.g., Bolt2 = Thundara</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Spell Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
  
@@ -1368,6 +1381,64 @@ E.g., Bolt2 = Thundara</Description>
  
 ## USER INTERFACE ##
 
+## KACTUAR - Controller and Keyboard Icons ##
+    <Mod>
+      <ID>3cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
+      <Author>KWRRK</Author> 
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1BpECbiZcoZUmyBwxmB1uA_KfsGQW1lJ2</Link>
+        <Version>1</Version>
+        <ReleaseDate>2022-09-23</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/HctX0kL.png</PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>13000</DownloadSize>
+      </LatestVersion>
+      <Name>KACTUAR - Controller and Keyboard Icons</Name>
+      <Category>User Interface</Category>
+      <Description>Adds controller or keyboard icons to the default FF7 interface. Made to be compatible with SYW Menu and Fonts, New Threat, Echo-S.</Description>
+      <Tags>
+        <string>KWRRK</string>
+        <string>User Interface</string>
+        <string>Font</string>
+        <string>Controller</string>
+        <string>Keyboard</string>	      
+      </Tags>
+   </Mod>	   
+	
+## IFRIT - Default FF7 Interface Tweaks ##
+    <Mod>
+      <ID>4cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
+      <Author>KWRRK</Author> 
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1_N2wHfItlO2SAayZfmMt-rofjLRnunx1</Link>
+        <Version>1.1</Version>
+        <ReleaseDate>2022-09-28</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/peqxBHz.png</PreviewImage>
+        <ReleaseNotes>Version 1.1
+- Added avatar resolution option
+- Added new avatar style 'Slanted Transparent'
+- Added Echo-S main menu support</ReleaseNotes>
+        <DownloadSize>38000</DownloadSize>
+      </LatestVersion>
+      <Name>IFRIT - Default FF7 Interface Tweaks</Name>
+      <Category>User Interface</Category>
+      <Description>A collection of tweaks for the default FF7 interface:
+- Neatly align default main menu UI elements 
+- Neatly align default battle UI elements
+- Move battle UI to the bottom of the screen
+- Transparent dialogue boxes
+- Eight different styles of AI enhanced Avatars   </Description>
+      <Tags>
+        <string>KWRRK</string>
+        <string>User Interface</string>
+        <string>Avatar</string>
+      </Tags>
+   </Mod>	   
+	   
 ## Remake ESUI Theme ##
     <Mod>
       <ID>0b038238-8e3e-48a5-b56d-55a3fe0aa929</ID>
@@ -1389,7 +1460,6 @@ E.g., Bolt2 = Thundara</Description>
       <Tags>
         <string>Chrysalis</string>
         <string>Fewtch</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1400,15 +1470,14 @@ E.g., Bolt2 = Thundara</Description>
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
-      <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced Stock UI-rel2.7z</Link>
-      	  <Link>iros://GDrive/1oP_y8rf1ADmAfKK3DVSyB3DOkezyLKR3</Link>
-        <Version>2.56</Version>
-        <ReleaseDate>2022-06-21</ReleaseDate>
+      <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
+        <Version>2.564</Version>
+        <ReleaseDate>2022-09-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Version 2.5 Adds Small Battle Avatars support.
 Read Readme for detailed changelog.</ReleaseNotes>
-        <DownloadSize>37928</DownloadSize>
+        <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
       <Category>User Interface</Category>
@@ -1419,7 +1488,6 @@ Choice of Icons
 Controller Icons
 Battle Avatars Support</Description>
       <Tags>
-        <string>MotR</string>
         <string>Menu</string>
         <string>Chrysalis</string>
         <string>ChrisC79UK</string>
@@ -1454,7 +1522,6 @@ Battle Avatars Support</Description>
       <Tags>
         <string>AxlRose</string>
         <string>User Interface</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
@@ -1478,7 +1545,6 @@ Battle Avatars Support</Description>
       <Tags>
         <string>Satsuki</string>
         <string>User Interface</string>
-        <string>MotR</string>
         <string>Font</string>
       </Tags>
    </Mod>
@@ -1501,9 +1567,6 @@ Battle Avatars Support</Description>
       <Category>User Interface</Category>
       <Description>Multiple choice avatars</Description>
       <Tags>
-        <string>MotR</string>
-        <string>Arranged</string>
-        <string>Soundtrack</string>
         <string>Tsunamix</string>
         <string>TheWez1981</string>
         <string>Tsunamods</string>
@@ -1517,13 +1580,22 @@ Battle Avatars Support</Description>
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
-        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
-        <Version>1.05</Version>
-        <ReleaseDate>2021-05-25</ReleaseDate>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
+        <Version>2.112</Version>
+        <ReleaseDate>2022-09-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://imgur.com/keudmWY.png</PreviewImage>
-        <ReleaseNotes>Added glow to active battle avatar</ReleaseNotes>
-        <DownloadSize>154489</DownloadSize>
+        <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
+        <ReleaseNotes>Added 6 avatar variants
+Added 1 new battle avatar variant
+Added full ESUI theme
+Built in required ESUI components
+Built in required Controller Addon components
+Add battle bar artifact fix toggle
+Add custom battle view
+Various fixes and changes
+Add wide screen version of custom battle view
+</ReleaseNotes>
+        <DownloadSize>159489</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
@@ -1532,14 +1604,13 @@ Battle Avatars Support</Description>
   New start menu background featuring art from Lap Pun Cheung.
   New game over screen featuring art from Lap Pun Cheung.
   Original Tetsuya Nomura portrait-style character avatars.
-  New ESUI menu border bars.
   Dialogue/Battle Menu Avatars.
+  Full ESUI Theme.
   </Description>
       <Tags>
-        <string>MotR</string>
         <string>Bonez</string>
         <string>Tsunamods</string>
-		<string>User Interface</string>
+	<string>User Interface</string>
       </Tags>
     </Mod>
 
@@ -1713,18 +1784,18 @@ Battle Avatars Support</Description>
  ## wictoriously Avatars ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc812</ID>
-      <Author>wictoriously</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Author>Wictoriously, Reiletuag</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/wictoriously.7z</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2020-03-07</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/v5Bo8Pl.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>8520</DownloadSize>
+        <Version>2.01</Version>
+        <ReleaseDate>2022-09-17</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/PO6b5MQ.png</PreviewImage>
+        <ReleaseNotes>Added V2 ESUI Thinnest</ReleaseNotes>
+        <DownloadSize>23000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>wictoriously Avatars</Name>
+      <Name>Wictoriously Avatars</Name>
 	  <Category>User Interface</Category>
       <Description>Multple custom avatar choices by wictoriously</Description>
       <Tags>
@@ -1827,7 +1898,6 @@ Battle Avatars Support</Description>
       <Tags>
         <string>Satsuki</string>
         <string>World Textures</string>
-        <string>MotR</string>
       </Tags>
    </Mod>
 
