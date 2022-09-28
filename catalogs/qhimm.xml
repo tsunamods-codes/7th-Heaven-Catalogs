@@ -1387,7 +1387,7 @@ E.g., Bolt2 = Thundara</Description>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/http$drive.google.com/uc?export=download&id=1BpECbiZcoZUmyBwxmB1uA_KfsGQW1lJ2</Link>
+        <Link>iros://GDrive/1BpECbiZcoZUmyBwxmB1uA_KfsGQW1lJ2</Link>
         <Version>1</Version>
         <ReleaseDate>2022-09-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -1413,7 +1413,7 @@ E.g., Bolt2 = Thundara</Description>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://Url/http$drive.google.com/uc?export=download&id=1_N2wHfItlO2SAayZfmMt-rofjLRnunx1</Link>
+        <Link>iros://GDrive/1_N2wHfItlO2SAayZfmMt-rofjLRnunx1</Link>
         <Version>1.1</Version>
         <ReleaseDate>2022-09-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
