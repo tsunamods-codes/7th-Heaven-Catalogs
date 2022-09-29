@@ -1412,12 +1412,16 @@ E.g., Bolt2 = Thundara</Description>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1_N2wHfItlO2SAayZfmMt-rofjLRnunx1</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2022-09-28</ReleaseDate>
+        <Link>iros://GDrive/1nTympJUmattlD-AfdlSNo8pQNsS9ilEE</Link>
+        <Version>1.11</Version>
+        <ReleaseDate>2022-09-29</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/peqxBHz.png</PreviewImage>
-        <ReleaseNotes>Version 1.1
+        <ReleaseNotes>Version 1.11
+- Fixed Echo-S main menu crash
+- Fixed High-Res Slanted Transparent Avatar not applying
+
+Version 1.1
 - Added avatar resolution option
 - Added new avatar style 'Slanted Transparent'
 - Added Echo-S main menu support</ReleaseNotes>
