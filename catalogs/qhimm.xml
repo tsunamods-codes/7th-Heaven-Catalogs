@@ -880,14 +880,13 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.103</Version>
-        <ReleaseDate>2022-08-18</ReleaseDate>
+        <Version>1.104</Version>
+        <ReleaseDate>2022-09-29</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
--Fix issue of CM wrongly changing audio sample rate
--Fix vanilla ui sounds cut off to early</ReleaseNotes>
-        <DownloadSize>346000</DownloadSize>
+Change canyon ambience.</ReleaseNotes>
+        <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
       <Category>Media</Category>
