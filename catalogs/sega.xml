@@ -22,6 +22,26 @@
         <string>Gameplay</string>
       </Tags>
     </Mod>
+	<Mod>
+      <ID>e6c78e87-24b6-452c-9477-880ba6bbc7bb</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1k4sKmCFvVLbYBiRq74miepUePygr_pYt</Link>
+        <Version>2.09991</Version>
+        <ReleaseDate>2022-09-30</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>35000</DownloadSize>
+      </LatestVersion>
+      <Name>New Threat 2.0 Combat Only</Name>
+      <Description>A combat rebalance mod</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
     <Mod>
       <ID>debe4027-3b07-4fab-a45b-d7acb444973a</ID>
       <Author>Sega Chief</Author>
