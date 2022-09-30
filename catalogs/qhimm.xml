@@ -880,14 +880,13 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.103</Version>
-        <ReleaseDate>2022-08-18</ReleaseDate>
+        <Version>1.104</Version>
+        <ReleaseDate>2022-09-29</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
--Fix issue of CM wrongly changing audio sample rate
--Fix vanilla ui sounds cut off to early</ReleaseNotes>
-        <DownloadSize>346000</DownloadSize>
+Change canyon ambience.</ReleaseNotes>
+        <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
       <Category>Media</Category>
@@ -1413,12 +1412,16 @@ E.g., Bolt2 = Thundara</Description>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1_N2wHfItlO2SAayZfmMt-rofjLRnunx1</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2022-09-28</ReleaseDate>
+        <Link>iros://GDrive/1nTympJUmattlD-AfdlSNo8pQNsS9ilEE</Link>
+        <Version>1.11</Version>
+        <ReleaseDate>2022-09-29</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/peqxBHz.png</PreviewImage>
-        <ReleaseNotes>Version 1.1
+        <ReleaseNotes>Version 1.11
+- Fixed Echo-S main menu crash
+- Fixed High-Res Slanted Transparent Avatar not applying
+
+Version 1.1
 - Added avatar resolution option
 - Added new avatar style 'Slanted Transparent'
 - Added Echo-S main menu support</ReleaseNotes>
@@ -1471,8 +1474,8 @@ E.g., Bolt2 = Thundara</Description>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.564</Version>
-        <ReleaseDate>2022-09-25</ReleaseDate>
+        <Version>2.60</Version>
+        <ReleaseDate>2022-09-29</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Version 2.5 Adds Small Battle Avatars support.
@@ -1581,17 +1584,12 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.113</Version>
-        <ReleaseDate>2022-09-28</ReleaseDate>
+        <Version>2.117</Version>
+        <ReleaseDate>2022-09-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
-        <ReleaseNotes>Added 7 avatar variants
-Added 2 new battle avatar variant
-Added full ESUI theme
-Add custom battle view
+        <ReleaseNotes>
 Various fixes and changes
-Add wide screen version of custom battle view
-Echo-s compatability
 </ReleaseNotes>
         <DownloadSize>159489</DownloadSize>
       </LatestVersion>
