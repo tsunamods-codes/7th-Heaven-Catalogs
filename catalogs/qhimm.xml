@@ -475,7 +475,7 @@ Not compatible with other Gameplay mods.</Description>
       </Tags>
    </Mod>
 
-## Tweaks and Cheats ##
+## Gameplay Tweaks ##
     <Mod>
       <ID>7c989c70-8381-4a5f-a2d8-3d22dc8f6042</ID>
       <Author>Qhimm Modding Community</Author>
@@ -489,7 +489,7 @@ Not compatible with other Gameplay mods.</Description>
         <DownloadSize>5802</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Tweaks and Cheats</Name>
+      <Name>Gameplay Tweaks</Name>
 	  <Category>Gameplay</Category>
       <Description>A collection of Tweaks and Cheats.</Description>
       <Tags>
