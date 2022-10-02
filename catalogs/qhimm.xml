@@ -1583,7 +1583,7 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.121</Version>
+        <Version>2.122</Version>
         <ReleaseDate>2022-10-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
@@ -1591,6 +1591,8 @@ Battle Avatars Support</Description>
 Fix Spacing issue when using mini avatars
 Add option for no names in FT battleview
 Render battle gauges per character rather than for a whole party
+Unpixelate chibi avatars in consideration of tactics avatars
+Redesign mini chibi avatars
 </ReleaseNotes>
         <DownloadSize>159489</DownloadSize>
       </LatestVersion>
@@ -1601,8 +1603,8 @@ Render battle gauges per character rather than for a whole party
   New start menu background featuring art from Lap Pun Cheung.
   New game over screen featuring art from Lap Pun Cheung.
   8 avatar sets.
-  3 dialogue/battle menu avatar sets.
-  Full ESUI Theme.
+  3 battle/dialogue avatar sets.
+  Full retro-modern ESUI theme.
   </Description>
       <Tags>
         <string>Bonez</string>
