@@ -1448,8 +1448,8 @@ Version 1.1
       <Author>Fewtch, Chrysalis, and the Qhimm Modding Community</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1mX9Z3xY4fdvGuTWm2MQCxO2Da8Lyw-Iq</Link>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/FF7_Remake_ESUI_Theme_1.51.7z</Link>
+        <Link>iros://GDrive/1mX9Z3xY4fdvGuTWm2MQCxO2Da8Lyw-Iq</Link>	      
 		<Version>1.51</Version>
         <ReleaseDate>2022-04-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
