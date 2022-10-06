@@ -675,14 +675,13 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
       <LatestVersion>
-	    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Media/Cosmos_FMV__15_fps__1.01.iro</Link>
-        <Link>iros://MegaSharedFolder/https://mega.nz/folder/ydYjQYha#WEJq2c8Anqk2PMgsEW5PyA,WdRz0SSR,CosmosFMV15.iro</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2022-01-31</ReleaseDate>
+	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV15.iro</Link>
+        <Version>1.02</Version>
+        <ReleaseDate>2022-10-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/xzaxVeT.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>1761608</DownloadSize>
+        <DownloadSize>1905832</DownloadSize>
       </LatestVersion>
       <Name>Cosmos FMV (15 fps)</Name>
       <Category>Media</Category>
@@ -702,14 +701,13 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
       <LatestVersion>
-	    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Media/Cosmos_FMV__30_fps__1.01.iro</Link>
-        <Link>iros://MegaSharedFolder/https://mega.nz/folder/PNQ1wSqT#XzlZXatrc5FMP-WUJLlzvA,3NhQnTbL,CosmosFMV30.iro</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2022-01-31</ReleaseDate>
+	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV30.iro</Link>
+        <Version>1.02</Version>
+        <ReleaseDate>2022-10-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/xzaxVeT.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>2149581</DownloadSize>
+        <DownloadSize>2832365</DownloadSize>
       </LatestVersion>
       <Name>Cosmos FMV (30 fps)</Name>
       <Category>Media</Category>
