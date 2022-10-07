@@ -1404,35 +1404,40 @@ E.g., Bolt2 = Thundara</Description>
       </Tags>
    </Mod>	   
 	
-## IFRIT - Default FF7 Interface Tweaks ##
+## IFRIT - FF7 Interface Tweaks ##
     <Mod>
       <ID>4cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
       <Author>KWRRK</Author> 
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1nTympJUmattlD-AfdlSNo8pQNsS9ilEE</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2022-09-29</ReleaseDate>
+        <Link>iros://GDrive/1P_XbHwEMXC-Si9OalcedHj7x02FPFWMj</Link>
+        <Version>1.2</Version>
+        <ReleaseDate>2022-10-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/peqxBHz.png</PreviewImage>
-        <ReleaseNotes>Version 1.11
-- Fixed Echo-S main menu crash
-- Fixed High-Res Slanted Transparent Avatar not applying
+        <PreviewImage>https://i.imgur.com/ttk75MM.png</PreviewImage>
+        <ReleaseNotes>Version 1.2
+- Added Intro Logo option
+- Added ESUI compatibility option
 
 Version 1.1
 - Added avatar resolution option
 - Added new avatar style 'Slanted Transparent'
 - Added Echo-S main menu support</ReleaseNotes>
-        <DownloadSize>38000</DownloadSize>
+        <DownloadSize>42300</DownloadSize>
       </LatestVersion>
-      <Name>IFRIT - Default FF7 Interface Tweaks</Name>
+      <Name>IFRIT - FF7 Interface Tweaks</Name>
       <Category>User Interface</Category>
-      <Description>A collection of tweaks for the default FF7 interface:
-- Neatly align default main menu UI elements 
-- Neatly align default battle UI elements
+      <Description>A collection of tweaks for the FF7 interface.
+
+Features:
+- Neatly align main menu UI elements 
+- Neatly align battle UI elements
 - Move battle UI to the bottom of the screen
 - Transparent dialogue boxes
-- Eight different styles of AI enhanced Avatars   </Description>
+- Different styles of AI enhanced Avatars
+- Set Avatar resolution
+- Intro Logos
+- ESUI Compatibility </Description>
       <Tags>
         <string>KWRRK</string>
         <string>User Interface</string>
