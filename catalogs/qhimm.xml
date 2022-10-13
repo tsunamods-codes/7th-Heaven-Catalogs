@@ -1586,15 +1586,19 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.22</Version>
-        <ReleaseDate>2022-10-11</ReleaseDate>
+        <Version>2.23</Version>
+        <ReleaseDate>2022-10-13</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
 Add prelude and start menu randomization.
 Various fixes/changes
 Add minimal battle ui's
-Automatic widescreen version of game over
+automatic widescreen version of game over
+Add KO mini avatars
+Stop active flash on mini avatars
+Fix battle spacing issues post ESUI update
+Change MP icon
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
