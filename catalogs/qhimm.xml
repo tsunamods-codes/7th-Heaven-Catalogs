@@ -1142,11 +1142,11 @@ Change canyon ambience.</ReleaseNotes>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
-		<Version>1.61</Version>
-        <ReleaseDate>2020-07-30</ReleaseDate>
+		<Version>1.62</Version>
+        <ReleaseDate>2022-10-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/IWziOf9.png</PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Automatic Newthreat and Finishing Touch compatability
         <DownloadSize>5920</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Modern Spell Names</Name>
@@ -1586,19 +1586,12 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.23</Version>
-        <ReleaseDate>2022-10-13</ReleaseDate>
+        <Version>2.24</Version>
+        <ReleaseDate>2022-10-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
-Add prelude and start menu randomization.
-Various fixes/changes
-Add minimal battle ui's
-automatic widescreen version of game over
-Add KO mini avatars
-Stop active flash on mini avatars
-Fix battle spacing issues post ESUI update
-Change MP icon
+Expanded icons feature
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
