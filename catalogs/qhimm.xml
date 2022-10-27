@@ -1138,8 +1138,8 @@ Change canyon ambience.</ReleaseNotes>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
-		<Version>1.62</Version>
-        <ReleaseDate>2022-10-15</ReleaseDate>
+		<Version>1.63</Version>
+        <ReleaseDate>2022-10-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/IWziOf9.png</PreviewImage>
         <ReleaseNotes>Automatic Newthreat and Finishing Touch compatability</ReleaseNotes>
@@ -1584,12 +1584,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.293</Version>
-        <ReleaseDate>2022-10-21</ReleaseDate>
+        <Version>2.294</Version>
+        <ReleaseDate>2022-10-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
-Various fixes and changes
+NewThreat Expanded Icons Compatibility
+Various changes/fixes
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
