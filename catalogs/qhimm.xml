@@ -1584,12 +1584,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.294</Version>
+        <Version>2.295</Version>
         <ReleaseDate>2022-10-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
 NewThreat Expanded Icons Compatibility
+Add Brushstrokes/Vanilla mini avatars
 Various changes/fixes
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
@@ -1601,7 +1602,7 @@ Prelude credits from artist Lap Pun Cheung with option to randomize from 109 pie
 Start menu background artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
 New game over screen from artist Lap Pun Cheung.
 8 avatar sets.
-3 battle/dialogue avatar sets.
+4 battle/dialogue avatar sets.
 Full retro-modern ESUI theme.
   </Description>
       <Tags>
