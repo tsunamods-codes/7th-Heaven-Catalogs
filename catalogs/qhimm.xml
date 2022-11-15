@@ -169,11 +169,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.1021</Version>
-        <ReleaseDate>2022-10-21</ReleaseDate>
+        <Version>22.1115</Version>
+        <ReleaseDate>2022-11-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
-        <ReleaseNotes>Added Death Gigas</ReleaseNotes>
+        <ReleaseNotes>Added Enemy Yuffie</ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
