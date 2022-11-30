@@ -874,12 +874,12 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.104</Version>
-        <ReleaseDate>2022-09-29</ReleaseDate>
+        <Version>1.105</Version>
+        <ReleaseDate>2022-11-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
-Change canyon ambience.</ReleaseNotes>
+Reduce the Cicada sound in Corel areas</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
