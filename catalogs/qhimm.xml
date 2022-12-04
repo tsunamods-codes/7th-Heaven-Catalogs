@@ -169,11 +169,12 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.1116</Version>
-        <ReleaseDate>2022-11-16</ReleaseDate>
+        <Version>22.1204</Version>
+        <ReleaseDate>2022-12-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
-        <ReleaseNotes>Added Enemy Yuffie</ReleaseNotes>
+        <ReleaseNotes>Convert to direct folder for better load order compatability
+  Added (ayaa) battle model</ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
@@ -326,11 +327,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>22.1130</Version>
-        <ReleaseDate>2022-11-30</ReleaseDate>
+        <Version>22.1204</Version>
+        <ReleaseDate>2022-12-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
-         <ReleaseNotes>Update L@zar0's Upgrades to 1.18</ReleaseNotes>
+         <ReleaseNotes>Convert to direct folder for better load order compatability</ReleaseNotes>
         <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
@@ -349,11 +350,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20HD.7z</Link>
-        <Version>22.0802</Version>
-        <ReleaseDate>2021-01-04</ReleaseDate>
+        <Version>22.1204</Version>
+        <ReleaseDate>2021-12-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Hr5bC39.png</PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Convert to direct folder for better load order compatability</ReleaseNotes>
         <DownloadSize>113059</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
