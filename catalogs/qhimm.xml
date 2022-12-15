@@ -1585,13 +1585,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.298</Version>
-        <ReleaseDate>2022-11-16</ReleaseDate>
+        <Version>2.2985</Version>
+        <ReleaseDate>2022-12-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
-Fix Portrait mini avatars not showing in battle
-Various changes/fixes
+Update for 7H 2.9.9.55. (Random backgrounds now require at least this version)
+Status Icons added as part of Extended Icons feature
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
