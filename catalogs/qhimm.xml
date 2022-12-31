@@ -1589,7 +1589,7 @@ Battle Avatars Support</Description>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
         <Version>2.299</Version>
         <ReleaseDate>2022-12-31</ReleaseDate>
-        <CompatibleGameVersions>7th Heaven 2.9.9.72</CompatibleGameVersions>
+        <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
 Added 4 new selectable color schemes plus ability to use vanilla colors including matching FT battle menus.
