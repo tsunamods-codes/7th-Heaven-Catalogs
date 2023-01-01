@@ -169,12 +169,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>22.1204</Version>
-        <ReleaseDate>2022-12-04</ReleaseDate>
+        <Version>22.1231</Version>
+        <ReleaseDate>2022-12-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
-        <ReleaseNotes>Convert to direct folder for better load order compatability
-  Added (ayaa) battle model</ReleaseNotes>
+        <ReleaseNotes>Added CNAA battle model</ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
@@ -327,11 +326,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>22.1204</Version>
-        <ReleaseDate>2022-12-04</ReleaseDate>
+        <Version>22.1231</Version>
+        <ReleaseDate>2022-12-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
-         <ReleaseNotes>Convert to direct folder for better load order compatability</ReleaseNotes>
+         <ReleaseNotes>Fix dynamic weapon + Efryt sword</ReleaseNotes>
         <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
