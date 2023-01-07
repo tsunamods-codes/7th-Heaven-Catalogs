@@ -1130,7 +1130,7 @@ Further Echo-S preparation</ReleaseNotes>
       </Tags>
    </Mod>
 
-## [Tsunamods] Modern Spell Names ##
+## [Tsunamods] Wizard Staff ##
     <Mod>
       <ID>8c1020f8-562c-4a1e-87ab-dd328c0aa567</ID>
       <Author>Bonez</Author> 
@@ -1138,8 +1138,8 @@ Further Echo-S preparation</ReleaseNotes>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
-		<Version>1.63</Version>
-        <ReleaseDate>2022-10-27</ReleaseDate>
+		<Version>1.65</Version>
+        <ReleaseDate>2023-01-07</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/IWziOf9.png</PreviewImage>
         <ReleaseNotes>Automatic Newthreat and Finishing Touch compatability</ReleaseNotes>
