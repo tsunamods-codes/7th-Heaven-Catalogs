@@ -1609,13 +1609,12 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2991</Version>
-        <ReleaseDate>2023-01-07</ReleaseDate>
+        <Version>2.2992</Version>
+        <ReleaseDate>2023-01-13</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
-Added 4 new selectable color schemes plus ability to use vanilla colors including matching FT battle menus.
-Automatic widescreen start screens.
+Echo-s Expanded Icons
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
