@@ -898,13 +898,13 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1075</Version>
-        <ReleaseDate>2023-01-13</ReleaseDate>
+        <Version>1.1076</Version>
+        <ReleaseDate>2023-01-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
-Further Echo-S preparation
-Reduce volume of grass and snow footsteps</ReleaseNotes>
+Reduce volume of grass and snow footsteps
+Remove High frequency ring from slums external ambience</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -1609,8 +1609,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2992</Version>
-        <ReleaseDate>2023-01-13</ReleaseDate>
+        <Version>2.2993</Version>
+        <ReleaseDate>2023-01-14</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
