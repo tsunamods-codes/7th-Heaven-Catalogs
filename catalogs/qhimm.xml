@@ -1609,14 +1609,15 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2993</Version>
-        <ReleaseDate>2023-01-14</ReleaseDate>
+        <Version>2.2994</Version>
+        <ReleaseDate>2023-01-15</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 2.9+
 Echo-s Expanded Icons
-Fix Echo-s start menu stuff		
+Fix Echo-s start menu stuff
+Fix color schemes not surviving save
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
