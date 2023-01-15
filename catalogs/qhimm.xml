@@ -1614,7 +1614,9 @@ Battle Avatars Support</Description>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
+Requires 7th Heaven 2.9+
 Echo-s Expanded Icons
+Fix Echo-s start menu stuff		
 </ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
