@@ -1609,8 +1609,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2994</Version>
-        <ReleaseDate>2023-01-15</ReleaseDate>
+        <Version>2.2995</Version>
+        <ReleaseDate>2023-01-16</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
@@ -1618,8 +1618,9 @@ Requires 7th Heaven 2.9+
 Echo-s Expanded Icons
 Fix Echo-s start menu stuff
 Fix color schemes not surviving save
+Resize dialog boxes to fit font when using Echo-s
 </ReleaseNotes>
-        <DownloadSize>400000</DownloadSize>
+        <DownloadSize>702000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
