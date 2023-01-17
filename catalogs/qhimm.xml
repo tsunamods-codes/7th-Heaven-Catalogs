@@ -447,30 +447,6 @@ The mod contains 3D model interpolated animations (battle character models, batt
  
 ## GAMEPLAY ##
 	   
-## ECHOS ##
-
-    <Mod>
-      <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
-      <Author>Tsunamods Team</Author>
-      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
-      <LatestVersion>
-        <Link>iros://Url/https://download.tsunamods.com/?id=2</Link>
-        <Version>1.04</Version>
-        <ReleaseDate>2023-01-15</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
-        <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
-        <DownloadSize>3307496</DownloadSize>
-      </LatestVersion>
-      <Name>[Tsunamods] Echo-S</Name>
-      <Category>Gameplay</Category>
-      <Description>Adds full voice acting to the game</Description>
-      <Tags>
-        <string>Tsunamods</string>
-        <string>Tsunamix</string>
-      </Tags>
-   </Mod>   
-
 ## ESUI Controller Addon ##
     <Mod>
       <ID>135478f5-b53f-4960-b411-b93370dc45da</ID>
