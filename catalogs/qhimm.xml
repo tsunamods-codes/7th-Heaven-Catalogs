@@ -874,13 +874,14 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1078</Version>
-        <ReleaseDate>2023-01-19</ReleaseDate>
+        <Version>1.1079</Version>
+        <ReleaseDate>2023-01-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
 Reduce volume of grass and snow footsteps
-Remove High frequency ring from slums external ambience</ReleaseNotes>
+Remove High frequency ring from slums external ambience
+Fix puddle footsteps</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
