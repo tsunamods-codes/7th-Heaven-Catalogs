@@ -447,6 +447,33 @@ The mod contains 3D model interpolated animations (battle character models, batt
  
 ## GAMEPLAY ##
 	   
+## ECHOS ##
+
+    <Mod>
+      <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
+      <Author>Tsunamods Team</Author>
+      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+      <LatestVersion>
+        <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D%20Echo-S%207%201.05.iro</Link>
+	<Link>iros://GDrive/12OM26Uj168fl8CnzBpcrpPl0sexiKGA5</Link>
+	<Link>iros://GDrive/1nA9x-wV-ZPRDK5adTALYHtXb61OuBquM</Link>
+        <Version>1.05</Version>
+        <ReleaseDate>2023-01-21</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
+        <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
+        <DownloadSize>3307496</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Echo-S</Name>
+      <Category>Gameplay</Category>
+      <Description>Adds full voice acting to the game</Description>
+      <Tags>
+        <string>Tsunamods</string>
+        <string>Tsunamix</string>
+      </Tags>
+   </Mod>   
+
+	   
 ## ESUI Controller Addon ##
     <Mod>
       <ID>135478f5-b53f-4960-b411-b93370dc45da</ID>
@@ -1586,16 +1613,18 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2996</Version>
-        <ReleaseDate>2023-01-19</ReleaseDate>
+        <Version>2.2997</Version>
+        <ReleaseDate>2023-01-21</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 2.9.9.72+
 Fix color schemes not surviving save
 Force selected color scheme on previous saves
-Resize dialog boxes to fit font when using Echo-s
+Resize dialog boxes to fit font when using Echo-s 1.05
 Added Finishing Touch V2 battle view
+Added custom battle markers
+Fixed incorrect prelude background for "Shinra Building"
 </ReleaseNotes>
         <DownloadSize>702000</DownloadSize>
       </LatestVersion>
