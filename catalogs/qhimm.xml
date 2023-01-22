@@ -1614,8 +1614,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2997</Version>
-        <ReleaseDate>2023-01-21</ReleaseDate>
+        <Version>2.2998</Version>
+        <ReleaseDate>2023-01-22</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
@@ -1626,6 +1626,8 @@ Resize dialog boxes to fit font when using Echo-s 1.05
 Added Finishing Touch V2 battle view
 Added custom battle markers
 Fixed incorrect prelude background for "Shinra Building"
+Fixed limit box sizing
+Add Dialog icons for Echo-s 1.05
 </ReleaseNotes>
         <DownloadSize>702000</DownloadSize>
       </LatestVersion>
