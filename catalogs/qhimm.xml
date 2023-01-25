@@ -454,10 +454,10 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.05/%5bTsunamods%5d%20Echo-S%207.iro</Link>
         <Link>iros://Url/http$bonez-cache.7thheaven.rocks/%5BTsunamods%5D%20Echo-S%207%201.05.iro</Link>
 	<Link>iros://GDrive/12OM26Uj168fl8CnzBpcrpPl0sexiKGA5</Link>
 	<Link>iros://GDrive/1nA9x-wV-ZPRDK5adTALYHtXb61OuBquM</Link>
+        <Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.05/%5bTsunamods%5d%20Echo-S%207.iro</Link>
         <Version>1.05</Version>
         <ReleaseDate>2023-01-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
