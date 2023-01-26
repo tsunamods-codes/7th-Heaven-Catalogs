@@ -902,14 +902,15 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1079</Version>
-        <ReleaseDate>2023-01-20</ReleaseDate>
+        <Version>1.1080</Version>
+        <ReleaseDate>2023-01-26</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
         <ReleaseNotes>
 Reduce volume of grass and snow footsteps
 Remove High frequency ring from slums external ambience
-Fix puddle footsteps</ReleaseNotes>
+Fix puddle footsteps
+Reduce Grass footsteps</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -1168,11 +1169,11 @@ Fix puddle footsteps</ReleaseNotes>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
-		<Version>1.65</Version>
-        <ReleaseDate>2023-01-07</ReleaseDate>
+		<Version>1.66</Version>
+        <ReleaseDate>2023-01-26</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/i5rDqbF.png</PreviewImage>
-        <ReleaseNotes>Automatic Newthreat and Finishing Touch compatability</ReleaseNotes>
+        <ReleaseNotes>FT Update</ReleaseNotes>
         <DownloadSize>5920</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Wizard Staff</Name>
@@ -1614,8 +1615,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.2999</Version>
-        <ReleaseDate>2023-01-24</ReleaseDate>
+        <Version>2.29992</Version>
+        <ReleaseDate>2023-01-26</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
@@ -1624,13 +1625,16 @@ Fix color schemes not surviving save
 Undo color force in lieu of Reshade compatability
 Resize dialog boxes to fit font when using Echo-s 1.05
 Added Finishing Touch V2 battle view
+Added Finishing Touch non-compact battle view
 Added custom battle markers
 Fixed incorrect prelude background for "Shinra Building"
 Fixed limit box sizing
 Add Dialog icons for Echo-s 1.05
-New Threat materia fix? Maybe?
+New Threat materia fix
+Code Housekeeping
+Icon touchup
 </ReleaseNotes>
-        <DownloadSize>702000</DownloadSize>
+        <DownloadSize>820000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
