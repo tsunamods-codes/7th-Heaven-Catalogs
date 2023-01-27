@@ -239,33 +239,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>Uprisen</string>
       </Tags>
     </Mod>
- 
-## Remako Battle Textures ##
-    <Mod>
-      <ID>58fa1e13-0b18-4172-87c3-56ff3195083c</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://captrobau.blogspot.com/</Link>
-      <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[4xUpscale]RemakoHDBattle.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2021-03-01</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/2kRz29f.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>910000</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako 4k HD Battle Textures</Name>
-	  <Category>Battle Textures</Category>
-      <Description>AI Upscaled Battle Textures by CaptRobau
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-	  <string>Remako</string>
-	  <string>Battle</string>
-	  <string>Textures</string>
-	  <string>CaptRobau</string>
-      </Tags>
-    </Mod>
-	
+ 	
 ## [Retexture] HD Battle Scenes ##
     <Mod>
       <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
@@ -391,32 +365,6 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>Field Textures</string>
       </Tags>
    </Mod>
- 
- ## Remako Field Textures ##
-    <Mod>
-      <ID>c4660557-8668-4dbc-a45c-80e2574c0088</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://captrobau.blogspot.com/</Link>
-      <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[4xUpscale]RemakoHDField.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2021-03-01</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/LlrZ0DZ.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>4210000</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako 4k HD Field Textures</Name>
-	  <Category>Field Textures</Category>
-      <Description>AI Upscaled Field Textures by CaptRobau
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-	  <string>Remako</string>
-	  <string>Field</string>
-	  <string>Textures</string>
-	  <string>CaptRobau</string>
-      </Tags>
-    </Mod>
  
 ## 3d Remade Field Textures ##
     <Mod>
@@ -983,33 +931,6 @@ Reduce Grass footsteps</ReleaseNotes>
       </Tags>
     </Mod> 
  
- ## Remako Movies ##
-    <Mod>
-      <ID>e040a749-0770-4296-973c-195430c22408</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/CaptRobau - Remako HD.iro</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2021-03-01</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/J2JLk5e.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>1569773</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako HD Movies</Name>
-	  <Category>Media</Category>
-      <Description>Upscaled FMV's by CaptRobau
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-	  <string>Remako</string>
-	  <string>CaptRobau</string>
-	  <string>Media</string>
-	  <string>FMV</string>
-	  <string>Movies</string>
-      </Tags>
-    </Mod> 
- 
  ## Chibi FMV Replacement ##
     <Mod>
       <ID>c27d3cb1-44a1-43f4-bcdb-535739c3493c</ID>
@@ -1132,34 +1053,6 @@ Reduce Grass footsteps</ReleaseNotes>
     </Mod> 
  
 ## MISCELLANEOUS ## 
-
-## Borderless Windowed FF7 ##
-    <Mod>
-      <ID>7350eb7e-6b4f-4a9c-8a70-28d6304f8ce7</ID>
-      <Author>unab0mb</Author> 
-      <Link>https://forums.qhimm.com/</Link>
-      <LatestVersion>
-        <Link>iros://Url/http://7thheaven.rocks/mods/Borderless_FF7_(BFF7)_v1.0.iro</Link>
-        <Version>1.00</Version>
-        <ReleaseDate>2020-03-10</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>http://7thheaven.rocks/mods/previewimages/BFF7-Preview.gif</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>1690</DownloadSize>
-      </LatestVersion>
-      <Name>Borderless Windows FF7</Name>
-      <Category>Miscellaneous</Category>
-      <Description>AutoHotKey based borderless window hack for FF7. REQUIRES 7H 2.0+!
--Your FF7 window title MUST start with 'Final Fantasy VII'.
--Press 8 to toggle window border.
--Press 9 to left align window.
--Press 0 to right align window.
--Press - to center window.
--Press = to toggle borderless fullscreen. (Set your desired resolution in Game Driver Settings first!)</Description>
-      <Tags>
-        <string>Unab0mb</string>
-      </Tags>
-   </Mod>
 
 ## [Tsunamods] Wizard Staff ##
     <Mod>
@@ -1967,33 +1860,6 @@ Full retro-modern ESUI theme.
 	  <string>Grimmy</string>
 	  <string>FeliXLeonhart</string>
 	  <string>Ste41k</string>
-      </Tags>
-    </Mod>
- 
- ## Remako World Textures ##
-    <Mod>
-      <ID>98491fb3-ab39-4ca0-a9aa-2e956be7377e</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[4x Upscale] Remako HD - CaptRobau.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2020-03-07</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/mzgdOhb.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>36600</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako HD World Textures</Name>
-	  <Category>World Textures</Category>
-      <Description>AI Upscaled World Textures
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-	  <string>AI</string>
-	  <string>World Textures</string>
-	  <string>Upscale</string>
-	  <string>Remako</string>
-	  <string>CaptRobau</string>
       </Tags>
     </Mod>
  
