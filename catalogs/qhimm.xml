@@ -289,6 +289,7 @@ Note: - This is only the first version, expect bugs and weird colors on some bat
 
 ## Remako Battle Textures ##
     <Mod>
+	  <Deprecated/>
       <ID>58fa1e13-0b18-4172-87c3-56ff3195083c</ID>
       <Author>CaptRobau</Author>
       <Link>https://captrobau.blogspot.com/</Link>
@@ -441,6 +442,7 @@ Note: - This is only the first version, expect bugs and weird colors on some bat
  
  ## Remako Field Textures ##
     <Mod>
+	  <Deprecated/>
       <ID>c4660557-8668-4dbc-a45c-80e2574c0088</ID>
       <Author>CaptRobau</Author>
       <Link>https://captrobau.blogspot.com/</Link>
@@ -1032,6 +1034,7 @@ Reduce Grass footsteps</ReleaseNotes>
  
  ## Remako Movies ##
     <Mod>
+	  <Deprecated/>
       <ID>e040a749-0770-4296-973c-195430c22408</ID>
       <Author>CaptRobau</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
@@ -1059,6 +1062,7 @@ Reduce Grass footsteps</ReleaseNotes>
  
  ## Chibi FMV Replacement ##
     <Mod>
+	  <Deprecated/>
       <ID>c27d3cb1-44a1-43f4-bcdb-535739c3493c</ID>
       <Author>DrLilo</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
@@ -1179,34 +1183,6 @@ Reduce Grass footsteps</ReleaseNotes>
     </Mod> 
  
 ## MISCELLANEOUS ## 
-
-## Borderless Windowed FF7 ##
-    <Mod>
-      <ID>7350eb7e-6b4f-4a9c-8a70-28d6304f8ce7</ID>
-      <Author>unab0mb</Author> 
-      <Link>https://forums.qhimm.com/</Link>
-      <LatestVersion>
-        <Link>iros://Url/http://7thheaven.rocks/mods/Borderless_FF7_(BFF7)_v1.0.iro</Link>
-        <Version>1.00</Version>
-        <ReleaseDate>2020-03-10</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>http://7thheaven.rocks/mods/previewimages/BFF7-Preview.gif</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>1690</DownloadSize>
-      </LatestVersion>
-      <Name>Borderless Windows FF7</Name>
-      <Category>Miscellaneous</Category>
-      <Description>AutoHotKey based borderless window hack for FF7. REQUIRES 7H 2.0+!
--Your FF7 window title MUST start with 'Final Fantasy VII'.
--Press 8 to toggle window border.
--Press 9 to left align window.
--Press 0 to right align window.
--Press - to center window.
--Press = to toggle borderless fullscreen. (Set your desired resolution in Game Driver Settings first!)</Description>
-      <Tags>
-        <string>Unab0mb</string>
-      </Tags>
-   </Mod>
 
 ## [Tsunamods] Wizard Staff ##
     <Mod>
@@ -2019,6 +1995,7 @@ Full retro-modern ESUI theme.
  
  ## Remako World Textures ##
     <Mod>
+	  <Deprecated/>
       <ID>98491fb3-ab39-4ca0-a9aa-2e956be7377e</ID>
       <Author>CaptRobau</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
