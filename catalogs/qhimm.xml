@@ -1551,13 +1551,14 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.808</Version>
-        <ReleaseDate>2023-01-22</ReleaseDate>
+        <Version>2.809</Version>
+        <ReleaseDate>2023-01-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
 Auto enable compat flag when used with Ifrit
-Slow down status text rotation in battle</ReleaseNotes>
+Slow down status text rotation in battle
+Fix Echo-s seconds in 16:9</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
