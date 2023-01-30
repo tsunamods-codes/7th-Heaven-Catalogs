@@ -247,31 +247,23 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://forums.qhimm.com/index.php?topic=21346.0</Link>
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
-        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes.7z</Link>
-        <Version>5.020001</Version>
-        <ReleaseDate>2023-01-27T23:08:47.9527787-05:00</ReleaseDate>
+        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020002.7z</Link>
+        <Version>5.020003</Version>
+        <ReleaseDate>2023-01-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/preview.png</PreviewImage>
-        <ReleaseNotes>- Brightness: 87
-- Contrast: 46
-- Without Use Legacy
------------
+        <ReleaseNotes>- Fixed first version of STAGE05 (they don't look white as snow now)
+- For already light backgrounds, these adjustments seem to do the trick:
+
 - Vibrance: 68
 - Saturation: 41
 -----------
-- Filter Color: Lab color
-- Luminance: 61
-- A: -59
-- B: -119
-- Density: 35
-- With Preserve Luminosity
-
-Note: - This is only the first version, expect bugs and weird colors on some battle scenes
-- I will be releasing small patches in the next few days
-- For the time being, please report color inconsistency with screenshots on "Link"
-- I am already aware of the sand textures that look white as snow</ReleaseNotes>
+- Brightness: 0
+- Contrast: -41
+- Without Use Legacy</ReleaseNotes>
         <DownloadSize>266637</DownloadSize>
       </LatestVersion>
+      <Patch VerFrom="5.020002" VerTo="5.020003">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020003.irop</Patch>
       <Name>[Retexture] AxlRose Battle Scenes</Name>
       <Category>Battle Textures</Category>
       <Description>- Photo filters to warm up the image textures
