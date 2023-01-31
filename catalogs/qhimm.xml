@@ -294,7 +294,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <DownloadSize>910000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako 4k HD Battle Textures</Name>
+      <Name>Remako 4k HD Battle Textures (Deprecated)</Name>
 	  <Category>Battle Textures</Category>
       <Description>AI Upscaled Battle Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
@@ -447,7 +447,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <DownloadSize>4210000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako 4k HD Field Textures</Name>
+      <Name>Remako 4k HD Field Textures (Deprecated)</Name>
 	  <Category>Field Textures</Category>
       <Description>AI Upscaled Field Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
@@ -476,7 +476,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <MetaVersion>0</MetaVersion>
       <Name>Final Fantasy VII HD Field Scenes</Name>
 	  <Category>Field Textures</Category>
-      <Description>This package contains all currently available (14.2%) HD Backgrounds for Final Fantasy VII</Description>
+      <Description>This package contains all currently available (14.2%) HD Backgrounds for Final Fantasy VII including Project Edge</Description>
       <Tags>
 	  <string>Team Avalanche</string>
 	  <string>Field</string>
@@ -1039,7 +1039,7 @@ Reduce Grass footsteps</ReleaseNotes>
         <DownloadSize>1569773</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako HD Movies</Name>
+      <Name>Remako HD Movies (Deprecated)</Name>
 	  <Category>Media</Category>
       <Description>Upscaled FMV's by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
@@ -1067,7 +1067,7 @@ Reduce Grass footsteps</ReleaseNotes>
         <DownloadSize>1737588</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Chibi FMV Replacement</Name>
+      <Name>Chibi FMV Replacement (Deprecated)</Name>
 	  <Category>Media</Category>
       <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. 
 (Deprecated. Use Cosmos FMV.)</Description>
@@ -2003,7 +2003,7 @@ Full retro-modern ESUI theme.
         <DownloadSize>36600</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako HD World Textures</Name>
+      <Name>Remako HD World Textures (Deprecated)</Name>
 	  <Category>World Textures</Category>
       <Description>AI Upscaled World Textures
 	    (Deprecated. Use SYW5)</Description>
