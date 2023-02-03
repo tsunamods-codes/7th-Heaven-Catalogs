@@ -248,18 +248,19 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020002.7z</Link>
-        <Version>5.020005</Version>
-        <ReleaseDate>2023-02-01</ReleaseDate>
+        <Version>5.020006</Version>
+        <ReleaseDate>2023-02-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/preview.png</PreviewImage>
-        <ReleaseNotes>- Fixed my first version of these 10 battle scenes (detais on Readme link):
+        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020006.png</PreviewImage>
+        <ReleaseNotes>- Fixed my first version of these 9 battle scenes (detais on Readme link):
   
-  STAGE022, STAGE85, STAGE27, STAGE71, STAGE23, STAGE04, STAGE33, STAGE06, STAGE79 and STAGE89</ReleaseNotes>
+STAGE029, STAGE11, STAGE12, STAGE66, STAGE20, STAGE80, STAGE07, STAGE64 and STAGE72</ReleaseNotes>
         <DownloadSize>266637</DownloadSize>
       </LatestVersion>
       <Patch VerFrom="5.020002" VerTo="5.020003">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020003.irop</Patch>
       <Patch VerFrom="5.020003" VerTo="5.020004">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020004.irop</Patch>
       <Patch VerFrom="5.020004" VerTo="5.020005">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020005.irop</Patch>
+      <Patch VerFrom="5.020005" VerTo="5.020006">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020006.irop</Patch>
       <Name>AxlRose Battle Scenes (Color Overhaul)</Name>
       <Category>Battle Textures</Category>
       <Description>- Photo filters to warm up the image textures
@@ -267,7 +268,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
 ==============
 - "Photoshop" of Satsuki_Yatoshi's SYW Battle Textures
 - All credit to the original author
-- AI upscaled battle textures + Axl's Photoshop (color calibration)</Description>
+- AI upscaled battle textures + AxlRose (color calibration)</Description>
       <Tags>
         <string>AxlRose</string>
         <string>Satsuki</string>
