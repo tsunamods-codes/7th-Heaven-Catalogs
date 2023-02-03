@@ -278,12 +278,12 @@ STAGE029, STAGE11, STAGE12, STAGE66, STAGE20, STAGE80, STAGE07, STAGE64 and STAG
 
 ## Remako Battle Textures ##
     <Mod>
-	  <Deprecated/>
+      <Deprecated/>
       <ID>58fa1e13-0b18-4172-87c3-56ff3195083c</ID>
       <Author>CaptRobau</Author>
       <Link>https://captrobau.blogspot.com/</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[4xUpscale]RemakoHDBattle.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[4xUpscale]RemakoHDBattle.7z</Link>
         <Version>2.0</Version>
         <ReleaseDate>2021-03-01</ReleaseDate>
         <PreviewImage>https://i.imgur.com/2kRz29f.png</PreviewImage>
@@ -292,7 +292,7 @@ STAGE029, STAGE11, STAGE12, STAGE66, STAGE20, STAGE80, STAGE07, STAGE64 and STAG
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Remako 4k HD Battle Textures (Deprecated)</Name>
-	  <Category>Battle Textures</Category>
+      <Category>Battle Textures</Category>
       <Description>AI Upscaled Battle Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
       <Tags>
