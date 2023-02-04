@@ -1628,8 +1628,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.29995</Version>
-        <ReleaseDate>2023-01-28</ReleaseDate>
+        <Version>2.29996</Version>
+        <ReleaseDate>2023-02-03</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
@@ -1652,6 +1652,9 @@ Add Nintendo Switch buttons
 New materia slots
 Echo-s seconds fix
 Fix issue with some FT elements showing when theme is off
+Em hyphen spacing
+Fix dead HP/MP placement in 4:3
+Fix low HP color
 </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
