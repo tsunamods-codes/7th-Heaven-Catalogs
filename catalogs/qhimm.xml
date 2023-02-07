@@ -247,20 +247,16 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://forums.qhimm.com/index.php?topic=21346.0</Link>
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
-        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020002.7z</Link>
-        <Version>5.020006</Version>
-        <ReleaseDate>2023-02-03</ReleaseDate>
+        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020007.7z</Link>
+        <Version>5.020007</Version>
+        <ReleaseDate>2023-02-07</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020006.png</PreviewImage>
-        <ReleaseNotes>- Fixed my first version of these 9 battle scenes (detais on Readme link):
-  
-STAGE029, STAGE11, STAGE12, STAGE66, STAGE20, STAGE80, STAGE07, STAGE64 and STAGE72</ReleaseNotes>
-        <DownloadSize>266637</DownloadSize>
+        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020007.png</PreviewImage>
+        <ReleaseNotes>- Tested, and adjusted colors for these 18 battle scenes:
+
+STAGE013, STAGE25, STAGE26, STAGE41, STAGE10, STAGE24, STAGE49, STAGE28, STAGE85, STAGE15, STAGE17, STAGE18, STAGE19, STAGE08, STAGE31, STAGE34, STAGE35 and STAGE81.</ReleaseNotes>
+        <DownloadSize>292827</DownloadSize>
       </LatestVersion>
-      <Patch VerFrom="5.020002" VerTo="5.020003">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020003.irop</Patch>
-      <Patch VerFrom="5.020003" VerTo="5.020004">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020004.irop</Patch>
-      <Patch VerFrom="5.020004" VerTo="5.020005">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020005.irop</Patch>
-      <Patch VerFrom="5.020005" VerTo="5.020006">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020006.irop</Patch>
       <Name>AxlRose Battle Scenes (Color Overhaul)</Name>
       <Category>Battle Textures</Category>
       <Description>- Photo filters to warm up the image textures
