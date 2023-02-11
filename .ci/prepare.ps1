@@ -13,3 +13,12 @@ Write-Output "--------------------------------------------------"
 Write-Host "##vso[task.setvariable variable=_BUILD_VERSION;]${env:_BUILD_VERSION}"
 Write-Host "##vso[task.setvariable variable=_RELEASE_VERSION;]${env:_RELEASE_VERSION}"
 Write-Host "##vso[task.setvariable variable=_IS_BUILD_CANARY;]${env:_IS_BUILD_CANARY}"
+
+Install-Script -Name Test-XML -Force -Scope CurrentUser
+
+# Lint all XML files
+foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
+{
+  Write-Output "Linting $file..."
+  Test-Xml -XmlPath $file
+}
