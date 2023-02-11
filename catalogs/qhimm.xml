@@ -247,24 +247,28 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Link>https://forums.qhimm.com/index.php?topic=21346.0</Link>
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
-        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020007.7z</Link>
-        <Version>5.020007</Version>
-        <ReleaseDate>2023-02-07</ReleaseDate>
+        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020008.7z</Link>
+        <Version>5.020008</Version>
+        <ReleaseDate>2023-02-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020007.png</PreviewImage>
-        <ReleaseNotes>- Tested, and adjusted colors for these 18 battle scenes:
+        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020008.png</PreviewImage>
+        <ReleaseNotes>- Disabled all untested battle scenes (by default) and added manual switch to enable them
+- Compatibility with SYW and Avalance (temporarily until I am done with all scenes)
+- Untested battle scenes might look OK, or just ugly colors from global change to all
+- 55 out of 89 scenes done so far (62% project completion, maybe more)
+- Adjusted/tested these 14 battle scenes:
 
-STAGE013, STAGE25, STAGE26, STAGE41, STAGE10, STAGE24, STAGE49, STAGE28, STAGE85, STAGE15, STAGE17, STAGE18, STAGE19, STAGE08, STAGE31, STAGE34, STAGE35 and STAGE81.</ReleaseNotes>
-        <DownloadSize>292827</DownloadSize>
+STAGE61, STAGE63, STAGE36, STAGE88, STAGE47, STAGE87, STAGE73, STAGE43, STAGE74, STAGE03, STAGE14, STAGE39, STAGE65, STAGE38</ReleaseNotes>
+        <DownloadSize>292943</DownloadSize>
       </LatestVersion>
-      <Name>AxlRose Battle Scenes (Color Overhaul)</Name>
+      <Name>AxlRose Battle Scenes (Color Overhaul) v8</Name>
       <Category>Battle Textures</Category>
       <Description>- Photo filters to warm up the image textures
 - Adjustments for brighter colors
 ==============
 - "Photoshop" of Satsuki_Yatoshi's SYW Battle Textures
 - All credit to the original author
-- AI upscaled battle textures + AxlRose (color calibration)</Description>
+- AI upscaled battle textures + Axl's Photoshop (color calibration)</Description>
       <Tags>
         <string>AxlRose</string>
         <string>Satsuki</string>
