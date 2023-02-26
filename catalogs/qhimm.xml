@@ -1684,11 +1684,13 @@ Full retro-modern ESUI theme.
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.5</Version>
-        <ReleaseDate>2023-02-05</ReleaseDate>
+        <Version>0.51</Version>
+        <ReleaseDate>2023-02-26</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/WoWOZzq.png</PreviewImage>
         <ReleaseNotes>
+add button options
+add remove names option
 </ReleaseNotes>
         <DownloadSize>200000</DownloadSize>
       </LatestVersion>
