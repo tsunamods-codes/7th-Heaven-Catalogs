@@ -240,6 +240,42 @@ The mod contains 3D model interpolated animations (battle character models, batt
       </Tags>
     </Mod>
 
+## AxlRose Blender ##
+    <Mod>
+      <ID>d9f9ff17-666c-4b5f-8292-4835888a1358</ID>
+      <Author>AxlRose</Author> 
+      <Link>https://forums.qhimm.com/index.php?topic=21357.0</Link>
+      <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
+      <LatestVersion>
+        <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/blender/%5bAxlRose%5d_Blender_v1.7z</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2023-03-01</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/blender/preview.png</PreviewImage>
+        <ReleaseNotes> On the Readme</ReleaseNotes>
+        <DownloadSize>6767</DownloadSize>
+      </LatestVersion>
+      <Name>AxlRose's Blender v1</Name>
+      <Category>Battle Textures</Category>
+      <Description>- Fixes the "shadow/light" effect (blending) of the ground/floor for all affected Battle Stages
+- Improvements to the Battle Fields were done directly to the 3D model's floor meshes
+- Compatible with most Battle Texture mods
+
+Important:
+- Place this mod below (After) other texture mods such as "SYW Battle Textures", "AxlRose's Battle Scenes" or "Avalanche Arisen" (Auto Sort)
+
+Big thanks to:
+- L@Zar0 for the help provided with KimeraCS
+- Kaldarasha for work-around applying the light/shadows with KimeraCS.
+      </Description>
+      <Tags>
+        <string>AxlRose</string>
+        <string>Light</string>
+        <string>Shadow</string>
+        <string>Battle Textures</string>
+      </Tags>
+    </Mod>
+
 ## AxlRose Battle Textures ##
     <Mod>
       <ID>f6767f0d-10bf-43a8-ae24-fe326469a30e</ID>
@@ -261,7 +297,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
 STAGE61, STAGE63, STAGE36, STAGE88, STAGE47, STAGE87, STAGE73, STAGE43, STAGE74, STAGE03, STAGE14, STAGE39, STAGE65, STAGE38</ReleaseNotes>
         <DownloadSize>292943</DownloadSize>
       </LatestVersion>
-      <Name>AxlRose Battle Scenes (Color Overhaul) v8</Name>
+      <Name>AxlRose's Battle Scenes (Color Overhaul) v8</Name>
       <Category>Battle Textures</Category>
       <Description>- Photo filters to warm up the image textures
 - Adjustments for brighter colors
@@ -1558,7 +1594,7 @@ Battle Avatars Support</Description>
         <ReleaseNotes/>
         <DownloadSize>161000</DownloadSize>
       </LatestVersion>
-      <Name>AxlRose Avatars</Name>
+      <Name>AxlRose's Avatars</Name>
       <Category>User Interface</Category>
       <Description>Replaces the in-game portraits of your characters with a Remake style version.
 - New super hot Yuffie, Cid, Young Cloud, Vincent, Cait Sith, and Chocobo models.
