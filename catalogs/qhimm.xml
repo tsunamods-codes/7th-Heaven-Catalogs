@@ -284,11 +284,13 @@ Big thanks to:
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020009.7z</Link>
-        <Version>5.020009</Version>
-        <ReleaseDate>2023-03-31</ReleaseDate>
+        <Version>5.020010</Version>
+        <ReleaseDate>2023-04-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020009.png</PreviewImage>
+        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020010.png</PreviewImage>
         <ReleaseNotes>
+* New "04 - Forest" 3D model (4X Upscale textures, 4X and re-colored, 6X and re-colored, Normal and PBR)
+* Cleaned up mod .xml file
 - New Mod structure
 - Repairs to the 3D meshes for Stage02 (Grasslands) and Stage03 (Mt. Nibel)
 - New 3 sets of texture upscales for Stage02 and 03 by AxlRose (4X Vanilla colors, 4X and re-colored, 6X and re-colored)
@@ -296,7 +298,8 @@ Big thanks to:
         </ReleaseNotes>
         <DownloadSize>397740</DownloadSize>
       </LatestVersion>
-      <Name>AxlRose's Battle Scenes (Color Overhaul) v9</Name>
+      <Patch VerFrom="5.020009" VerTo="5.020010">iros://Url/http$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020010.irop</Patch>
+      <Name>AxlRose's Battle Scenes (Color Overhaul) v10</Name>
       <Category>Battle Textures</Category>
       <Description>
 - Multiple needed fixes to Battle Scenes meshes (Sky, floors, miss-aligned textures)
