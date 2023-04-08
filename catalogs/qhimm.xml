@@ -331,7 +331,7 @@ Big thanks to:
         <DownloadSize>910000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako 4k HD Battle Textures (Deprecated)</Name>
+      <Name>Remako Battle Textures (Deprecated)</Name>
 	  <Category>Battle Textures</Category>
       <Description>AI Upscaled Battle Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
@@ -484,7 +484,7 @@ Big thanks to:
         <DownloadSize>4210000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako 4k HD Field Textures (Deprecated)</Name>
+      <Name>Remako Field Textures (Deprecated)</Name>
 	  <Category>Field Textures</Category>
       <Description>AI Upscaled Field Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
@@ -496,24 +496,24 @@ Big thanks to:
       </Tags>
     </Mod>
  
-## 3d Remade Field Textures ##
+## Project Edge/Team Avalanche Remodeled Fields ##
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
-      <Author>Jusete, Team Avalanche, SoulEvan</Author>
+      <Author>anaho, Ben Nicholas, faulked, Grimmy, jmp434, Jusete, Mayo Master, Shampignon, shunsq, Ulpian</Author>
       <Link>https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/</Link>
       <LatestVersion>
 		<Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes.7z</Link>
-        <Version>0.152</Version>
-        <ReleaseDate>2022-10-21</ReleaseDate>
+        <Version>0.153</Version>
+        <ReleaseDate>2023-04-08</ReleaseDate>
         <PreviewImage>https://i.imgur.com/wT1mFDC.png</PreviewImage>
         <ReleaseNotes>  
-  -Import mds7st3</ReleaseNotes>
+  -Import md1stin, md1_1, mds7st32, mds7st32, mds7st3</ReleaseNotes>
         <DownloadSize>730000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Final Fantasy VII HD Field Scenes</Name>
+      <Name>Project Edge/Team Avalanche Remodeled Fields</Name>
 	  <Category>Field Textures</Category>
-      <Description>This package contains all currently available (14.2%) HD Backgrounds for Final Fantasy VII including Project Edge</Description>
+      <Description>This package contains all currently available (14.68%) HD Backgrounds for Final Fantasy VII including Project Edge</Description>
       <Tags>
 	  <string>Team Avalanche</string>
 	  <string>Field</string>
@@ -1076,7 +1076,7 @@ Reduce Grass footsteps</ReleaseNotes>
         <DownloadSize>1569773</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako HD Movies (Deprecated)</Name>
+      <Name>Remako Movies (Deprecated)</Name>
 	  <Category>Media</Category>
       <Description>Upscaled FMV's by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
@@ -2075,7 +2075,7 @@ add remove names option
         <DownloadSize>36600</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Remako HD World Textures (Deprecated)</Name>
+      <Name>Remako World Textures (Deprecated)</Name>
 	  <Category>World Textures</Category>
       <Description>AI Upscaled World Textures
 	    (Deprecated. Use SYW5)</Description>
