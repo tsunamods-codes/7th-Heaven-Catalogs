@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Sega Catalog">
+<Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Sega Catalog">
   <Mods>
     <Mod>
       <ID>efc4bc61-7f80-4635-b583-f52c5c9d239f</ID>
