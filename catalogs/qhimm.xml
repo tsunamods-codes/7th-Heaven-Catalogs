@@ -1723,13 +1723,14 @@ Full retro-modern ESUI theme.
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.52</Version>
-        <ReleaseDate>2023-02-27</ReleaseDate>
+        <Version>0.53</Version>
+        <ReleaseDate>2023-04-20</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/WoWOZzq.png</PreviewImage>
         <ReleaseNotes>
-add button options
-add remove names option
+Fixed Aerith's avatar last name
+Adjusted cursor
+Fixed save slot placement
 </ReleaseNotes>
         <DownloadSize>200000</DownloadSize>
       </LatestVersion>
