@@ -1338,8 +1338,8 @@ E.g., Bolt2 = Thundara</Description>
  ## Coin Skill ##
     <Mod>
       <ID>321a964a-9535-4e5a-8c90-2034a1afeb74</ID>
-      <Author>Unknown Author</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Author>Mewsin</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=13383.0</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Coin_Skill.7z</Link>
         <Version>1.0</Version>
@@ -1351,7 +1351,7 @@ E.g., Bolt2 = Thundara</Description>
       <MetaVersion>0</MetaVersion>
       <Name>Coin Skill Retextures</Name>
 	  <Category>Spell Textures</Category>
-      <Description>Retextured choices for Coin Toss. (If original author is found message strife98)</Description>
+      <Description>Retextured choices for Coin Toss.</Description>
       <Tags>
 	  <string>Textures</string>
 	  <string>Coin Toss</string>
