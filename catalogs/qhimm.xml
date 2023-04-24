@@ -1342,16 +1342,16 @@ E.g., Bolt2 = Thundara</Description>
       <Link>https://forums.qhimm.com/index.php?topic=13383.0</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Coin_Skill.7z</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2020-03-07</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/DFnbBY8.png</PreviewImage>
+        <Version>1.01</Version>
+        <ReleaseDate>2023-04-23</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/laIWzV7.png</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>7010</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Coin Skill Retextures</Name>
-	  <Category>Spell Textures</Category>
-      <Description>Retextured choices for Coin Toss.</Description>
+      <Name>Coin skill window UI Backgroud</Name>
+	  <Category>User Interface</Category>
+      <Description>Retextured choices for Coin Toss UI window.</Description>
       <Tags>
 	  <string>Textures</string>
 	  <string>Coin Toss</string>
