@@ -20,5 +20,5 @@ choco install xsltproc
 foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
   Write-Output "Linting $file..."
-  xmllint $file
+  xmllint --noout $file
 }
