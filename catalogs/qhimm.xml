@@ -603,6 +603,31 @@ Not compatible with other Gameplay mods.</Description>
       </Tags>
     </Mod>
 
+## PS3 Tweaks ##
+    <Mod>
+      <ID>5f9f1ce0-a402-46e1-b8af-e4c09f7c40a8</ID>
+      <Author>Postscriptthree</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <LatestVersion>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Gameplay/PS3Tweaks.iro</Link>
+        <Version>1.11</Version>
+        <ReleaseDate>2023-03-06</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>2502</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Postscriptthree's Tweaks</Name>
+	  <Category>Gameplay</Category>
+      <Description>An assortment of gameplay mechanics tweaks.
+      True Wait Mode, Break Damage/HP Limit, Materia Pair adjustments, etc.</Description>
+      <Tags>
+	  <string>postscriptthree</string>
+	  <string>Gameplay</string>
+	  <string>tweaks</string>
+      </Tags>
+    </Mod>
+
  ## Harder Items ##
     <Mod>
       <ID>de38b84b-076a-4bcd-b176-c546295e9aae</ID>
