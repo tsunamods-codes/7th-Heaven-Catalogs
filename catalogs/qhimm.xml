@@ -533,13 +533,10 @@ Big thanks to:
       <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.05/%5bTsunamods%5d%20Echo-S%207.iro</Link>	      
-        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/%5BTsunamods%5D%20Echo-S%207%201.05.iro</Link>
-	<Link>iros://GDrive/12OM26Uj168fl8CnzBpcrpPl0sexiKGA5</Link>
-	<Link>iros://GDrive/1nA9x-wV-ZPRDK5adTALYHtXb61OuBquM</Link>
-        <Version>1.05</Version>
-        <ReleaseDate>2023-01-21</ReleaseDate>
+      <LatestVersion>   
+        <Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S%207.iro</Link>
+        <Version>1.06</Version>
+        <ReleaseDate>2023-08-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
         <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
@@ -1580,8 +1577,8 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.810</Version>
-        <ReleaseDate>2023-01-29</ReleaseDate>
+        <Version>2.811</Version>
+        <ReleaseDate>2023-08-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
@@ -1692,21 +1689,21 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.29998</Version>
-        <ReleaseDate>2023-02-05</ReleaseDate>
+        <Version>2.29999</Version>
+        <ReleaseDate>2023-08-21</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 2.9.9.72+
 Fix color schemes not surviving save
 Undo color force in lieu of Reshade compatability
-Resize dialog boxes to fit font when using Echo-s 1.05
+Resize dialog boxes to fit font when using Echo-s 1.06
 Added Finishing Touch V2 battle view
 Added Finishing Touch non-compact battle view
 Added custom battle markers
 Fixed incorrect prelude background for "Shinra Building"
 Fixed limit box sizing
-Add Dialog icons for Echo-s 1.05
+Add Dialog icons for Echo-s 1.06
 New Threat materia fix
 Icon touchup
 Add Fury and Sadness icons to menu
@@ -1720,6 +1717,7 @@ Fix dead HP/MP placement in 4:3
 Fix low HP color
 Code housekeeping
 Change menu numbers without changing battle numbers
+New damage numbers
 </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1748,8 +1746,8 @@ Full retro-modern ESUI theme.
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.53</Version>
-        <ReleaseDate>2023-04-20</ReleaseDate>
+        <Version>0.54</Version>
+        <ReleaseDate>2023-08-21</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/WoWOZzq.png</PreviewImage>
         <ReleaseNotes>
