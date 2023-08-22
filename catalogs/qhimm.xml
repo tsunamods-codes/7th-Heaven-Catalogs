@@ -533,8 +533,9 @@ Big thanks to:
       <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
-      <LatestVersion>   
-        <Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S%207.iro</Link>
+      <LatestVersion>
+	<Link>iros://Url/http$gp-mc.net/tsunamods//echo-s-7/1.06/Echo-S%207%201.06.iro</Link>
+        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S%207.iro</Link>
         <Version>1.06</Version>
         <ReleaseDate>2023-08-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
