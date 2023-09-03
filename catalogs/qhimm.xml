@@ -534,15 +534,16 @@ Big thanks to:
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.08/Echo-S%207%201.08.iro</Link>
-        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S%207%201.08.iro</Link>
-        <Version>1.08</Version>
+	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.08/Echo-s%201.081.iro</Link>
+        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S/Echo-s%201.081.iro</Link>
+        <Version>1.081</Version>
         <ReleaseDate>2023-09-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
         <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
+	<Patch VerFrom="1.08" VerTo="1.081">iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.08/Echo-s%201.08_to_1.081.irop</Patch>
       <Name>[Tsunamods] Echo-S</Name>
       <Category>Gameplay</Category>
       <Description>Adds full voice acting to the game</Description>
