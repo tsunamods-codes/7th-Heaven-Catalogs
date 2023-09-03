@@ -1008,7 +1008,7 @@ Not compatible with other Gameplay mods.</Description>
         <Version>1.1081</Version>
         <ReleaseDate>2023-04-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
 Fix wrong ambience in battle square fights</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
@@ -1044,7 +1044,7 @@ Fix wrong ambience in battle square fights</ReleaseNotes>
         <Version>1.21</Version>
         <ReleaseDate>2020-02-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/X7lQH2y.png</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>136972</DownloadSize>
       </LatestVersion>
@@ -1693,7 +1693,7 @@ Battle Avatars Support</Description>
         <Version>2.3</Version>
         <ReleaseDate>2023-09-02</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/YquwKIl.png</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 2.9.9.72+
 Fix color schemes not surviving save
