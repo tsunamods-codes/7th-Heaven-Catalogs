@@ -1696,7 +1696,7 @@ Battle Avatars Support</Description>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/YquwKIl.png</PreviewImage>
         <ReleaseNotes>
-Requires 7th Heaven 2.9.9.72+
+Requires 7th Heaven 3.0.0+
 Fix color schemes not surviving save
 Undo color force in lieu of Reshade compatability
 Added Finishing Touch V2 battle view
