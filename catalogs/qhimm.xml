@@ -1661,7 +1661,7 @@ Battle Avatars Support</Description>
 ## [Tsunamods] Phoenix Tail Avatars
     <Mod>
       <ID>0487ed29-510a-43bb-99b2-a612d7df8d01</ID>  
-      <Author>Tsunamix + TheWez1981</Author>
+      <Author>Chrysalis + TheWez1981 + Tsunamix</Author>
       <Link>https://discord.gg/XVHBExy</Link>
       <LatestVersion>
         <Link>iros://Url/http$tsunamods.7thheaven.rocks/%5BTsunamods%5D%20Phoenix%20Tail%20Avatars.iro</Link>
@@ -1676,9 +1676,10 @@ Battle Avatars Support</Description>
       <Category>User Interface</Category>
       <Description>Multiple choice avatars</Description>
       <Tags>
-        <string>Tsunamix</string>
+        <string>Chrysalis</string>
         <string>TheWez1981</string>
-        <string>Tsunamods</string>
+        <string>Tsunamix</string>
+	<string>Tsunamods</string>
       </Tags>
     </Mod>
 
