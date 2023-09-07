@@ -1690,34 +1690,15 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.3</Version>
-        <ReleaseDate>2023-09-02</ReleaseDate>
+        <Version>2.4</Version>
+        <ReleaseDate>2023-09-07</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/YquwKIl.png</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0.0+
-Fix color schemes not surviving save
-Undo color force in lieu of Reshade compatability
-Added Finishing Touch V2 battle view
-Added Finishing Touch non-compact battle view
-Added custom battle markers
-Fixed incorrect prelude background for "Shinra Building"
-Fixed limit box sizing
-New Threat materia fix
-Icon touchup
-Add Fury and Sadness icons to menu
-Status touchup
-Add Nintendo Switch buttons
-New materia slots
-Echo-s seconds fix
-Fix issue with some FT elements showing when theme is off
-Em hyphen spacing
-Fix dead HP/MP placement in 4:3
-Fix low HP color
-Code housekeeping
-Change menu numbers without changing battle numbers
 New damage numbers
 2 new avatar and mini avatar sets
+Live status ailment icons in battle
 </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1727,8 +1708,8 @@ New damage numbers
 Prelude credits from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
 Start menu background artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
 New game over screen from artist Lap Pun Cheung.
-8 avatar sets.
-4 battle/dialogue avatar sets.
+10 avatar sets.
+6 battle/dialogue avatar sets.
 Full retro-modern ESUI theme.
   </Description>
       <Tags>
@@ -1746,14 +1727,15 @@ Full retro-modern ESUI theme.
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.551</Version>
-        <ReleaseDate>2023-09-02</ReleaseDate>
+        <Version>0.6</Version>
+        <ReleaseDate>2023-09-07</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/T2EreBw.png</PreviewImage>
         <ReleaseNotes>
 Fixed Aerith's avatar last name
 Adjusted cursor
 Fixed save slot placement
+Live status ailment icons in battle
 </ReleaseNotes>
         <DownloadSize>200000</DownloadSize>
       </LatestVersion>
