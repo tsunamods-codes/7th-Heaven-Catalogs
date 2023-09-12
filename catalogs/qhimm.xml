@@ -1005,12 +1005,13 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1081</Version>
-        <ReleaseDate>2023-04-14</ReleaseDate>
+        <Version>1.109</Version>
+        <ReleaseDate>2023-09-12</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
-Fix wrong ambience in battle square fights</ReleaseNotes>
+Fix Aerith using Cid's grunts when Scimitar is equipped (New Threat)
+Work on lastmap ambience and fmv sfx</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
