@@ -1691,18 +1691,19 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.42</Version>
-        <ReleaseDate>2023-09-17</ReleaseDate>
+        <Version>2.43</Version>
+        <ReleaseDate>2023-09-20</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/myaVYAd.gif</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0+
 New damage numbers
-2 new avatar and mini avatar sets
+2 new avatar and 3 mini avatar sets
 Live status ailment icons in battle
 Add Peerless, Resist icons
 Add Dual icon for NT
 Theme-specific backgrounds
+Touch up menu boxes
 </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1713,7 +1714,7 @@ Prelude credits from artist Lap Pun Cheung with option to randomize from 109 pie
 Start menu background from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
 New game over screen from artist Lap Pun Cheung.
 10 avatar sets.
-6 battle/dialogue avatar sets.
+7 battle/dialogue avatar sets.
 Full retro-modern ESUI theme (Requires Enhanced Stock UI).
   </Description>
       <Tags>
@@ -1731,8 +1732,8 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.61</Version>
-        <ReleaseDate>2023-09-09</ReleaseDate>
+        <Version>0.62</Version>
+        <ReleaseDate>2023-09-20</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1740,6 +1741,8 @@ Fixed Aerith's avatar last name
 Adjusted cursor
 Fixed save slot placement
 Live status ailment icons in battle
+add Peerless, Resist, Dual icons
+Fix Echo-s spell names not showing
 </ReleaseNotes>
         <DownloadSize>200000</DownloadSize>
       </LatestVersion>
