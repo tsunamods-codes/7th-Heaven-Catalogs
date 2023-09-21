@@ -605,20 +605,20 @@ Not compatible with other Gameplay mods.</Description>
     <Mod>
       <ID>5f9f1ce0-a402-46e1-b8af-e4c09f7c40a8</ID>
       <Author>Postscriptthree</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Gameplay/PS3Tweaks.iro</Link>
-        <Version>1.12</Version>
-        <ReleaseDate>2023-08-27</ReleaseDate>
+		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
+        <Version>1.14</Version>
+        <ReleaseDate>2023-09-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>2502</DownloadSize>
+        <DownloadSize>3260</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Tweaks</Name>
 	  <Category>Gameplay</Category>
       <Description>An assortment of gameplay mechanics tweaks.
-      True Wait Mode, Break Damage/HP Limit, Materia Pair adjustments, etc.</Description>
+      True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Materia Pair adjustments, etc.</Description>
       <Tags>
 	  <string>postscriptthree</string>
 	  <string>Gameplay</string>
