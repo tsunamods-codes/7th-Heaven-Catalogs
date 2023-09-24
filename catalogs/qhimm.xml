@@ -1691,8 +1691,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.431</Version>
-        <ReleaseDate>2023-09-22</ReleaseDate>
+        <Version>2.44</Version>
+        <ReleaseDate>2023-09-24</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/myaVYAd.gif</PreviewImage>
         <ReleaseNotes>
@@ -1704,6 +1704,7 @@ Add Peerless, Resist icons
 Add Dual icon for NT
 Theme-specific backgrounds
 Touch up menu boxes
+clear battle boxes when using a personalized color scheme
 </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
