@@ -608,17 +608,17 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
 		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.18</Version>
-        <ReleaseDate>2023-10-02</ReleaseDate>
+        <Version>1.19</Version>
+        <ReleaseDate>2023-10-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>3352</DownloadSize>
+        <ReleaseNotes>Added Limit Overhaul</ReleaseNotes>
+        <DownloadSize>4063</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Tweaks</Name>
 	  <Category>Gameplay</Category>
       <Description>An assortment of gameplay mechanics tweaks.
-      True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Materia Pair adjustments, etc.</Description>
+      True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Limit Overhaul, Materia Pairing adjustments, etc.</Description>
       <Tags>
 	  <string>postscriptthree</string>
 	  <string>Gameplay</string>
