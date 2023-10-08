@@ -454,9 +454,9 @@ Big thanks to:
       <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
       <LatestVersion>
-        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Field.Textures.V5.23.7z</Link>
-        <Version>5.23</Version>
-        <ReleaseDate>2022-12-11</ReleaseDate>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Field.Textures.V5.25.7z</Link>
+        <Version>5.25</Version>
+        <ReleaseDate>2023-09-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/2ddBcgw.jpg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. This pack also upscales all of the field animations. Those animations can cause slowdown on some fields on some computers. If you get slowdown, please disable the "Advanced Texture Animations" option. (double click on this mod and turn off the "Advanced Texture Animations") To get proper Advanced Texture Animations you need to: -Be on the lastest updated 7th Heaven version from here: https://github.com/tsunamods-codes/7th-Heaven/releases. (Scroll down, click "Assets", and grab 7thHeaven-vxxx_Release.zip) -Then go in 7th "Settings/General Settings" and on the bottom-left you'll find the FFNx section, click canary then check for updates, say yes and then go to "Settings/Game Driver Settings, and click "Restore defaults" next to save. -Then go in 7th "Settings/Game Driver - Animated Textures" and set it to ON.</ReleaseNotes>
@@ -534,10 +534,10 @@ Big thanks to:
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-	<Link>iros://Url/http$gp-mc.net/tsunamods//echo-s-7/1.06/Echo-S%207%201.06.iro</Link>
-        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S%207.iro</Link>
-        <Version>1.06</Version>
-        <ReleaseDate>2023-08-21</ReleaseDate>
+	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.1/Echo-s%201.1.iro</Link>
+        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S/Echo-s%201.1.iro</Link>
+        <Version>1.1</Version>
+        <ReleaseDate>2023-09-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
         <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
@@ -584,8 +584,8 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
-        <Version>4.032</Version>
-        <ReleaseDate>2023-01-29</ReleaseDate>
+        <Version>4.033</Version>
+        <ReleaseDate>2023-10-05</ReleaseDate>
         <PreviewImage>https://i.imgur.com/oHJvuQE.png</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>5802</DownloadSize>
@@ -605,20 +605,20 @@ Not compatible with other Gameplay mods.</Description>
     <Mod>
       <ID>5f9f1ce0-a402-46e1-b8af-e4c09f7c40a8</ID>
       <Author>Postscriptthree</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Gameplay/PS3Tweaks.iro</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2023-03-06</ReleaseDate>
+		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
+        <Version>1.19</Version>
+        <ReleaseDate>2023-10-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>2502</DownloadSize>
+        <ReleaseNotes>Added Limit Overhaul</ReleaseNotes>
+        <DownloadSize>4063</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Tweaks</Name>
 	  <Category>Gameplay</Category>
       <Description>An assortment of gameplay mechanics tweaks.
-      True Wait Mode, Break Damage/HP Limit, Materia Pair adjustments, etc.</Description>
+      True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Limit Overhaul, Materia Pairing adjustments, etc.</Description>
       <Tags>
 	  <string>postscriptthree</string>
 	  <string>Gameplay</string>
@@ -1005,12 +1005,13 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.1081</Version>
-        <ReleaseDate>2023-04-14</ReleaseDate>
+        <Version>1.109</Version>
+        <ReleaseDate>2023-09-12</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/7t4JHxB.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
-Fix wrong ambience in battle square fights</ReleaseNotes>
+Fix Aerith using Cid's grunts when Scimitar is equipped (New Threat)
+Work on lastmap ambience and fmv sfx</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -1246,7 +1247,7 @@ Fix wrong ambience in battle square fights</ReleaseNotes>
 		<Version>1.68</Version>
         <ReleaseDate>2023-04-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/i5rDqbF.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/i4NPnAO.png</PreviewImage>
         <ReleaseNotes>FT Update</ReleaseNotes>
         <DownloadSize>5920</DownloadSize>
       </LatestVersion>
@@ -1552,10 +1553,10 @@ Features:
       <Author>Fewtch, Chrysalis, and the Qhimm Modding Community</Author> 
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/FF7_Remake_ESUI_Theme_1.52.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/FF7_Remake_ESUI_Theme_1.60.7z</Link>
         <Link>iros://GDrive/1mX9Z3xY4fdvGuTWm2MQCxO2Da8Lyw-Iq</Link>	      
-		<Version>1.52</Version>
-        <ReleaseDate>2022-10-10</ReleaseDate>
+		<Version>1.60</Version>
+        <ReleaseDate>2023-09-26</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/piuBuyy.png</PreviewImage>
         <ReleaseNotes/>
@@ -1578,14 +1579,15 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.811</Version>
-        <ReleaseDate>2023-08-21</ReleaseDate>
+        <Version>2.905</Version>
+        <ReleaseDate>2023-10-08</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
 Auto enable compat flag when used with Ifrit
 Slow down status text rotation in battle
-Fix Echo-s seconds in 16:9</ReleaseNotes>
+Fix Echo-s seconds in 16:9
+fix expanded icons + Echo-s</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
@@ -1665,8 +1667,8 @@ Battle Avatars Support</Description>
       <Link>https://discord.gg/XVHBExy</Link>
       <LatestVersion>
         <Link>iros://Url/http$tsunamods.7thheaven.rocks/%5BTsunamods%5D%20Phoenix%20Tail%20Avatars.iro</Link>
-        <Version>4.0</Version>
-        <ReleaseDate>2022-10-04</ReleaseDate>
+        <Version>4.02</Version>
+        <ReleaseDate>2023-09-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/UU937pj.png</PreviewImage>
         <ReleaseNotes/>
@@ -1690,35 +1692,23 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.29999</Version>
-        <ReleaseDate>2023-08-21</ReleaseDate>
+        <Version>2.481</Version>
+        <ReleaseDate>2023-10-08</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/8NFw0iO.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/myaVYAd.gif</PreviewImage>
         <ReleaseNotes>
-Requires 7th Heaven 2.9.9.72+
-Fix color schemes not surviving save
-Undo color force in lieu of Reshade compatability
-Resize dialog boxes to fit font when using Echo-s 1.06
-Added Finishing Touch V2 battle view
-Added Finishing Touch non-compact battle view
-Added custom battle markers
-Fixed incorrect prelude background for "Shinra Building"
-Fixed limit box sizing
-Add Dialog icons for Echo-s 1.06
-New Threat materia fix
-Icon touchup
-Add Fury and Sadness icons to menu
-Status touchup
-Add Nintendo Switch buttons
-New materia slots
-Echo-s seconds fix
-Fix issue with some FT elements showing when theme is off
-Em hyphen spacing
-Fix dead HP/MP placement in 4:3
-Fix low HP color
-Code housekeeping
-Change menu numbers without changing battle numbers
+Requires 7th Heaven 3.0+
 New damage numbers
+2 new avatar and 3 mini avatar sets
+Live status ailment icons in battle
+Add Peerless, Resist icons
+Add Dual icon for NT
+Theme-specific backgrounds
+Touch up menu boxes
+Clear battle boxes when using a personalized color scheme
+New battleview
+Fix transparent battle boxes
+Better cholor scheme matching for FT battleviews
 </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1726,11 +1716,11 @@ New damage numbers
       <Category>User Interface</Category>
       <Description>A collection of menu enhancements including:
 Prelude credits from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
-Start menu background artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
+Start menu background from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
 New game over screen from artist Lap Pun Cheung.
-8 avatar sets.
-4 battle/dialogue avatar sets.
-Full retro-modern ESUI theme.
+10 avatar sets.
+7 battle/dialogue avatar sets.
+Full retro-modern ESUI theme (Requires Enhanced Stock UI).
   </Description>
       <Tags>
         <string>Bonez</string>
@@ -1747,14 +1737,17 @@ Full retro-modern ESUI theme.
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.54</Version>
-        <ReleaseDate>2023-08-21</ReleaseDate>
+        <Version>0.65</Version>
+        <ReleaseDate>2023-10-08</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/WoWOZzq.png</PreviewImage>
+        <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
 Fixed Aerith's avatar last name
 Adjusted cursor
 Fixed save slot placement
+Live status ailment icons in battle
+add Peerless, Resist, Dual icons
+Fix Echo-s spell names not showing
 </ReleaseNotes>
         <DownloadSize>200000</DownloadSize>
       </LatestVersion>
