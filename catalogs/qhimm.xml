@@ -502,7 +502,7 @@ Big thanks to:
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
       <Author>anaho, Ben Nicholas, faulked, Grimmy, jmp434, Jusete, Mayo Master, Shampignon, shunsq, Ulpian</Author>
-      <Link>https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/</Link>
+      <Link>https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/</Link><Link>https://forums.qhimm.com/index.php?topic=17791.0</Link>
       <LatestVersion>
 		<Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes.7z</Link>
         <Version>0.155</Version>
@@ -581,7 +581,7 @@ Not compatible with other Gameplay mods.</Description>
     <Mod>
       <ID>7c989c70-8381-4a5f-a2d8-3d22dc8f6042</ID>
       <Author>Qhimm Modding Community</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=16653.msg236205#msg236205</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
         <Version>4.033</Version>
@@ -1142,7 +1142,7 @@ Work on lastmap ambience and fmv sfx</ReleaseNotes>
     <Mod>
       <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
       <Author>FinalFanTim, PacGamer</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=8160.0</Link> 
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim%201.02.iro</Link>
         <Version>1.02</Version>
@@ -1768,7 +1768,7 @@ Fix Echo-s spell names not showing
     <Mod>
       <ID>beae6bc5-90f0-43a8-990e-e382300a0ea6</ID>
       <Author>AbyssWolf</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=15546.msg218806#msg218806</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/AbyssWolf.7z</Link>
         <Version>1.0</Version>
