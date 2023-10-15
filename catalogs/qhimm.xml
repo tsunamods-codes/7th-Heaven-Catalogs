@@ -382,8 +382,8 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Battle Models/ChaOS.7z</Link>
-        <Version>1.702</Version>
-        <ReleaseDate>2019-03-01</ReleaseDate>
+        <Version>1.802</Version>
+        <ReleaseDate>2023-10-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
         <ReleaseNotes/>
@@ -502,14 +502,14 @@ Big thanks to:
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
       <Author>anaho, Ben Nicholas, faulked, Grimmy, jmp434, Jusete, Mayo Master, Shampignon, shunsq, Ulpian</Author>
-      <Link>https://finalfantasy.german-syslinux-blog.de/FF7/Field-Scene-Packets/</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=17791.0</Link>
       <LatestVersion>
 		<Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes.7z</Link>
-        <Version>0.154</Version>
-        <ReleaseDate>2023-04-26</ReleaseDate>
+        <Version>0.155</Version>
+        <ReleaseDate>2023-10-11</ReleaseDate>
         <PreviewImage>https://i.imgur.com/wT1mFDC.png</PreviewImage>
         <ReleaseNotes>  
-  --Edit eals_1 to have blue water and grey rocks</ReleaseNotes>
+  -mds7st2</ReleaseNotes>
         <DownloadSize>730000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
@@ -581,7 +581,7 @@ Not compatible with other Gameplay mods.</Description>
     <Mod>
       <ID>7c989c70-8381-4a5f-a2d8-3d22dc8f6042</ID>
       <Author>Qhimm Modding Community</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=16653.msg236205#msg236205</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
         <Version>4.033</Version>
@@ -608,11 +608,11 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
 		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.19</Version>
-        <ReleaseDate>2023-10-07</ReleaseDate>
+        <Version>1.20</Version>
+        <ReleaseDate>2023-10-11</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Limit Overhaul</ReleaseNotes>
-        <DownloadSize>4063</DownloadSize>
+        <ReleaseNotes>Added Music Changes</ReleaseNotes>
+        <DownloadSize>6903</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Tweaks</Name>
@@ -1005,13 +1005,12 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.109</Version>
-        <ReleaseDate>2023-09-12</ReleaseDate>
+        <Version>1.11</Version>
+        <ReleaseDate>2023-10-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
-Fix Aerith using Cid's grunts when Scimitar is equipped (New Threat)
-Work on lastmap ambience and fmv sfx</ReleaseNotes>
+Change Battle Swirl, Enemy Death, Keypad</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -1142,7 +1141,7 @@ Work on lastmap ambience and fmv sfx</ReleaseNotes>
     <Mod>
       <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
       <Author>FinalFanTim, PacGamer</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=8160.0</Link> 
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim%201.02.iro</Link>
         <Version>1.02</Version>
@@ -1579,8 +1578,8 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.905</Version>
-        <ReleaseDate>2023-10-08</ReleaseDate>
+        <Version>2.910</Version>
+        <ReleaseDate>2023-10-12</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
@@ -1692,8 +1691,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.481</Version>
-        <ReleaseDate>2023-10-08</ReleaseDate>
+        <Version>2.483</Version>
+        <ReleaseDate>2023-10-10</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/myaVYAd.gif</PreviewImage>
         <ReleaseNotes>
@@ -1768,7 +1767,7 @@ Fix Echo-s spell names not showing
     <Mod>
       <ID>beae6bc5-90f0-43a8-990e-e382300a0ea6</ID>
       <Author>AbyssWolf</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=15546.msg218806#msg218806</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/AbyssWolf.7z</Link>
         <Version>1.0</Version>
@@ -1947,7 +1946,7 @@ Fix Echo-s spell names not showing
       <MetaVersion>0</MetaVersion>
       <Name>Wictoriously Avatars</Name>
 	  <Category>User Interface</Category>
-      <Description>Multple custom avatar choices by wictoriously</Description>
+      <Description>Alternative avatars from official artworks</Description>
       <Tags>
 	  <string>Avatar</string>
 	  <string>User Interface</string>
