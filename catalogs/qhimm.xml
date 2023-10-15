@@ -1010,8 +1010,7 @@ Not compatible with other Gameplay mods.</Description>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
-Fix Aerith using Cid's grunts when Scimitar is equipped (New Threat)
-Work on lastmap ambience and fmv sfx</ReleaseNotes>
+Change Battle Swirl, Enemy Death, Keypad</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
