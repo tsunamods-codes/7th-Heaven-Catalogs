@@ -534,13 +534,16 @@ Big thanks to:
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.1/Echo-s%201.1.iro</Link>
-        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S/Echo-s%201.1.iro</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2023-09-27</ReleaseDate>
+	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.11/Echo-s%201.11.iro</Link>
+        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S/Echo-s%201.11.iro</Link>
+        <Version>1.11</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
-        <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
+        <ReleaseNotes>-All known bugs fixed
+  -Revamped character naming to be completely invisible
+  -Revert parade minigame to vanilla difficulty
+  -Tsuna character can now provide tutorial information in Sector 7 and Junon</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Echo-S</Name>
@@ -1005,8 +1008,8 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2023-10-15</ReleaseDate>
+        <Version>1.12</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
@@ -1578,7 +1581,7 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.912</Version>
+        <Version>2.913</Version>
         <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
@@ -1691,14 +1694,14 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.483</Version>
-        <ReleaseDate>2023-10-10</ReleaseDate>
+        <Version>2.484</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/myaVYAd.gif</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0+
 New damage numbers
-2 new avatar and 3 mini avatar sets
+3 new avatar and 3 mini avatar sets
 Live status ailment icons in battle
 Add Peerless, Resist icons
 Add Dual icon for NT
@@ -1735,9 +1738,9 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
-        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.65</Version>
-        <ReleaseDate>2023-10-08</ReleaseDate>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
+        <Version>0.66</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
