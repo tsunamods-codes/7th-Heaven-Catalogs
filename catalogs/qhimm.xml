@@ -1936,14 +1936,14 @@ Fix Echo-s spell names not showing
  ## wictoriously Avatars ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc812</ID>
-      <Author>Wictoriously, Reiletuag</Author>
+      <Author>Wictoriously, Reiletuag, Rimavelle</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/wictoriously.7z</Link>
-        <Version>2.01</Version>
-        <ReleaseDate>2022-09-17</ReleaseDate>
+		<Link>iros://GDrive/1GoR6l3KwjTWKE0L8FZ1rsaPIMrHjn1PI</Link>
+        <Version>2.02</Version>
+        <ReleaseDate>2022-10-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/PO6b5MQ.png</PreviewImage>
-        <ReleaseNotes>Added V2 ESUI Thinnest</ReleaseNotes>
+        <ReleaseNotes>Added V2 ESUI Thinnest new Vincent & Sephiroth</ReleaseNotes>
         <DownloadSize>23000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
