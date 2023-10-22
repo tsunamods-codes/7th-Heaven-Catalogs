@@ -611,10 +611,10 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
 		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.21</Version>
-        <ReleaseDate>2023-10-18</ReleaseDate>
+        <Version>1.22</Version>
+        <ReleaseDate>2023-10-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Solo Challenge. Updated Battle PHS and Party Randomizer to let you swap out-of-battle party members if you have a legal party.</ReleaseNotes>
+        <ReleaseNotes>Fixed fury/sadness being cleared with Battle PHS.</ReleaseNotes>
         <DownloadSize>6943</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
