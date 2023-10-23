@@ -534,13 +534,16 @@ Big thanks to:
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.1/Echo-s%201.1.iro</Link>
-        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S/Echo-s%201.1.iro</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2023-09-27</ReleaseDate>
+	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.11/Echo-s%201.11.iro</Link>
+        <Link>iros://Url/http$bonez-cache.7thheaven.rocks/Echo-S/Echo-s%201.11.iro</Link>
+        <Version>1.11</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
-        <ReleaseNotes>Please use the "Click here" link above to report any bugs you find</ReleaseNotes>
+        <ReleaseNotes>-All known bugs fixed
+  -Revamped character naming to be completely invisible
+  -Revert parade minigame to vanilla difficulty
+  -Tsuna character can now provide tutorial information in Sector 7 and Junon</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Echo-S</Name>
@@ -608,11 +611,11 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
 		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.20</Version>
-        <ReleaseDate>2023-10-11</ReleaseDate>
+        <Version>1.23</Version>
+        <ReleaseDate>2023-10-22</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Music Changes</ReleaseNotes>
-        <DownloadSize>6903</DownloadSize>
+        <ReleaseNotes>Fixed all character's all/summon counts being reset with Battle PHS. The character you swap is still reset.</ReleaseNotes>
+        <DownloadSize>6943</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Tweaks</Name>
@@ -1005,8 +1008,8 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2023-10-15</ReleaseDate>
+        <Version>1.12</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
@@ -1578,8 +1581,8 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.910</Version>
-        <ReleaseDate>2023-10-12</ReleaseDate>
+        <Version>2.916</Version>
+        <ReleaseDate>2023-10-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
@@ -1691,14 +1694,14 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.483</Version>
-        <ReleaseDate>2023-10-10</ReleaseDate>
+        <Version>2.484</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/myaVYAd.gif</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0+
 New damage numbers
-2 new avatar and 3 mini avatar sets
+3 new avatar and 3 mini avatar sets
 Live status ailment icons in battle
 Add Peerless, Resist icons
 Add Dual icon for NT
@@ -1735,9 +1738,9 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
-        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.iro</Link>
-        <Version>0.65</Version>
-        <ReleaseDate>2023-10-08</ReleaseDate>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
+        <Version>0.66</Version>
+        <ReleaseDate>2023-10-19</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1933,14 +1936,14 @@ Fix Echo-s spell names not showing
  ## wictoriously Avatars ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc812</ID>
-      <Author>Wictoriously, Reiletuag</Author>
+      <Author>Wictoriously, Reiletuag, Rimavelle</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/wictoriously.7z</Link>
-        <Version>2.01</Version>
-        <ReleaseDate>2022-09-17</ReleaseDate>
+		<Link>iros://GDrive/1owHpoLhdW98Np8Fyhj7-hj_RG64TxwsL</Link>
+        <Version>2.02</Version>
+        <ReleaseDate>2023-10-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/PO6b5MQ.png</PreviewImage>
-        <ReleaseNotes>Added V2 ESUI Thinnest</ReleaseNotes>
+        <ReleaseNotes>Added V2 ESUI Thinnest new Vincent and Sephiroth</ReleaseNotes>
         <DownloadSize>23000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
