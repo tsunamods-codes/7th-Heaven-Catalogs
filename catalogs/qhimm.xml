@@ -1008,12 +1008,13 @@ Not compatible with other Gameplay mods.</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.12</Version>
-        <ReleaseDate>2023-10-19</ReleaseDate>
+        <Version>1.13</Version>
+        <ReleaseDate>2023-10-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
         <ReleaseNotes>
-Change Battle Swirl, Enemy Death, Keypad</ReleaseNotes>
+Change Battle Swirl, Enemy Death, Keypad
+Fix steps playing while swimming in Junon</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
