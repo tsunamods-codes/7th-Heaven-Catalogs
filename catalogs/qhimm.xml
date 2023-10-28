@@ -1740,8 +1740,8 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.67</Version>
-        <ReleaseDate>2023-10-21</ReleaseDate>
+        <Version>0.68</Version>
+        <ReleaseDate>2023-10-28</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1751,13 +1751,14 @@ Fixed save slot placement
 Live status ailment icons in battle
 add Peerless, Resist, Dual icons
 Fix Echo-s spell names not showing
+Icons optional so non-English possible
+Option to use non-named avatars
 </ReleaseNotes>
         <DownloadSize>200000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Retouch</Name>
       <Category>User Interface</Category>
       <Description>Full Remake style ESUI theme including battleview, avatars, expanded icons, prelude and start screen.
-	Only works with English game, New Threat 2 and Echo-s.
 	Requires ESUI
   </Description>
       <Tags>
