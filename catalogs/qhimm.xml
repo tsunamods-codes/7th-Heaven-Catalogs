@@ -195,7 +195,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Author>Satsuki_Yatoshi</Author> 
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-        <Link>http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
