@@ -1147,7 +1147,7 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
 ## Satsuki SYW Unified MiniGames Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-720000000004</ID>
-      <Author>Satsuki_Yatoshi, Aavock, Grimmy</Author> 
+      <Author>Satsuki_Yatoshi, Aavock, Grimmy, jtd</Author> 
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.MiniGames.Textures.V1.03.iro.7z</Link>
@@ -1599,7 +1599,7 @@ Battle Avatars Support</Description>
 ## Satsuki SYW Unified Menus and Fonts Textures (with credits) ##
     <Mod>
       <ID>50000000-5555-ff75-5775-722000000010</ID>
-      <Author>Aavock, Satsuki_Yatoshi</Author> 
+      <Author>Aavock, Satsuki_Yatoshi, jtd</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Menus.And.Fonts.Textures.V1.03.iro.7z</Link>
