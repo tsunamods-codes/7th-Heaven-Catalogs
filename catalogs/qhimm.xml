@@ -193,7 +193,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000001</ID>
       <Author>Satsuki_Yatoshi</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
@@ -452,7 +452,7 @@ Big thanks to:
     <Mod>
       <ID>50000000-5555-ff75-5776-720000000002</ID>
       <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Fields.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
@@ -909,7 +909,7 @@ Not compatible with other Gameplay mods.</Description>
     <Mod>
       <ID>50000000-5555-ff75-5775-734000000005</ID>
       <Author>Satsuki_Yatoshi</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
 		    <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.03.iro</Link>
         <Version>1.03</Version>
@@ -921,7 +921,7 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <Name>[Tsunamods] SYW Unified FMV</Name>
       <Category>Media</Category>
-      <Description>AI upscaled FMV (no FPS Increase)</Description>
+      <Description>AI upscaled and interpolated 30fps FMV</Description>
       <Tags>
         <string>Satsuki</string>
         <string>Media</string>
@@ -1148,7 +1148,7 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
     <Mod>
       <ID>50000000-5555-ff75-5775-720000000004</ID>
       <Author>Satsuki_Yatoshi, Aavock, Grimmy</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.MiniGames.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version> 
@@ -1249,7 +1249,7 @@ E.g., Bolt2 = Thundara</Description>
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000003</ID>
       <Author>Kela51, Satsuki_Yatoshi</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Spells.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
@@ -1600,7 +1600,7 @@ Battle Avatars Support</Description>
     <Mod>
       <ID>50000000-5555-ff75-5775-722000000010</ID>
       <Author>Aavock, Satsuki_Yatoshi</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Menus.And.Fonts.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
@@ -1995,7 +1995,7 @@ Fix blue text color mismatch in battle
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000006</ID>
       <Author>Satsuki_Yatoshi</Author> 
-      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         	<Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.WorlMap.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
