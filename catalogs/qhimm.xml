@@ -915,7 +915,7 @@ Not compatible with other Gameplay mods.</Description>
         <Version>1.04</Version>
         <ReleaseDate>2023-12-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/AR0j5ra</PreviewImage>
+        <PreviewImage>https://i.imgur.com/AR0j5ra.jpeg</PreviewImage>
         <ReleaseNotes>The FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
         <DownloadSize>4182945</DownloadSize>
       </LatestVersion>
@@ -1154,7 +1154,7 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
         <Version>1.03</Version> 
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/hqw97eG</PreviewImage>
+        <PreviewImage>https://i.imgur.com/hqw97eG.jpeg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with some manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
         <DownloadSize>47962</DownloadSize>
       </LatestVersion>
@@ -1255,7 +1255,7 @@ E.g., Bolt2 = Thundara</Description>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/FWP6rC5</PreviewImage>
+        <PreviewImage>https://i.imgur.com/FWP6rC5.jpeg</PreviewImage>
         <ReleaseNotes>The textures are close to vanilla textures, but done from scratch in HD.</ReleaseNotes>
         <DownloadSize>505008</DownloadSize>
       </LatestVersion>
@@ -1606,7 +1606,7 @@ Battle Avatars Support</Description>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/YgPlT7y</PreviewImage>
+        <PreviewImage>https://i.imgur.com/YgPlT7y.jpeg</PreviewImage>
         <ReleaseNotes>Those textures are as close as possible as vanilla texture but done from scratch in HD</ReleaseNotes>
         <DownloadSize>34294</DownloadSize>
       </LatestVersion>
@@ -2001,7 +2001,7 @@ Fix blue text color mismatch in battle
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/VWnsmN6</PreviewImage>
+        <PreviewImage>https://i.imgur.com/VWnsmN6.jpeg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. The minimap design is from Team avalanche.</ReleaseNotes>
         <DownloadSize>26192</DownloadSize>
       </LatestVersion>
