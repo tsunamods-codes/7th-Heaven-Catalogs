@@ -199,7 +199,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/hz4QfZL.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/bI3nN7e</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
         <DownloadSize>204414</DownloadSize>
       </LatestVersion>
@@ -458,7 +458,7 @@ Big thanks to:
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/2ddBcgw.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/6VVqFN2</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. This pack also upscales all of the field animations. Those animations can cause slowdown on some fields on some computers. If you get slowdown, please disable the "Advanced Texture Animations" option. (double click on this mod and turn off the "Advanced Texture Animations") To get proper Advanced Texture Animations you need to: -Be on the lastest updated 7th Heaven version from here: https://github.com/tsunamods-codes/7th-Heaven/releases. (Scroll down, click "Assets", and grab 7thHeaven-vxxx_Release.zip) -Then go in 7th "Settings/General Settings" and on the bottom-left you'll find the FFNx section, click canary then check for updates, say yes and then go to "Settings/Game Driver Settings, and click "Restore defaults" next to save. -Then go in 7th "Settings/Game Driver - Animated Textures" and set it to ON.</ReleaseNotes>
         <DownloadSize>2493317</DownloadSize>
       </LatestVersion>
@@ -911,13 +911,13 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Satsuki_Yatoshi</Author> 
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-		    <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.03.iro</Link>
-        <Version>1.03</Version>
-        <ReleaseDate>2023-12-16</ReleaseDate>
+		    <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.04.iro</Link>
+        <Version>1.04</Version>
+        <ReleaseDate>2023-12-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/OPPh6or.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/AR0j5ra</PreviewImage>
         <ReleaseNotes>The FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
-        <DownloadSize>4718550</DownloadSize>
+        <DownloadSize>4182945</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW Unified FMV</Name>
       <Category>Media</Category>
@@ -1154,7 +1154,7 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
         <Version>1.03</Version> 
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/DkwdEJ9.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/hqw97eG</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with some manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
         <DownloadSize>47962</DownloadSize>
       </LatestVersion>
@@ -1255,7 +1255,7 @@ E.g., Bolt2 = Thundara</Description>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/UWVyfOD.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/FWP6rC5</PreviewImage>
         <ReleaseNotes>The textures are close to vanilla textures, but done from scratch in HD.</ReleaseNotes>
         <DownloadSize>505008</DownloadSize>
       </LatestVersion>
@@ -1606,7 +1606,7 @@ Battle Avatars Support</Description>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/rAUDqt9.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/YgPlT7y</PreviewImage>
         <ReleaseNotes>Those textures are as close as possible as vanilla texture but done from scratch in HD</ReleaseNotes>
         <DownloadSize>34294</DownloadSize>
       </LatestVersion>
@@ -2001,7 +2001,7 @@ Fix blue text color mismatch in battle
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/fbMMGnm.jpg</PreviewImage>
+        <PreviewImage>https://imgur.com/VWnsmN6</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. The minimap design is from Team avalanche.</ReleaseNotes>
         <DownloadSize>26192</DownloadSize>
       </LatestVersion>
