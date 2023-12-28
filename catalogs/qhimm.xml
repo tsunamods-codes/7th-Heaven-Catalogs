@@ -1188,21 +1188,21 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </Tags>
     </Mod> 
 
- ## Bynyl's FF7 Soundtrack Remake ##
+ ## Bynyl FF7 Soundtrack ##
     <Mod>
-      <ID>3460085e-8981-4957-9e7a-66d4e9147799</ID>
+      <ID>0df45991-45f2-4b53-b323-a5e788305667</ID>
       <Author>Bynyl</Author>
       <Link>https://forums.qhimm.com/index.php?topic=18483.0</Link>
       <LatestVersion>
-		<Link>iros://GDrive/1_wM3mMU_i0x2NM1cyRCPqwlWGgM4M4oK</Link>
+		<Link>iros://GDrive/1BJ9e3GNYTXNdFmCz28OBPElzV4E6cmKT</Link>
         <Version>0.57</Version>
-        <ReleaseDate>2018-11-03</ReleaseDate>
+        <ReleaseDate>2020-11-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/9ft52TX.jpeg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>145000</DownloadSize>
+        <DownloadSize>146000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Bynyl's FF7 Soundtrack Remake</Name>
+      <Name>Bynyl FF7 Soundtrack</Name>
 	  <Category>Media</Category>
       <Description>This is a reorchestration project by Bynyl, 57/91 tracks remade as well as a modified Opening FMV. Incomplete.</Description>
       <Tags>
