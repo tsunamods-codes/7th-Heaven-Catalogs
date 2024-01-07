@@ -1147,16 +1147,16 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
 ## Satsuki SYW Unified MiniGames Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-720000000004</ID>
-      <Author>Satsuki_Yatoshi, Aavock, Grimmy, jtd</Author> 
+      <Author>Satsuki_Yatoshi, Aavock, jtd</Author> 
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.MiniGames.Textures.V1.03.iro.7z</Link>
-        <Version>1.03</Version> 
-        <ReleaseDate>2023-12-16</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.MiniGames.Textures.V1.04.iro.7z</Link>
+        <Version>1.04</Version> 
+        <ReleaseDate>2024-01-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/hqw97eG.jpeg</PreviewImage>
         <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with some manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
-        <DownloadSize>47962</DownloadSize>
+        <DownloadSize>46692</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW Unified Minigame Textures</Name>
       <Category>Minigames</Category>
@@ -1602,13 +1602,13 @@ Battle Avatars Support</Description>
       <Author>Aavock, Satsuki_Yatoshi, jtd</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Menus.And.Fonts.Textures.V1.03.iro.7z</Link>
-        <Version>1.03</Version>
-        <ReleaseDate>2023-12-16</ReleaseDate>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Menus.And.Fonts.Textures.V1.04.iro.7z</Link>
+        <Version>1.04</Version>
+        <ReleaseDate>2024-01-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/YgPlT7y.jpeg</PreviewImage>
         <ReleaseNotes>Those textures are as close as possible as vanilla texture but done from scratch in HD</ReleaseNotes>
-        <DownloadSize>34294</DownloadSize>
+        <DownloadSize>34160</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] SYW Unified Menus And Fonts Textures</Name>
       <Category>User Interface</Category>
