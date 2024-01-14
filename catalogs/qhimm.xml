@@ -1,12 +1,14 @@
 <?xml version="1.0"?>
-<Catalog Name="Qhimm Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-   <Mods>
+<Catalog Name="Qhimm Catalog"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mods>
 
 ##ANIMATIONS##
 
 ## 60 FPS Gameplay
     <Mod>
-      <ID>c0d1e191-a251-465d-8a3c-a3be5366d849</ID>  
+      <ID>c0d1e191-a251-465d-8a3c-a3be5366d849</ID>
       <Author>Vertex2995, Obesebear, Kaldarasha</Author>
       <Link></Link>
       <LatestVersion>
@@ -16,7 +18,7 @@
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4T7hFii.png</PreviewImage>
         <ReleaseNotes>REQUIRES 7th Heaven 2.3.3+ and FFNx 1.11.0+
-  
+
 Changelog:
    - 1.00: BETA Release
    - 1.01: Add missing field object models animations
@@ -34,12 +36,12 @@ Changelog:
               Small fix of battle animation files (Godo: hada)
    - 1.12: Small fix for char animation FSEB.a (set frame 59 equal to frame 58). Necessary to avoid visual glitch.
               Fix 60 fps counter speed of lock inside Nibelheim Manor (field map: sinin2_1)
-          </ReleaseNotes>
+        </ReleaseNotes>
         <DownloadSize>96999</DownloadSize>
       </LatestVersion>
       <Name>60/30 FPS Gameplay</Name>
       <Category>Animations</Category>
-      <Description>This mod allows the game to run on a higher FPS than the original. It contains two possible modes: 
+      <Description>This mod allows the game to run on a higher FPS than the original. It contains two possible modes:
   - Full 60 FPS: This bumps up the FPS to 60 for battle, field, and world mode.
   - Full 30 FPS: This bumps up the FPS to 30 for battle mode
 The mod contains 3D model interpolated animations (battle character models, battle enemy models, field character models, ...) except world character models (unnecessary), chocobo mode models, submarine mode models and highway mode models.
@@ -48,15 +50,15 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>60</string>
         <string>fps</string>
         <string>Animations</string>
-	<string>Obesebear</string>
+        <string>Obesebear</string>
         <string>Kaldarasha</string>
-	<string>Vertex2995</string>
+        <string>Vertex2995</string>
       </Tags>
     </Mod>
 
 ## 60 FPS NT Animations
     <Mod>
-      <ID>c8234df3-ff27-4df4-8cb2-70e7bb021d78</ID>  
+      <ID>c8234df3-ff27-4df4-8cb2-70e7bb021d78</ID>
       <Author>Vertex2995, Uprisen, Sega Chief</Author>
       <Link></Link>
       <LatestVersion>
@@ -66,12 +68,12 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes>REQUIRES "New Threat 2.0" and "60 FPS Gameplay" mods
-  
+
   Changelog:
    - 1.00: First release
    - 1.01: 100% match files with "60 FPS Gameplay" mod (Fix crash in temple of ancients boss (uzda))
            Add "Full 30 FPS" compatibility option with "60 FPS Gameplay" mod
-  </ReleaseNotes>
+        </ReleaseNotes>
         <DownloadSize>8572</DownloadSize>
       </LatestVersion>
       <Name>60/30 FPS Animations for New Threat 2.0</Name>
@@ -81,9 +83,9 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>60</string>
         <string>fps</string>
         <string>Animations</string>
-	<string>Vertex2995</string>
+        <string>Vertex2995</string>
         <string>Uprisen</string>
-	<string>Sega Chief</string>
+        <string>Sega Chief</string>
       </Tags>
     </Mod>
 
@@ -91,7 +93,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
 
 ## [Tsunamods] The Barret Mod
     <Mod>
-      <ID>148d3e31-a403-429a-b1d0-c61bc07a1853</ID>  
+      <ID>148d3e31-a403-429a-b1d0-c61bc07a1853</ID>
       <Author>UpRisen Sega Chief</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19313.0</Link>
       <LatestVersion>
@@ -108,17 +110,17 @@ The mod contains 3D model interpolated animations (battle character models, batt
       <Description>This mod makes your darkest nightmares come true. The Barret cells have spread to everyone in the Final Fantasy VII universe, and have gained the appearance of Barret.</Description>
       <Tags>
         <string>Models</string>
-		<string>UpRisen</string>
+        <string>UpRisen</string>
         <string>Sega Chief</string>
         <string>Barret Mod</string>
         <string>Tsunamods</string>
       </Tags>
     </Mod>
-	
+
 ## Kaldarasha's Rise of the Black Wolf ##
     <Mod>
       <ID>b6629e6b-4a35-4ea7-b837-ad9655d01cfe</ID>
-      <Author>Kaldarasha</Author> 
+      <Author>Kaldarasha</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$motr.7thheaven.rocks/ChaOS/Rise-of-the-Black-Wolf.7z</Link>
@@ -136,11 +138,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>Kaldarasha</string>
         <string>Battle Models</string>
       </Tags>
-   </Mod>
-	
+    </Mod>
+
 ## cmh175 Battle Models
     <Mod>
-      <ID>7769a522-0939-416e-ad17-a681b870d185</ID>  
+      <ID>7769a522-0939-416e-ad17-a681b870d185</ID>
       <Author>cmh175</Author>
       <Link>http://forums.qhimm.com/index.php?topic=14852.0</Link>
       <LatestVersion>
@@ -165,7 +167,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
 ## NinoStyle Battle Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e3</ID>
-      <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
+      <Author>Ninostyle + Tsunamix + Shiniboy</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
@@ -185,14 +187,14 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>Shiniboy</string>
         <string>Field Models</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ##BATTLE TEXTURES##
 
 ## Satsuki SYW Unified Battle Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000001</ID>
-      <Author>Satsuki_Yatoshi</Author> 
+      <Author>Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
@@ -210,11 +212,11 @@ The mod contains 3D model interpolated animations (battle character models, batt
         <string>Satsuki</string>
         <string>Battle Textures</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ##[Tsunamods] Avalanche Arisen Battle Scenes
     <Mod>
-      <ID>c33191b1-439d-4536-9c70-cc5f6957dfa2</ID> 
+      <ID>c33191b1-439d-4536-9c70-cc5f6957dfa2</ID>
       <Author>UpRisen</Author>
       <Link>http://forums.qhimm.com/index.php?topic=18029.0</Link>
       <LatestVersion>
@@ -243,7 +245,7 @@ The mod contains 3D model interpolated animations (battle character models, batt
 ## AxlRose Blender ##
     <Mod>
       <ID>d9f9ff17-666c-4b5f-8292-4835888a1358</ID>
-      <Author>AxlRose</Author> 
+      <Author>AxlRose</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21357.0</Link>
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
@@ -279,7 +281,7 @@ Big thanks to:
 ## AxlRose Battle Textures ##
     <Mod>
       <ID>f6767f0d-10bf-43a8-ae24-fe326469a30e</ID>
-      <Author>AxlRose + Satsuki_Yatoshi</Author> 
+      <Author>AxlRose + Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21346.0</Link>
       <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
       <LatestVersion>
@@ -306,10 +308,8 @@ Big thanks to:
       <Description>
 - Multiple needed fixes to Battle Scenes meshes (Sky, floors, miss-aligned textures)
 - Photo filters to warm up the texture images
-- Adjustments for brighter colors for best lighting conditions
-==============
-- Some textures are a color calibration of Satsuki_Yatoshi's Vanilla Upscaled Textures (until I finish my own versions)
-==============
+- Adjustments for brighter colors for best lighting conditions ==============
+- Some textures are a color calibration of Satsuki_Yatoshi's Vanilla Upscaled Textures (until I finish my own versions) ==============
       </Description>
       <Tags>
         <string>AxlRose</string>
@@ -320,12 +320,12 @@ Big thanks to:
 
 ## Remako Battle Textures ##
     <Mod>
-	  <Deprecated/>
+      <Deprecated/>
       <ID>58fa1e13-0b18-4172-87c3-56ff3195083c</ID>
       <Author>CaptRobau</Author>
       <Link>https://captrobau.blogspot.com/</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[4xUpscale]RemakoHDBattle.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[4xUpscale]RemakoHDBattle.7z</Link>
         <Version>2.0</Version>
         <ReleaseDate>2021-03-01</ReleaseDate>
         <PreviewImage>https://i.imgur.com/2kRz29f.png</PreviewImage>
@@ -334,24 +334,24 @@ Big thanks to:
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Remako Battle Textures (Deprecated)</Name>
-	  <Category>Battle Textures</Category>
+      <Category>Battle Textures</Category>
       <Description>AI Upscaled Battle Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
       <Tags>
-	  <string>Remako</string>
-	  <string>Battle</string>
-	  <string>Textures</string>
-	  <string>CaptRobau</string>
+        <string>Remako</string>
+        <string>Battle</string>
+        <string>Textures</string>
+        <string>CaptRobau</string>
       </Tags>
     </Mod>
-	
+
 ## [Retexture] HD Battle Scenes ##
     <Mod>
       <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
       <Author>Felix Leonhart, Mago Chocobo, Bloodshot, Team Avalanche</Author>
       <Link>https://forums.qhimm.com/index.php?topic=14610.0;topicseen</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[Retexture]FelixLeonhartMagochocoboBloodshotTeam_Avalanche.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[Retexture]FelixLeonhartMagochocoboBloodshotTeam_Avalanche.7z</Link>
         <Version>0.03</Version>
         <ReleaseDate>2013-09-03</ReleaseDate>
         <PreviewImage>https://i.imgur.com/WEy7amK.png</PreviewImage>
@@ -360,25 +360,25 @@ Big thanks to:
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>[Retexture] HD Battle Scenes</Name>
-	  <Category>Battle Textures</Category>
+      <Category>Battle Textures</Category>
       <Description>HD Retextured Battle Scenes</Description>
       <Tags>
-	  <string>Retexture</string>
-	  <string>Battle</string>
-	  <string>Textures</string>
-	  <string>Felix Leonhart</string>
-	  <string>Mago Chocobo</string>
-	  <string>Bloodshot</string>
-	  <string>Team Avalanche</string>
+        <string>Retexture</string>
+        <string>Battle</string>
+        <string>Textures</string>
+        <string>Felix Leonhart</string>
+        <string>Mago Chocobo</string>
+        <string>Bloodshot</string>
+        <string>Team Avalanche</string>
       </Tags>
     </Mod>
- 
+
 ##FIELD MODELS##
 
 ## Kaldarasha's ChaOS ##
     <Mod>
       <ID>7d42b459-ce44-40cc-b4b2-4ba6301538d4</ID>
-      <Author>Kaldarasha</Author> 
+      <Author>Kaldarasha</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Battle Models/ChaOS.7z</Link>
@@ -396,12 +396,12 @@ Big thanks to:
         <string>Kaldarasha</string>
         <string>Field Models</string>
       </Tags>
-   </Mod>
- 
+    </Mod>
+
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e2</ID>
-      <Author>Ninostyle + L@zar0 + Tsunamix + Shiniboy</Author> 
+      <Author>Ninostyle + L@zar0 + Tsunamix + Shiniboy</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
@@ -409,7 +409,7 @@ Big thanks to:
         <ReleaseDate>2023-03-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
-         <ReleaseNotes>Added Cid weapon rzck/*cl/*cm, added chest model avhe, avae, bydd, hrce</ReleaseNotes>
+        <ReleaseNotes>Added Cid weapon rzck/*cl/*cm, added chest model avhe, avae, bydd, hrce</ReleaseNotes>
         <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
@@ -419,12 +419,12 @@ Big thanks to:
         <string>NinoStyle</string>
         <string>Field Models</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ## NinoStyle HD Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e9</ID>
-      <Author>Ninostyle + Tsunamix + Shiniboy</Author> 
+      <Author>Ninostyle + Tsunamix + Shiniboy</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20HD.7z</Link>
@@ -444,14 +444,14 @@ Big thanks to:
         <string>Shiniboy</string>
         <string>Field Models</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ##FIELD TEXTURES##
 
 ## Satsuki SYW Unified Field Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5776-720000000002</ID>
-      <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author> 
+      <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Fields.Textures.V1.03.iro.7z</Link>
@@ -469,16 +469,16 @@ Big thanks to:
         <string>Satsuki</string>
         <string>Field Textures</string>
       </Tags>
-   </Mod>
- 
- ## Remako Field Textures ##
+    </Mod>
+
+## Remako Field Textures ##
     <Mod>
-	  <Deprecated/>
+      <Deprecated/>
       <ID>c4660557-8668-4dbc-a45c-80e2574c0088</ID>
       <Author>CaptRobau</Author>
       <Link>https://captrobau.blogspot.com/</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[4xUpscale]RemakoHDField.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[4xUpscale]RemakoHDField.7z</Link>
         <Version>2.0</Version>
         <ReleaseDate>2021-03-01</ReleaseDate>
         <PreviewImage>https://i.imgur.com/LlrZ0DZ.png</PreviewImage>
@@ -487,46 +487,46 @@ Big thanks to:
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Remako Field Textures (Deprecated)</Name>
-	  <Category>Field Textures</Category>
+      <Category>Field Textures</Category>
       <Description>AI Upscaled Field Textures by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
       <Tags>
-	  <string>Remako</string>
-	  <string>Field</string>
-	  <string>Textures</string>
-	  <string>CaptRobau</string>
+        <string>Remako</string>
+        <string>Field</string>
+        <string>Textures</string>
+        <string>CaptRobau</string>
       </Tags>
     </Mod>
- 
+
 ## Project Edge/Team Avalanche Remodeled Fields ##
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
       <Author>anaho, Ben Nicholas, faulked, Grimmy, jmp434, Jusete, Mayo Master, Shampignon, shunsq, Ulpian</Author>
       <Link>https://forums.qhimm.com/index.php?topic=17791.0</Link>
       <LatestVersion>
-		<Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes.7z</Link>
+        <Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes.7z</Link>
         <Version>0.155</Version>
         <ReleaseDate>2023-10-11</ReleaseDate>
         <PreviewImage>https://i.imgur.com/wT1mFDC.png</PreviewImage>
-        <ReleaseNotes>  
+        <ReleaseNotes>
   -mds7st2</ReleaseNotes>
         <DownloadSize>730000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Project Edge/Team Avalanche Remodeled Fields</Name>
-	  <Category>Field Textures</Category>
+      <Category>Field Textures</Category>
       <Description>This package contains all currently available (14.68%) HD Backgrounds for Final Fantasy VII including Project Edge</Description>
       <Tags>
-	  <string>Team Avalanche</string>
-	  <string>Field</string>
-	  <string>Textures</string>
-	  <string>3D</string>
-	  <string>Jusete</string>
+        <string>Team Avalanche</string>
+        <string>Field</string>
+        <string>Textures</string>
+        <string>3D</string>
+        <string>Jusete</string>
       </Tags>
     </Mod>
- 
+
 ## GAMEPLAY ##
-	   
+
 ## ECHOS ##
 
     <Mod>
@@ -534,7 +534,7 @@ Big thanks to:
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.11/Echo-s%201.11.iro</Link>
+        <Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.11/Echo-s%201.11.iro</Link>
         <Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.11.iro</Link>
         <Version>1.11</Version>
         <ReleaseDate>2023-10-19</ReleaseDate>
@@ -553,17 +553,17 @@ Big thanks to:
         <string>Tsunamods</string>
         <string>Tsunamix</string>
       </Tags>
-   </Mod>   
+    </Mod>
 
-	   
+
 ## ESUI Controller Addon ##
     <Mod>
       <ID>135478f5-b53f-4960-b411-b93370dc45da</ID>
-      <Author>Chrysalis</Author> 
+      <Author>Chrysalis</Author>
       <Link>https://forums.qhimm.com/</Link>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/ESUI-Controller-Addon.7z</Link>
-	<Version>1.102</Version>
+        <Version>1.102</Version>
         <ReleaseDate>2022-09-17</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/taztZvt.png</PreviewImage>
@@ -578,7 +578,7 @@ Not compatible with other Gameplay mods.</Description>
       <Tags>
         <string>Chrysalis</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ## Gameplay Tweaks ##
     <Mod>
@@ -586,7 +586,7 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Qhimm Modding Community</Author>
       <Link>https://forums.qhimm.com/index.php?topic=16653.msg236205#msg236205</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
         <Version>4.035</Version>
         <ReleaseDate>2024-01-14</ReleaseDate>
         <PreviewImage>https://i.imgur.com/oHJvuQE.png</PreviewImage>
@@ -595,12 +595,12 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Gameplay Tweaks</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>A collection of Tweaks and Cheats.</Description>
       <Tags>
-	  <string>Qhimm</string>
-	  <string>Gameplay</string>
-	  <string>Cheats</string>
+        <string>Qhimm</string>
+        <string>Gameplay</string>
+        <string>Cheats</string>
       </Tags>
     </Mod>
 
@@ -610,7 +610,7 @@ Not compatible with other Gameplay mods.</Description>
       <Author>Postscriptthree</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
-		<Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
+        <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
         <Version>1.24</Version>
         <ReleaseDate>2024-01-02</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
@@ -619,23 +619,23 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>An assortment of gameplay enhancements.
       True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Limit Overhaul, Materia Pairing adjustments, etc.</Description>
       <Tags>
-	  <string>postscriptthree</string>
-	  <string>Gameplay</string>
-	  <string>tweaks</string>
+        <string>postscriptthree</string>
+        <string>Gameplay</string>
+        <string>tweaks</string>
       </Tags>
     </Mod>
 
- ## Harder Items ##
+## Harder Items ##
     <Mod>
       <ID>de38b84b-076a-4bcd-b176-c546295e9aae</ID>
       <Author>Masa-Buster</Author>
       <Link>https://forums.qhimm.com</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/HarderItems.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/HarderItems.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2009-08-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/HvxqcHg.png</PreviewImage>
@@ -644,22 +644,22 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Harder Items</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>Steal and drop rates are adjusted by 15% or 30%. (Changed in the settings)</Description>
       <Tags>
-	  <string>Masa-Buster</string>
-	  <string>Gameplay</string>
-	  <string>Difficulty</string>
+        <string>Masa-Buster</string>
+        <string>Gameplay</string>
+        <string>Difficulty</string>
       </Tags>
     </Mod>
-	
- ## Lost Wing ##
+
+## Lost Wing ##
     <Mod>
       <ID>ebec6404-07a8-4f5c-805f-b4536f42076e</ID>
       <Author>xLostWingx</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/LostWing.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/LostWing.iro</Link>
         <Version>1.1</Version>
         <ReleaseDate>2010-10-29</ReleaseDate>
         <PreviewImage>https://i.imgur.com/YCR86aT.png</PreviewImage>
@@ -668,22 +668,22 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Lost Wing</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>Difficulty mod with a huge overhaul of the battle system. Including new materia, and items! Lost Wing is a FF7 Overhaul that completely modifies many aspects of the game. It is moderately difficult until the Huge Materia quests, then it becomes Extremely Difficult. Hacking/Cheating/Modding All Equipment and/or Materia is encouraged post-Diamond WEAPON. </Description>
       <Tags>
-	  <string>xLostWingx</string>
-	  <string>Gameplay</string>
-	  <string>Difficulty</string>
+        <string>xLostWingx</string>
+        <string>Gameplay</string>
+        <string>Difficulty</string>
       </Tags>
     </Mod>
 
- ## Reasonable Difficulty ##
+## Reasonable Difficulty ##
     <Mod>
       <ID>cad0e61c-be30-4885-b6ac-d1900f7aa5ab</ID>
       <Author>hay</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/ReasonableDifficulty.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/ReasonableDifficulty.iro</Link>
         <Version>1.1</Version>
         <ReleaseDate>2005-10-11</ReleaseDate>
         <PreviewImage>https://i.imgur.com/QytNp4D.png</PreviewImage>
@@ -692,22 +692,22 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Reasonable Difficulty</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>A difficulty mod made for hays own personal enjoyment because the original difficulty was "Too damn boring"</Description>
       <Tags>
-	  <string>hay</string>
-	  <string>Gameplay</string>
-	  <string>Difficulty</string>
+        <string>hay</string>
+        <string>Gameplay</string>
+        <string>Difficulty</string>
       </Tags>
     </Mod>
-	
- ## Scene Redux ##
+
+## Scene Redux ##
     <Mod>
       <ID>e69c43ca-1704-4dc5-9e2c-f17989b38e79</ID>
       <Author>Salk</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/SceneRedux.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/SceneRedux.iro</Link>
         <Version>1.31</Version>
         <ReleaseDate>2007-10-09</ReleaseDate>
         <PreviewImage>https://i.imgur.com/Qj9ZM03.png</PreviewImage>
@@ -716,22 +716,22 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Scene Redux</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>Item stealing and drop chances are changed, drop/steal tables are changed, and enemies that don't have normally have items to steal/morph now do.</Description>
       <Tags>
-	  <string>Salk</string>
-	  <string>Gameplay</string>
-	  <string>Difficulty</string>
+        <string>Salk</string>
+        <string>Gameplay</string>
+        <string>Difficulty</string>
       </Tags>
     </Mod>
-	
- ## Super Boss Rush ##
+
+## Super Boss Rush ##
     <Mod>
       <ID>eaae8756-2e9c-4536-87b2-d6e61189c789</ID>
       <Author>Karifean</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/SuperBossRush.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/SuperBossRush.iro</Link>
         <Version>1.1</Version>
         <ReleaseDate>2014-01-16</ReleaseDate>
         <PreviewImage>https://i.imgur.com/bEN9R7t.png</PreviewImage>
@@ -740,22 +740,22 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Super Boss Rush</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>Changes the "Hall of Beginners" in Junon to a "Hall of Battles". Load up your best save, and see if you can win the beat these enhanced bosses!</Description>
       <Tags>
-	  <string>Karifean</string>
-	  <string>Gameplay</string>
-	  <string>Difficulty</string>
+        <string>Karifean</string>
+        <string>Gameplay</string>
+        <string>Difficulty</string>
       </Tags>
     </Mod>
-	
- ## Hardcore ##
+
+## Hardcore ##
     <Mod>
       <ID>689f9442-2ae8-4de5-b3a7-7099de769e97</ID>
       <Author>gjoerulv</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/Hardcore - gjoerulv.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/Hardcore - gjoerulv.iro</Link>
         <Version>1.01</Version>
         <ReleaseDate>2007-06-23</ReleaseDate>
         <PreviewImage>https://i.imgur.com/iFNDVAP.png</PreviewImage>
@@ -764,44 +764,44 @@ Not compatible with other Gameplay mods.</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Hardcore Mod</Name>
-	  <Category>Gameplay</Category>
+      <Category>Gameplay</Category>
       <Description>Basically boosts the game difficulty. This mod mainly strives to refresh the gameplay by sticking to the original settings, BUT it also tweaks some enemy AI, spell effect, equipments, etc, for different reasons. For instance, there are quite a few bugs in the AI and field scripts. Most of these have been fixed. Also, many equipments, spells and enemy skills are useless, gets obsolete and/or are overpowered or cheap. Thus some equipments and attack effects are tweaked in an attempt to balance things out. With the above said, keep in mind things have been kept as close to the original as possible while refreshing the gameplay. For those of you that don't want a new  FF7, but want a refreshed, more difficult FF7.</Description>
       <Tags>
-	  <string>gjoerulv</string>
-	  <string>Gameplay</string>
-	  <string>Difficulty</string>
+        <string>gjoerulv</string>
+        <string>Gameplay</string>
+        <string>Difficulty</string>
       </Tags>
     </Mod>
 
 ##Shinra Archaeology Cut##
-<Mod>
-  <ID>bc4f77b2-f3ce-4378-bd13-7fcc7e55960c</ID>
-  <Author>TheStrifIsRife, TurquoiseHammer</Author>
-  <Link>https://shinraarchaeology.com/retransmod.html</Link>
-  <DonationLink>https://ko-fi.com/odysseus77777</DonationLink>
-  <LatestVersion>
-    <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
-    <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-    <Version>0.14.1</Version>
-    <ReleaseDate>2024-01-13</ReleaseDate>
-    <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
-    <ReleaseNotes>First release</ReleaseNotes>
-    <DownloadSize>311605</DownloadSize>
-  </LatestVersion>
-  <Name>Shinra Archeology Cut</Name>
-  <Category>Gameplay</Category>
-  <Description>Restores cut content and much more.</Description>
-  <Tags>
-    <string>Gameplay</string>
-  </Tags>
-</Mod> 
+    <Mod>
+      <ID>bc4f77b2-f3ce-4378-bd13-7fcc7e55960c</ID>
+      <Author>TheStrifIsRife, TurquoiseHammer</Author>
+      <Link>https://shinraarchaeology.com/retransmod.html</Link>
+      <DonationLink>https://ko-fi.com/odysseus77777</DonationLink>
+      <LatestVersion>
+        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
+        <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
+        <Version>0.14.1</Version>
+        <ReleaseDate>2024-01-13</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
+        <ReleaseNotes>First release</ReleaseNotes>
+        <DownloadSize>311605</DownloadSize>
+      </LatestVersion>
+      <Name>Shinra Archeology Cut</Name>
+      <Category>Gameplay</Category>
+      <Description>Restores cut content and much more.</Description>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
 
 ## MEDIA ##
 
 ## cmh175 HQ FMV Pack
     <Mod>
-      <ID>cd7e9b5b-4b43-441e-b091-0e28e8c5c6db</ID>  
+      <ID>cd7e9b5b-4b43-441e-b091-0e28e8c5c6db</ID>
       <Author>cmh175</Author>
       <Link>http://forums.qhimm.com/index.php?topic=14852.0</Link>
       <LatestVersion>
@@ -825,11 +825,11 @@ Not compatible with other Gameplay mods.</Description>
 
 ## Cosmos FMV (15 fps)
     <Mod>
-      <ID>66b68c94-fee1-452d-83a1-7c7067d86376</ID>  
+      <ID>66b68c94-fee1-452d-83a1-7c7067d86376</ID>
       <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
       <LatestVersion>
-	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV15.iro</Link>
+        <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV15.iro</Link>
         <Version>1.02</Version>
         <ReleaseDate>2022-10-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -851,11 +851,11 @@ Not compatible with other Gameplay mods.</Description>
 
 ## Cosmos FMV (30 fps)
     <Mod>
-      <ID>4309613f-d6b3-4e0a-a5c7-6af71da34d7d</ID>  
+      <ID>4309613f-d6b3-4e0a-a5c7-6af71da34d7d</ID>
       <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
       <LatestVersion>
-	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV30.iro</Link>
+        <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV30.iro</Link>
         <Version>1.02</Version>
         <ReleaseDate>2022-10-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -877,11 +877,11 @@ Not compatible with other Gameplay mods.</Description>
 
 ## Cosmos Limit Break
     <Mod>
-      <ID>7c6a0289-ae89-411d-836a-531e78938401</ID>  
+      <ID>7c6a0289-ae89-411d-836a-531e78938401</ID>
       <Author>Cosmos, Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author>
       <Link></Link>
       <LatestVersion>
-	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
+        <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2024-01-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -901,11 +901,11 @@ Not compatible with other Gameplay mods.</Description>
 
 ## Cosmos Gaia
     <Mod>
-      <ID>1970dd4b-cd94-410e-a3af-f9c7086c6699</ID>  
+      <ID>1970dd4b-cd94-410e-a3af-f9c7086c6699</ID>
       <Author>Cosmos, L@ZaRO, Satsuki_Yatoshi</Author>
       <Link></Link>
       <LatestVersion>
-	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosGaia.iro</Link>
+        <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosGaia.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2024-01-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -935,7 +935,7 @@ Not compatible with other Gameplay mods.</Description>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n0H52S0.png</PreviewImage>
         <ReleaseNotes>A re-release of the Symphonic Remasters FF7 soundtrack with the overall volume levels now closely matching the game's OST, other volume/loop fixes, Loopstart only, on/off selection of individual tracks, reduced file size, and high-resolution intro/ending videos now with SFX. All made from the original lossless audio and packaged for 7th Heaven.</ReleaseNotes>
-      <DownloadSize>519999</DownloadSize>
+        <DownloadSize>519999</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Symphonic Remasters: Redux</Name>
@@ -948,7 +948,7 @@ Not compatible with other Gameplay mods.</Description>
         <string>Media</string>
       </Tags>
     </Mod>
-	   
+
 ## Deet's XG Music
     <Mod>
       <ID>d87f1f00-2a1f-4122-a5fa-0ee68d19d329</ID>
@@ -961,7 +961,7 @@ Not compatible with other Gameplay mods.</Description>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/qWeaJro.png</PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-      <DownloadSize>400000</DownloadSize>
+        <DownloadSize>400000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Deet's XG Music</Name>
@@ -972,18 +972,18 @@ Not compatible with other Gameplay mods.</Description>
         <string>dte102</string>
         <string>Music</string>
         <string>Media</string>
-	<string>yamaha</string>
-	<string>xg</string>
+        <string>yamaha</string>
+        <string>xg</string>
       </Tags>
     </Mod>
 
 ## Satsuki SYW Unified FMV ##
     <Mod>
       <ID>50000000-5555-ff75-5775-734000000005</ID>
-      <Author>Satsuki_Yatoshi</Author> 
+      <Author>Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-		    <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.04.iro</Link>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.04.iro</Link>
         <Version>1.04</Version>
         <ReleaseDate>2023-12-19</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -998,7 +998,7 @@ Not compatible with other Gameplay mods.</Description>
         <string>Satsuki</string>
         <string>Media</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ## [Tsunamods] EDMusic FF7 Soundtrack
     <Mod>
@@ -1012,7 +1012,7 @@ Not compatible with other Gameplay mods.</Description>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
         <ReleaseNotes>Version 0.40 PREVIEW adds 7H 2.0 mod config treeview support, and tracks Fanfare (Default Mix) and Good Night, Until Tomorrow.</ReleaseNotes>
-      <DownloadSize>183393</DownloadSize>
+        <DownloadSize>183393</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>[Tsunamods] EDMusic FF7 Soundtrack</Name>
@@ -1023,12 +1023,12 @@ Not compatible with other Gameplay mods.</Description>
         <string>Enrico Deiana</string>
         <string>Music</string>
         <string>Media</string>
-     </Tags>
+      </Tags>
     </Mod>
 
 ##[Tsunamods] Cosmo Memory
     <Mod>
-      <ID>2e4c6623-97b9-4d5c-b2f3-b4f24f06a911</ID> 
+      <ID>2e4c6623-97b9-4d5c-b2f3-b4f24f06a911</ID>
       <Author>Bonez</Author>
       <Link>https://forums.qhimm.com/index.php?topic=20475.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
@@ -1054,19 +1054,19 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
   -Updates all video cutscene sound effects.
   -Shuffles sounds so repeating sounds don't sound the same.
   -3 selectable menu sound sets.
-   </Description>
+      </Description>
       <Tags>
         <string>Bonez</string>
         <string>Tsunamods</string>
-	<string>Media</string>
-	<string>Sound</string>
-	<string>sfx</string>
+        <string>Media</string>
+        <string>Sound</string>
+        <string>sfx</string>
       </Tags>
     </Mod>
 
 ## [Tsunamods] Arranged Soundtrack
     <Mod>
-      <ID>ed5a8c57-56bf-4cf1-acfa-8e5347f27463</ID>  
+      <ID>ed5a8c57-56bf-4cf1-acfa-8e5347f27463</ID>
       <Author>Dracula9AntiChapel, Bonez, Tsunamix</Author>
       <Link>https://discord.gg/XVHBExy</Link>
       <LatestVersion>
@@ -1088,14 +1088,14 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
         <string>Dracula9AntiChapel</string>
       </Tags>
     </Mod>
- 
- ## Armorvil Sounds ##
+
+## Armorvil Sounds ##
     <Mod>
       <ID>7dafacde-3d9f-44c6-810d-7b4978194424</ID>
       <Author>Armorvil</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/Armorvil Sounds.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/Armorvil Sounds.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2015-02-28</ReleaseDate>
         <PreviewImage>https://i.imgur.com/WCKluR7.png</PreviewImage>
@@ -1104,23 +1104,23 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Armorvil Sounds</Name>
-	  <Category>Media</Category>
+      <Category>Media</Category>
       <Description>Custom Sound Effects by Armorvil</Description>
       <Tags>
-	  <string>Armorvil</string>
-	  <string>Media</string>
-	  <string>SFX</string>
+        <string>Armorvil</string>
+        <string>Media</string>
+        <string>SFX</string>
       </Tags>
-    </Mod> 
- 
- ## Remako Movies ##
+    </Mod>
+
+## Remako Movies ##
     <Mod>
-	  <Deprecated/>
+      <Deprecated/>
       <ID>e040a749-0770-4296-973c-195430c22408</ID>
       <Author>CaptRobau</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/CaptRobau - Remako HD.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/CaptRobau - Remako HD.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2021-03-01</ReleaseDate>
         <PreviewImage>https://i.imgur.com/J2JLk5e.png</PreviewImage>
@@ -1129,26 +1129,26 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Remako Movies (Deprecated)</Name>
-	  <Category>Media</Category>
+      <Category>Media</Category>
       <Description>Upscaled FMV's by CaptRobau
 	    (Deprecated. Use SYW5)</Description>
       <Tags>
-	  <string>Remako</string>
-	  <string>CaptRobau</string>
-	  <string>Media</string>
-	  <string>FMV</string>
-	  <string>Movies</string>
+        <string>Remako</string>
+        <string>CaptRobau</string>
+        <string>Media</string>
+        <string>FMV</string>
+        <string>Movies</string>
       </Tags>
-    </Mod> 
- 
- ## Chibi FMV Replacement ##
+    </Mod>
+
+## Chibi FMV Replacement ##
     <Mod>
-	  <Deprecated/>
+      <Deprecated/>
       <ID>c27d3cb1-44a1-43f4-bcdb-535739c3493c</ID>
       <Author>DrLilo</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/DrLilo - Chibi FMV Replacement.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/DrLilo - Chibi FMV Replacement.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2015-02-28</ReleaseDate>
         <PreviewImage>https://i.imgur.com/7lcLBwH.png</PreviewImage>
@@ -1157,23 +1157,23 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Chibi FMV Replacement (Deprecated)</Name>
-	  <Category>Media</Category>
-      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models. 
+      <Category>Media</Category>
+      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models.
 (Deprecated. Use Cosmos FMV.)</Description>
       <Tags>
-	  <string>DrLilo</string>
-	  <string>Media</string>
-	  <string>Movies</string>
+        <string>DrLilo</string>
+        <string>Media</string>
+        <string>Movies</string>
       </Tags>
-    </Mod> 
+    </Mod>
 
- ## OST Music Remastered ##
+## OST Music Remastered ##
     <Mod>
       <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
       <Author>FinalFanTim, PacGamer</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=8160.0</Link> 
+      <Link>https://forums.qhimm.com/index.php?topic=8160.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim%201.02.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim%201.02.iro</Link>
         <Version>1.02</Version>
         <ReleaseDate>2015-02-28</ReleaseDate>
         <PreviewImage>https://i.imgur.com/E3yG6yf.png</PreviewImage>
@@ -1182,21 +1182,21 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>OST Music Remastered</Name>
-	  <Category>Media</Category>
+      <Category>Media</Category>
       <Description>Remastered versions of the original soundtrack.</Description>
       <Tags>
-	  <string>Media</string>
-	  <string>Music</string>
+        <string>Media</string>
+        <string>Music</string>
       </Tags>
-    </Mod> 
+    </Mod>
 
- ## FFNx FF7Music ##
+## FFNx FF7Music ##
     <Mod>
       <ID>3460085e-8981-4957-9e7a-66d4e9141425</ID>
       <Author>myst6re</Author>
       <Link>http://forums.qhimm.com/index.php?topic=19967.0</Link>
       <LatestVersion>
-		<Link>iros://Url/https$www.ff8.fr/download/programs/FFNx-FF7Music-v1.3.1.iro</Link>
+        <Link>iros://Url/https$www.ff8.fr/download/programs/FFNx-FF7Music-v1.3.1.iro</Link>
         <Version>1.03</Version>
         <ReleaseDate>2020-10-27</ReleaseDate>
         <PreviewImage>https://i.imgur.com/139wZOo.png</PreviewImage>
@@ -1205,16 +1205,16 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>FFNx FF7Music</Name>
-	  <Category>Media</Category>
+      <Category>Media</Category>
       <Description>Original MIDIs, a light alternative to Anxious Heart / The mod.</Description>
       <Tags>
-	  <string>Media</string>
-	  <string>Music</string>
-    <string>myst6re</string>
+        <string>Media</string>
+        <string>Music</string>
+        <string>myst6re</string>
       </Tags>
-    </Mod> 
+    </Mod>
 
- ## Bynyl FF7 Soundtrack ##
+## Bynyl FF7 Soundtrack ##
     <Mod>
       <ID>0df45991-45f2-4b53-b323-a5e788305667</ID>
       <Author>Bynyl</Author>
@@ -1229,7 +1229,7 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Bynyl FF7 Soundtrack</Name>
-	    <Category>Media</Category>
+      <Category>Media</Category>
       <Description>This is a reorchestration project by Bynyl, 57/91 tracks remade as well as a modified Opening FMV. Incomplete.</Description>
       <Tags>
         <string>Media</string>
@@ -1243,11 +1243,11 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
 ## Satsuki SYW Unified MiniGames Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-720000000004</ID>
-      <Author>Satsuki_Yatoshi, Aavock, jtd</Author> 
+      <Author>Satsuki_Yatoshi, Aavock, jtd</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.MiniGames.Textures.V1.04.iro.7z</Link>
-        <Version>1.04</Version> 
+        <Version>1.04</Version>
         <ReleaseDate>2024-01-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/hqw97eG.jpeg</PreviewImage>
@@ -1261,15 +1261,15 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
         <string>Satsuki</string>
         <string>Minigame Textures</string>
       </Tags>
-   </Mod>
+    </Mod>
 
- ## Grimmy Minigame Textures ##
+## Grimmy Minigame Textures ##
     <Mod>
       <ID>12a0eef8-64f3-493e-ac93-f5717822439e</ID>
       <Author>Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Minigames/Grimmy Minigame Textures.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Minigames/Grimmy Minigame Textures.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2015-02-28</ReleaseDate>
         <PreviewImage>https://i.imgur.com/kPQJDpn.png</PreviewImage>
@@ -1278,26 +1278,26 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Grimmy Minigame Textures</Name>
-	  <Category>Minigames</Category>
+      <Category>Minigames</Category>
       <Description>Minigame Textures Made by Grimmy.</Description>
       <Tags>
-	  <string>Grimmy</string>
-	  <string>Minigame</string>
-	  <string>Textures</string>
+        <string>Grimmy</string>
+        <string>Minigame</string>
+        <string>Textures</string>
       </Tags>
-    </Mod> 
- 
-## MISCELLANEOUS ## 
+    </Mod>
+
+## MISCELLANEOUS ##
 
 ## [Tsunamods] Wizard Staff ##
     <Mod>
       <ID>8c1020f8-562c-4a1e-87ab-dd328c0aa567</ID>
-      <Author>Bonez</Author> 
+      <Author>Bonez</Author>
       <Link>http://forums.qhimm.com/index.php?topic=19884.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
-		<Version>1.70</Version>
+        <Version>1.70</Version>
         <ReleaseDate>2023-11-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/i4NPnAO.png</PreviewImage>
@@ -1310,18 +1310,18 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
 E.g., Bolt2 = Thundara</Description>
       <Tags>
         <string>Bonez</string>
-	<string>tsunamods</string>
+        <string>tsunamods</string>
         <string>Miscellaneous</string>
       </Tags>
-   </Mod>
- 
- ## Jessie Mod ##
+    </Mod>
+
+## Jessie Mod ##
     <Mod>
       <ID>45f280cc-327f-4242-a77c-40e2241ad6d3</ID>
       <Author>Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Misc/JessieMod.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Misc/JessieMod.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2015-02-28</ReleaseDate>
         <PreviewImage>https://i.imgur.com/FVrPIci.png</PreviewImage>
@@ -1330,21 +1330,21 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Jessie Mod</Name>
-	  <Category>Miscellaneous</Category>
+      <Category>Miscellaneous</Category>
       <Description>Talk to Jessie in the Elevator to have her temporarily join your party.</Description>
       <Tags>
-	  <string>Grimmy</string>
-	  <string>Miscellaneous</string>
-	  <string>Jessie</string>
+        <string>Grimmy</string>
+        <string>Miscellaneous</string>
+        <string>Jessie</string>
       </Tags>
-    </Mod> 
- 
-## SPELL TEXTURES ## 
+    </Mod>
+
+## SPELL TEXTURES ##
 
 ## Satsuki SYW Unified Spells Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000003</ID>
-      <Author>Kela51, Satsuki_Yatoshi</Author> 
+      <Author>Kela51, Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Spells.Textures.V1.03.iro.7z</Link>
@@ -1362,15 +1362,15 @@ E.g., Bolt2 = Thundara</Description>
         <string>Satsuki</string>
         <string>Spell Textures</string>
       </Tags>
-   </Mod>
- 
- ## 4x Upscale sl1982 ##
+    </Mod>
+
+## 4x Upscale sl1982 ##
     <Mod>
       <ID>a2d77904-08db-43a3-92da-cf4deb48dabf</ID>
       <Author>sl1982</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/[4x Upscale]sl1982.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/[4x Upscale]sl1982.7z</Link>
         <Version>3.1</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/SYPopqe.png</PreviewImage>
@@ -1379,22 +1379,22 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>4x Upscaled Textures [sl1982]</Name>
-	  <Category>Spell Textures</Category>
+      <Category>Spell Textures</Category>
       <Description>Upscaled Textures done by sl1982</Description>
       <Tags>
-	  <string>sl1982</string>
-	  <string>Textures</string>
-	  <string>4K</string>
+        <string>sl1982</string>
+        <string>Textures</string>
+        <string>4K</string>
       </Tags>
-    </Mod> 
- 
- ## 4x Upscale Grimmy ##
+    </Mod>
+
+## 4x Upscale Grimmy ##
     <Mod>
       <ID>1e667b93-88a0-4b34-a973-a7a0bcf50cdc</ID>
       <Author>Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/[4xUpscale]Grimmy.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/[4xUpscale]Grimmy.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/re09Ej7.png</PreviewImage>
@@ -1403,22 +1403,22 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>4x Upscaled Textures [Grimmy]</Name>
-	  <Category>Spell Textures</Category>
+      <Category>Spell Textures</Category>
       <Description>Upscaled Textures done by Grimmy</Description>
       <Tags>
-	  <string>Grimmy</string>
-	  <string>Textures</string>
-	  <string>4K</string>
+        <string>Grimmy</string>
+        <string>Textures</string>
+        <string>4K</string>
       </Tags>
-    </Mod> 
- 
- ## Coin Skill ##
+    </Mod>
+
+## Coin Skill ##
     <Mod>
       <ID>321a964a-9535-4e5a-8c90-2034a1afeb74</ID>
       <Author>Mewsin</Author>
       <Link>https://forums.qhimm.com/index.php?topic=13383.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Coin_Skill.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Coin_Skill.7z</Link>
         <Version>1.01</Version>
         <ReleaseDate>2023-04-23</ReleaseDate>
         <PreviewImage>https://i.imgur.com/laIWzV7.png</PreviewImage>
@@ -1427,21 +1427,21 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Coin skill window UI Backgroud</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Retextured choices for Coin Toss UI window.</Description>
       <Tags>
-	  <string>Textures</string>
-	  <string>Coin Toss</string>
+        <string>Textures</string>
+        <string>Coin Toss</string>
       </Tags>
-    </Mod> 
- 
- ## Jinkazama2k7 Limit Break ##
+    </Mod>
+
+## Jinkazama2k7 Limit Break ##
     <Mod>
       <ID>dc938257-b11b-4168-8d59-3581f75c11d9</ID>
       <Author>Jinkazama2k7</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Jinkazama2k7_Limit_Break.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Jinkazama2k7_Limit_Break.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/1ILaot7.png</PreviewImage>
@@ -1450,22 +1450,22 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Jinkazama2k7's Limit Break</Name>
-	  <Category>Spell Textures</Category>
+      <Category>Spell Textures</Category>
       <Description>Limit Break retexture done by Jinkazama2k7</Description>
       <Tags>
-	  <string>Textures</string>
-	  <string>Limit Break</string>
-	  <string>Jinkazama2k7</string>
+        <string>Textures</string>
+        <string>Limit Break</string>
+        <string>Jinkazama2k7</string>
       </Tags>
-    </Mod> 
- 
- ## JOUTLAW Limit Break ##
+    </Mod>
+
+## JOUTLAW Limit Break ##
     <Mod>
       <ID>8ccda2c6-2585-4ba6-a5db-b61e69e64370</ID>
       <Author>JOUTLAW</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/JOUTLAW_Limit_Break.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/JOUTLAW_Limit_Break.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/Z2XSHnl.png</PreviewImage>
@@ -1474,22 +1474,22 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>JOUTLAW's Limit Break</Name>
-	  <Category>Spell Textures</Category>
+      <Category>Spell Textures</Category>
       <Description>Limit Break retexture done by JOUTLAW</Description>
       <Tags>
-	  <string>Textures</string>
-	  <string>Limit Break</string>
-	  <string>JOUTLAW</string>
+        <string>Textures</string>
+        <string>Limit Break</string>
+        <string>JOUTLAW</string>
       </Tags>
-    </Mod> 
-	
- ## kela51 Limit Break ##
+    </Mod>
+
+## kela51 Limit Break ##
     <Mod>
       <ID>189f00ec-ec88-44bd-a2d4-05dd387db47d</ID>
       <Author>kela51</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/kela51_Limit_Break.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/kela51_Limit_Break.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/Ao7LELA.mp4</PreviewImage>
@@ -1498,22 +1498,22 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>kela51's Limit Break</Name>
-	  <Category>Spell Textures</Category>
+      <Category>Spell Textures</Category>
       <Description>Multiple Limit Break retextures done by kela51</Description>
       <Tags>
-	  <string>Textures</string>
-	  <string>Limit Break</string>
-	  <string>kela51</string>
+        <string>Textures</string>
+        <string>Limit Break</string>
+        <string>kela51</string>
       </Tags>
     </Mod>
- 
- ## Mike Limit Break ##
+
+## Mike Limit Break ##
     <Mod>
       <ID>2001b794-c733-4b5e-9858-900c9019da91</ID>
       <Author>Mike</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Mike_Limit_Break.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Mike_Limit_Break.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/oesUBmI.mp4</PreviewImage>
@@ -1522,21 +1522,21 @@ E.g., Bolt2 = Thundara</Description>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Mike's Limit Break</Name>
-	  <Category>Spell Textures</Category>
+      <Category>Spell Textures</Category>
       <Description>Multiple Limit Break retextures done by Mike</Description>
       <Tags>
-	  <string>Textures</string>
-	  <string>Limit Break</string>
-	  <string>Mike</string>
+        <string>Textures</string>
+        <string>Limit Break</string>
+        <string>Mike</string>
       </Tags>
     </Mod>
- 
+
 ## USER INTERFACE ##
 
 ## KACTUAR - Controller and Keyboard Icons ##
     <Mod>
       <ID>3cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
-      <Author>KWRRK</Author> 
+      <Author>KWRRK</Author>
       <Link></Link>
       <LatestVersion>
         <Link>iros://GDrive/1BpECbiZcoZUmyBwxmB1uA_KfsGQW1lJ2</Link>
@@ -1555,14 +1555,14 @@ E.g., Bolt2 = Thundara</Description>
         <string>User Interface</string>
         <string>Font</string>
         <string>Controller</string>
-        <string>Keyboard</string>	      
+        <string>Keyboard</string>
       </Tags>
-   </Mod>	   
-	
+    </Mod>
+
 ## IFRIT - FF7 Interface Tweaks ##
     <Mod>
       <ID>4cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
-      <Author>KWRRK</Author> 
+      <Author>KWRRK</Author>
       <Link></Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/ifrit.7z</Link>
@@ -1577,7 +1577,7 @@ Version 1.3
 - Added new 16:9 battle UI layouts
 - Added interface compatibility option (Stock, SYW, ESUI)
 - 'Main Menu' option changed to 'Menu Tweaks', now includes shop menu and auto 16:9 world map position
-		
+
 Version 1.2
 - Added Intro Logo option
 - Added ESUI compatibility option</ReleaseNotes>
@@ -1589,7 +1589,7 @@ Version 1.2
 
 Features:
 - Interface Compatibility (Stock, SYW, ESUI)
-- Optimize stock main menu and other UI elements 
+- Optimize stock main menu and other UI elements
 - Choose between stock and 16:9 battle UI layouts
 - Move stock battle UI to the bottom of the screen
 - Different styles of AI enhanced Avatars
@@ -1601,17 +1601,17 @@ Features:
         <string>User Interface</string>
         <string>Avatar</string>
       </Tags>
-   </Mod>	   
-	   
+    </Mod>
+
 ## Remake ESUI Theme ##
     <Mod>
       <ID>0b038238-8e3e-48a5-b56d-55a3fe0aa929</ID>
-      <Author>Fewtch, Chrysalis, and the Qhimm Modding Community</Author> 
+      <Author>Fewtch, Chrysalis, and the Qhimm Modding Community</Author>
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/FF7_Remake_ESUI_Theme_1.60.7z</Link>
-        <Link>iros://GDrive/1mX9Z3xY4fdvGuTWm2MQCxO2Da8Lyw-Iq</Link>	      
-		<Version>1.60</Version>
+        <Link>iros://GDrive/1mX9Z3xY4fdvGuTWm2MQCxO2Da8Lyw-Iq</Link>
+        <Version>1.60</Version>
         <ReleaseDate>2023-09-26</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/piuBuyy.png</PreviewImage>
@@ -1625,21 +1625,21 @@ Features:
         <string>Chrysalis</string>
         <string>Fewtch</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ## Enhanced Stock UI
     <Mod>
-      <ID>2b49d831-6556-41df-9ddb-d1a6e937f548</ID>  
+      <ID>2b49d831-6556-41df-9ddb-d1a6e937f548</ID>
       <Author>Chrysalis</Author>
       <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
-      <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
+        <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
         <Version>2.919</Version>
         <ReleaseDate>2024-01-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-         <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
+        <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
 Auto enable compat flag when used with Ifrit
 Slow down status text rotation in battle
 Fix Echo-s seconds in 16:9
@@ -1666,7 +1666,7 @@ Battle Avatars Support</Description>
 ## AxlRose Avatars + old Pencil Drawings ##
     <Mod>
       <ID>c4f0d768-a8b9-4d82-a5af-3beda51e0ffa</ID>
-      <Author>AxlRose + Sage</Author> 
+      <Author>AxlRose + Sage</Author>
       <Link>https://discord.gg/xJMxvEk</Link>
       <LatestVersion>
         <Link>iros://GDrive/14pnWjU4vZ0JZhGIT1BovOPpNnRk_O6AA</Link>
@@ -1690,7 +1690,7 @@ Battle Avatars Support</Description>
         <string>AxlRose</string>
         <string>User Interface</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ## Satsuki SYW Unified Menus and Fonts Textures (with credits) ##
     <Mod>
@@ -1714,11 +1714,11 @@ Battle Avatars Support</Description>
         <string>User Interface</string>
         <string>Font</string>
       </Tags>
-   </Mod>
+    </Mod>
 
 ## [Tsunamods] Phoenix Tail Avatars
     <Mod>
-      <ID>0487ed29-510a-43bb-99b2-a612d7df8d01</ID>  
+      <ID>0487ed29-510a-43bb-99b2-a612d7df8d01</ID>
       <Author>Tsunamix + TheWez1981</Author>
       <Link>https://discord.gg/XVHBExy</Link>
       <LatestVersion>
@@ -1742,7 +1742,7 @@ Battle Avatars Support</Description>
 
 ##[Tsunamods] Finishing Touch
     <Mod>
-      <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID> 
+      <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID>
       <Author>Bonez, Lap Pun Cheung</Author>
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
@@ -1765,7 +1765,7 @@ Clear battle boxes when using a personalized color scheme
 New battleview
 Fix transparent battle boxes
 Better cholor scheme matching for FT battleviews
-</ReleaseNotes>
+        </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
@@ -1777,17 +1777,17 @@ New game over screen from artist Lap Pun Cheung.
 10 avatar sets.
 7 battle/dialogue avatar sets.
 Full retro-modern ESUI theme (Requires Enhanced Stock UI).
-  </Description>
+      </Description>
       <Tags>
         <string>Bonez</string>
         <string>Tsunamods</string>
-	<string>User Interface</string>
+        <string>User Interface</string>
       </Tags>
     </Mod>
-	   
+
 ##[Tsunamods] Retouch
     <Mod>
-      <ID>3c9fe83d-4374-4572-81b1-ca14f1043a4a</ID> 
+      <ID>3c9fe83d-4374-4572-81b1-ca14f1043a4a</ID>
       <Author>Bonez</Author>
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
@@ -1808,28 +1808,28 @@ Icons optional so non-English possible
 Option to use non-named avatars
 Move status icons inside battle box
 Fix blue text color mismatch in battle
-</ReleaseNotes>
+        </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Retouch</Name>
       <Category>User Interface</Category>
       <Description>Full Remake style ESUI theme including battleview, avatars, expanded icons, prelude and start screen.
 	Requires ESUI
-  </Description>
+      </Description>
       <Tags>
         <string>Bonez</string>
         <string>Tsunamods</string>
-	<string>User Interface</string>
+        <string>User Interface</string>
       </Tags>
     </Mod>
 
- ## AbyssWolf Avatars ##
+## AbyssWolf Avatars ##
     <Mod>
       <ID>beae6bc5-90f0-43a8-990e-e382300a0ea6</ID>
       <Author>AbyssWolf</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15546.msg218806#msg218806</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/AbyssWolf.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/AbyssWolf.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/k2kxq6M.png</PreviewImage>
@@ -1838,22 +1838,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>AbyssWolf Avatars</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Custom character avatars by AbyssWolf</Description>
       <Tags>
-	  <string>Avatar</string>
-	  <string>User Interface</string>
-	  <string>AbyssWolf</string>
+        <string>Avatar</string>
+        <string>User Interface</string>
+        <string>AbyssWolf</string>
       </Tags>
     </Mod>
- 
- ## MiloLeonhart Avatars ##
+
+## MiloLeonhart Avatars ##
     <Mod>
       <ID>78f52049-d62e-429a-99b0-7f9aed4a756c</ID>
       <Author>MiloLeonhart</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/MiloLeonhart.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/MiloLeonhart.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/zcruzX7.png</PreviewImage>
@@ -1862,22 +1862,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>MiloLeonhart Avatars</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Custom character avatars by MiloLeonhart</Description>
       <Tags>
-	  <string>Avatar</string>
-	  <string>User Interface</string>
-	  <string>MiloLeonhart</string>
+        <string>Avatar</string>
+        <string>User Interface</string>
+        <string>MiloLeonhart</string>
       </Tags>
     </Mod>
- 
- ## Minmin Avatars ##
+
+## Minmin Avatars ##
     <Mod>
       <ID>f0e842a2-f0c9-456f-b0a8-01930f863873</ID>
       <Author>Minmin</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Minmin.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Minmin.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/ebLwf4l.png</PreviewImage>
@@ -1886,22 +1886,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Minmin Avatars</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Custom character avatars by Minmin</Description>
       <Tags>
-	  <string>Avatar</string>
-	  <string>User Interface</string>
-	  <string>Minmin</string>
+        <string>Avatar</string>
+        <string>User Interface</string>
+        <string>Minmin</string>
       </Tags>
     </Mod>
- 
- ## Various Authors Backgrounds ##
+
+## Various Authors Backgrounds ##
     <Mod>
       <ID>25c13e1c-3ea4-48ba-bf09-c4412cb3242a</ID>
       <Author>Felix Leonheart, Nikfrotzy, Mewsin, Wren Jr and Unknown Authors</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Backgrounds.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Backgrounds.7z</Link>
         <Version>4.03</Version>
         <ReleaseDate>2023-04-23</ReleaseDate>
         <PreviewImage>https://i.imgur.com/Ajr29Eo.png</PreviewImage>
@@ -1910,21 +1910,21 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Backgrounds</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Multiple background choices (If more original authors are found message strife98)</Description>
       <Tags>
-	  <string>Backgrounds</string>
-	  <string>User Interface</string>
+        <string>Backgrounds</string>
+        <string>User Interface</string>
       </Tags>
     </Mod>
- 
- ## Prelude Credits Grimmy ##
+
+## Prelude Credits Grimmy ##
     <Mod>
       <ID>b8432e99-6baa-4bdc-94fa-efc381c61dc3</ID>
       <Author>Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - Grimmy.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - Grimmy.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/72b2Www.png</PreviewImage>
@@ -1933,22 +1933,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Prelude Credits [Grimmy]</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Prelude credits background by Grimmy</Description>
       <Tags>
-	  <string>Prelude</string>
-	  <string>User Interface</string>
-	  <string>Grimmy</string>
+        <string>Prelude</string>
+        <string>User Interface</string>
+        <string>Grimmy</string>
       </Tags>
     </Mod>
- 
- ## Prelude Credits JordieBo ##
+
+## Prelude Credits JordieBo ##
     <Mod>
       <ID>1dc9c39d-1fa9-4090-a04f-d84007d2fe94</ID>
       <Author>JordieBo</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - JordieBo.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - JordieBo.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/2ZOBAn8.png</PreviewImage>
@@ -1957,22 +1957,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Prelude Credits [JordieBo]</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Prelude credits background by JordieBo</Description>
       <Tags>
-	  <string>Prelude</string>
-	  <string>User Interface</string>
-	  <string>JordieBo</string>
+        <string>Prelude</string>
+        <string>User Interface</string>
+        <string>JordieBo</string>
       </Tags>
     </Mod>
- 
- ## Prelude Credits Strayoff ##
+
+## Prelude Credits Strayoff ##
     <Mod>
       <ID>ab1a0bf6-85b9-435d-8fa1-80b55e5eaad2</ID>
       <Author>Strayoff</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - Strayoff.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - Strayoff.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/SJZN3CC.png</PreviewImage>
@@ -1981,22 +1981,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Prelude Credits [Strayoff]</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Prelude credits background by Strayoff</Description>
       <Tags>
-	  <string>Prelude</string>
-	  <string>User Interface</string>
-	  <string>Strayoff</string>
+        <string>Prelude</string>
+        <string>User Interface</string>
+        <string>Strayoff</string>
       </Tags>
     </Mod>
- 
- ## wictoriously Avatars ##
+
+## wictoriously Avatars ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc812</ID>
       <Author>Wictoriously, Reiletuag, Rimavelle</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
-		<Link>iros://GDrive/1owHpoLhdW98Np8Fyhj7-hj_RG64TxwsL</Link>
+        <Link>iros://GDrive/1owHpoLhdW98Np8Fyhj7-hj_RG64TxwsL</Link>
         <Version>2.02</Version>
         <ReleaseDate>2023-10-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/PO6b5MQ.png</PreviewImage>
@@ -2005,22 +2005,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Wictoriously Avatars</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Alternative avatars from official artworks</Description>
       <Tags>
-	  <string>Avatar</string>
-	  <string>User Interface</string>
-	  <string>wictoriously</string>
+        <string>Avatar</string>
+        <string>User Interface</string>
+        <string>wictoriously</string>
       </Tags>
     </Mod>
- 
- ## Wolfman Avatars ##
+
+## Wolfman Avatars ##
     <Mod>
       <ID>2a36f9f0-2723-4cfe-a5d7-04701cf554ac</ID>
       <Author>Wolfman</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Wolfman.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Wolfman.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/CaSajxk.png</PreviewImage>
@@ -2029,22 +2029,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Wolfman Avatars</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Multple custom avatar choices by Wolfman</Description>
       <Tags>
-	  <string>Avatar</string>
-	  <string>User Interface</string>
-	  <string>Wolfman</string>
+        <string>Avatar</string>
+        <string>User Interface</string>
+        <string>Wolfman</string>
       </Tags>
     </Mod>
- 
- ## Mewsin's Avatar pack ##
+
+## Mewsin's Avatar pack ##
     <Mod>
       <ID>cfba9e3b-0408-4148-be2a-027f7c978118</ID>
       <Author>Mewsin</Author>
       <Link>https://forums.qhimm.com/index.php?topic=12825.0</Link>
       <LatestVersion>
-		<Link>iros://GDrive/1eXKDA7EB4fNxQKFdgnycLnfhOVbrMF-Q</Link>
+        <Link>iros://GDrive/1eXKDA7EB4fNxQKFdgnycLnfhOVbrMF-Q</Link>
         <Version>1.12</Version>
         <ReleaseDate>2023-12-17</ReleaseDate>
         <PreviewImage>https://i.imgur.com/vY1Hjqi.png</PreviewImage>
@@ -2053,22 +2053,22 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Mewsin's Avatar pack</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Custom Avatars by Mewsin</Description>
       <Tags>
-	  <string>Avatar</string>
-	  <string>User Interface</string>
-	  <string>Mewsin</string>
+        <string>Avatar</string>
+        <string>User Interface</string>
+        <string>Mewsin</string>
       </Tags>
     </Mod>
-	   
- ## Compact Battle UI ##
+
+## Compact Battle UI ##
     <Mod>
       <ID>b24eb637-79e1-44a6-b06a-1003a23e5048</ID>
       <Author/>
       <Link/>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/cbui.iro</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/cbui.iro</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-04-30</ReleaseDate>
         <PreviewImage></PreviewImage>
@@ -2077,23 +2077,23 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Compact Battle UI</Name>
-	  <Category>User Interface</Category>
+      <Category>User Interface</Category>
       <Description>Compact Battle UI for SYW/Vanilla Fonts</Description>
       <Tags>
-	  <string>Battle</string>
-	  <string>User Interface</string>
+        <string>Battle</string>
+        <string>User Interface</string>
       </Tags>
-    </Mod>	   
+    </Mod>
 
 ## WORLD TEXTURES ##
 
 ## Satsuki SYW Unified WorldMap Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000006</ID>
-      <Author>Satsuki_Yatoshi</Author> 
+      <Author>Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-        	<Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.WorlMap.Textures.V1.03.iro.7z</Link>
+        <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.WorlMap.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -2108,15 +2108,15 @@ Fix blue text color mismatch in battle
         <string>Satsuki</string>
         <string>World Textures</string>
       </Tags>
-   </Mod>
+    </Mod>
 
- ## Retexture Textures Grimmy + ##
+## Retexture Textures Grimmy + ##
     <Mod>
       <ID>4ab84d33-8514-4696-b02a-ba6491f87a43</ID>
       <Author>FeliXLeonhart, Ste41k, Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[Retexture]FeliXLeonhart+Ste41k+Grimmy.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[Retexture]FeliXLeonhart+Ste41k+Grimmy.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/ftUdGVa.png</PreviewImage>
@@ -2125,25 +2125,25 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Retextured World Textures</Name>
-	  <Category>World Textures</Category>
+      <Category>World Textures</Category>
       <Description>Retextured World Textures</Description>
       <Tags>
-	  <string>Retexture</string>
-	  <string>World Textures</string>
-	  <string>Grimmy</string>
-	  <string>FeliXLeonhart</string>
-	  <string>Ste41k</string>
+        <string>Retexture</string>
+        <string>World Textures</string>
+        <string>Grimmy</string>
+        <string>FeliXLeonhart</string>
+        <string>Ste41k</string>
       </Tags>
     </Mod>
- 
- ## Remako World Textures ##
+
+## Remako World Textures ##
     <Mod>
-	  <Deprecated/>
+      <Deprecated/>
       <ID>98491fb3-ab39-4ca0-a9aa-2e956be7377e</ID>
       <Author>CaptRobau</Author>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[4x Upscale] Remako HD - CaptRobau.7z</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[4x Upscale] Remako HD - CaptRobau.7z</Link>
         <Version>2.0</Version>
         <ReleaseDate>2020-03-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/mzgdOhb.png</PreviewImage>
@@ -2152,17 +2152,17 @@ Fix blue text color mismatch in battle
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Remako World Textures (Deprecated)</Name>
-	  <Category>World Textures</Category>
+      <Category>World Textures</Category>
       <Description>AI Upscaled World Textures
 	    (Deprecated. Use SYW5)</Description>
       <Tags>
-	  <string>AI</string>
-	  <string>World Textures</string>
-	  <string>Upscale</string>
-	  <string>Remako</string>
-	  <string>CaptRobau</string>
+        <string>AI</string>
+        <string>World Textures</string>
+        <string>Upscale</string>
+        <string>Remako</string>
+        <string>CaptRobau</string>
       </Tags>
     </Mod>
- 
+
   </Mods>
 </Catalog>
