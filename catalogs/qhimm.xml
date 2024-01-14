@@ -587,8 +587,8 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://forums.qhimm.com/index.php?topic=16653.msg236205#msg236205</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
-        <Version>4.033</Version>
-        <ReleaseDate>2023-10-05</ReleaseDate>
+        <Version>4.035</Version>
+        <ReleaseDate>2024-01-14</ReleaseDate>
         <PreviewImage>https://i.imgur.com/oHJvuQE.png</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>5802</DownloadSize>
@@ -756,7 +756,7 @@ Not compatible with other Gameplay mods.</Description>
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
 		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/Hardcore - gjoerulv.iro</Link>
-        <Version>1.0</Version>
+        <Version>1.01</Version>
         <ReleaseDate>2007-06-23</ReleaseDate>
         <PreviewImage>https://i.imgur.com/iFNDVAP.png</PreviewImage>
         <ReleaseNotes/>
@@ -1587,8 +1587,8 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
       <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.918</Version>
-        <ReleaseDate>2024-01-13</ReleaseDate>
+        <Version>2.919</Version>
+        <ReleaseDate>2024-01-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
          <ReleaseNotes>Fix spacing issues when using ESUI+Echo-s+SYWFields
