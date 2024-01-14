@@ -1220,7 +1220,7 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       <Author>Bynyl</Author>
       <Link>https://forums.qhimm.com/index.php?topic=18483.0</Link>
       <LatestVersion>
-		<Link>iros://GDrive/1BJ9e3GNYTXNdFmCz28OBPElzV4E6cmKT</Link>
+        <Link>iros://GDrive/1BJ9e3GNYTXNdFmCz28OBPElzV4E6cmKT</Link>
         <Version>0.57</Version>
         <ReleaseDate>2020-11-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/9ft52TX.jpeg</PreviewImage>
@@ -1229,14 +1229,14 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Bynyl FF7 Soundtrack</Name>
-	  <Category>Media</Category>
+	    <Category>Media</Category>
       <Description>This is a reorchestration project by Bynyl, 57/91 tracks remade as well as a modified Opening FMV. Incomplete.</Description>
       <Tags>
-	  <string>Media</string>
-	  <string>Music</string>
-    <string>Bynyl</string>
+        <string>Media</string>
+        <string>Music</string>
+        <string>Bynyl</string>
       </Tags>
-    </Mod> 
+    </Mod>
 
 ## MINIGAMES ##
 
