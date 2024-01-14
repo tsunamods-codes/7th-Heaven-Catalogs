@@ -773,6 +773,30 @@ Not compatible with other Gameplay mods.</Description>
       </Tags>
     </Mod>
 
+##Shinra Archaeology Cut##
+<Mod>
+  <ID>bc4f77b2-f3ce-4378-bd13-7fcc7e55960c</ID>
+  <Author>TheStrifIsRife, TurquoiseHammer</Author>
+  <Link>https://shinraarchaeology.com/retransmod.html</Link>
+  <DonationLink>https://ko-fi.com/odysseus77777</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
+    <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
+    <Version>0.14.1</Version>
+    <ReleaseDate>2024-01-13</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
+    <ReleaseNotes>First release</ReleaseNotes>
+    <DownloadSize>311605</DownloadSize>
+  </LatestVersion>
+  <Name>Shinra Archeology Cut</Name>
+  <Category>Gameplay</Category>
+  <Description>Restores cut content and much more.</Description>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod> 
+
 ## MEDIA ##
 
 ## cmh175 HQ FMV Pack
