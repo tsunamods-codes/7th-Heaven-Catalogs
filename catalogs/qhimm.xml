@@ -851,6 +851,54 @@ Not compatible with other Gameplay mods.</Description>
       </Tags>
     </Mod>
 
+## Cosmos Limit Break
+    <Mod>
+      <ID>7c6a0289-ae89-411d-836a-531e78938401</ID>  
+      <Author>Cosmos, Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author>
+      <Link></Link>
+      <LatestVersion>
+	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-01-14</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/luyEKP0.jpg</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>3311892</DownloadSize>
+      </LatestVersion>
+      <Name>Cosmos Limit Break</Name>
+      <Category>Field Textures</Category>
+      <Description>Field background textures extended for widescreen displays using a combination of AI and extensive manual editing. This is a complete field texture pack based on the upscaled SYW textures.</Description>
+      <Tags>
+        <string>Cosmos</string>
+        <string>Satsuki</string>
+        <string>Field Textures</string>
+      </Tags>
+    </Mod>
+
+## Cosmos Gaia
+    <Mod>
+      <ID>1970dd4b-cd94-410e-a3af-f9c7086c6699</ID>  
+      <Author>Cosmos, L@ZaRO, Satsuki_Yatoshi</Author>
+      <Link></Link>
+      <LatestVersion>
+	<Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosGaia.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-01-14</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/6c935Ci.jpg</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>84970</DownloadSize>
+      </LatestVersion>
+      <Name>Cosmos Gaia</Name>
+      <Category>World Textures</Category>
+      <Description>Worldmap overhaul that re-implements the terrain rendering to add analog movement and camera controls, real-time lighting and extended view distance.</Description>
+      <Tags>
+        <string>Cosmos</string>
+        <string>Satsuki</string>
+        <string>World Textures</string>
+      </Tags>
+    </Mod>
+
 ## Symphonic Remasters: Redux
     <Mod>
       <ID>e17f6212-2f51-4c51-b2e3-ca3bafcf2b6b</ID>
