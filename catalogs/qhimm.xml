@@ -1214,6 +1214,30 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       </Tags>
     </Mod> 
 
+ ## Bynyl FF7 Soundtrack ##
+    <Mod>
+      <ID>0df45991-45f2-4b53-b323-a5e788305667</ID>
+      <Author>Bynyl</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=18483.0</Link>
+      <LatestVersion>
+		<Link>iros://GDrive/1BJ9e3GNYTXNdFmCz28OBPElzV4E6cmKT</Link>
+        <Version>0.57</Version>
+        <ReleaseDate>2020-11-07</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/9ft52TX.jpeg</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>146000</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Bynyl FF7 Soundtrack</Name>
+	  <Category>Media</Category>
+      <Description>This is a reorchestration project by Bynyl, 57/91 tracks remade as well as a modified Opening FMV. Incomplete.</Description>
+      <Tags>
+	  <string>Media</string>
+	  <string>Music</string>
+    <string>Bynyl</string>
+      </Tags>
+    </Mod> 
+
 ## MINIGAMES ##
 
 ## Satsuki SYW Unified MiniGames Textures ##
