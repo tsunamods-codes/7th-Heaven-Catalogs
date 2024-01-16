@@ -1450,12 +1450,12 @@ E.g., Bolt2 = Thundara</Description>
       <Author>Mewsin</Author>
       <Link>https://forums.qhimm.com/index.php?topic=13383.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Coin_Skill.7z</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2023-04-23</ReleaseDate>
+        <Link>iros://GDrive/1V0hxhuczspFRPJ3N4AdQwp-NelzoAX0b</Link>
+        <Version>1.02</Version>
+        <ReleaseDate>2024-01-24</ReleaseDate>
         <PreviewImage>https://i.imgur.com/laIWzV7.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>7010</DownloadSize>
+        <DownloadSize>7710</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Coin skill window UI Backgroud</Name>
