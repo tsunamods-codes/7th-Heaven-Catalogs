@@ -814,12 +814,12 @@ Not compatible with other Gameplay mods.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.14</Version>
-        <ReleaseDate>2024-01-13</ReleaseDate>
+        <Version>0.142</Version>
+        <ReleaseDate>2024-01-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
-        <ReleaseNotes>First release</ReleaseNotes>
-        <DownloadSize>311605</DownloadSize>
+        <ReleaseNotes>Minor adjustment to make mod compatible with Cosmos Limit Break.</ReleaseNotes>
+        <DownloadSize>319079</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archeology Cut</Name>
       <Category>Gameplay</Category>
