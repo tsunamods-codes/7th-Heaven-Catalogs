@@ -725,6 +725,38 @@ Not compatible with other Gameplay mods.</Description>
       </Tags>
     </Mod>
 
+## Steam Deck Auto-Config
+    <Mod>
+      <ID>e1a9773f-b7e4-461b-860c-73b8cf8875d6</ID>
+      <Author>dotAXiS</Author>
+      <Link />
+      <LatestVersion>
+        <DownloadSize>3</DownloadSize>
+        <Link>iros://Url/https$github.com/dotaxis/7thDeck/releases/latest/download/SteamDeckAutoConfig.iro</Link>
+        <Version>1.03</Version>
+        <ReleaseDate>2024-01-15T17:23:32.2266352-07:00</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage />
+      </LatestVersion>
+      <Name>Steam Deck Auto-Config</Name>
+      <Description>Automatically apply recommended settings for Steam Deck
+
+    Resolution: Auto
+    Window Mode: Fullscreen
+    Aspect Ratio: 16:10
+    Antialiasing: 4x MSAA
+    Anisotropic Filtering: On
+    Internal Resolution Scaling: 4x
+    Vertical Sync: Off
+    Advanced Lighting: Enabled
+    Analogue Controls: Enabled
+    Steam Compatibility: Enabled
+    Auto Run: Enabled
+      </Description>
+      <Category>Gameplay</Category>
+      <Tags />
+    </Mod>
+
 ## Super Boss Rush ##
     <Mod>
       <ID>eaae8756-2e9c-4536-87b2-d6e61189c789</ID>
