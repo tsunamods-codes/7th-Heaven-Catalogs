@@ -733,7 +733,7 @@ Not compatible with other Gameplay mods.</Description>
       <LatestVersion>
         <DownloadSize>3</DownloadSize>
         <Link>iros://Url/https$github.com/dotaxis/7thDeck/releases/latest/download/SteamDeckAutoConfig.iro</Link>
-        <Version>1.03</Version>
+        <Version>1.04</Version>
         <ReleaseDate>2024-01-15T17:23:32.2266352-07:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage />
