@@ -1825,8 +1825,8 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.69</Version>
-        <ReleaseDate>2023-11-10</ReleaseDate>
+        <Version>0.70</Version>
+        <ReleaseDate>2024-01-20</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1840,6 +1840,9 @@ Icons optional so non-English possible
 Option to use non-named avatars
 Move status icons inside battle box
 Fix blue text color mismatch in battle
+Ever Crisis Borders
+Move Mini Avatars and indicators inside battle box
+NTCO auto compatibility
         </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
