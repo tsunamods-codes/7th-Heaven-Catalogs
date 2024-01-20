@@ -36,7 +36,27 @@
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
       <Name>New Threat 2.0 Combat Only</Name>
-      <Description>A combat rebalance mod</Description>
+      <Description>A combat rebalance mod.</Description>
+      <Category>Gameplay</Category>
+      <Tags>
+        <string>Gameplay</string>
+      </Tags>
+    </Mod>
+	<Mod>
+      <ID>a3c6e436-72ba-46c9-b34a-23004b2d4d75</ID>
+      <Author>Sega Chief</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/10n0BCAOmNZALq2FlE6I6Um2jd1LZVpBk</Link>
+        <Version>2.09998</Version>
+        <ReleaseDate>2024-01-20</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>35000</DownloadSize>
+      </LatestVersion>
+      <Name>New Threat 2.0 Vanilla Combat</Name>
+      <Description>Content mod with vanilla encounters.</Description>
       <Category>Gameplay</Category>
       <Tags>
         <string>Gameplay</string>
