@@ -1780,23 +1780,16 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.486</Version>
-        <ReleaseDate>2023-10-28</ReleaseDate>
+        <Version>2.487</Version>
+        <ReleaseDate>2024-01-20</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0+
-New damage numbers
-3 new avatar and 3 mini avatar sets
-Live status ailment icons in battle
-Add Peerless, Resist icons
-Add Dual icon for NT
-Theme-specific backgrounds
-Touch up menu boxes
-Clear battle boxes when using a personalized color scheme
-New battleview
-Fix transparent battle boxes
-Better cholor scheme matching for FT battleviews
+-Add NTCO compatibility
+-Fix Meteorain spelling for Echo-S
+-Housekeeping for ESUI update
+-Seaparate Dialogue Avatars, Battle Avatars, Controller Icons and Expanded Icons. They can now each be used independantly.
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
