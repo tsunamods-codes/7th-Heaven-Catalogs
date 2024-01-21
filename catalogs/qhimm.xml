@@ -1650,9 +1650,10 @@ Features:
         <ReleaseNotes/>
         <DownloadSize>27136</DownloadSize>
       </LatestVersion>
-      <Name>FF7 Remake ESUI Theme</Name>
+      <Name>FF7 Remake ESUI Theme (Deprecated)</Name>
       <Category>User Interface</Category>
-      <Description>FF7 Remake styled theme for ESUI. REQUIRES Enhanced Stock UI!</Description>
+      <Description>FF7 Remake styled theme for ESUI. REQUIRES Enhanced Stock UI!
+Deprecated. Use Retouch</Description>
       <Tags>
         <string>Chrysalis</string>
         <string>Fewtch</string>
@@ -1780,7 +1781,7 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.487</Version>
+        <Version>2.488</Version>
         <ReleaseDate>2024-01-20</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
@@ -1789,7 +1790,7 @@ Requires 7th Heaven 3.0+
 -Add NTCO compatibility
 -Fix Meteorain spelling for Echo-S
 -Housekeeping for ESUI update
--Seaparate Dialogue Avatars, Battle Avatars, Controller Icons and Expanded Icons. They can now each be used independantly.
+-Undo Dialogue Avatar separation for now.
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
