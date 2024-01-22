@@ -555,31 +555,6 @@ Big thanks to:
       </Tags>
     </Mod>
 
-
-## ESUI Controller Addon ##
-    <Mod>
-      <ID>135478f5-b53f-4960-b411-b93370dc45da</ID>
-      <Author>Chrysalis</Author>
-      <Link>https://forums.qhimm.com/</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$chris.7thheaven.rocks/ESUI-Controller-Addon.7z</Link>
-        <Version>1.102</Version>
-        <ReleaseDate>2022-09-17</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/taztZvt.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>1197</DownloadSize>
-      </LatestVersion>
-      <Name>ESUI Controller Addon</Name>
-      <Category>Gameplay</Category>
-      <Description>Adds controller icons to game dialog.
-Adds mini avatar's to game dialog.
-Not compatible with other Gameplay mods.</Description>
-      <Tags>
-        <string>Chrysalis</string>
-      </Tags>
-    </Mod>
-
 ## Gameplay Tweaks ##
     <Mod>
       <ID>7c989c70-8381-4a5f-a2d8-3d22dc8f6042</ID>
