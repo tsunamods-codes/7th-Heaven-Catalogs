@@ -534,16 +534,20 @@ Big thanks to:
       <Author>Tsunamods Team</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
-        <Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.11/Echo-s%201.11.iro</Link>
-        <Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.11.iro</Link>
-        <Version>1.11</Version>
-        <ReleaseDate>2023-10-19</ReleaseDate>
+        <Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.12/Echo-s%201.12.iro</Link>
+        <Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.12.iro</Link>
+        <Version>1.12</Version>
+        <ReleaseDate>2024-01-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
         <ReleaseNotes>-All known bugs fixed
-  -Revamped character naming to be completely invisible
-  -Revert parade minigame to vanilla difficulty
-  -Tsuna character can now provide tutorial information in Sector 7 and Junon</ReleaseNotes>
+  - Fixed Choco/Mog dance scene
+  - Fixed and cleaned Junon locker room scenes
+  - Fixed Cait Sith name error that effected menus
+  - Fixed Nibel flashback black screen
+  - Fixed Jessie continuity if not saved in bombing mission
+  - Necessary changes for ESUI mini avatar revamp
+  - ~50 other miscellaneous fixes</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Echo-S</Name>
@@ -1757,8 +1761,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.488</Version>
-        <ReleaseDate>2024-01-20</ReleaseDate>
+        <Version>2.489</Version>
+        <ReleaseDate>2024-01-31</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
@@ -1766,7 +1770,7 @@ Requires 7th Heaven 3.0+
 -Add NTCO compatibility
 -Fix Meteorain spelling for Echo-S
 -Housekeeping for ESUI update
--Undo Dialogue Avatar separation for now.
+-Separate Dialogue avatars, Battle avatars and Expanded Icons for use independantly
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1795,8 +1799,8 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.70</Version>
-        <ReleaseDate>2024-01-20</ReleaseDate>
+        <Version>0.71</Version>
+        <ReleaseDate>2024-01-31</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1813,6 +1817,8 @@ Fix blue text color mismatch in battle
 Ever Crisis Borders
 Move Mini Avatars and indicators inside battle box
 NTCO auto compatibility
+Separate Dialogue avatars, Battle avatars and Expanded Icons for use idependantly
+Added options for box transparency, field buttons, battle avatars and dialogue avatars
         </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
