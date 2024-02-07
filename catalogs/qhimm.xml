@@ -1762,8 +1762,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.489</Version>
-        <ReleaseDate>2024-01-31</ReleaseDate>
+        <Version>2.49</Version>
+        <ReleaseDate>2024-02-07</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
@@ -1772,6 +1772,8 @@ Requires 7th Heaven 3.0+
 -Fix Meteorain spelling for Echo-S
 -Housekeeping for ESUI update
 -Separate Dialogue avatars, Battle avatars and Expanded Icons for use independantly
+-Fix DA's for no-theme
+-Update Fury and chocobo greens icons
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
