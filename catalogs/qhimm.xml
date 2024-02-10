@@ -2059,14 +2059,14 @@ Added options for box transparency, field buttons, battle avatars and dialogue a
       <Link>https://forums.qhimm.com/index.php?topic=12825.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1eXKDA7EB4fNxQKFdgnycLnfhOVbrMF-Q</Link>
-        <Version>1.12</Version>
-        <ReleaseDate>2023-12-17</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/vY1Hjqi.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>67300</DownloadSize>
+        <Version>1.14</Version>
+        <ReleaseDate>2024-2-10</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/SlcFHnP.png</PreviewImage>
+        <ReleaseNotes><ReleaseNotes/>
+        <DownloadSize>115000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
-      <Name>Mewsin's Avatar pack</Name>
+      <Name>Mewsin Avatars</Name>
       <Category>User Interface</Category>
       <Description>Custom Avatars by Mewsin</Description>
       <Tags>
