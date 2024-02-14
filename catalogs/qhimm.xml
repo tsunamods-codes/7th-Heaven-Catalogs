@@ -536,8 +536,8 @@ Big thanks to:
       <LatestVersion>
 	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/1.12/Echo-s%201.12.iro</Link>
 	<Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.12.iro</Link>
-        <Version>1.13</Version>
-        <ReleaseDate>2024-01-31</ReleaseDate>
+        <Version>1.14</Version>
+        <ReleaseDate>2024-02-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
         <ReleaseNotes>-All known bugs fixed
@@ -550,7 +550,10 @@ Big thanks to:
   - ~50 other miscellaneous fixes</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
+	<Patch VerFrom="1.12" VerTo="1.13">iros://Url/http$gp-mc.net/tsunamods/echo-s-7/Echo-s%201.12_to_1.13.irop</Patch>    
 	<Patch VerFrom="1.12" VerTo="1.13">iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.12_to_1.13.irop</Patch> 
+	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$gp-mc.net/tsunamods/echo-s-7/Echo-s%201.13_to_1.14.irop</Patch>    
+	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.13_to_1.14.irop</Patch> 
       <Name>[Tsunamods] Echo-S</Name>
       <Category>Gameplay</Category>
       <Description>Adds full voice acting to the game</Description>
