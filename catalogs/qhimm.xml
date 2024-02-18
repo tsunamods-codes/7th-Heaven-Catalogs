@@ -1307,8 +1307,8 @@ Fix steps playing while swimming in Junon</ReleaseNotes>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
-        <Version>1.71</Version>
-        <ReleaseDate>2024-02-15</ReleaseDate>
+        <Version>1.72</Version>
+        <ReleaseDate>2024-02-17</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/i4NPnAO.png</PreviewImage>
         <ReleaseNotes>Update New Threat/NTCO item descriptions</ReleaseNotes>
@@ -1760,8 +1760,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.49</Version>
-        <ReleaseDate>2024-02-07</ReleaseDate>
+        <Version>2.5</Version>
+        <ReleaseDate>2024-02-17</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
@@ -1772,6 +1772,8 @@ Requires 7th Heaven 3.0+
 -Separate Dialogue avatars, Battle avatars and Expanded Icons for use independantly
 -Fix DA's for no-theme
 -Update Fury and chocobo greens icons
+-Rely on ESUI's kernels
+-Change timer numbers
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1800,8 +1802,8 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.72</Version>
-        <ReleaseDate>2024-02-14</ReleaseDate>
+        <Version>0.73</Version>
+        <ReleaseDate>2024-02-17</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1820,6 +1822,7 @@ Move Mini Avatars and indicators inside battle box
 NTCO auto compatibility
 Separate Dialogue avatars, Battle avatars and Expanded Icons for use idependantly
 Added options for box transparency, field buttons, battle avatars and dialogue avatars
+Rely on ESUI's kernels
         </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
