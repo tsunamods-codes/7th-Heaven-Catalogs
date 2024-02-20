@@ -1802,8 +1802,8 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.73</Version>
-        <ReleaseDate>2024-02-17</ReleaseDate>
+        <Version>0.74</Version>
+        <ReleaseDate>2024-02-19</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
@@ -1823,13 +1823,15 @@ NTCO auto compatibility
 Separate Dialogue avatars, Battle avatars and Expanded Icons for use idependantly
 Added options for box transparency, field buttons, battle avatars and dialogue avatars
 Rely on ESUI's kernels
+ESUI Requirement flag
+Fix echo-s kernel not inheriting
         </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Retouch</Name>
       <Category>User Interface</Category>
       <Description>Full Remake style ESUI theme including battleview, avatars, expanded icons, prelude and start screen.
-	Requires ESUI
+	Requires Enhanced Stock UI
       </Description>
       <Tags>
         <string>Bonez</string>
