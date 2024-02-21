@@ -2182,5 +2182,47 @@ New Remake avatars for Cid, Vincent and Cait Sith using Rebirth assets.
       </Tags>
     </Mod>
 
+## Curse Ring Challenge
+    <Mod>
+      <ID>2251c41e-0944-4dcb-a362-1ee6ade026da</ID>
+      <Author>Pure_Mind_Games</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1mHgKmHynUN7oMXtO9bUeujnooPjZEH0m</Link>
+        <Version>1.1</Version>
+        <ReleaseDate>2021-05-02</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>155648</DownloadSize>
+      </LatestVersion>
+      <Name>Curse Ring Challenge</Name>
+      <Category>Gameplay</Category>
+      <Description>Making a New Game save seemed to upset the encounters so I turned it into a mod.
+		Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentance kills you, how you do it is up to you, we don't judge around here.
+	  </Description>
+      <Tags></Tags>
+    </Mod>
+	
+## No Item Drops
+    <Mod>
+      <ID>acb0e69d-7f57-4f18-a9ca-44069769db19</ID>
+      <Author>Pure_Mind_Games</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/13F6c_KkFikRg8s5Or22K7kxUlYF9mfUK</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-02-20</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>618496</DownloadSize>
+      </LatestVersion>
+      <Name>No Item Drops</Name>
+      <Category>Gameplay</Category>
+      <Description>Best used for a Shop Only Challenge</Description>
+      <Tags></Tags>
+    </Mod>
+	  
   </Mods>
 </Catalog>
