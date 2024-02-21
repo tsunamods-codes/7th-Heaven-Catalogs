@@ -766,7 +766,7 @@ Big thanks to:
       <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/Hardcore - gjoerulv.iro</Link>
-        <Version>1.01</Version>
+        <Version>1.02</Version>
         <ReleaseDate>2007-06-23</ReleaseDate>
         <PreviewImage>https://i.imgur.com/iFNDVAP.png</PreviewImage>
         <ReleaseNotes/>
@@ -1646,8 +1646,8 @@ Deprecated. Use Retouch</Description>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.925</Version>
-        <ReleaseDate>2024-02-14</ReleaseDate>
+        <Version>2.926</Version>
+        <ReleaseDate>2024-02-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
         <ReleaseNotes>Controller Addon now integrated as Field Icons option.
