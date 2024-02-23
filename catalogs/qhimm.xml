@@ -589,11 +589,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.24</Version>
-        <ReleaseDate>2024-01-02</ReleaseDate>
+        <Version>1.25</Version>
+        <ReleaseDate>2024-02-23</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Battle Randomizer and Party Leader Override.</ReleaseNotes>
-        <DownloadSize>6950</DownloadSize>
+        <ReleaseNotes>Small update, just adding Sephiroth to Solo Challenge and adjusting load order constraints.</ReleaseNotes>
+        <DownloadSize>6951</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
