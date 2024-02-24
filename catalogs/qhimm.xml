@@ -792,12 +792,12 @@ Big thanks to:
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.211</Version>
+        <Version>0.22</Version>
         <ReleaseDate>2024-02-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
-        <ReleaseNotes>A few small additions. Added Wall Market Guide to readme file.</ReleaseNotes>
-        <DownloadSize>320330</DownloadSize>
+        <ReleaseNotes>60fps animation compatibility, added Wall Market Guide to the readme file.</ReleaseNotes>
+        <DownloadSize>320867</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
