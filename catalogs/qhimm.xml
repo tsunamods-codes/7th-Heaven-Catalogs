@@ -916,12 +916,12 @@ Big thanks to:
       <Link></Link>
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosGaia.iro</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2024-01-14</ReleaseDate>
+        <Version>1.01</Version>
+        <ReleaseDate>2024-02-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/6c935Ci.jpg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>84970</DownloadSize>
+        <DownloadSize>84971</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Gaia</Name>
       <Category>World Textures</Category>
