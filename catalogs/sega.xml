@@ -7,14 +7,14 @@
       <Author>Sega Chief</Author>
       <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/19WE6Ne1H4xun9enhQ2SBNVMe9Zvn5Tyc</Link>
+        <Link>iros://GDrive/1KzMjTivUAy4F5RDKzqIt_1sQesC1BqWM</Link>
 		<Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0.iro.7z</Link>
-        <Version>2.099992</Version>
-        <ReleaseDate>2024-02-13</ReleaseDate>
+        <Version>2.099993</Version>
+        <ReleaseDate>2024-02-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>38000</DownloadSize>
+        <DownloadSize>41000</DownloadSize>
       </LatestVersion>
       <Name>New Threat 2.0</Name>
       <Description>An extensive gameplay rebalance and content mod.</Description>
@@ -49,14 +49,14 @@
       <Author>Sega Chief</Author>
       <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1ngk_7IyyFwNVGCWrisjCPZM2UCm0j1bD</Link>
+        <Link>iros://GDrive/1b7HmPrTd3w1XZDpcznJvO8wckpr-SQTx</Link>
 		<Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
-        <Version>2.099992</Version>
-        <ReleaseDate>2024-02-21</ReleaseDate>
+        <Version>2.099993</Version>
+        <ReleaseDate>2024-02-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>34000</DownloadSize>
+        <DownloadSize>33000</DownloadSize>
       </LatestVersion>
       <Name>New Threat 2.0 Vanilla Combat</Name>
       <Description>Content mod with vanilla encounters.</Description>
