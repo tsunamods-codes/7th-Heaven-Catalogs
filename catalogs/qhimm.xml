@@ -1760,8 +1760,8 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.5</Version>
-        <ReleaseDate>2024-02-17</ReleaseDate>
+        <Version>2.51</Version>
+        <ReleaseDate>2024-02-25</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
@@ -1774,6 +1774,7 @@ Requires 7th Heaven 3.0+
 -Update Fury and chocobo greens icons
 -Rely on ESUI's kernels
 -Change timer numbers
+-Elipsis spacing causing softlock
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
@@ -1802,21 +1803,11 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.75</Version>
-        <ReleaseDate>2024-02-19</ReleaseDate>
+        <Version>0.76</Version>
+        <ReleaseDate>2024-02-25</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
-Fixed Aerith's avatar last name
-Adjusted cursor
-Fixed save slot placement
-Live status ailment icons in battle
-add Peerless, Resist, Dual icons
-Fix Echo-s spell names not showing
-Icons optional so non-English possible
-Option to use non-named avatars
-Move status icons inside battle box
-Fix blue text color mismatch in battle
 Ever Crisis Borders
 Move Mini Avatars and indicators inside battle box
 NTCO auto compatibility
@@ -1825,7 +1816,9 @@ Added options for box transparency, field buttons, battle avatars and dialogue a
 Rely on ESUI's kernels
 ESUI Requirement flag
 Fix echo-s kernel not inheriting
-New Remake avatars for Cid, Vincent and Cait Sith using Rebirth assets.
+New Remake avatars for Cid, Vincent and Cait Sith using Rebirth assets
+Random credits and start screens
+new cursor
         </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
