@@ -454,7 +454,7 @@ Big thanks to:
       <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$syw2.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Fields.Textures.V1.03.iro.7z</Link>
+		<Link>iros://Url/http$satsuki.hd.free.fr/%5BTsunamods%5D.SYW.Unified.Fields.Textures.V1.03.iro.7z</Link>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Fields.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
@@ -590,11 +590,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.25</Version>
-        <ReleaseDate>2024-02-23</ReleaseDate>
+        <Version>1.26</Version>
+        <ReleaseDate>2024-03-13</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Small update, just adding Sephiroth to Solo Challenge and adjusting load order constraints.</ReleaseNotes>
-        <DownloadSize>6951</DownloadSize>
+        <ReleaseNotes>Added option to control Sephiroth while he is in your party.</ReleaseNotes>
+        <DownloadSize>6974</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
@@ -793,12 +793,12 @@ Big thanks to:
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.23</Version>
-        <ReleaseDate>2024-03-01</ReleaseDate>
+        <Version>0.25</Version>
+        <ReleaseDate>2024-03-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
-        <ReleaseNotes>Updated end of Nibelheim flashback to match with Rebirth translation of some lines.</ReleaseNotes>
-        <DownloadSize>320867</DownloadSize>
+        <ReleaseNotes>Retranslated up through Fort Condor. ESUI item icons now compatible.</ReleaseNotes>
+        <DownloadSize>322953</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
@@ -994,7 +994,7 @@ Big thanks to:
       <Author>Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-		<Link>iros://Url/http$syw2.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.04.iro</Link>
+		<Link>iros://Url/http$satsuki.hd.free.fr/%5BTsunamods%5D.SYW.Unified.FMV.V1.04.iro</Link>
         <Link>iros://Url/http$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.04.iro</Link>
         <Version>1.04</Version>
         <ReleaseDate>2023-12-19</ReleaseDate>
@@ -1648,8 +1648,8 @@ Deprecated. Use Retouch</Description>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.927</Version>
-        <ReleaseDate>2024-02-28</ReleaseDate>
+        <Version>2.928</Version>
+        <ReleaseDate>2024-03-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
         <ReleaseNotes>Controller Addon now integrated as Field Icons option.
