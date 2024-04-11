@@ -593,10 +593,10 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.26</Version>
-        <ReleaseDate>2024-03-13</ReleaseDate>
+        <Version>1.27</Version>
+        <ReleaseDate>2024-04-11</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added option to control Sephiroth while he is in your party.</ReleaseNotes>
+        <ReleaseNotes>Fixed issue with final battle using Limit Command Rework.</ReleaseNotes>
         <DownloadSize>6974</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
