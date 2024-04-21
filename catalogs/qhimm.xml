@@ -1581,21 +1581,13 @@ E.g., Bolt2 = Thundara</Description>
       <Link></Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/ifrit.7z</Link>
-        <Version>1.4</Version>
-        <ReleaseDate>2023-10-28</ReleaseDate>
+        <Version>1.5</Version>
+        <ReleaseDate>2024-04-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/ttk75MM.png</PreviewImage>
-        <ReleaseNotes>Version 1.4
-- Fix Echo-S compatibility with either vanilla or SYW font
-
-Version 1.3
-- Added new 16:9 battle UI layouts
-- Added interface compatibility option (Stock, SYW, ESUI)
-- 'Main Menu' option changed to 'Menu Tweaks', now includes shop menu and auto 16:9 world map position
-
-Version 1.2
-- Added Intro Logo option
-- Added ESUI compatibility option</ReleaseNotes>
+        <ReleaseNotes>Version 1.5
+- Restore proper high res Portrait Transparent avatars
+</ReleaseNotes>
         <DownloadSize>46400</DownloadSize>
       </LatestVersion>
       <Name>IFRIT - FF7 Interface Tweaks</Name>
