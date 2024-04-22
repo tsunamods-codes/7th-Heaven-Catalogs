@@ -796,12 +796,12 @@ Big thanks to:
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.26</Version>
-        <ReleaseDate>2024-04-21</ReleaseDate>
+        <Version>0.261</Version>
+        <ReleaseDate>2024-04-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://shinraarchaeology.com/resources/shinra_arch_images/sac_logo.png</PreviewImage>
-        <ReleaseNotes>Retranslated through Under Junon.</ReleaseNotes>
-        <DownloadSize>329195</DownloadSize>
+        <ReleaseNotes>Retranslated through Under Junon and fixed a bug at Fort Condor.</ReleaseNotes>
+        <DownloadSize>329196</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
