@@ -550,9 +550,9 @@ Big thanks to:
   - Retouch specific window sizing
   - Other miscellaneous fixes</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
-      </LatestVersion>      
+      </LatestVersion>
 	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$gp-mc.net/tsunamods/echo-s-7/Echo-s%201.13_to_1.14.irop</Patch>
-	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.13_to_1.14.irop</Patch> 
+	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.13_to_1.14.irop</Patch>
       <Name>[Tsunamods] Echo-S</Name>
       <Category>Gameplay</Category>
       <Description>Adds full voice acting to the game</Description>
@@ -2171,7 +2171,7 @@ new cursor
         <string>CaptRobau</string>
       </Tags>
     </Mod>
-	  
+
 ## Curse Ring Challenge
     <Mod>
       <ID>2251c41e-0944-4dcb-a362-1ee6ade026da</ID>
@@ -2197,7 +2197,7 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       </Description>
       <Tags></Tags>
     </Mod>
-	
+
 ## No Item Drops
     <Mod>
       <ID>acb0e69d-7f57-4f18-a9ca-44069769db19</ID>
@@ -2217,6 +2217,6 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       <Description>Best used for a Shop Only Challenge</Description>
       <Tags></Tags>
     </Mod>
-	  
+
   </Mods>
 </Catalog>
