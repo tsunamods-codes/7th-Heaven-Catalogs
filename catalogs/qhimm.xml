@@ -12,8 +12,8 @@
       <Author>Vertex2995, Obesebear, Kaldarasha</Author>
       <Link>https://github.com/tangtang95/ff7-60fps-mod</Link>
       <LatestVersion>
-        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.13/ff7-60fps-mod.iro</Link>
-        <Version>1.13</Version>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.14/ff7-60fps-mod.iro</Link>
+        <Version>1.14</Version>
         <ReleaseDate>2022-09-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4T7hFii.png</PreviewImage>
@@ -37,6 +37,7 @@ Changelog:
    - 1.12: Small fix for char animation FSEB.a (set frame 59 equal to frame 58). Necessary to avoid visual glitch.
               Fix 60 fps counter speed of lock inside Nibelheim Manor (field map: sinin2_1)
    - 1.13: Add optional fix for FIELD mode 60 FPS animation for kuro_4 field map (Look at README file)
+   - 1.14: Update link url to github repo
         </ReleaseNotes>
         <DownloadSize>97921</DownloadSize>
       </LatestVersion>
@@ -65,8 +66,8 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Author>Vertex2995, Uprisen, Sega Chief</Author>
       <Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
       <LatestVersion>
-        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.01/ff7-60fps-nt-plugin-mod.iro</Link>
-        <Version>1.01</Version>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.02/ff7-60fps-nt-plugin-mod.iro</Link>
+        <Version>1.02</Version>
         <ReleaseDate>2022-05-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
@@ -76,6 +77,7 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
    - 1.00: First release
    - 1.01: 100% match files with "60 FPS Gameplay" mod (Fix crash in temple of ancients boss (uzda))
            Add "Full 30 FPS" compatibility option with "60 FPS Gameplay" mod
+   - 1.02: Add link url to github repo
         </ReleaseNotes>
         <DownloadSize>8572</DownloadSize>
       </LatestVersion>
