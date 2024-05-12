@@ -593,11 +593,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.30</Version>
-        <ReleaseDate>2024-05-11</ReleaseDate>
+        <Version>1.31</Version>
+        <ReleaseDate>2024-05-12</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added option to Show Elemental Effectiveness.</ReleaseNotes>
-        <DownloadSize>7177</DownloadSize>
+        <ReleaseNotes>Added status immunity to Show Effectiveness.</ReleaseNotes>
+        <DownloadSize>7081</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
