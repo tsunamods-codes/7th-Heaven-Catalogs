@@ -10,9 +10,9 @@
     <Mod>
       <ID>c0d1e191-a251-465d-8a3c-a3be5366d849</ID>
       <Author>Vertex2995, Obesebear, Kaldarasha</Author>
-      <Link></Link>
+      <Link>https://github.com/tangtang95/ff7-60fps-mod</Link>
       <LatestVersion>
-        <Link>iros://Url/http$motr.7thheaven.rocks/60FPS/60FPSGameplayMod_v1_13.iro</Link>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.13/ff7-60fps-mod.iro</Link>
         <Version>1.13</Version>
         <ReleaseDate>2022-09-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -63,9 +63,9 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
     <Mod>
       <ID>c8234df3-ff27-4df4-8cb2-70e7bb021d78</ID>
       <Author>Vertex2995, Uprisen, Sega Chief</Author>
-      <Link></Link>
+      <Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
       <LatestVersion>
-        <Link>iros://Url/http$motr.7thheaven.rocks/60FPS/NewThreat60FPSAnimations.iro</Link>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.01/ff7-60fps-nt-plugin-mod.iro</Link>
         <Version>1.01</Version>
         <ReleaseDate>2022-05-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
