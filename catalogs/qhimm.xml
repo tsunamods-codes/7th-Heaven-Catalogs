@@ -945,8 +945,8 @@ Big thanks to:
       <Author>unab0mb, Symphonic Remasters</Author>
       <Link>http://forums.qhimm.com/index.php?topic=20240.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http://7thheaven.rocks/releases/Symphonic_Remasters_Redux.iro</Link>
-        <Version>2.0</Version>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/Symphonic_Remasters_Redux.iro</Link>
+        <Version>2.02</Version>
         <ReleaseDate>2020-07-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n0H52S0.png</PreviewImage>
@@ -1023,8 +1023,8 @@ Big thanks to:
       <Author>unab0mb, Enrico Deiana</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19341.0</Link>
       <LatestVersion>
-        <Link>iros://Url/http$7thheaven.rocks/mods/[Tsunamods]_EDMusic_FF7_Soundtrack_v0.40.iro</Link>
-        <Version>0.40</Version>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/[Tsunamods]_EDMusic_FF7_Soundtrack_v0.42.iro</Link>
+        <Version>0.42</Version>
         <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
