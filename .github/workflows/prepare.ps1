@@ -17,8 +17,6 @@ Write-Output "_RELEASE_VERSION=${env:_RELEASE_VERSION}" >> ${env:GITHUB_ENV}
 Write-Output "_IS_BUILD_CANARY=${env:_IS_BUILD_CANARY}" >> ${env:GITHUB_ENV}
 Write-Output "_IS_GITHUB_RELEASE=${env:_IS_GITHUB_RELEASE}" >> ${env:GITHUB_ENV}
 
-choco install xsltproc
-
 # Lint all XML files
 foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
