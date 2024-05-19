@@ -1213,12 +1213,12 @@ Add fire to burning playground</ReleaseNotes>
       <Author>myst6re</Author>
       <Link>http://forums.qhimm.com/index.php?topic=19967.0</Link>
       <LatestVersion>
-        <Link>iros://Url/https$www.ff8.fr/download/programs/FFNx-FF7Music-v1.3.2.iro</Link>
-        <Version>1.03</Version>
-        <ReleaseDate>2024-05-03</ReleaseDate>
+        <Link>iros://Url/https$www.ff8.fr/download/programs/FFNx-FF7Music-v1.04.iro</Link>
+        <Version>1.04</Version>
+        <ReleaseDate>2024-05-19</ReleaseDate>
         <PreviewImage>https://i.imgur.com/139wZOo.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>1491</DownloadSize>
+        <DownloadSize>2324</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>FFNx FF7Music</Name>
