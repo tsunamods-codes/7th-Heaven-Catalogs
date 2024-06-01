@@ -176,11 +176,11 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>23.0701</Version>
-        <ReleaseDate>2023-07-01</ReleaseDate>
+        <Version>24.0531</Version>
+        <ReleaseDate>2024-05-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
-        <ReleaseNotes>Added Hellmasker (slaa) battle model</ReleaseNotes>
+        <ReleaseNotes>Added swaa, svaa NT battle models</ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
@@ -410,11 +410,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>23.0305</Version>
-        <ReleaseDate>2023-03-05</ReleaseDate>
+        <Version>24.0531</Version>
+        <ReleaseDate>2024-05-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
-        <ReleaseNotes>Added Cid weapon rzck/*cl/*cm, added chest model avhe, avae, bydd, hrce</ReleaseNotes>
+        <ReleaseNotes>Added Materia Keeper field model for HD and chibi</ReleaseNotes>
         <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
@@ -433,11 +433,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20HD.7z</Link>
-        <Version>23.0305</Version>
-        <ReleaseDate>2023-03-05</ReleaseDate>
+        <Version>24.0531</Version>
+        <ReleaseDate>2024-05-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Hr5bC39.png</PreviewImage>
-        <ReleaseNotes>Added Cid weapon rzck/*cl/*cm, added chest model avhe, avae, bydd, hrce</ReleaseNotes>
+        <ReleaseNotes>Fixed conflict Tifas hd field model with moddersheaven</ReleaseNotes>
         <DownloadSize>113059</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
