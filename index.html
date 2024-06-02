@@ -92,7 +92,10 @@
                 </tr>`;
                 tableBody.append(row);
             });
-            $('#catalog').DataTable({responsive: true});
+            $('#catalog').DataTable({
+                pageLength: 25,
+                responsive: true
+            });
         }
 
         function fetchDataFromUrls(urls) {
