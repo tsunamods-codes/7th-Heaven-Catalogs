@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,8 +22,10 @@
         <table id="catalog" class="table table-striped">
             <thead>
                 <tr>
+                    <th width="10%"></th>
                     <th width="20%">Name</th>
                     <th>Description</th>
+                    <th width="10%">Release Date</th>
                     <th width="10%">Version</th>
                     <th width="10%">Link</th>
                 </tr>
@@ -43,7 +45,7 @@
         ];
 
         function parseLink(url) {
-            var match = url.match(/iros:\/\/([a-zA-Z]+)\//);
+            const match = url.match(/iros:\/\/([a-zA-Z]+)\//);
 
             url = url.replace(match[0], '');
 
@@ -58,6 +60,10 @@
             }
         }
 
+        function parseDate(date) {
+            return date.replace(/T.+/, '')
+        }
+
         function fetchAndParseXML(url) {
             return $.ajax({
                 url: url,
@@ -70,12 +76,14 @@
             $(data).find('Mod').each(function() {
                 const name = $(this).find('Name').text();
                 const description = $(this).find('Description').text();
+                const releaseDate = $(this).find('ReleaseDate').text();
                 const version = $(this).find('Version').text();
+                const image = $(this).find('PreviewImage').text();
                 const links = [];
                 $(this).find('LatestVersion > Link').each(function() {
                     links.push($(this).text());
                 });
-                items.push({ name, description, version, links });
+                items.push({ image, name, description, releaseDate, version, links });
             });
             return items;
         }
@@ -85,14 +93,20 @@
             data.forEach(item => {
                 const linksHtml = item.links.map((link, idx) => `<a href="${parseLink(link)}" target="_blank">Mirror ${idx + 1}</a>`).join('<br>');
                 const row = `<tr>
+                    <td><img class="mx-auto d-block" src="${item.image}" width="128px"></td>
                     <td>${item.name}</td>
                     <td>${item.description}</td>
+                    <td>${parseDate(item.releaseDate)}</td>
                     <td>${item.version}</td>
                     <td>${linksHtml}</td>
                 </tr>`;
                 tableBody.append(row);
             });
             $('#catalog').DataTable({
+                order: [
+                    [3, 'desc'],
+                    [1, 'asc']
+                ],
                 pageLength: 25,
                 responsive: true
             });
