@@ -25,9 +25,10 @@
                     <th width="10%"></th>
                     <th width="20%">Name</th>
                     <th>Description</th>
+                    <th width="10%">Author</th>
                     <th width="10%">Release Date</th>
-                    <th width="10%">Version</th>
-                    <th width="10%">Link</th>
+                    <th width="5%">Version</th>
+                    <th width="5%">Link</th>
                 </tr>
             </thead>
             <tbody>
@@ -79,11 +80,13 @@
                 const releaseDate = $(this).find('ReleaseDate').text();
                 const version = $(this).find('Version').text();
                 const image = $(this).find('PreviewImage').text();
+                const projectLink = $(this).children('Link').text();
+                const author = $(this).children('Author').text();
                 const links = [];
                 $(this).find('LatestVersion > Link').each(function() {
                     links.push($(this).text());
                 });
-                items.push({ image, name, description, releaseDate, version, links });
+                items.push({ image, name, description, releaseDate, version, links, projectLink, author });
             });
             return items;
         }
@@ -92,10 +95,12 @@
             const tableBody = $('#catalog tbody');
             data.forEach(item => {
                 const linksHtml = item.links.map((link, idx) => `<a href="${parseLink(link)}" target="_blank">Mirror ${idx + 1}</a>`).join('<br>');
+                const nameHtml = item.projectLink ? `<a href="${item.projectLink}">${item.name}</a>` : item.name;
                 const row = `<tr>
                     <td><img class="mx-auto d-block" src="${item.image}" width="128px"></td>
-                    <td>${item.name}</td>
+                    <td>${nameHtml}</td>
                     <td>${item.description}</td>
+                    <td>${item.author}</td>
                     <td>${parseDate(item.releaseDate)}</td>
                     <td>${item.version}</td>
                     <td>${linksHtml}</td>
@@ -104,7 +109,7 @@
             });
             $('#catalog').DataTable({
                 order: [
-                    [3, 'desc'],
+                    [4, 'desc'],
                     [1, 'asc']
                 ],
                 pageLength: 25,
