@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7th Heaven Catalog</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.0.8/r-3.0.2/datatables.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+        }
+    </style>
+</head>
+    <body>
+    <section class="section">
+        <h1>7th Heaven Catalogs</h1>
+        <hr>
+        <table id="catalog" class="table table-striped">
+            <thead>
+                <tr>
+                    <th width="20%">Name</th>
+                    <th>Description</th>
+                    <th width="10%">Version</th>
+                    <th width="10%">Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.0.8/r-3.0.2/datatables.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        const xmlUrls = [
+            'https://raw.githubusercontent.com/tsunamods-codes/7th-Heaven-Catalogs/master/catalogs/qhimm.xml',
+            'https://raw.githubusercontent.com/tsunamods-codes/7th-Heaven-Catalogs/master/catalogs/sega.xml'
+        ];
+
+        function parseLink(url) {
+            var match = url.match(/iros:\/\/([a-zA-Z]+)\//);
+
+            url = url.replace(match[0], '');
+
+            switch(match[1].toLowerCase())
+            {
+                case 'url':
+                    return url.replace('$', '://');
+                case 'gdrive':
+                    return 'https://drive.google.com/file/d/' + url;
+                case 'mega':
+                    return 'https://mega.co.nz/' + url;
+            }
+        }
+
+        function fetchAndParseXML(url) {
+            return $.ajax({
+                url: url,
+                dataType: 'xml'
+            });
+        }
+
+        function processXMLData(data) {
+            const items = [];
+            $(data).find('Mod').each(function() {
+                const name = $(this).find('Name').text();
+                const description = $(this).find('Description').text();
+                const version = $(this).find('Version').text();
+                const links = [];
+                $(this).find('LatestVersion > Link').each(function() {
+                    links.push($(this).text());
+                });
+                items.push({ name, description, version, links });
+            });
+            return items;
+        }
+
+        function populateTable(data) {
+            const tableBody = $('#catalog tbody');
+            data.forEach(item => {
+                const linksHtml = item.links.map((link, idx) => `<a href="${parseLink(link)}" target="_blank">Mirror ${idx + 1}</a>`).join('<br>');
+                const row = `<tr>
+                    <td>${item.name}</td>
+                    <td>${item.description}</td>
+                    <td>${item.version}</td>
+                    <td>${linksHtml}</td>
+                </tr>`;
+                tableBody.append(row);
+            });
+            $('#catalog').DataTable({responsive: true});
+        }
+
+        function fetchDataFromUrls(urls) {
+            const promises = urls.map(url => fetchAndParseXML(url));
+            $.when(...promises).done(function(...results) {
+                let allItems = [];
+                results.forEach(result => {
+                    const data = result[0];
+                    const items = processXMLData(data);
+                    allItems = allItems.concat(items);
+                });
+                populateTable(allItems);
+            }).fail(function() {
+                alert('Failed to fetch XML data.');
+            });
+        }
+
+        // Fetch and process XML content from multiple URLs
+        fetchDataFromUrls(xmlUrls);
+    });
+    </script>
+</body>
+</html>
