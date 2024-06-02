@@ -898,16 +898,16 @@ Big thanks to:
       <Link></Link>
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
-        <Version>1.24</Version>
-        <ReleaseDate>2024-02-29</ReleaseDate>
+        <Version>1.3</Version>
+        <ReleaseDate>2024-06-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/luyEKP0.jpg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>3457172</DownloadSize>
+        <DownloadSize>3477366</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Limit Break</Name>
       <Category>Field Textures</Category>
-      <Description>Field background textures extended for widescreen displays using a combination of AI and extensive manual editing. This is a complete field texture pack based on the upscaled SYW textures.</Description>
+      <Description>Field background textures extended for widescreen displays using a combination of AI and extensive manual editing.</Description>
       <Tags>
         <string>Cosmos</string>
         <string>Satsuki</string>
