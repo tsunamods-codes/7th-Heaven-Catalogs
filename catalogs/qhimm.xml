@@ -898,12 +898,12 @@ Big thanks to:
       <Link>https://forums.qhimm.com/index.php?topic=21686.0</Link>
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
-        <Version>1.3</Version>
-        <ReleaseDate>2024-06-02</ReleaseDate>
+        <Version>1.31</Version>
+        <ReleaseDate>2024-06-09</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/luyEKP0.jpg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>3477366</DownloadSize>
+        <DownloadSize>3477374</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Limit Break</Name>
       <Category>Field Textures</Category>
