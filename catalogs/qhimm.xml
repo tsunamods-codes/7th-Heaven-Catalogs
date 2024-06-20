@@ -798,11 +798,11 @@ Big thanks to:
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.33</Version>
-        <ReleaseDate>2024-06-18</ReleaseDate>
+        <Version>0.331</Version>
+        <ReleaseDate>2024-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fblCuS7.jpeg</PreviewImage>
-        <ReleaseNotes>Retranslated North Corel.</ReleaseNotes>
+        <ReleaseNotes>Fixed bug where the hext for making Aeris default to Aerith on the naming screen was writing to the wrong part of memory and messing up Yuffie's and Cait's default names.</ReleaseNotes>
         <DownloadSize>330978</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
