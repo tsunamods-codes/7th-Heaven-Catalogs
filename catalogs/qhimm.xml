@@ -798,12 +798,12 @@ Big thanks to:
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.33</Version>
-        <ReleaseDate>2024-06-18</ReleaseDate>
+        <Version>0.34</Version>
+        <ReleaseDate>2024-06-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fblCuS7.jpeg</PreviewImage>
-        <ReleaseNotes>Retranslated North Corel.</ReleaseNotes>
-        <DownloadSize>330978</DownloadSize>
+        <ReleaseNotes>Fixed bug with the hext for changing Aeris to Aerith on the naming screen being wrong and breaking Yuffie and Cait's names. Added toggle for storyboard text version of ending FMV.</ReleaseNotes>
+        <DownloadSize>537522</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
