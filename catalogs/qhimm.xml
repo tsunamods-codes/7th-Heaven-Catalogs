@@ -2097,6 +2097,52 @@ new cursor
 
 ## WORLD TEXTURES ##
 
+## Realistic, Subtle World Map Animations ##
+    <Mod>
+      <ID>3e25ff6e-a00b-4b92-930d-57b9cd09a1e1</ID>
+      <Author>Orichalcon</Author>
+      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://drive.google.com/uc?export=download&id=1fGaXEbimhHTw7n393h0IUBb2V7b4nfa1</Link>
+        <Version>0.99</Version>
+        <ReleaseDate>7-3-2024</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize></DownloadSize>
+      </LatestVersion>
+      <Name>Realistic, Subtle World Map Animations</Name>
+      <Category>World Textures</Category>
+      <Description>Custom-made World Map Animations</Description>
+      <Tags>
+        <string>Orichalcon</string>
+        <string>World Textures</string>
+      </Tags>
+    </Mod>
+
+## High-Detail World Map ##
+    <Mod>
+      <ID>767c163b-1ad6-429b-bba5-391f3d401c31</ID>
+      <Author>FeliX Leonhart, Orichalcon</Author>
+      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://drive.google.com/uc?export=download&id=1LMmcgyFXjI7XxmFCi6IanasR2Spgqxhy</Link>
+        <Version>0.99</Version>
+        <ReleaseDate>7-3-2024</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize></DownloadSize>
+      </LatestVersion>
+      <Name>High-Detail World Map</Name>
+      <Category>World Textures</Category>
+      <Description>Custom-made World Map Textures</Description>
+      <Tags>
+        <string>FeliX Leonhart, Orichalcon</string>
+        <string>World Textures</string>
+      </Tags>
+    </Mod>
+	  
 ## Satsuki SYW Unified WorldMap Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000006</ID>
