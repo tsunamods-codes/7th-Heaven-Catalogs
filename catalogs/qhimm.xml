@@ -1755,21 +1755,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.51</Version>
-        <ReleaseDate>2024-02-25</ReleaseDate>
+        <Version>2.52</Version>
+        <ReleaseDate>2024-07-25</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0+
--Add NTCO compatibility
--Fix Meteorain spelling for Echo-S
--Housekeeping for ESUI update
--Separate Dialogue avatars, Battle avatars and Expanded Icons for use independantly
--Fix DA's for no-theme
--Update Fury and chocobo greens icons
--Rely on ESUI's kernels
--Change timer numbers
--Elipsis spacing causing softlock
+Fix conflict with Mini Avatars+ESUI
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
