@@ -798,12 +798,12 @@ Big thanks to:
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.36</Version>
-        <ReleaseDate>2024-07-23</ReleaseDate>
+        <Version>0.37</Version>
+        <ReleaseDate>2024-07-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fblCuS7.jpeg</PreviewImage>
-        <ReleaseNotes>Updated enemy names to match with Rebirth. Fixed compatibility issue with Postscripttree's gameplay tweaks.</ReleaseNotes>
-        <DownloadSize>512417</DownloadSize>
+        <ReleaseNotes>Retranslates Gongaga.</ReleaseNotes>
+        <DownloadSize>512080</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
