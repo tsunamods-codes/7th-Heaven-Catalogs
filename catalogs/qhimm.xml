@@ -1645,15 +1645,11 @@ Deprecated. Use Retouch</Description>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.929</Version>
-        <ReleaseDate>2024-03-29</ReleaseDate>
+        <Version>2.93</Version>
+        <ReleaseDate>2024-07-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Controller Addon now integrated as Field Icons option.
-More granular avatar configuration now possible.
-Added expanded icon support including battle status icons.
-Added field dialog avatar support for NT 2.0.
-Added avatar set.</ReleaseNotes>
+        <ReleaseNotes>Fixed mixed font color when names flash in battle</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
