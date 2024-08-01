@@ -1645,8 +1645,8 @@ Deprecated. Use Retouch</Description>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.93</Version>
-        <ReleaseDate>2024-07-25</ReleaseDate>
+        <Version>2.94</Version>
+        <ReleaseDate>2024-07-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
         <ReleaseNotes>Fixed mixed font color when names flash in battle</ReleaseNotes>
@@ -1803,6 +1803,34 @@ Add Ever Crisis Avatars and Mini Avatars
       <Category>User Interface</Category>
       <Description>Full Remake style ESUI theme including battleview, avatars, expanded icons, prelude and start screen.
 	Requires Enhanced Stock UI
+      </Description>
+      <Tags>
+        <string>Bonez</string>
+        <string>Tsunamods</string>
+        <string>User Interface</string>
+      </Tags>
+    </Mod>
+
+##[Tsunamods] AavockESUI
+    <Mod>
+      <ID>01427f14-6d02-47b7-84de-39f7991d9042</ID>
+      <Author>Bonez, Aavock</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=21364.0</Link>
+      <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
+      <LatestVersion>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_AavockESUI.7z</Link>
+        <Version>0.9</Version>
+        <ReleaseDate>2024-07-31</ReleaseDate>
+        <CompatibleGameVersions></CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/aqOIHP0.png</PreviewImage>
+        <ReleaseNotes>
+        </ReleaseNotes>
+        <DownloadSize>50000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] AavockESUI</Name>
+      <Category>User Interface</Category>
+      <Description>ESUI theme using Aavock's remastered textures. Vanilla upscaled textures with all of ESUI's features including multiple battle views, mini avatars and expanded icons.
+Requires Enhanced Stock UI
       </Description>
       <Tags>
         <string>Bonez</string>
