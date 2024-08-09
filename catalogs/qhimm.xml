@@ -1645,11 +1645,12 @@ Deprecated. Use Retouch</Description>
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.94</Version>
-        <ReleaseDate>2024-07-31</ReleaseDate>
+        <Version>2.941</Version>
+        <ReleaseDate>2024-08-09</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Fixed mixed font color when names flash in battle</ReleaseNotes>
+        <ReleaseNotes>Update battle header font
+  Remove action box when help box is removed</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
