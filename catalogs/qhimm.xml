@@ -542,19 +542,17 @@ Big thanks to:
       <LatestVersion>
 	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/latest_full/Echo-s.iro</Link>
 	<Link>iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.13.iro</Link>
-        <Version>1.14</Version>
-        <ReleaseDate>2024-02-14</ReleaseDate>
+        <Version>1.15</Version>
+        <ReleaseDate>2024-08-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>http://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
-        <ReleaseNotes>-All known bugs fixed
-  - Fix month showing on chocobo name
-  - Special battle replayable
-  - Retouch specific window sizing
-  - Other miscellaneous fixes</ReleaseNotes>
+        <ReleaseNotes>-Fix Music to work on 7H 3.9.9+</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
 	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$gp-mc.net/tsunamods/echo-s-7/Echo-s%201.13_to_1.14.irop</Patch>
 	<Patch VerFrom="1.13" VerTo="1.14">iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.13_to_1.14.irop</Patch>
+	<Patch VerFrom="1.14" VerTo="1.15">iros://Url/http$gp-mc.net/tsunamods/echo-s-7/Echo-s%201.14_to_1.15.irop</Patch>
+	<Patch VerFrom="1.14" VerTo="1.15">iros://Url/http$bonez.7thheaven.rocks/Echo-S/Echo-s%201.14_to_1.15.irop</Patch>
       <Name>[Tsunamods] Echo-S</Name>
       <Category>Gameplay</Category>
       <Description>Adds full voice acting to the game</Description>
