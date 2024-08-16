@@ -593,11 +593,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.33</Version>
-        <ReleaseDate>2024-06-07</ReleaseDate>
+        <Version>1.34</Version>
+        <ReleaseDate>2024-08-16</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Mod Enablers.</ReleaseNotes>
-        <DownloadSize>7128</DownloadSize>
+        <ReleaseNotes>Added setting to turn off world map battle music. Also fixed bug with Show Effectiveness and added showing effectiveness for limits.</ReleaseNotes>
+        <DownloadSize>7129</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
