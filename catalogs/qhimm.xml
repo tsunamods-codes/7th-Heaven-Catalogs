@@ -593,10 +593,10 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.35</Version>
-        <ReleaseDate>2024-08-19</ReleaseDate>
+        <Version>1.36</Version>
+        <ReleaseDate>2024-08-20</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixed conflict between world map music and toggle animations. Also added ability to see steals/morphs when using an attack that steals or morphs when using show steals/morphs.</ReleaseNotes>
+        <ReleaseNotes>Increased enemy damage limit to match the player's when using unlimited damage and upped hp limit.</ReleaseNotes>
         <DownloadSize>7133</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
