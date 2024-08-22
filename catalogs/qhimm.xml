@@ -593,11 +593,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.36</Version>
-        <ReleaseDate>2024-08-20</ReleaseDate>
+        <Version>1.37</Version>
+        <ReleaseDate>2024-08-22</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Increased enemy damage limit to match the player's when using unlimited damage and upped hp limit.</ReleaseNotes>
-        <DownloadSize>7133</DownloadSize>
+        <ReleaseNotes>Fixed Sense crash when using Show Steals/Morphs. Also added AP Plus materia enabler.</ReleaseNotes>
+        <DownloadSize>7134</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
