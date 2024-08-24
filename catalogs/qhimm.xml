@@ -593,11 +593,11 @@ Big thanks to:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.37</Version>
-        <ReleaseDate>2024-08-22</ReleaseDate>
+        <Version>1.38</Version>
+        <ReleaseDate>2024-08-24</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixed Sense crash when using Show Steals/Morphs. Also added AP Plus materia enabler.</ReleaseNotes>
-        <DownloadSize>7134</DownloadSize>
+        <ReleaseNotes>Added Morph as Well and AP Plus materia to "Vanilla Equipment" Multi-Linked Slots setting. Also fixed file structure so AP Plus actually works.</ReleaseNotes>
+        <DownloadSize>7149</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
