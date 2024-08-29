@@ -94,6 +94,36 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       </Tags>
     </Mod>
 
+## 60 FPS ChaOS Animations
+    <Mod>
+      <ID>01427f14-6d02-47b7-84de-39f7991d9042</ID>
+      <Author>Vertex2995, Kaldarasha</Author>
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1zQfYZ_6BwsFnfpCqZ_qkaQemAZKIjWeb</Link>
+        <Version>1.00</Version>
+        <ReleaseDate>2024-08-29</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
+        <ReleaseNotes>REQUIRES "ChaOS 1.803+" and "60/30FPS FPS Gameplay" mods
+
+  Changelog:
+   - 1.00: First release
+        </ReleaseNotes>
+        <DownloadSize>1633</DownloadSize>
+      </LatestVersion>
+      <Name>60 FPS ChaOS Animations</Name>
+      <Category>Animations</Category>
+      <Description>Character Overhaul Seven - Sephiroth 60 FPS</Description>
+      <Tags>
+        <string>60</string>
+        <string>fps</string>
+        <string>Animations</string>
+        <string>Vertex2995</string>
+        <string>Kaldarasha</string>
+      </Tags>
+    </Mod>
+
 ##BATTLE MODELS##
 
 ## [Tsunamods] The Barret Mod
