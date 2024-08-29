@@ -100,17 +100,17 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Author>Vertex2995, Kaldarasha</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1zQfYZ_6BwsFnfpCqZ_qkaQemAZKIjWeb</Link>
+        <Link>iros://GDrive/1dQacaARep1vihQCWypt8qv3GpNJots1b</Link>
         <Version>1.00</Version>
         <ReleaseDate>2024-08-29</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
-        <ReleaseNotes>REQUIRES "ChaOS 1.803+" and "60/30FPS FPS Gameplay" mods
+        <ReleaseNotes>REQUIRES "ChaOS" and "60/30FPS FPS Gameplay" mods
 
   Changelog:
    - 1.00: First release
         </ReleaseNotes>
-        <DownloadSize>1633</DownloadSize>
+        <DownloadSize>769</DownloadSize>
       </LatestVersion>
       <Name>60 FPS ChaOS Animations</Name>
       <Category>Animations</Category>
