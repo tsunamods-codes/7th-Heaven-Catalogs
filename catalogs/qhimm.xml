@@ -433,6 +433,32 @@ Big thanks to:
       </Tags>
     </Mod>
 
+## Soldier 1st Ninostyle ##
+    <Mod>
+      <ID>d7b6bcc6-2f87-4733-8191-548e17118457</ID>
+      <Author>Kaij + Ninostyle</Author>
+      <Link>https://https://www.nexusmods.com/finalfantasy7/mods/122</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/https$drive.google.com/file/d/1J1io7TGSNQ7Pm4JoG2-4soCVR1qswilW</Link>
+        <Version>1.2</Version>
+        <ReleaseDate>2024-09-03</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/6TWaR2M.png</PreviewImage>
+        <ReleaseNotes>Added Options for Soldier 1st outfit only, Dynamic Weapons and always Buster Sword</ReleaseNotes>
+        <DownloadSize>85200</DownloadSize>
+      </LatestVersion>
+      <Name>Soldier 1st Ninostyle</Name>
+      <Category>Field Models</Category>
+      <Description>A more accurate Soldier 1st outfit for Cloud's Nino Style Field and world map Model, Choice's to use "Dynamic Weapons" or Buster sword at all times.
+
+NOTE: Requires Ninostyle Chibi to be loaded after this.</Description>
+      <Tags>
+        <string>NinoStyle</string>
+        <string>Kaij</string>
+        <string>Field Models</string>
+      </Tags>
+    </Mod>
+
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e2</ID>
