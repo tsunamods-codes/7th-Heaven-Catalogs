@@ -2337,13 +2337,13 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       <Author>Tsunamods</Author>
       <Link>https://github.com/tsunamods-codes/the-test-room</Link>
       <LatestVersion>
-        <Link>iros://Url/https$github.com/tsunamods-codes/the-test-room/releases/download/0.0.2/TheTestRoom-v0.0.2.0.iro</Link>
-        <Version>0.02</Version>
-        <ReleaseDate>2024-05-15</ReleaseDate>
+        <Link>iros://Url/https$github.com/tsunamods-codes/the-test-room/releases/download/0.1.0/TheTestRoom-v0.1.0.0.iro</Link>
+        <Version>0.10</Version>
+        <ReleaseDate>2024-09-08</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>307</DownloadSize>
+        <DownloadSize>415</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] The Test Room</Name>
       <Category>Gameplay</Category>
