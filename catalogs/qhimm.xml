@@ -653,11 +653,11 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.38</Version>
-        <ReleaseDate>2024-08-24</ReleaseDate>
+        <Version>1.39</Version>
+        <ReleaseDate>2024-09-09</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Morph as Well and AP Plus materia to "Vanilla Equipment" Multi-Linked Slots setting. Also fixed file structure so AP Plus actually works.</ReleaseNotes>
-        <DownloadSize>7149</DownloadSize>
+        <ReleaseNotes>Added Two Accessories option. Also fixed a visual bug with custom materia.</ReleaseNotes>
+        <DownloadSize>7188</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
