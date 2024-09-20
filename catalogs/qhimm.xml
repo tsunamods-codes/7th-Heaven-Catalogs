@@ -1809,28 +1809,34 @@ Battle Avatars Support</Description>
 ##[Tsunamods] Finishing Touch
     <Mod>
       <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID>
-      <Author>Bonez, Lap Pun Cheung</Author>
+      <Author>Bonez</Author>
       <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.52</Version>
-        <ReleaseDate>2024-07-25</ReleaseDate>
+        <Version>2.53</Version>
+        <ReleaseDate>2024-09-19</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
 Requires 7th Heaven 3.0+
-Fix conflict with Mini Avatars+ESUI
+Add FF7 Beta avatar set
+
+Additional credits:
+Lap Pun Cheung
+Chrysalis
+Xhris
+Twinees
+Vertex2995
+Prism
         </ReleaseNotes>
         <DownloadSize>820000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Finishing Touch</Name>
       <Category>User Interface</Category>
       <Description>A collection of menu enhancements including:
-Prelude credits from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
-Start menu background from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
-New game over screen from artist Lap Pun Cheung.
-10 avatar sets.
+Prelude Credits, Start Screens and Game Over Screens from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
+11 avatar sets.
 7 battle/dialogue avatar sets.
 Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       </Description>
