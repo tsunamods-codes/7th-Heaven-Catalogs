@@ -851,12 +851,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.6</Version>
-        <ReleaseDate>2024-09-22</ReleaseDate>
+        <Version>0.7</Version>
+        <ReleaseDate>2024-10-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/UFTkx2f.png</PreviewImage>
-        <ReleaseNotes>Retranslated through Great Northern Cavity.</ReleaseNotes>
-        <DownloadSize>508622</DownloadSize>
+        <ReleaseNotes>Retranslated everything through Cid's time as the party leader.</ReleaseNotes>
+        <DownloadSize>509858</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
