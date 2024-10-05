@@ -648,10 +648,10 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.41</Version>
-        <ReleaseDate>2024-09-20</ReleaseDate>
+        <Version>1.42</Version>
+        <ReleaseDate>2024-10-05</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixed a bug with clearing second accessory slot. Also changed names of MLS options to reduce confusion.</ReleaseNotes>
+        <ReleaseNotes>Adjusted show steal/morph code to improve behavior. Might also fix crashing issue.</ReleaseNotes>
         <DownloadSize>7189</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
