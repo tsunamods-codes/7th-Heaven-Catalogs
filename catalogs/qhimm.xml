@@ -851,12 +851,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>0.8</Version>
-        <ReleaseDate>2024-10-06</ReleaseDate>
+        <Version>0.9</Version>
+        <ReleaseDate>2024-10-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/UFTkx2f.png</PreviewImage>
-        <ReleaseNotes>Retranslated everything through Cloud's return to the party.</ReleaseNotes>
-        <DownloadSize>511004</DownloadSize>
+        <ReleaseNotes>Retranslated everything through Diamond Weapon attacking Midgar.</ReleaseNotes>
+        <DownloadSize>513318</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
