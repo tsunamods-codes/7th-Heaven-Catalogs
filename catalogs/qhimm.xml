@@ -353,33 +353,6 @@ Big thanks to:
       </Tags>
     </Mod>
 
-## Remako Battle Textures ##
-    <Mod>
-      <Deprecated/>
-      <ID>58fa1e13-0b18-4172-87c3-56ff3195083c</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://captrobau.blogspot.com/</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[4xUpscale]RemakoHDBattle.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2021-03-01</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/2kRz29f.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>910000</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako Battle Textures (Deprecated)</Name>
-      <Category>Battle Textures</Category>
-      <Description>AI Upscaled Battle Textures by CaptRobau
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-        <string>Remako</string>
-        <string>Battle</string>
-        <string>Textures</string>
-        <string>CaptRobau</string>
-      </Tags>
-    </Mod>
-
 ## [Retexture] HD Battle Scenes ##
     <Mod>
       <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
@@ -537,33 +510,6 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       </Tags>
     </Mod>
 
-## Remako Field Textures ##
-    <Mod>
-      <Deprecated/>
-      <ID>c4660557-8668-4dbc-a45c-80e2574c0088</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://captrobau.blogspot.com/</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/FieldTextures/[4xUpscale]RemakoHDField.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2021-03-01</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/LlrZ0DZ.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>4210000</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako Field Textures (Deprecated)</Name>
-      <Category>Field Textures</Category>
-      <Description>AI Upscaled Field Textures by CaptRobau
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-        <string>Remako</string>
-        <string>Field</string>
-        <string>Textures</string>
-        <string>CaptRobau</string>
-      </Tags>
-    </Mod>
-
 ## Project Edge/Team Avalanche Remodeled Fields ##
     <Mod>
       <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
@@ -593,7 +539,7 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
 
 ## GAMEPLAY ##
 
-## ECHOS ##
+## ECHO-S ##
 
     <Mod>
       <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
@@ -1183,60 +1129,6 @@ Add fire to burning playground</ReleaseNotes>
       </Tags>
     </Mod>
 
-## Remako Movies ##
-    <Mod>
-      <Deprecated/>
-      <ID>e040a749-0770-4296-973c-195430c22408</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/CaptRobau - Remako HD.iro</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2021-03-01</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/J2JLk5e.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>1569773</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako Movies (Deprecated)</Name>
-      <Category>Media</Category>
-      <Description>Upscaled FMV's by CaptRobau
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-        <string>Remako</string>
-        <string>CaptRobau</string>
-        <string>Media</string>
-        <string>FMV</string>
-        <string>Movies</string>
-      </Tags>
-    </Mod>
-
-## Chibi FMV Replacement ##
-    <Mod>
-      <Deprecated/>
-      <ID>c27d3cb1-44a1-43f4-bcdb-535739c3493c</ID>
-      <Author>DrLilo</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/Media/DrLilo - Chibi FMV Replacement.iro</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2015-02-28</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/7lcLBwH.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>1737588</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Chibi FMV Replacement (Deprecated)</Name>
-      <Category>Media</Category>
-      <Description>Original FMV's edited to replace the chibi models with Kaldarasha's models.
-(Deprecated. Use Cosmos FMV.)</Description>
-      <Tags>
-        <string>DrLilo</string>
-        <string>Media</string>
-        <string>Movies</string>
-      </Tags>
-    </Mod>
-
 ## OST Music Remastered ##
     <Mod>
       <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
@@ -1662,31 +1554,6 @@ Features:
         <string>KWRRK</string>
         <string>User Interface</string>
         <string>Avatar</string>
-      </Tags>
-    </Mod>
-
-## Remake ESUI Theme ##
-    <Mod>
-      <ID>0b038238-8e3e-48a5-b56d-55a3fe0aa929</ID>
-      <Author>Fewtch, Chrysalis, and the Qhimm Modding Community</Author>
-      <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/FF7_Remake_ESUI_Theme_1.60.7z</Link>
-        <Link>iros://GDrive/1mX9Z3xY4fdvGuTWm2MQCxO2Da8Lyw-Iq</Link>
-        <Version>1.60</Version>
-        <ReleaseDate>2023-09-26</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/piuBuyy.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>27136</DownloadSize>
-      </LatestVersion>
-      <Name>FF7 Remake ESUI Theme (Deprecated)</Name>
-      <Category>User Interface</Category>
-      <Description>FF7 Remake styled theme for ESUI. REQUIRES Enhanced Stock UI!
-Deprecated. Use Retouch</Description>
-      <Tags>
-        <string>Chrysalis</string>
-        <string>Fewtch</string>
       </Tags>
     </Mod>
 
@@ -2257,34 +2124,6 @@ Requires Enhanced Stock UI
         <string>Grimmy</string>
         <string>FeliXLeonhart</string>
         <string>Ste41k</string>
-      </Tags>
-    </Mod>
-
-## Remako World Textures ##
-    <Mod>
-      <Deprecated/>
-      <ID>98491fb3-ab39-4ca0-a9aa-2e956be7377e</ID>
-      <Author>CaptRobau</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[4x Upscale] Remako HD - CaptRobau.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2020-03-07</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/mzgdOhb.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>36600</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Remako World Textures (Deprecated)</Name>
-      <Category>World Textures</Category>
-      <Description>AI Upscaled World Textures
-	    (Deprecated. Use SYW5)</Description>
-      <Tags>
-        <string>AI</string>
-        <string>World Textures</string>
-        <string>Upscale</string>
-        <string>Remako</string>
-        <string>CaptRobau</string>
       </Tags>
     </Mod>
 
