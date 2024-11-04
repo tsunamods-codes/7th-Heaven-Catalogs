@@ -797,12 +797,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2024-10-23</ReleaseDate>
+        <Version>1.02</Version>
+        <ReleaseDate>2024-11-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed textbox sizing issues on a few fields.</ReleaseNotes>
-        <DownloadSize>408241</DownloadSize>
+        <ReleaseNotes>Fixed textbox sizing issues on a few fields, added option to restore "this guy are sick" line.</ReleaseNotes>
+        <DownloadSize>408509</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
