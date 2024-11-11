@@ -1301,6 +1301,26 @@ E.g., Bolt2 = Thundara</Description>
       </Tags>
     </Mod>
 
+## Universal Blink Fix ##
+    <Mod>
+	<ID>ee0e2b9f-9545-4688-b6b5-1f2fb6662aae</ID>
+	<Author>Orichalcon, Odysseus</Author>
+	<Link></Link>
+	<LatestVersion>
+	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
+	        <Version>1.0</Version>
+	        <ReleaseDate>2024-11-11</ReleaseDate>
+		<CompatibleGameVersions>All</CompatibleGameVersions>
+	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
+	        <ReleaseNotes>Initial release.</ReleaseNotes>
+        	<DownloadSize>5208</DownloadSize>
+	</LatestVersion>
+	<Name>Universal Blink Fix</Name>
+	<Category>Miscellaneous</Category>
+	<Description>Originally part of Shinra Archaeology Cut. Fixes winking issue on various character models and allows for use of advanced facial animations.</Description>
+	<Tags />
+    </Mod>	
+
 ## SPELL TEXTURES ##
 
 ## Satsuki SYW Unified Spells Textures ##
