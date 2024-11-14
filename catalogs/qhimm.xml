@@ -797,12 +797,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.02</Version>
-        <ReleaseDate>2024-11-04</ReleaseDate>
+        <Version>1.03</Version>
+        <ReleaseDate>2024-11-13</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed textbox sizing issues on a few fields, added option to restore "this guy are sick" line.</ReleaseNotes>
-        <DownloadSize>408509</DownloadSize>
+        <ReleaseNotes>Minor text revisions up to Gold Saucer. Fixed issue with text when arriving in Nibelheim in the flashback in Vanilla mode.</ReleaseNotes>
+        <DownloadSize>408519</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
@@ -1308,11 +1308,11 @@ E.g., Bolt2 = Thundara</Description>
 	<Link></Link>
 	<LatestVersion>
 	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
-	        <Version>1.0</Version>
-	        <ReleaseDate>2024-11-11</ReleaseDate>
+	        <Version>1.01</Version>
+	        <ReleaseDate>2024-11-14</ReleaseDate>
 		<CompatibleGameVersions>All</CompatibleGameVersions>
 	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
-	        <ReleaseNotes>Initial release.</ReleaseNotes>
+	        <ReleaseNotes>Fixed issue with not turning advanced blinking off if you turn it on and off again.</ReleaseNotes>
         	<DownloadSize>5208</DownloadSize>
 	</LatestVersion>
 	<Name>Universal Blink Fix</Name>
