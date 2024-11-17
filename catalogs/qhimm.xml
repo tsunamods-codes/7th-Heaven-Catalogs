@@ -797,12 +797,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.04</Version>
-        <ReleaseDate>2024-11-15</ReleaseDate>
+        <Version>1.05</Version>
+        <ReleaseDate>2024-11-17</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Minor text revisions up to date scene. Fixed bug in Shinra Manor in Vanilla mode.</ReleaseNotes>
-        <DownloadSize>408518</DownloadSize>
+        <ReleaseNotes>Fixed issue where a few fields weren't retranslated in Vanilla Mode.</ReleaseNotes>
+        <DownloadSize>408522</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
