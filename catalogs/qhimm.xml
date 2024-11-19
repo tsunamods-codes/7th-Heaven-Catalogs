@@ -2223,3 +2223,392 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
 
   </Mods>
 </Catalog>
+
+<?xml version="1.0"?>
+<ModInfo>
+  <ID>1iwfYEec-eu6K4hB6zD06dok1jH92lX3n</ID>
+  <Author>Wolfman.Jusete.Leet</Author>
+  <Version>3.0</Version>
+  <ReleaseDate>2014-06-10</ReleaseDate>
+  <CompatibleGameVersions>All</CompatibleGameVersions>
+  <DownloadSize>208</DownloadSize>
+  <Category>Gameplay</Category>
+  <Description>Must be placed above all gameplay mods. Converts RedXIII to a biped lycan</Description>
+  <Link>https://drive.google.com/file/d/1iwfYEec-eu6K4hB6zD06dok1jH92lX3n/view?usp=sharing</Link>
+  <PreviewFile>preview\mod.png</PreviewFile>
+
+
+<ModFolder Folder="Vanilla"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 0</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  <ModFolder Folder="Aerith Revival (Full Size) - ultima espio"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 1</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) - ultima espio"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 2</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Hardcore - gjoerulv"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 3</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Harder Items 15% - Masa-Buster"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 4</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Harder Items 30% - Masa-Buster"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 5</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Level 1 Challenge - Sega Chief"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 6</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Lost Wing - xLostWingx"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 7</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="New Threat - Sega Chief"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 8</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Nightmare 7 - Tenko Kuugen"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 9</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Reasonable Difficulty - hay"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 10</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+
+  <ModFolder Folder="Scene Redux - Salk"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 11</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Super Boss Rush - Karifean"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 12</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Hardcore"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 13</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Hardcore"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 14</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Harder Items 15%" >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 15</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Harder Items 15%"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 16</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Harder Items 30%"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 17</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Harder Items 30%"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 18</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Harder Items 15% + Reasonable Difficulty"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 19</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Harder Items 15% + Reasonable Difficulty"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 20</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Harder Items 15% + Scene Redux"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 21</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Harder Items 15% + Scene Redux"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 22</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Harder Items 30% + Reasonable Difficulty"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 23</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Harder Items 30% + Reasonable Difficulty"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 24</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Full Size) + Harder Items 30% + Scene Redux"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 25</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Aerith Revival (Chibi Size) + Harder Items 30% + Scene Redux"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 26</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Harder Items 15% + Reasonable Difficulty"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 27</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Harder Items 15% + Scene Redux"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 28</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  <ModFolder Folder="Harder Items 30% + Reasonable Difficulty"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 29</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  <ModFolder Folder="Harder Items 30% + Scene Redux" >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 30</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+  
+  
+  <ModFolder Folder="Reasonable Difficulty + Scene Redux"  >
+  <ActiveWhen>
+	<And>
+	<Option>gameplay = 1</Option>
+	<Option>gameplay2 = 31</Option>      
+	</And></ActiveWhen>
+  </ModFolder>
+
+
+<ModFolder Folder="60fpsAnimation"  >
+  <ActiveWhen>
+    <And>
+    <Option>gameplay = 1</Option>
+    <Option>gameplay3 = 1</Option>      
+    </And></ActiveWhen>
+  </ModFolder>
+
+<ModFolder Folder="30fpsAnimation"  >
+  <ActiveWhen>
+    <And>
+    <Option>gameplay = 1</Option>
+    <Option>gameplay3 = 2</Option>      
+    </And></ActiveWhen>
+  </ModFolder>
+
+<ModFolder Folder="15fpsAnimation"  >
+  <ActiveWhen>
+    <And>
+    <Option>gameplay = 1</Option>
+    <Option>gameplay3 = 0</Option>      
+    </And></ActiveWhen>
+  </ModFolder>
+
+<ModFolder Folder="60fpsAnimationChibi"  >
+  <ActiveWhen>
+    <And>
+    <Option>gameplay = 1</Option>
+    <Option>gameplay3 = 5</Option>      
+    </And></ActiveWhen>
+  </ModFolder>
+<ModFolder Folder="30fpsAnimationChibi"  >
+  <ActiveWhen>
+    <And>
+    <Option>gameplay = 1</Option>
+    <Option>gameplay3 = 4</Option>      
+    </And></ActiveWhen>
+  </ModFolder>
+
+<ModFolder Folder="15fpsAnimationChibi"  >
+  <ActiveWhen>
+    <And>
+    <Option>gameplay = 1</Option>
+    <Option>gameplay3 = 3</Option>      
+    </And></ActiveWhen>
+  </ModFolder>
+
+
+<ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>gameplay3</ID>
+    <Name>FPS Compatibility and Field Version</Name>
+    <Description>60 FPS Compatibility
+    </Description>
+    <Option Value="0" Name="15 FPS HD Field" />
+    <Option Value="1" Name="30 FPS HD Field" />    
+    <Option Value="2" Name="60 FPS HD Field" />
+    <Option Value="3" Name="15 FPS Chibi Field" />
+    <Option Value="4" Name="30 FPS Chibi Field" />
+    <Option Value="5" Name="60 FPS Chibi Field" />
+
+  </ConfigOption> 
+
+<ConfigOption>
+    <Type>List</Type>
+    <Default>1</Default>
+    <ID>gameplay</ID>
+    <Name>Activate</Name>
+    <Description>Activate Mod
+	</Description>
+	<Option Value="0" Name="No Changes" />
+    <Option Value="1" Name="Activate" />	
+
+  </ConfigOption>
+  
+  <ConfigOption>
+    <Type>List</Type>
+    <Default>0</Default>
+    <ID>gameplay2</ID>
+    <Name>Choose</Name>
+    <Description>View the Readme for details.</Description>
+    <Option Value="0" Name="Vanilla" PreviewFile="preview\no_change.png"/>
+    <Option Value="1" Name="Aerith Revival (Full Size)" PreviewFile="preview.png"/>
+    <Option Value="2" Name="Aerith Revival (Chibi Size)" PreviewFile="preview.png"/>
+    <Option Value="3" Name="Hardcore" PreviewFile="preview.png"/>
+    <Option Value="4" Name="Harder Items 15%" PreviewFile="preview.png"/>
+    <Option Value="5" Name="Harder Items 30%" PreviewFile="preview.png"/>
+    <Option Value="6" Name="Level 1 Challenge" PreviewFile="preview.png"/>
+    <Option Value="7" Name="Lost Wing" PreviewFile="preview.png"/>
+    <Option Value="8" Name="New Threat" PreviewFile="preview.png"/>
+	<Option Value="9" Name="Nightmare 7" PreviewFile="preview.png"/>
+	<Option Value="10" Name="Reasonable Difficulty" PreviewFile="preview.png"/>
+	<Option Value="11" Name="Scene Redux" PreviewFile="preview.png"/>
+	<Option Value="12" Name="Super Boss Rush" PreviewFile="preview.png"/>
+    <Option Value="13" Name="Aerith (Full) + Hardcore" PreviewFile="preview.png"/>
+    <Option Value="14" Name="Aerith (Chibi) + Hardcore" PreviewFile="preview.png"/>
+    <Option Value="15" Name="Aerith (Full) + H. Items 15%" PreviewFile="preview.png"/>
+    <Option Value="16" Name="Aerith (Chibi) + H. Items 15%" PreviewFile="preview.png"/>
+    <Option Value="17" Name="Aerith (Full) + H. Items 30%" PreviewFile="preview.png"/>
+    <Option Value="18" Name="Aerith (Chibi) + H. Items 30%" PreviewFile="preview.png"/>
+    <Option Value="19" Name="Aerith (Full) + H. Items 15% + R. Diff." PreviewFile="preview.png"/>
+    <Option Value="20" Name="Aerith (Chibi) + H. Items 15% + R. Diff." PreviewFile="preview.png"/>
+    <Option Value="21" Name="Aerith (Full) + H. Items 15% + S. Redux" PreviewFile="preview.png"/>
+    <Option Value="22" Name="Aerith (Chibi) + H. Items 15% + S. Redux" PreviewFile="preview.png"/>
+    <Option Value="23" Name="Aerith (Full) + H. Items 30% + R. Diff." PreviewFile="preview.png"/>
+    <Option Value="24" Name="Aerith (Chibi) + H. Items 30% + R. Diff." PreviewFile="preview.png"/>
+    <Option Value="25" Name="Aerith (Full) + H. Items 30% + S. Redux" PreviewFile="preview.png"/>
+    <Option Value="26" Name="Aerith (Chibi) + H. Items 30% + S. Redux" PreviewFile="preview.png"/>
+    <Option Value="27" Name="H. Items 15% + R. Diff." PreviewFile="preview.png"/>	
+    <Option Value="28" Name="H. Items 15% + S. Redux" PreviewFile="preview.png"/>	
+    <Option Value="29" Name="H. Items 30% + R. Diff." PreviewFile="preview.png"/>	
+    <Option Value="30" Name="H. Items 30% + S. Redux" PreviewFile="preview.png"/>	
+    <Option Value="31" Name="R. Diff. + S. Redux" PreviewFile="preview.png"/>	
+  </ConfigOption>
+
+ 
+</ModInfo>
