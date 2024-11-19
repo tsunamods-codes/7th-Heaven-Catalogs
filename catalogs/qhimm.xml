@@ -2222,4 +2222,37 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
     </Mod>
 
   </Mods>
+
+## WereXIII - by Wolfman
+    <Mod>
+      <ID>1iwfYEec-eu6K4hB6zD06dok1jH92lX3n</ID>
+      <Author>Tsunamods</Author>
+      <Link>https://drive.google.com/file/d/1iwfYEec-eu6K4hB6zD06dok1jH92lX3n/view?usp=drive_link</Link>
+      <LatestVersion>
+        <Link></Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2014-06-10</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>419</DownloadSize>
+      </LatestVersion>
+      <Name>WereXIII</Name>
+      <Category>Gameplay</Category>
+      <Description>
+        IMPORTANT = This Mod must be placed at the top.
+	This project was a long immense project. This project has been unreal. It started June 23rd 2014 and took 3 months. This mod replace 
+	Red XIII, a quadruped Lionish with a full blown kick-ass Lycanthrope. This mod includes the battle model, field model, custom animations, 
+	7 limit breaks, avatar and all casting animations. A lot of people have had hands in on this and I really appreciate it. If you find any 
+	problems or bugs or ideas on animation tweaks let me know. :::Thanks:::to those who worked directly on the project and especially CMH175, 
+	who I feel ended up more as a co producer than someone who assisted.
+
+	CMH175 Leet Jeet Kaldarasha EQ2Alyza Kuroda Jusete
+	And everyone who had suggestions and pointers.
+	And all of the creators of the tools that were used for the project.
+      </Description>
+      <Tags></Tags>
+    </Mod>
+
+  </Mods>	
 </Catalog>
