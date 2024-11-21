@@ -797,12 +797,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.05</Version>
-        <ReleaseDate>2024-11-17</ReleaseDate>
+        <Version>1.06</Version>
+        <ReleaseDate>2024-11-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed issue where a few fields weren't retranslated in Vanilla Mode.</ReleaseNotes>
-        <DownloadSize>408522</DownloadSize>
+        <ReleaseNotes>Script revisions across entire game. Added "JORG Encounters" toggle.</ReleaseNotes>
+        <DownloadSize>408742</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
