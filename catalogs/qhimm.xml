@@ -2221,5 +2221,25 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       <Tags></Tags>
     </Mod>
 
+  ## Dynamic Weapons Fix ##
+    <Mod>
+      <ID>3b25060c-c60e-426e-ac46-f85439e973e5</ID>
+      <Author>htp314</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/195QuR65vEII7cyZiwMw8A47nGtbs8sbd</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-11-22</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>11587</DownloadSize>
+      </LatestVersion>
+      <Name>Dynamic Weapons Fix</Name>
+      <Category>Field Models</Category>
+      <Description>This mod fixes the Dynamic Weapons from clipping into Cloud</Description>
+      <Tags></Tags>
+    </Mod>
+
   </Mods>
 </Catalog>
