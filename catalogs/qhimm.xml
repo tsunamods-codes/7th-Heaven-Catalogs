@@ -2220,6 +2220,40 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       </Description>
       <Tags></Tags>
     </Mod>
-
+	  
+## WereXIII - by Wolfman
+    <Mod>
+      <ID>1e3f4894-86bd-4099-ad54-7a2f7dbaa8cf</ID>
+      <Author>WolfMan Kuroda CMH175 and Leet</Author>
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/124</Link>
+ 	<LatestVersion>
+        <Link>iros://GDrive/1FDty3BGccJk89AVDP-7FO_wb5U58oiGg</Link>
+	<Version>3.00</Version>
+        <ReleaseDate>2014-06-10</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>218.9</DownloadSize>
+	</LatestVersion>
+      <Name>WereXIII</Name>
+      <Category>Gameplay</Category>
+      <Description>
+IMPORTANT = This Mod must be placed at the top.
+This project was a long immense project. This project has been unreal. It started June 23rd 2014 and took 3 months. This mod replaces Red XIII, a quadruped Lionish with a full blown kick-ass Lycanthrope. This mod includes the battle model, field model, custom animations, 7 limit breaks, avatar and all casting animations. A lot of people have had hands in on this and I really appreciate it. If you find any problems or bugs or ideas on animation tweaks let me know. 
+:::Thanks:::to those who worked directly on the project and especially CMH175, who I feel ended up more as a co producer than someone who assisted.
+CMH175 
+Leet 
+Jeet 
+Kaldarasha 
+EQ2Alyza 
+Kuroda 
+Jusete	
+And everyone who had suggestions and pointers.
+And all of the creators of the tools that were used for the project.
+      </Description>
+      <Tags></Tags>
+    </Mod>
+	  
+	  
   </Mods>
 </Catalog>
