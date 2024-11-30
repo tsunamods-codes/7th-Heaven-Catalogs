@@ -2254,6 +2254,25 @@ And all of the creators of the tools that were used for the project.
       <Tags></Tags>
     </Mod>
 	  
-	  
+## Dynamic Weapons Fix ##
+    <Mod>
+      <ID>3b25060c-c60e-426e-ac46-f85439e973e5</ID>
+      <Author>htp314</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1c9N7at4dGdumoETpDgDQ-8Z_mDSmlnY6</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-11-26</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>35936</DownloadSize>
+      </LatestVersion>
+      <Name>Dynamic Weapons Fix</Name>
+      <Category>Field Models</Category>
+      <Description>This mod fixes the Dynamic Weapons from clipping into Cloud</Description>
+      <Tags></Tags>
+    </Mod>
+
   </Mods>
 </Catalog>
