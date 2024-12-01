@@ -2260,13 +2260,13 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1c9N7at4dGdumoETpDgDQ-8Z_mDSmlnY6</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2024-11-26</ReleaseDate>
+        <Link>iros://GDrive/1YPaXWw5GUPXGGnaJAzXSUgyLoHHJz3GJ</Link>
+        <Version>1.1</Version>
+        <ReleaseDate>2024-12-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>35936</DownloadSize>
+        <DownloadSize>27760</DownloadSize>
       </LatestVersion>
       <Name>Dynamic Weapons Fix</Name>
       <Category>Field Models</Category>
