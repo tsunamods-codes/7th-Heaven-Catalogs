@@ -594,11 +594,11 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.42</Version>
-        <ReleaseDate>2024-10-05</ReleaseDate>
+        <Version>1.43</Version>
+        <ReleaseDate>2024-12-02</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Adjusted show steal/morph code to improve behavior. Might also fix crashing issue.</ReleaseNotes>
-        <DownloadSize>7189</DownloadSize>
+        <ReleaseNotes>Added second accessory slot display to screens other than the equipment screen.</ReleaseNotes>
+        <DownloadSize>7191</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
