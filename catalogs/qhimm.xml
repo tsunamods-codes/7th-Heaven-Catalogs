@@ -897,16 +897,16 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://forums.qhimm.com/index.php?topic=21686.0</Link>
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
-        <Version>1.31</Version>
-        <ReleaseDate>2024-06-09</ReleaseDate>
+        <Version>1.5</Version>
+        <ReleaseDate>2024-12-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/luyEKP0.jpg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>3477374</DownloadSize>
+        <DownloadSize>3158345</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Limit Break</Name>
       <Category>Field Textures</Category>
-      <Description>Field background textures extended for widescreen displays using a combination of AI and extensive manual editing.</Description>
+      <Description>Field background textures upscaled to preserve texture detail and extended for widescreen displays using a combination of AI and extensive manual editing.</Description>
       <Tags>
         <string>Cosmos</string>
         <string>Satsuki</string>
