@@ -897,12 +897,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://forums.qhimm.com/index.php?topic=21686.0</Link>
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
-        <Version>1.5</Version>
-        <ReleaseDate>2024-12-15</ReleaseDate>
+        <Version>1.6</Version>
+        <ReleaseDate>2024-12-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/luyEKP0.jpg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>3158345</DownloadSize>
+        <DownloadSize>3169875</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Limit Break</Name>
       <Category>Field Textures</Category>
