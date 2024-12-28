@@ -2257,17 +2257,17 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1YPaXWw5GUPXGGnaJAzXSUgyLoHHJz3GJ</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2024-12-01</ReleaseDate>
+        <Link>iros://GDrive/11h7DoaAV-_koV7v-JY9hZr39FBhXbqiJ</Link>
+        <Version>1.2</Version>
+        <ReleaseDate>2024-12-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Fixed the Buster Sword texture in the Motorbike Minigame</ReleaseNotes>
         <DownloadSize>27760</DownloadSize>
       </LatestVersion>
       <Name>Dynamic Weapons Fix</Name>
       <Category>Field Models</Category>
-      <Description>This mod fixes the Dynamic Weapons from clipping into Cloud</Description>
+      <Description>This mod fixes the Dynamic Weapons from clipping into Cloud. Use it as an Add-on to Ninostyle Chibi mod</Description>
       <Tags></Tags>
     </Mod>
 
