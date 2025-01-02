@@ -1026,7 +1026,7 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
         <Version>0.42</Version>
         <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>http://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
+        <PreviewImage>https://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
         <ReleaseNotes>Version 0.40 PREVIEW adds 7H 2.0 mod config treeview support, and tracks Fanfare (Default Mix) and Good Night, Until Tomorrow.</ReleaseNotes>
         <DownloadSize>183393</DownloadSize>
       </LatestVersion>
