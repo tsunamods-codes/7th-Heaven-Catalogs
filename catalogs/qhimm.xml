@@ -547,11 +547,14 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
 	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/latest_full/Echo-s.iro</Link>
-        <Version>1.16</Version>
-        <ReleaseDate>2024-09-20</ReleaseDate>
+        <Version>1.17</Version>
+        <ReleaseDate>2025-01-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
-        <ReleaseNotes>-Fix Music to work on 7H 4.0+</ReleaseNotes>
+        <ReleaseNotes>	-Rework compatibility with opening FMV's
+	-Start Menu music
+	-More subtle Start screen
+	-Various bug fixes from user report section</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Echo-S</Name>
@@ -1693,13 +1696,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.53</Version>
-        <ReleaseDate>2024-09-19</ReleaseDate>
+        <Version>2.54</Version>
+        <ReleaseDate>2025-01-03</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
-Requires 7th Heaven 3.0+
-Add FF7 Beta avatar set
+	-New theme font closer to original ff12 font
+	-Add 16:10
 
 Additional credits:
 Lap Pun Cheung
@@ -1734,14 +1737,12 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_Retouch.7z</Link>
-        <Version>0.79</Version>
-        <ReleaseDate>2024-11-02</ReleaseDate>
+        <Version>0.80</Version>
+        <ReleaseDate>2025-01-03</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
         <ReleaseNotes>
-Add Ever Crisis Avatars and Mini Avatars
-Fixed Switch buttons not working correctly
-Add Rebirth Avatars and Mini Avatars
+	Add 16:10
         </ReleaseNotes>
         <DownloadSize>35000</DownloadSize>
       </LatestVersion>
@@ -1765,13 +1766,12 @@ Add Rebirth Avatars and Mini Avatars
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_AavockESUI.7z</Link>
-        <Version>0.93</Version>
-        <ReleaseDate>2024-10-19</ReleaseDate>
+        <Version>0.95</Version>
+        <ReleaseDate>2025-01-03</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/aqOIHP0.png</PreviewImage>
         <ReleaseNotes>
-	Change to modern button icons
-	Add Switch button icons
+	Add 16:10
         </ReleaseNotes>
         <DownloadSize>50000</DownloadSize>
       </LatestVersion>
