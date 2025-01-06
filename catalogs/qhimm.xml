@@ -547,14 +547,15 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
 	<Link>iros://Url/http$gp-mc.net/tsunamods/echo-s-7/latest_full/Echo-s.iro</Link>
-        <Version>1.17</Version>
-        <ReleaseDate>2025-01-03</ReleaseDate>
+        <Version>1.18</Version>
+        <ReleaseDate>2025-01-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
         <ReleaseNotes>	-Rework compatibility with opening FMV's
 	-Start Menu music
-	-More subtle Start screen
-	-Various bug fixes from user report section</ReleaseNotes>
+	-More subtle Start Menu background
+	-Remove syw+cm logo fmv as Echo-S no longer contains these
+	-All known bugs fixed</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Echo-S</Name>
