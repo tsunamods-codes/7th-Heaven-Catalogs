@@ -801,12 +801,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.151</Version>
-        <ReleaseDate>2025-01-04</ReleaseDate>
+        <Version>1.152</Version>
+        <ReleaseDate>2025-01-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Typo fixes round 7.</ReleaseNotes>
-        <DownloadSize>428265</DownloadSize>
+        <ReleaseNotes>Typo fixes round 8.</ReleaseNotes>
+        <DownloadSize>428271</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
