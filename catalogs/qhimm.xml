@@ -801,12 +801,12 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.1531</Version>
-        <ReleaseDate>2025-01-10</ReleaseDate>
+        <Version>1.1532</Version>
+        <ReleaseDate>2025-01-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed issue when Multi-linked slots feature had its on and off folders reversed.</ReleaseNotes>
-        <DownloadSize>428274</DownloadSize>
+        <ReleaseNotes>Updated contidional hext so other mods can differentiate between Vanilla mode and Archaeology mode.</ReleaseNotes>
+        <DownloadSize>428282</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
