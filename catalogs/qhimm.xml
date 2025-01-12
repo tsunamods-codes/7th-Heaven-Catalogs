@@ -1587,11 +1587,12 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.943</Version>
-        <ReleaseDate>2024-12-31</ReleaseDate>
+        <Version>2.944</Version>
+        <ReleaseDate>2025-01-12</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Fixed issue with Expanded Icons + V1 Battleview</ReleaseNotes>
+        <ReleaseNotes>Added 16:10 Battle Layouts.
+SAC support for mini avatars and expanded icons</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
