@@ -2271,5 +2271,26 @@ And all of the creators of the tools that were used for the project.
       <Tags></Tags>
     </Mod>
 
+## Advanced Facial Animation Fix ##
+    <Mod>
+      <ID>3b25060c-c60e-426e-ac46-f85479e983e5</ID>
+      <Author>htp314</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1QzM0pNM0X-JIcN0Qrp1_loAiMtCDVqwG</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2024-01-14</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>744870</DownloadSize>
+      </LatestVersion>
+      <Name>Advanced Facial Animation Fix</Name>
+      <Category>Field Models</Category>
+      <Description>This mod makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. Use it as an Add-on to Ninostyle Chibi mod and Shinra Archaeology Cut mod</Description>
+      <Tags></Tags>
+    </Mod>
+
   </Mods>
 </Catalog>
+
