@@ -1610,34 +1610,7 @@ Battle Avatars Support</Description>
       </Tags>
     </Mod>
 
-## AxlRose Avatars + old Pencil Drawings ##
-    <Mod>
-      <ID>c4f0d768-a8b9-4d82-a5af-3beda51e0ffa</ID>
-      <Author>AxlRose + Sage</Author>
-      <Link>https://discord.gg/xJMxvEk</Link>
-      <LatestVersion>
-        <Link>iros://GDrive/14pnWjU4vZ0JZhGIT1BovOPpNnRk_O6AA</Link>
-        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/AxlroseAvatars.7z</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2020-05-15</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://imgur.com/iquumhh.gif</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>161000</DownloadSize>
-      </LatestVersion>
-      <Name>AxlRose's Avatars</Name>
-      <Category>User Interface</Category>
-      <Description>Replaces the in-game portraits of your characters with a Remake style version.
-- New super hot Yuffie, Cid, Young Cloud, Vincent, Cait Sith, and Chocobo models.
-- Now compatible with the FFNx Driver to use the DDS format (Not Required).
-- Removed Aali and FFNx manual switch option, the switch is now automatic.
-- New Type A, Type B, Type C, Type D, and Type E sets.
-- Type Y and Z are now the old Pencil Drawing Avatars sets.</Description>
-      <Tags>
-        <string>AxlRose</string>
-        <string>User Interface</string>
-      </Tags>
-    </Mod>
+
 
 ## Satsuki SYW Unified Menus and Fonts Textures (with credits) ##
     <Mod>
