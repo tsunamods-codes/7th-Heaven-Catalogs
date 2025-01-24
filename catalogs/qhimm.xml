@@ -2250,13 +2250,13 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1QzM0pNM0X-JIcN0Qrp1_loAiMtCDVqwG</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2024-01-14</ReleaseDate>
+        <Link>iros://GDrive/1s_ItSIjRp1mcqmDN2y72t1MMJWgO79yu</Link>
+        <Version>1.1</Version>
+        <ReleaseDate>2025-01-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>744870</DownloadSize>
+        <DownloadSize>744085</DownloadSize>
       </LatestVersion>
       <Name>Advanced Facial Animation Fix</Name>
       <Category>Field Models</Category>
@@ -2266,4 +2266,5 @@ And all of the creators of the tools that were used for the project.
 
   </Mods>
 </Catalog>
+
 
