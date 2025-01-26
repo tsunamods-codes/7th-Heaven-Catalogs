@@ -1307,12 +1307,12 @@ E.g., Bolt2 = Thundara</Description>
 	<Link></Link>
 	<LatestVersion>
 	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
-	        <Version>1.01</Version>
-	        <ReleaseDate>2024-11-14</ReleaseDate>
+	        <Version>1.02</Version>
+	        <ReleaseDate>2025-01-26</ReleaseDate>
 		<CompatibleGameVersions>All</CompatibleGameVersions>
 	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
-	        <ReleaseNotes>Fixed issue with not turning advanced blinking off if you turn it on and off again.</ReleaseNotes>
-        	<DownloadSize>5208</DownloadSize>
+	        <ReleaseNotes>Changed mod category to Field Models, no longer discourage non-vanilla field models.</ReleaseNotes>
+        	<DownloadSize>5206</DownloadSize>
 	</LatestVersion>
 	<Name>Universal Blink Fix</Name>
 	<Category>Miscellaneous</Category>
