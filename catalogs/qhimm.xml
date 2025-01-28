@@ -1668,11 +1668,13 @@ Battle Avatars Support</Description>
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
-        <Version>2.55</Version>
-        <ReleaseDate>2025-01-11</ReleaseDate>
+        <Version>2.56</Version>
+        <ReleaseDate>2025-01-28</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
         <ReleaseNotes>
+	-Add 16:10 for FT battle views
+	-Fix issue where NT would disable field buttons
 	-New theme font closer to original ff12 font
 	-Add 16:10
 	-New ff12 color scheme
