@@ -1584,12 +1584,11 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.948</Version>
-        <ReleaseDate>2025-01-27</ReleaseDate>
+        <Version>2.949</Version>
+        <ReleaseDate>2025-01-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Fix issue where box sizes for SAC and NT were tied to dialogue avatars rather than field icons
-	Fix certain boxes not resizing in SAC</ReleaseNotes>
+        <ReleaseNotes>Fix issue "No Next Level" rather than "To Next Level" for SAC</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
