@@ -798,16 +798,16 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.154</Version>
-        <ReleaseDate>2025-01-25</ReleaseDate>
+        <Version>1.2</Version>
+        <ReleaseDate>2025-02-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Updated description to no longer discourage use of Ninostyle. Fixed minor grammar issues.</ReleaseNotes>
-        <DownloadSize>428381</DownloadSize>
+        <ReleaseNotes>Last major grammar pass (hopefully). Added toggle to let a certain character live.</ReleaseNotes>
+        <DownloadSize>428503</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
-      <Description>This mod does the double duty of retranslating the entire game script from the ground up directly from the original Japanese—taking care to conform with modern Square Enix localization choices for FFVII—as well as optionally restoring the vast majority of the game's unused content.</Description>
+      <Description>This mod does the double duty of retranslating the entire game script from the ground up directly from the original Japanese—taking care to conform with modern Square Enix localization choices for FFVII—as well as optionally restoring the vast majority of the game's unused content. Also offers a bevy of optional bonus features in the config settings.</Description>
       <Tags>
         <string>Gameplay</string>
       </Tags>
