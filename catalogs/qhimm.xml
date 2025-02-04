@@ -595,11 +595,11 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.43</Version>
-        <ReleaseDate>2024-12-02</ReleaseDate>
+        <Version>1.44</Version>
+        <ReleaseDate>2025-02-04</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added second accessory slot display to screens other than the equipment screen.</ReleaseNotes>
-        <DownloadSize>7191</DownloadSize>
+        <ReleaseNotes>Added an option to fix the damage overflow glitch. Also fixed a bug in Two Accessories.</ReleaseNotes>
+        <DownloadSize>7430</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
