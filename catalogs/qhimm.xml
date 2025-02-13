@@ -798,11 +798,11 @@ NOTE: Load Ninostyle Chibi mod after this one.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.2</Version>
-        <ReleaseDate>2025-02-03</ReleaseDate>
+        <Version>1.21</Version>
+        <ReleaseDate>2025-02-13</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Last major grammar pass (hopefully). Added toggle to let a certain character live.</ReleaseNotes>
+        <ReleaseNotes>Updated script to have even greater parity with Remake and Rebirth scripts.</ReleaseNotes>
         <DownloadSize>428503</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
