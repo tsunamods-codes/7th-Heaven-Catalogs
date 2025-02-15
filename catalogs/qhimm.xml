@@ -66,8 +66,8 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Author>Vertex2995, Uprisen, Sega Chief</Author>
       <Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
       <LatestVersion>
-        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.02/ff7-60fps-nt-plugin-mod.iro</Link>
-        <Version>1.02</Version>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.04/ff7-60fps-nt-plugin-mod.iro</Link>
+        <Version>1.04</Version>
         <ReleaseDate>2022-05-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
@@ -78,12 +78,14 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
    - 1.01: 100% match files with "60 FPS Gameplay" mod (Fix crash in temple of ancients boss (uzda))
            Add "Full 30 FPS" compatibility option with "60 FPS Gameplay" mod
    - 1.02: Add link url to github repo
+   - 1.03: Add another IRO for New Threat 2.0 (ESP)
+   - 1.04: Remove hard requirement of "New Threat 2.0" since this mod can be used also for "New Threat 2.0 Combat Only"
         </ReleaseNotes>
         <DownloadSize>8572</DownloadSize>
       </LatestVersion>
       <Name>60/30 FPS Animations for New Threat 2.0</Name>
       <Category>Animations</Category>
-      <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
+      <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 (works also for New Threat 2.0 Combat Only) mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
       <Tags>
         <string>60</string>
         <string>fps</string>
