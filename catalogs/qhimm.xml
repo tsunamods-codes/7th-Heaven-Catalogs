@@ -2260,17 +2260,13 @@ Edited out the Dynamic Weapon in more scenes.</ReleaseNotes>
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1ytHNK_sfFUOcAiN1lxn8I2o362lhwIdK</Link>
-        <Version>1.3</Version>
-        <ReleaseDate>2025-02-07</ReleaseDate>
+        <Link>iros://GDrive/1NUX0Edj-0b3SjJVK78dg2qN12rLe91O9</Link>
+        <Version>1.4</Version>
+        <ReleaseDate>2025-02-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed Cloud's blinking head in the Motorcycle minigame tutorial.
-Fixed Rude's blinking head.
-Added eyes on the riders in the Chocobo Race.
-Fixed Cloud's invisible neck on the Motorbike Minigame.
-Fixed Mideel Doctor's head.</ReleaseNotes>
-        <DownloadSize>760792</DownloadSize>
+        <ReleaseNotes>Fixed Red XIII's missing tail.</ReleaseNotes>
+        <DownloadSize>760892</DownloadSize>
       </LatestVersion>
       <Name>Advanced Facial Animation Fix</Name>
       <Category>Field Models</Category>
@@ -2280,6 +2276,8 @@ Fixed Mideel Doctor's head.</ReleaseNotes>
 
   </Mods>
 </Catalog>
+
+
 
 
 
