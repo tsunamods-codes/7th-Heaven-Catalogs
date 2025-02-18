@@ -441,6 +441,40 @@ Load Soldier 1st For SAC above them all then delete this version.</Description>
       </Tags>
     </Mod>
 
+## Soldier 1st for Ninostyle SAC Fix ##
+    <Mod>
+      <ID>d7b6bcc7-2f87-4733-8191-548e17718447</ID>
+      <Author>Kaij + Ninostyle</Author>
+      <Link>https://https://www.nexusmods.com/finalfantasy7/mods/122</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/16_kGK11_2cT0CS2pFTz7MBFXzPvMp-sz</Link>
+        <Version>1.5</Version>
+        <ReleaseDate>2025-02-18</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/muLWgsu.png</PreviewImage>
+        <ReleaseNotes>This is the SAC compatible release to enable facial expressions to work when using Ninostyle and Soldier 1st</ReleaseNotes>
+        <DownloadSize>85200</DownloadSize>
+      </LatestVersion>
+      <Name>Soldier 1st Ninostyle SAC Fix</Name>
+      <Category>Field Models</Category>
+      <Description>A more accurate Soldier 1st outfit for Cloud when using Ninostyle chibi models, with compatibility for Shinra Archaeology facial expressions.
+
+	3 Options to choose from:
+	"Soldier 1st" Clouds iconic Soldier 1st outfit with no weapons shown.
+	"Dynamic Weapons" Shows the equipped weapon on his back.
+	"Buster sword" Show the Buster sword all times regardless of whats equipped.
+
+NOTE:- Load Ninostyle Chibi mod, Advanced facial animation fix and Shinra Archaeology cut after this one.
+If you are not using Shinra Archaeology Cut do not use this mod, instead use the default Soldier 1st for Ninostyle mod.
+</Description>
+
+      <Tags>
+        <string>NinoStyle</string>
+        <string>Kaij</string>
+        <string>Field Models</string>
+      </Tags>
+    </Mod>
+
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e2</ID>
