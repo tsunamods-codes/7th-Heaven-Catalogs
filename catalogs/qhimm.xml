@@ -408,29 +408,32 @@ Big thanks to:
       </Tags>
     </Mod>
 
-## Soldier 1st Ninostyle ##
+## Soldier 1st for Ninostyle ##
     <Mod>
       <ID>d7b6bcc6-2f87-4733-8191-548e17118457</ID>
       <Author>Kaij + Ninostyle</Author>
       <Link>https://https://www.nexusmods.com/finalfantasy7/mods/122</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1X4VqEtQy_xl70ftzJLwSwaNOcb6uegyi</Link>
-        <Version>1.2</Version>
-        <ReleaseDate>2024-09-03</ReleaseDate>
+        <Link>iros://GDrive/1yUdjm-2NgaBdeWZ2k0eE0Vw0nH7ERlQI</Link>
+        <Version>1.5</Version>
+        <ReleaseDate>2025-18-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/6TWaR2M.png</PreviewImage>
-        <ReleaseNotes>Added options for Soldier 1st outfit only, Dynamic Weapons or always Buster Sword</ReleaseNotes>
+        <ReleaseNotes>This is the default Soldier 1st release. Use this unless using Shinra Archaeology Cut</ReleaseNotes>
         <DownloadSize>85200</DownloadSize>
       </LatestVersion>
       <Name>Soldier 1st Ninostyle</Name>
       <Category>Field Models</Category>
-      <Description>A more accurate Soldier 1st outfit for Cloud when using Nino Style chibi models.
+      <Description>A more accurate Soldier 1st outfit for Cloud when using Ninostyle chibi models. 
 
-Choose to use Cloud as he would be in OG with no weapon on his back.
-"Dynamic Weapons" Which shows the equiped weapon on his back.
-"Buster sword" at all times regardless of whats equiped
+	3 Options to choose from:
+	"Soldier 1st" Clouds iconic Soldier 1st outfit with no weapons shown.
+	"Dynamic Weapons" Shows the equipped weapon on his back.
+	"Buster sword" Show the Buster sword all times regardless of whats equipped.
 
-NOTE: Load Ninostyle Chibi mod after this one.</Description>
+NOTE:- Load Ninostyle Chibi mod after this one.
+If you are using Shinra Archaeology Cut and want the face animations to work. You must download Soldier 1st For SAC + Advanced Facial Animation Fix.
+Load Soldier 1st For SAC above them all then delete this version.</Description>
       <Tags>
         <string>NinoStyle</string>
         <string>Kaij</string>
