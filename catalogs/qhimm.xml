@@ -2261,13 +2261,15 @@ Edited out the Dynamic Weapon in more scenes.</ReleaseNotes>
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1NUX0Edj-0b3SjJVK78dg2qN12rLe91O9</Link>
-        <Version>1.4</Version>
-        <ReleaseDate>2025-02-16</ReleaseDate>
+        <Link>iros://GDrive/14tU6wEAYRdZJ76TYxhs3qkP0LaNUkQuZ</Link>
+        <Version>1.5</Version>
+        <ReleaseDate>2025-02-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed Red XIII's missing tail.</ReleaseNotes>
-        <DownloadSize>760892</DownloadSize>
+        <ReleaseNotes>Fixed Corel Shop Lady's eyes.
+Fixed Aerith's left eye flickering in Costa Del Sol Inn.
+Fixed Corel Mayor's invisible head in Barret's flashback.</ReleaseNotes>
+        <DownloadSize>760992</DownloadSize>
       </LatestVersion>
       <Name>Advanced Facial Animation Fix</Name>
       <Category>Field Models</Category>
@@ -2277,6 +2279,7 @@ Edited out the Dynamic Weapon in more scenes.</ReleaseNotes>
 
   </Mods>
 </Catalog>
+
 
 
 
