@@ -2229,56 +2229,32 @@ And all of the creators of the tools that were used for the project.
       <Tags></Tags>
     </Mod>
 	  
-## Dynamic Weapons Fix ##
-    <Mod>
-      <ID>3b25060c-c60e-426e-ac46-f85439e973e5</ID>
-      <Author>htp314</Author>
-      <Link></Link>
-      <LatestVersion>
-        <Link>iros://GDrive/1u5DArd8Cdrx_javOESFct3ooIHSTOt5a</Link>
-        <Version>1.3</Version>
-        <ReleaseDate>2025-02-07</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage></PreviewImage>
-        <ReleaseNotes>Increased the size of the Dynamic Weapons in the Motorcycle Minigame. 
-Increased the size of the Buster Sword in the field. 
-Dynamic Weapons now works with Aerith and Cid. 
-Added the Umbrella as a Dynamic Weapon for Aerith.
-Added parachute on Red XIII before the Highwind jump.
-You can now enable/disable Dynamic Weapons on the characters individually.
-Edited out the Dynamic Weapon in more scenes.</ReleaseNotes>
-        <DownloadSize>36774</DownloadSize>
-      </LatestVersion>
-      <Name>Dynamic Weapons Fix</Name>
-      <Category>Field Models</Category>
-      <Description>This mod fixes the clipping problems with the Dynamic Weapons. Use it as an Add-on to Ninostyle Chibi mod</Description>
-      <Tags></Tags>
-    </Mod>
-
-## Advanced Facial Animation Fix ##
+## Ninostyle Chibi Fixes and Additions ##
     <Mod>
       <ID>3b25060c-c60e-426e-ac46-f85479e983e5</ID>
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/14tU6wEAYRdZJ76TYxhs3qkP0LaNUkQuZ</Link>
-        <Version>1.5</Version>
-        <ReleaseDate>2025-02-21</ReleaseDate>
+        <Link>iros://GDrive/10m7lbwEwrC19oO1CzaCq5iFvfZwMcQUQ</Link>
+        <Version>1.6</Version>
+        <ReleaseDate>2025-02-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed Corel Shop Lady's eyes.
-Fixed Aerith's left eye flickering in Costa Del Sol Inn.
-Fixed Corel Mayor's invisible head in Barret's flashback.</ReleaseNotes>
-        <DownloadSize>760992</DownloadSize>
+        <ReleaseNotes>Merged Dynamic Weapons Fix and Facial Animation Fix into one mod.
+Fixed Tifa's field model eye texture.
+Added a new Scarecrow Yuffie field model to use with SAC.
+Added alternative outfits for Cloud, Tifa, Barret and Yuffie's Field Model.</ReleaseNotes>
+        <DownloadSize>91645</DownloadSize>
       </LatestVersion>
-      <Name>Advanced Facial Animation Fix</Name>
+      <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
-      <Description>This mod makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. Use it as an Add-on to Ninostyle Chibi mod and Shinra Archaeology Cut mod</Description>
+      <Description>This mod adds various fixes and additions to the Ninostyle Chibi mod. It makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. This mod now includes fixes and additions for the Dynamic Weapons and adds new options for Alternative Outfits.</Description>
       <Tags></Tags>
     </Mod>
 
   </Mods>
 </Catalog>
+
 
 
 
