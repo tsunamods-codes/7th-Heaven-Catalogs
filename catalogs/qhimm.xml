@@ -2235,16 +2235,16 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/10m7lbwEwrC19oO1CzaCq5iFvfZwMcQUQ</Link>
-        <Version>1.6</Version>
-        <ReleaseDate>2025-02-27</ReleaseDate>
+        <Link>iros://GDrive/10dbmwTgXgmH3i7tsGsEbox5PnokGJ4F9</Link>
+        <Version>1.7</Version>
+        <ReleaseDate>2025-03-09</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Merged Dynamic Weapons Fix and Facial Animation Fix into one mod.
-Fixed Tifa's field model eye texture.
-Added a new Scarecrow Yuffie field model to use with SAC.
-Added alternative outfits for Cloud, Tifa, Barret and Yuffie's Field Model.</ReleaseNotes>
-        <DownloadSize>91645</DownloadSize>
+        <ReleaseNotes>Fixed headless Bugenhagen, Corneo Ninja and Journalist Cait Sith.
+Added KH Cloud to the Chocobo Race Minigame.
+Added new eye textures for Godo's character model.
+Added Cloud's Advent Children outfit for the Field Model.</ReleaseNotes>
+        <DownloadSize>99586</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
@@ -2254,6 +2254,7 @@ Added alternative outfits for Cloud, Tifa, Barret and Yuffie's Field Model.</Rel
 
   </Mods>
 </Catalog>
+
 
 
 
