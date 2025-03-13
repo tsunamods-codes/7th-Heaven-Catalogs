@@ -1107,30 +1107,6 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       </Tags>
     </Mod>
 
-## Armorvil Sounds ##
-    <Mod>
-      <ID>7dafacde-3d9f-44c6-810d-7b4978194424</ID>
-      <Author>Armorvil</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
-      <LatestVersion>
-        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/Armorvil Sounds.iro</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2015-02-28</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/WCKluR7.png</PreviewImage>
-        <ReleaseNotes/>
-        <DownloadSize>74317</DownloadSize>
-      </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Armorvil Sounds</Name>
-      <Category>Media</Category>
-      <Description>Custom Sound Effects by Armorvil</Description>
-      <Tags>
-        <string>Armorvil</string>
-        <string>Media</string>
-        <string>SFX</string>
-      </Tags>
-    </Mod>
-
 ## OST Music Remastered ##
     <Mod>
       <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
