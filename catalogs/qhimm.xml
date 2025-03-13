@@ -1563,11 +1563,11 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.950</Version>
-        <ReleaseDate>2025-02-08</ReleaseDate>
+        <Version>2.951</Version>
+        <ReleaseDate>2025-03-13</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Fix issue "No Next Level" rather than "To Next Level" for SAC</ReleaseNotes>
+        <ReleaseNotes>Compatibility with PS3's TwoAccs</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
