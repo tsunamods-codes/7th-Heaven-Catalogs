@@ -598,11 +598,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.44</Version>
-        <ReleaseDate>2025-02-04</ReleaseDate>
+        <Version>1.45</Version>
+        <ReleaseDate>2025-03-18</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added an option to fix the damage overflow glitch. Also fixed a bug in Two Accessories.</ReleaseNotes>
-        <DownloadSize>7430</DownloadSize>
+        <ReleaseNotes>Added an option fix magic display in the equip menu.</ReleaseNotes>
+        <DownloadSize>7595</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
