@@ -66,7 +66,7 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Author>Vertex2995, Uprisen, Sega Chief</Author>
       <Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
       <LatestVersion>
-        <Link>s$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.04/ff7-60fps-nt-plugin-mod.iro</Link>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.04/ff7-60fps-nt-plugin-mod.iro</Link>
         <Version>1.04</Version>
         <ReleaseDate>2022-05-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -134,7 +134,7 @@ Changelog:
       <Author>UpRisen Sega Chief</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19313.0</Link>
       <LatestVersion>
-        <Link>s$qhimm.7thheaven.rocks/Catalog 4.0/Battle Models/barretmod.iro</Link>
+        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Battle Models/barretmod.iro</Link>
         <Version>1.6</Version>
         <ReleaseDate>2019-10-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -160,7 +160,7 @@ Changelog:
       <Author>Kaldarasha</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
       <LatestVersion>
-        <Link>s$motr.7thheaven.rocks/ChaOS/Rise-of-the-Black-Wolf.7z</Link>
+        <Link>iros://Url/https$motr.7thheaven.rocks/ChaOS/Rise-of-the-Black-Wolf.7z</Link>
         <Version>1.0</Version>
         <ReleaseDate>2019-05-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -207,7 +207,7 @@ Changelog:
       <Author>Ninostyle + Tsunamix + Shiniboy</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
-        <Link>s$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
+        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
         <Version>24.0531</Version>
         <ReleaseDate>2024-05-31</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -234,7 +234,7 @@ Changelog:
       <Author>Satsuki_Yatoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <LatestVersion>
-        <Link>s$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
+        <Link>iros://Url/https$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2023-12-16</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -257,7 +257,7 @@ Changelog:
       <Author>UpRisen</Author>
       <Link>http://forums.qhimm.com/index.php?topic=18029.0</Link>
       <LatestVersion>
-        <Link>s$tsunamods.7thheaven.rocks/%5BTsunamods%5D%20Avalanche%20Arisen%20Battle%20Scenes%201.0.DDS.7z</Link>
+        <Link>iros://Url/https$tsunamods.7thheaven.rocks/%5BTsunamods%5D%20Avalanche%20Arisen%20Battle%20Scenes%201.0.DDS.7z</Link>
         <Link>iros://GDrive/1lz0r6BASBBuz1UGDv-RpjxhNnNTnqL99</Link>
         <Version>1.0</Version>
         <ReleaseDate>2018-07-26</ReleaseDate>
