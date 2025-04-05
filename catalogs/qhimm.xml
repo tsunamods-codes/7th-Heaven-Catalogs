@@ -2212,16 +2212,17 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/10dbmwTgXgmH3i7tsGsEbox5PnokGJ4F9</Link>
-        <Version>1.7</Version>
-        <ReleaseDate>2025-03-09</ReleaseDate>
+        <Link>iros://GDrive/1GqLtV3FyAG7CLoCRLXs37BTrsr1W-xjE</Link>
+        <Version>1.8</Version>
+        <ReleaseDate>2025-04-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed headless Bugenhagen, Corneo Ninja and Journalist Cait Sith.
-Added KH Cloud to the Chocobo Race Minigame.
-Added new eye textures for Godo's character model.
-Added Cloud's Advent Children outfit for the Field Model.</ReleaseNotes>
-        <DownloadSize>99586</DownloadSize>
+        <ReleaseNotes>Fixed Nibelheim Flashback Kid w/glasses' blinking head.
+Fixed culling issues in scenes that feature transparent character models.
+Changed Cloud's purple collar to blue when in his Soldier grunt uniform.
+Added various props in several scenes. 
+Resized Cid's Dynamic Weapons.</ReleaseNotes>
+        <DownloadSize>100927</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
@@ -2231,6 +2232,7 @@ Added Cloud's Advent Children outfit for the Field Model.</ReleaseNotes>
 
   </Mods>
 </Catalog>
+
 
 
 
