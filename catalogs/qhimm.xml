@@ -550,11 +550,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
 	<Link>iros://Url/https$gp-mc.net/tsunamods/echo-s-7/latest_full/Echo-s.iro</Link>
-        <Version>1.20</Version>
-        <ReleaseDate>2025-03-29</ReleaseDate>
+        <Version>1.21</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
-        <ReleaseNotes>-Fixed some music issues
+        <ReleaseNotes>-Update for new opening FMV music method
+	-Fixed some music issues
 	-Temp patched blin60_1
 	-All known bugs fixed</ReleaseNotes>
         <DownloadSize>3307496</DownloadSize>
@@ -950,11 +951,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>http://forums.qhimm.com/index.php?topic=20240.0</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/Symphonic_Remasters_Redux.iro</Link>
-        <Version>2.02</Version>
-        <ReleaseDate>2020-07-18</ReleaseDate>
+        <Version>2.03</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n0H52S0.png</PreviewImage>
-        <ReleaseNotes>A re-release of the Symphonic Remasters FF7 soundtrack with the overall volume levels now closely matching the game's OST, other volume/loop fixes, Loopstart only, on/off selection of individual tracks, reduced file size, and high-resolution intro/ending videos now with SFX. All made from the original lossless audio and packaged for 7th Heaven.</ReleaseNotes>
+        <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
         <DownloadSize>519999</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
@@ -976,11 +977,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://forums.qhimm.com/index.php?topic=20005.0</Link>
       <LatestVersion>
         <Link>iros://Url/https://qhimm.7thheaven.rocks/Catalog%204.0/Media/DEET%27S%20XG%20MUSIC.iro</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2020-05-26</ReleaseDate>
+        <Version>1.02</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/qWeaJro.png</PreviewImage>
-        <ReleaseNotes></ReleaseNotes>
+        <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
         <DownloadSize>400000</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
@@ -1027,12 +1028,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Author>unab0mb, Enrico Deiana</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19341.0</Link>
       <LatestVersion>
-        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/[Tsunamods]_EDMusic_FF7_Soundtrack_v0.42.iro</Link>
-        <Version>0.42</Version>
-        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/[Tsunamods]_EDMusic_FF7_Soundtrack.iro</Link>
+        <Version>0.43</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
-        <ReleaseNotes>Version 0.40 PREVIEW adds 7H 2.0 mod config treeview support, and tracks Fanfare (Default Mix) and Good Night, Until Tomorrow.</ReleaseNotes>
+        <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
         <DownloadSize>183393</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
@@ -1055,11 +1056,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-        <Version>1.17</Version>
-        <ReleaseDate>2025-03-29</ReleaseDate>
+        <Version>1.18</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
-        <ReleaseNotes>New Limit Break sound closer to original.</ReleaseNotes>
+        <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
         <DownloadSize>363000</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Cosmo Memory</Name>
@@ -1090,11 +1091,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://discord.gg/XVHBExy</Link>
       <LatestVersion>
         <Link>iros://Url/https://motr.7thheaven.rocks/TsunamodsArranged/[Tsunamods]-Arranged-Soundtrack.iro</Link>
-        <Version>1.22</Version>
-        <ReleaseDate>2020-02-05</ReleaseDate>
+        <Version>1.23</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/X7lQH2y.png</PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
         <DownloadSize>136972</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Arranged Soundtrack</Name>
@@ -1114,11 +1115,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Author>FinalFanTim, PacGamer</Author>
       <Link>https://forums.qhimm.com/index.php?topic=8160.0</Link>
       <LatestVersion>
-        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim%201.03.iro</Link>
-        <Version>1.03</Version>
-        <ReleaseDate>2015-02-28</ReleaseDate>
+        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim.iro</Link>
+        <Version>1.04</Version>
+        <ReleaseDate>2025-04-15</ReleaseDate>
         <PreviewImage>https://i.imgur.com/E3yG6yf.png</PreviewImage>
-        <ReleaseNotes/>
+        <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
         <DownloadSize>354493</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
