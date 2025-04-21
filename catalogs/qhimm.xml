@@ -600,11 +600,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.46</Version>
-        <ReleaseDate>2025-03-22</ReleaseDate>
+        <Version>1.47</Version>
+        <ReleaseDate>2025-04-20</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Updated magic display fix to show all bonuses from weapons and armor to stats in the equip screen.</ReleaseNotes>
-        <DownloadSize>7583</DownloadSize>
+        <ReleaseNotes>Updated Battle Randomizer to Enemy/Item Randomizer and added new options. It now has full item randomization and boss randomization with scaling for a more traditional randomizer experience.</ReleaseNotes>
+        <DownloadSize>7591</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
