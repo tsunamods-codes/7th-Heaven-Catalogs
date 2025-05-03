@@ -1565,11 +1565,11 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.952</Version>
-        <ReleaseDate>2025-03-30</ReleaseDate>
+        <Version>2.953</Version>
+        <ReleaseDate>2025-05-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>UPdate SAC Compatibility</ReleaseNotes>
+        <ReleaseNotes>Update SAC Script</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
