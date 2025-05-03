@@ -803,11 +803,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.313</Version>
-        <ReleaseDate>2025-04-30</ReleaseDate>
+        <Version>1.314</Version>
+        <ReleaseDate>2025-05-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed spacing and punctuation in a few textboxes. Require SAC compatibilty mode in PS3 Tweaks.</ReleaseNotes>
+        <ReleaseNotes>Fixed base-PC-version-issue in Northern Cavity scene where Sephiroth's model isn't visible like it should be. Only applies to Archaeology Mode.</ReleaseNotes>
         <DownloadSize>595927</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
