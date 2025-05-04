@@ -600,11 +600,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.48</Version>
-        <ReleaseDate>2025-04-30</ReleaseDate>
+        <Version>1.49</Version>
+        <ReleaseDate>2025-05-04</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Adding SAC compatibility option for randomizer. Also adding field item/materia only randomizer.</ReleaseNotes>
-        <DownloadSize>7596</DownloadSize>
+        <ReleaseNotes>Adding enemy scaling and shop randomization to enemy/item randomizer.</ReleaseNotes>
+        <DownloadSize>7612</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
