@@ -600,11 +600,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.52</Version>
-        <ReleaseDate>2025-05-05</ReleaseDate>
+        <Version>1.53</Version>
+        <ReleaseDate>2025-05-08</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Adding Enemy Stat Multiplier. Compatible with Randomizer.</ReleaseNotes>
-        <DownloadSize>7617</DownloadSize>
+        <ReleaseNotes>Added Instant ATB, a setting that speeds up battles. Also fixed another crashing bug in the randomizer.</ReleaseNotes>
+        <DownloadSize>7618</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
