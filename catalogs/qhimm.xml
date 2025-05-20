@@ -600,17 +600,17 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.53</Version>
-        <ReleaseDate>2025-05-08</ReleaseDate>
+        <Version>1.54</Version>
+        <ReleaseDate>2025-05-19</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added Instant ATB, a setting that speeds up battles. Also fixed another crashing bug in the randomizer.</ReleaseNotes>
+        <ReleaseNotes>Fixing bugs with and making updates to the Randomizer.</ReleaseNotes>
         <DownloadSize>7618</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
       <Category>Gameplay</Category>
       <Description>An assortment of gameplay enhancements.
-      True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Limit Overhaul, Materia Pairing adjustments, etc.</Description>
+      True Wait Mode, Break Damage/HP Limit, In-Battle PHS, Enemy/Item Randomizer, Limit Command Rework, etc.</Description>
       <Tags>
         <string>postscriptthree</string>
         <string>Gameplay</string>
