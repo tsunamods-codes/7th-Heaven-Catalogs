@@ -803,12 +803,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.316</Version>
-        <ReleaseDate>2025-05-29</ReleaseDate>
+        <Version>1.317</Version>
+        <ReleaseDate>2025-06-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Updated scene in Honeybee Inn in Arch Mode where Cloud gets in the bath with the Honeygirl to reflect new discoveries.</ReleaseNotes>
-        <DownloadSize>599247</DownloadSize>
+        <ReleaseNotes>Changed location of Green Book key item to not interfere with Beta Elden Forest option.</ReleaseNotes>
+        <DownloadSize>599288</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
