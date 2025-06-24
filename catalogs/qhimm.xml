@@ -2258,26 +2258,28 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1JQbZF9J_imM8zJd78kDS2LS3ovQmhsxO</Link>
-        <Version>1.9</Version>
-        <ReleaseDate>2025-05-27</ReleaseDate>
+        <Link>iros://GDrive/1cpgM8lrfw3b7nLK3kj-y9Oahy5BsSe57</Link>
+        <Version>2.0</Version>
+        <ReleaseDate>2025-06-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed Train monitor scene issue when KH Cloud outfit is used.
-Edited the AC Cloud outfit.
-Added the AC Cloud outfit in Battle.
-Added a new condor chickling model in Fort Condor. 
-Various small edit and fixes.</ReleaseNotes>
-        <DownloadSize>102187</DownloadSize>
+        <ReleaseNotes>Added more Alternative Battle outfits.
+Edited Barret's AC outfit.
+Edited Cloud's KH outfit.
+Edited Tifa's AC outfit
+Edited Yuffie's Remake outfit.
+Solved the slowdown issue when SAC's Advanced Facial Animation was activated.</ReleaseNotes>
+        <DownloadSize>145297</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
-      <Description>This mod adds various fixes and additions to the Ninostyle Chibi mod. It makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. This mod now includes fixes and additions for the Dynamic Weapons and adds new options for Alternative Outfits.</Description>
+      <Description>This is an Add-on to the Ninostyle Chibi mod. It adds various fixes and additions and makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. This mod now includes fixes for the Dynamic Weapons and adds new options for Alternative outfits.</Description>
       <Tags></Tags>
     </Mod>
 
   </Mods>
 </Catalog>
+
 
 
 
