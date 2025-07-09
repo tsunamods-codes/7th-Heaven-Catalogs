@@ -848,12 +848,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.32</Version>
-        <ReleaseDate>2025-07-06</ReleaseDate>
+        <Version>1.321</Version>
+        <ReleaseDate>2025-07-09</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed music track during Sister Ray firing FMV.</ReleaseNotes>
-        <DownloadSize>599482</DownloadSize>
+        <ReleaseNotes>Fixed music track during Tiny Bronco crash FMV.</ReleaseNotes>
+        <DownloadSize>598511</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
