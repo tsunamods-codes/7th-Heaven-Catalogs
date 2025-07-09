@@ -125,6 +125,37 @@ Changelog:
         <string>Kaldarasha</string>
       </Tags>
     </Mod>
+	  
+## CloudReplacer ##
+    <Mod>
+      <ID>c5e7f3a8-2918-497d-9024-407b9c46d817</ID>
+      <Author>Orichalcon, Postscriptthree</Author>
+      <LatestVersion>
+        <Link>iros://GDrive/1gd8kOwR9SG7bG4iT5CAS0PIv46Qy9fZ7</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2025-07-08</ReleaseDate>
+        <ReleaseNotes>Initial release.</ReleaseNotes>
+        <DownloadSize>22411</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>CloudReplacer</Name>
+      <Category>Animations</Category>
+      <Description>Replaces Cloud in fields with either the character in the first party slot or a character of your choice.</Description>
+      <Tags>
+        <string>Cloud</string>
+        <string>Replacer</string>
+        <string>Field Models</string>
+        <string>Barret</string>
+        <string>Tifa</string>
+        <string>Aerith</string>
+        <string>Yuffie</string>
+        <string>Vincent</string>
+        <string>Cid</string>
+        <string>Sephiroth</string>
+        <string>Buggy</string>
+        <string>Animations</string>
+      </Tags>
+    </Mod>
 
 ##BATTLE MODELS##
 
