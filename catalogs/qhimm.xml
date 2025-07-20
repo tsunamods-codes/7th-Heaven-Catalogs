@@ -159,17 +159,17 @@ Changelog:
 
 	  ## [Tsunamods] Idle Animations ##
     <Mod>
-      <ID>3ab0fbbe-8405-45ab-bcd1-23e7a39b9f68</ID>
+      <ID>ed2e5c3b-282d-4241-85bf-f6a6d40a0609</ID>
       <Author>Orichalcon</Author>
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
         <Link>iros://GDrive/1i5ECLhGn1MeFkvVLuHIzOZVYQiq5ZdLj</Link>
-        <Version>1.0</Version>
+        <Version>1.01</Version>
         <ReleaseDate>2025-07-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>17124</DownloadSize>
+        <DownloadSize>17891</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Idle Animations</Name>
       <Category>Animations</Category>
