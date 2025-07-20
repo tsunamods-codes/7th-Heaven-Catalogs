@@ -157,6 +157,29 @@ Changelog:
       </Tags>
     </Mod>
 
+	  ## [Tsunamods] Idle Animations ##
+    <Mod>
+      <ID>3ab0fbbe-8405-45ab-bcd1-23e7a39b9f68</ID>
+      <Author>Orichalcon</Author>
+      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1i5ECLhGn1MeFkvVLuHIzOZVYQiq5ZdLj</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2025-07-20</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>17124</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Idle Animations</Name>
+      <Category>Animations</Category>
+      <Description>Configurable mod to add a choice of idle animations for the main cast to perform when idle for a certain length of time.</Description>
+      <Tags>
+        <string>Orichalcon</string>
+        <string>Animations</string>
+      </Tags>
+    </Mod>	
+
 ##BATTLE MODELS##
 
 ## [Tsunamods] The Barret Mod
@@ -1258,6 +1281,29 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
 
 ## MINIGAMES ##
 
+## Chocobo Racing-Bike Chase Character Overhaul ##
+    <Mod>
+      <ID>13d65cc9-f8fb-4576-890d-e08e2f8454f2</ID>
+      <Author>Orichalcon</Author>
+      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1jolROfAt_r3aFxYaBlTwa_xAS1M91mBZ</Link>
+        <Version>0.999</Version>
+        <ReleaseDate>2025-07-20</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>897</DownloadSize>
+      </LatestVersion>
+      <Name>Chocobo Racing-Bike Chase Character Overhaul</Name>
+      <Category>Minigames</Category>
+      <Description>Replaces the triangular low quality character models of these 2 minigames with each character's respective vanilla field model.</Description>
+      <Tags>
+        <string>Orichalcon</string>
+        <string>Minigames</string>
+      </Tags>
+    </Mod>	  
+
 ## Satsuki SYW Unified MiniGames Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-720000000004</ID>
@@ -2095,7 +2141,7 @@ Requires Enhanced Stock UI
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>1000</DownloadSize>
+        <DownloadSize>14983</DownloadSize>
       </LatestVersion>
       <Name>Realistic, Subtle World Map Animations</Name>
       <Category>World Textures</Category>
@@ -2118,7 +2164,7 @@ Requires Enhanced Stock UI
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>1000</DownloadSize>
+        <DownloadSize>88881</DownloadSize>
       </LatestVersion>
       <Name>High-Detail World Map</Name>
       <Category>World Textures</Category>
