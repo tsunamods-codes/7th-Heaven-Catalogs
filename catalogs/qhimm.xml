@@ -699,10 +699,10 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.56</Version>
-        <ReleaseDate>2025-05-25</ReleaseDate>
+        <Version>1.57</Version>
+        <ReleaseDate>2025-07-27</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixed a bug in the latest update that caused a crash if using the enemy randomizer without enemy stat scaling.</ReleaseNotes>
+        <ReleaseNotes>Added order requirement to avoid a crash. Also fixed a steal adjustment that wasn't working right.</ReleaseNotes>
         <DownloadSize>7618</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
