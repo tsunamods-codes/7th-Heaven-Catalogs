@@ -2335,18 +2335,17 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1cpgM8lrfw3b7nLK3kj-y9Oahy5BsSe57</Link>
-        <Version>2.0</Version>
-        <ReleaseDate>2025-06-24</ReleaseDate>
+        <Link>iros://GDrive/1qCri07agie5UcOZbaTT0_WCUr-Bn_5ZS</Link>
+        <Version>2.1</Version>
+        <ReleaseDate>2025-07-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Added more Alternative Battle outfits.
-Edited Barret's AC outfit.
-Edited Cloud's KH outfit.
-Edited Tifa's AC outfit
-Edited Yuffie's Remake outfit.
-Solved the slowdown issue when SAC's Advanced Facial Animation was activated.</ReleaseNotes>
-        <DownloadSize>145297</DownloadSize>
+        <ReleaseNotes>Added 1 new outfit for Cloud and Tifa.
+Fixed AC Cloud's Motorcycle Field model.
+Edited AC Tifa's hair.
+Edited Tifa's World model.
+Fixed *spoiler* scene in City of The Ancients</ReleaseNotes>
+        <DownloadSize>160225</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
