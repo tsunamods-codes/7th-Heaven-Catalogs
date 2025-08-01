@@ -902,12 +902,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.324</Version>
-        <ReleaseDate>2025-07-31</ReleaseDate>
+        <Version>1.325</Version>
+        <ReleaseDate>2025-08-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Slightly altered text in Mayor puzzle to make objective clearer in retranslated form.</ReleaseNotes>
-        <DownloadSize>603372</DownloadSize>
+        <ReleaseNotes>Updated access point for early Yuffie secret in Arch Mode.</ReleaseNotes>
+        <DownloadSize>641152</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
