@@ -902,12 +902,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.326</Version>
-        <ReleaseDate>2025-08-02</ReleaseDate>
+        <Version>1.327</Version>
+        <ReleaseDate>2025-08-06</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Improved compatibility with ESUI fonts.</ReleaseNotes>
-        <DownloadSize>637819</DownloadSize>
+        <ReleaseNotes>Fixed 60fps animations.</ReleaseNotes>
+        <DownloadSize>649809</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
