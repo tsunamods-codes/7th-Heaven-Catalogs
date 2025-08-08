@@ -369,46 +369,6 @@ Big thanks to:
       </Tags>
     </Mod>
 
-## AxlRose Battle Textures ##
-    <Mod>
-      <ID>f6767f0d-10bf-43a8-ae24-fe326469a30e</ID>
-      <Author>AxlRose + Satsuki_Yatoshi</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=21346.0</Link>
-      <DonationLink>https://www.paypal.com/donate/?hosted_button_id=FTA38UUZJ5QAN</DonationLink>
-      <LatestVersion>
-        <Link>iros://Url/https$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020009.7z</Link>
-        <Version>5.020011</Version>
-        <ReleaseDate>2023-04-12</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://www.gp-mc.net/ff7/axlrose/battle_scenes/v5.020011.gif</PreviewImage>
-        <ReleaseNotes>
-* New "05 - Beach" and "34 - Junon Beach" with PBR textures
-- New "04 - Forest" 3D model (4X Upscale textures, 4X and re-colored, 6X and re-colored, Normal and PBR)
-- Cleaned up mod .xml file
-- New Mod structure
-- Repairs to the 3D meshes for Stage02 (Grasslands) and Stage03 (Mt. Nibel)
-- New 3 sets of texture upscales for Stage02 and 03 by AxlRose (4X Vanilla colors, 4X and re-colored, 6X and re-colored)
-- PBR and Normal textures for Stage02 and 03
-        </ReleaseNotes>
-        <DownloadSize>455270</DownloadSize>
-      </LatestVersion>
-      <Patch VerFrom="5.020009" VerTo="5.020010">iros://Url/https$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020010.irop</Patch>
-      <Patch VerFrom="5.020010" VerTo="5.020011">iros://Url/https$www.gp-mc.net/ff7/axlrose/battle_scenes/%5bAxlRose%5d_4k_Colorful_Battle_Scenes_5.020011.irop</Patch>
-      <Name>AxlRose's Battle Scenes (Color Overhaul) v11</Name>
-      <Category>Battle Textures</Category>
-      <Description>
-- Multiple needed fixes to Battle Scenes meshes (Sky, floors, miss-aligned textures)
-- Photo filters to warm up the texture images
-- Adjustments for brighter colors for best lighting conditions ==============
-- Some textures are a color calibration of Satsuki_Yatoshi's Vanilla Upscaled Textures (until I finish my own versions) ==============
-      </Description>
-      <Tags>
-        <string>AxlRose</string>
-        <string>Satsuki</string>
-        <string>Battle Textures</string>
-      </Tags>
-    </Mod>
-
 ## [Retexture] HD Battle Scenes ##
     <Mod>
       <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
