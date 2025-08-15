@@ -108,8 +108,8 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
         <ReleaseNotes>
-REQUIRES "ChaOS" and "60/30FPS FPS Gameplay" mods. 
-Changelog: 
+REQUIRES "ChaOS" and "60/30FPS FPS Gameplay" mods.
+Changelog:
  - 1.00: First release
         </ReleaseNotes>
         <DownloadSize>771</DownloadSize>
@@ -125,7 +125,7 @@ Changelog:
         <string>Kaldarasha</string>
       </Tags>
     </Mod>
-	  
+
 ## CloudReplacer ##
     <Mod>
       <ID>c5e7f3a8-2918-497d-9024-407b9c46d817</ID>
@@ -178,7 +178,7 @@ Changelog:
         <string>Orichalcon</string>
         <string>Animations</string>
       </Tags>
-    </Mod>	
+    </Mod>
 
 ##BATTLE MODELS##
 
@@ -438,7 +438,7 @@ Big thanks to:
       </LatestVersion>
       <Name>Soldier 1st Ninostyle</Name>
       <Category>Field Models</Category>
-      <Description>A more accurate Soldier 1st outfit for Cloud when using Ninostyle chibi models. 
+      <Description>A more accurate Soldier 1st outfit for Cloud when using Ninostyle chibi models.
 
 	3 Options to choose from:
 	"Soldier 1st" Clouds iconic Soldier 1st outfit with no weapons shown.
@@ -601,7 +601,7 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
         <string>NT-like</string>
       </Tags>
     </Mod>
-	
+
 ## ECHO-S ##
     <Mod>
       <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
@@ -1262,7 +1262,7 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
         <string>Orichalcon</string>
         <string>Minigames</string>
       </Tags>
-    </Mod>	  
+    </Mod>
 
 ## Satsuki SYW Unified MiniGames Textures ##
     <Mod>
@@ -1381,7 +1381,7 @@ E.g., Bolt2 = Thundara</Description>
 	<Category>Miscellaneous</Category>
 	<Description>Originally part of Shinra Archaeology Cut. Fixes winking issue on various character models and allows for use of advanced facial animations.</Description>
 	<Tags />
-    </Mod>	
+    </Mod>
 
 ## SPELL TEXTURES ##
 
@@ -2134,7 +2134,7 @@ Requires Enhanced Stock UI
         <string>World Textures</string>
       </Tags>
     </Mod>
-	  
+
 ## Satsuki SYW Unified WorldMap Textures ##
     <Mod>
       <ID>50000000-5555-ff75-5775-700000000006</ID>
@@ -2255,7 +2255,7 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       </Description>
       <Tags></Tags>
     </Mod>
-	  
+
 ## WereXIII - by Wolfman
     <Mod>
       <ID>1e3f4894-86bd-4099-ad54-7a2f7dbaa8cf</ID>
@@ -2274,21 +2274,21 @@ Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentanc
       <Category>Gameplay</Category>
       <Description>
 IMPORTANT = This Mod must be placed at the top.
-This project was a long immense project. This project has been unreal. It started June 23rd 2014 and took 3 months. This mod replaces Red XIII, a quadruped Lionish with a full blown kick-ass Lycanthrope. This mod includes the battle model, field model, custom animations, 7 limit breaks, avatar and all casting animations. A lot of people have had hands in on this and I really appreciate it. If you find any problems or bugs or ideas on animation tweaks let me know. 
+This project was a long immense project. This project has been unreal. It started June 23rd 2014 and took 3 months. This mod replaces Red XIII, a quadruped Lionish with a full blown kick-ass Lycanthrope. This mod includes the battle model, field model, custom animations, 7 limit breaks, avatar and all casting animations. A lot of people have had hands in on this and I really appreciate it. If you find any problems or bugs or ideas on animation tweaks let me know.
 :::Thanks:::to those who worked directly on the project and especially CMH175, who I feel ended up more as a co producer than someone who assisted.
-CMH175 
-Leet 
-Jeet 
-Kaldarasha 
-EQ2Alyza 
-Kuroda 
-Jusete	
+CMH175
+Leet
+Jeet
+Kaldarasha
+EQ2Alyza
+Kuroda
+Jusete
 And everyone who had suggestions and pointers.
 And all of the creators of the tools that were used for the project.
       </Description>
       <Tags></Tags>
     </Mod>
-	  
+
 ## Ninostyle Chibi Fixes and Additions ##
     <Mod>
       <ID>3b25060c-c60e-426e-ac46-f85479e983e5</ID>
@@ -2315,13 +2315,3 @@ Fixed *spoiler* scene in City of The Ancients</ReleaseNotes>
 
   </Mods>
 </Catalog>
-
-
-
-
-
-
-
-
-
-
