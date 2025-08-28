@@ -862,12 +862,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.328</Version>
-        <ReleaseDate>2025-08-25</ReleaseDate>
+        <Version>1.329</Version>
+        <ReleaseDate>2025-08-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Various minor fixes.</ReleaseNotes>
-        <DownloadSize>637638</DownloadSize>
+        <ReleaseNotes>Restored encounters to bridges in Wutai in Archaeology Mode.</ReleaseNotes>
+        <DownloadSize>640754</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
