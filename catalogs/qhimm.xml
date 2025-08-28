@@ -2295,17 +2295,17 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1qCri07agie5UcOZbaTT0_WCUr-Bn_5ZS</Link>
-        <Version>2.1</Version>
-        <ReleaseDate>2025-07-30</ReleaseDate>
+        <Link>iros://GDrive/1tGR-CE-Ebm3ZDf57WLz7Vv8KL3x_AIT-</Link>
+        <Version>2.2</Version>
+        <ReleaseDate>2025-08-28</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Added 1 new outfit for Cloud and Tifa.
-Fixed AC Cloud's Motorcycle Field model.
-Edited AC Tifa's hair.
-Edited Tifa's World model.
-Fixed *spoiler* scene in City of The Ancients</ReleaseNotes>
-        <DownloadSize>160225</DownloadSize>
+        <ReleaseNotes>Added Dynamic Weapons for Barret.
+Added Barret's remake outfit.
+Fixed Barret's double tattoo on his battle model.
+Alt. outfits for Barret and Tifa is now visible in the Motorbike chase scene.
+Various fixes and edits.</ReleaseNotes>
+        <DownloadSize>182669</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
