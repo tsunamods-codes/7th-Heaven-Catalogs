@@ -659,10 +659,10 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.59</Version>
-        <ReleaseDate>2025-08-27</ReleaseDate>
+        <Version>1.60</Version>
+        <ReleaseDate>2025-08-29</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Item Randomizer now randomizes drops/steals/morphs with weighting.</ReleaseNotes>
+        <ReleaseNotes>Fixed a bug with randomized drops.</ReleaseNotes>
         <DownloadSize>7619</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
