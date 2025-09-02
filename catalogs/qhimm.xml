@@ -659,11 +659,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.60</Version>
-        <ReleaseDate>2025-08-29</ReleaseDate>
+        <Version>1.61</Version>
+        <ReleaseDate>2025-09-01</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixed a bug with randomized drops.</ReleaseNotes>
-        <DownloadSize>7619</DownloadSize>
+        <ReleaseNotes>Adding W-Item Glitch Fix, Super Randomizer Challenge, a Progressive Level Cap setting, and adjusting the Randomizer some.</ReleaseNotes>
+        <DownloadSize>7664</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
