@@ -96,7 +96,7 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       </Tags>
     </Mod>
 
-## 60 FPS ChaOS Animations
+## 60 FPS ChaOS Animations ##
     <Mod>
       <ID>832104ef-c150-4680-8fa9-084ca633db3c</ID>
       <Author>Vertex2995, Kaldarasha</Author>
@@ -2084,6 +2084,38 @@ Requires Enhanced Stock UI
       <Tags>
         <string>Battle</string>
         <string>User Interface</string>
+      </Tags>
+    </Mod>
+
+## Nitpick ##
+    <Mod>
+      <ID>7ac77aef-8732-4e9a-8321-bec5c016456c</ID>
+      <Author>Aavock, L@zar0, Dangarfield, Kuraudo</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1SvFXJxC12C7P8laFPdYaa3mUda_rIIKp</Link>
+        <Version>1.03</Version>
+        <ReleaseDate>2025-09-07</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/In6Ii8t.png</PreviewImage>
+        <ReleaseNotes>
+    1.02 - Change the original Red XIII HD portrait, adding the feathers to match the in-game model. Courtesy of Aavock. 
+	1.03 - Change black materia field model into a rhomboidal or spherical shape. Courtesy of L@zar0. 
+	1.03 - Change new start screen as Cloud's Ultima weapon.
+	1.03 - Remove battle marker. Courtesy of dangarfield.
+        </ReleaseNotes>
+        <DownloadSize>11051</DownloadSize>
+      </LatestVersion>
+      <Name>Nitpick</Name>
+      <Category>User Interface</Category>
+      <Description>This mod has some minor details fixed.</Description>
+      <Tags>
+        <string>Nitpick</string>
+        <string>User Interface</string>
+        <string>Aavock</string>
+        <string>L@zar0</string>
+        <string>Dangarfield</string>
+		<string>Kuraudo</string>
       </Tags>
     </Mod>
 
