@@ -862,12 +862,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.3291</Version>
-        <ReleaseDate>2025-09-01</ReleaseDate>
+        <Version>1.4</Version>
+        <ReleaseDate>2025-09-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed Cait Sith attack sound when using High Quality SFX.</ReleaseNotes>
-        <DownloadSize>646399</DownloadSize>
+        <ReleaseNotes>Added NPC mouths to Advanced Facial Animation setting.</ReleaseNotes>
+        <DownloadSize>646872</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
@@ -1370,16 +1370,16 @@ E.g., Bolt2 = Thundara</Description>
 	<Link></Link>
 	<LatestVersion>
 	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
-	        <Version>1.02</Version>
-	        <ReleaseDate>2025-01-26</ReleaseDate>
+	        <Version>1.1</Version>
+	        <ReleaseDate>2025-09-18</ReleaseDate>
 		<CompatibleGameVersions>All</CompatibleGameVersions>
 	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
-	        <ReleaseNotes>Changed mod category to Field Models, no longer discourage non-vanilla field models.</ReleaseNotes>
+	        <ReleaseNotes>Added NPC mouths to Advanced Facial Animation setting.</ReleaseNotes>
         	<DownloadSize>5206</DownloadSize>
 	</LatestVersion>
 	<Name>Universal Blink Fix</Name>
-	<Category>Miscellaneous</Category>
-	<Description>Originally part of Shinra Archaeology Cut. Fixes winking issue on various character models and allows for use of advanced facial animations.</Description>
+	<Category>Field Models</Category>
+	<Description>Originally part of Shinra Archaeology Cut. Fixes winking issue on various character models and allows for use of advanced facial animations in mods outside of SAC.</Description>
 	<Tags />
     </Mod>
 
