@@ -862,12 +862,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.4</Version>
+        <Version>1.41</Version>
         <ReleaseDate>2025-09-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Added NPC mouths to Advanced Facial Animation setting.</ReleaseNotes>
-        <DownloadSize>646872</DownloadSize>
+        <ReleaseNotes>Added option to use JORG version of final boss (doesn't contain unique Super Nova animation currently).</ReleaseNotes>
+        <DownloadSize>647427</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
