@@ -863,11 +863,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
         <Version>1.413</Version>
-        <ReleaseDate>2025-10-03</ReleaseDate>
+        <ReleaseDate>2025-10-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed issue with enemies having no spaces after names for letter designation when there are multiple of the same enemy in battle.</ReleaseNotes>
-        <DownloadSize>650718</DownloadSize>
+        <ReleaseNotes>Changed how Yellow book is obtained slightly.</ReleaseNotes>
+        <DownloadSize>650717</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
