@@ -659,10 +659,10 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.65</Version>
-        <ReleaseDate>2025-10-11</ReleaseDate>
+        <Version>1.66</Version>
+        <ReleaseDate>2025-10-12</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Added new tab to the config window for the randomizer and split the enemy and item randomizers into two options there. Also fixed a crash with the item randomizer and added an option called "double bosses" to be used with the enemy randomizer.</ReleaseNotes>
+        <ReleaseNotes>ixing a bug with the new Double Bosses option that prevents getting rewards for both bosses.</ReleaseNotes>
         <DownloadSize>7648</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
