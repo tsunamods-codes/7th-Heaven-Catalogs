@@ -879,6 +879,40 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
 
 ## MEDIA ##
 
+## FMV Beta Fusion
+    <Mod>
+      <ID>b9f3a7e2-4c1d-4a8f-9e2b-7d6c3f1a9b84</ID>
+      <Author>AstroTibs, Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=30231.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1USkgH3KcPeCHrf-a2ScSIMPuTTSC1147</Link>
+        <Version>0.01</Version>
+        <ReleaseDate>2025-10-22</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/4O135rG.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>76995</DownloadSize>
+      </LatestVersion>
+      <Name>FMV Beta Fusion</Name>
+      <Category>Media</Category>
+      <Description>The 30 fps Ninostyle Cosmos opening FMV, overlaid with a modified version of the text from the beta version, as seen in Shinra Archaeology Cut
+    
+    Modifications from the original beta:
+     - The line about the Avalanche leader being assassinated was dropped, since it isn't mentioned within and has no bearing on the game.
+     - The final line, presumably the current date, was removed, because it is vague and awkward. Instead, the "knife-edge" line is the last one, centered on screen.
+     - Timings of the text blocks are lengthened overall to fill these gaps.
+     - Less time is spent between the end of the text and the cut to Aerith's face.
+     - Scrolling text speed was better standardized.
+</Description>
+      <Tags>
+        <string>FMV</string>
+        <string>Ninostyle</string>
+        <string>Intro</string>
+		<string>30 fps</string>
+		<string>Beta text</string>
+      </Tags>
+    </Mod>
+
 ## cmh175 HQ FMV Pack
     <Mod>
       <ID>cd7e9b5b-4b43-441e-b091-0e28e8c5c6db</ID>
