@@ -2090,27 +2090,22 @@ Requires Enhanced Stock UI
 ## Nitpick ##
     <Mod>
       <ID>7ac77aef-8732-4e9a-8321-bec5c016456c</ID>
-      <Author>Kuraudo, Cae Lumen, Satsuki, Aavock, L@zar0, Dangarfield</Author>
+      <Author>Kuraudo, Cae Lumen, Satsuki, Aavock, L@zar0, Dangarfield, Kaldarasha, Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1xuV5GJRGVCeIkCFg4JjXiKDNa83xMW3X</Link>
-        <Version>1.05</Version>
-        <ReleaseDate>2025-09-19</ReleaseDate>
+        <Link>iros://GDrive/1sO8SkVQZgmghMUGzjO-pQKVR11I6PpaZ</Link>
+        <Version>1.06</Version>
+        <ReleaseDate>2025-11-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/In6Ii8t.png</PreviewImage>
-        <ReleaseNotes>
-    1.02 - Change the original Red XIII HD portrait, adding the feathers to match the in-game model. Courtesy of Aavock. 
-	1.03 - Change black materia field model into a rhomboidal or spherical shape. Courtesy of L@zar0. 
-	1.03 - Change new start screen as Cloud's Ultima weapon.
-	1.03 - Remove battle marker. Courtesy of dangarfield.
-	1.05 - Fixed black materia option not appearing in-game.
-	1.05 - Add background options. Courtesy of Cae Lumen and Satsuki.
+        <PreviewImage>https://i.imgur.com/fLSzUeo.jpeg</PreviewImage>
+        <ReleaseNotes>Added Seventh Heaven bar sign field fix, WEAPON creatures option and EC start screen option.
         </ReleaseNotes>
-        <DownloadSize>21903</DownloadSize>
+        <DownloadSize>70497</DownloadSize>
       </LatestVersion>
       <Name>Nitpick</Name>
       <Category>User Interface</Category>
-      <Description>This mod has some minor details fixed.</Description>
+      <Description>This mod has some minor details fixed. 
+7H bar sign, black materia, Red XIII's portrait and more.</Description>
       <Tags>
         <string>Nitpick</string>
         <string>User Interface</string>
@@ -2120,6 +2115,8 @@ Requires Enhanced Stock UI
         <string>Aavock</string>
         <string>L@zar0</string>
         <string>Dangarfield</string>
+		<string>Kaldarasha</string>
+		<string>Grimmy</string>
       </Tags>
     </Mod>
 
