@@ -659,10 +659,10 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.68</Version>
-        <ReleaseDate>2025-11-10</ReleaseDate>
+        <Version>1.69</Version>
+        <ReleaseDate>2025-11-13</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixing a crash when using the battle randomizer. Also adjusting the scaling numbers of several bosses in the battle randomizer.</ReleaseNotes>
+        <ReleaseNotes>Fixing a crash when opening shops with the item randomizer.</ReleaseNotes>
         <DownloadSize>7647</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
