@@ -862,11 +862,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.417</Version>
-        <ReleaseDate>2025-11-15</ReleaseDate>
+        <Version>1.4171</Version>
+        <ReleaseDate>2025-11-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Made all of Tifa's weapons singular because she only equips one glove in OG apparantly.</ReleaseNotes>
+        <ReleaseNotes>Fixed crash when Sephiroth is in party.</ReleaseNotes>
         <DownloadSize>652807</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
@@ -1370,11 +1370,11 @@ E.g., Bolt2 = Thundara</Description>
 	<Link></Link>
 	<LatestVersion>
 	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
-	        <Version>1.2</Version>
-	        <ReleaseDate>2025-10-13</ReleaseDate>
+	        <Version>1.21</Version>
+	        <ReleaseDate>2025-11-25</ReleaseDate>
 		<CompatibleGameVersions>All</CompatibleGameVersions>
 	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
-	        <ReleaseNotes>Added fixes for misaligned enemy face textures.</ReleaseNotes>
+	        <ReleaseNotes>Fixed crash when Sephiroth is in party.</ReleaseNotes>
         	<DownloadSize>6748</DownloadSize>
 	</LatestVersion>
 	<Name>Universal Blink Fix</Name>
