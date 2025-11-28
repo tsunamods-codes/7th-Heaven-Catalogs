@@ -902,6 +902,36 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
 
 ## MEDIA ##
 
+## MU80 Soundtrack 
+	  <Mod>
+    <ID>91119111-9de5-43fc-922f-9d92ed8fb322</ID>
+    <Name>MU80 Soundtrack</Name>
+    <Author>Raymond</Author>
+    <Category>Media</Category>
+    <Description>This is a soundtrack mod for Final Fantasy 7, featuring the XG MIDI data rendered through an MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer). The track: "One-Winged Angel," features versions with and without the vocal chorus. The vocal version is the default. Credit for the creation of this mod belongs to user Raymond from the Square Enix forums before they were retired years ago.
+Additional authors: NidoLNorris, Template</Description>
+    <LatestVersion>
+      <Link>iros://GDrive/1W4LAlsLpTAEPIjgWefkkemwyFv-oa23t</Link>
+      <Version>1.101</Version>
+      <ReleaseDate>11/26/2025</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.imgur.com/C63znMv.png</PreviewImage>
+      <ReleaseNotes>1.101 Added External_Music_Sync command. Packaged for 7H catalog.
+1.1 This particular upload features the highest bit-rate possible as requested when the original upload did not.
+1.0 The original 1.0 upload is lost to time.
+
+Known issues: 
+- The 7H catalog will install this mod unpacked in folder format. Recommend to keep in raw folder structure for use with 7th Heaven rather than packing it into an iro. Slowdowns on the worldmap when running this mod in iro format were resolved by unpacking. Check the readme for more info about installation.</ReleaseNotes>
+      <DownloadSize>863000</DownloadSize>
+    </LatestVersion>
+    <Link>https://www.nexusmods.com/finalfantasy7/mods/60</Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Media</string>
+      <string>Sound</string>
+    </Tags>
+  </Mod>
+	  
 ## cmh175 HQ FMV Pack
     <Mod>
       <ID>cd7e9b5b-4b43-441e-b091-0e28e8c5c6db</ID>
