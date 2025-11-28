@@ -555,7 +555,30 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
     </Mod>
 
 ## GAMEPLAY ##
-
+	  
+## Tifarith 2.0 ##
+    <Mod>
+      <ID>ae90bd51-6a76-43a8-be44-5183e58fa4ca</ID>
+      <Author>Superbledur</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1ygl8_iHvZEttQH0xgNFoETjrLXa5dU1G</Link>
+        <Version>2.01</Version>
+        <ReleaseDate>2025-11-28</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/iIK5tuJ.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>133400</DownloadSize>
+      </LatestVersion>
+      <Name>Tifarith 2.0</Name>
+      <Category>Gameplay</Category>
+      <Description>Gameplay mod with added content and modified spells/enemies/weapons/armors and progressive difficulty and scenes additions</Description>
+      <Tags>
+        <string>Superbledur</string>
+        <string>Gameplay</string>
+        <string>NT-like</string>
+      </Tags>
+    </Mod>
+	  
 ## Tifarith ##
     <Mod>
       <ID>002942b2-739b-464a-a7bd-62f550701379</ID>
