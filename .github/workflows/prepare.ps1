@@ -20,6 +20,5 @@ Write-Output "_IS_GITHUB_RELEASE=${env:_IS_GITHUB_RELEASE}" >> ${env:GITHUB_ENV}
 # Lint all XML files
 foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
-  Write-Output "Linting $file..."
-  xmllint --noout $file
+  dotnet run --project app/CatalogValidator $file
 }

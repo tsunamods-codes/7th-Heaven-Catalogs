@@ -36,12 +36,11 @@ jobs:
         git config --global core.longpaths true
     - name: Checkout
       uses: actions/checkout@v4.1.0
-    - name: Install xmlint
-      uses: baptiste0928/cargo-install@v3
+    - name: Checkout 7th-Heaven
+      uses: actions/checkout@v4.1.0
       with:
-        crate: xmllint
-        git: https://github.com/dotaxis/xmllint
-        commit: c28b413d3f9c73a3a343523e9a806962b56b1d1d
+        repository: 'tsunamods-codes/7th-Heaven'
+        path: 'app'
     - name: Prepare Env
       run: ".github/workflows/prepare.ps1"
       shell: pwsh
