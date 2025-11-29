@@ -44,6 +44,11 @@ jobs:
     - name: Prepare Env
       run: ".github/workflows/prepare.ps1"
       shell: pwsh
+    - name: Move canary tag to this commit
+      uses: richardsimko/update-tag@v1
+      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      with:
+        tag_name: canary
     - name: Publish Canary release
       uses: ncipollo/release-action@v1
       if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
