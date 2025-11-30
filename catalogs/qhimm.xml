@@ -2146,19 +2146,19 @@ Requires Enhanced Stock UI
       <Author>Kuraudo, Cae Lumen, Satsuki, Aavock, L@zar0, Dangarfield, Kaldarasha, Grimmy</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1sO8SkVQZgmghMUGzjO-pQKVR11I6PpaZ</Link>
-        <Version>1.06</Version>
-        <ReleaseDate>2025-11-11</ReleaseDate>
+        <Link>iros://GDrive/1PPoKAYq2eivdKDkC4Ik_yPHOqVO7tMh0</Link>
+        <Version>1.7</Version>
+        <ReleaseDate>2025-12-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/fLSzUeo.jpeg</PreviewImage>
-        <ReleaseNotes>Added Seventh Heaven bar sign field fix, WEAPON creatures option and EC start screen option.
-        </ReleaseNotes>
-        <DownloadSize>70497</DownloadSize>
+        <PreviewImage>https://i.imgur.com/9QHdwR7.jpeg</PreviewImage>
+        <ReleaseNotes>Gardening.</ReleaseNotes>
+        <DownloadSize>59558</DownloadSize>
       </LatestVersion>
       <Name>Nitpick</Name>
       <Category>User Interface</Category>
-      <Description>This mod has some minor details fixed. 
-7H bar sign, black materia, Red XIII's portrait and more.</Description>
+      <Description>This mod gives you access to some niche options, which fixes a few minor details, for example, Seventh Heaven bar sign, Midgar 5 truck label, District 5 gate number, Corel Prison sign, black materia shape, Red XIII's portrait and more.
+   -Requires SYW Unified Field Textures and 60/30 FPS Gameplay
+   -Background fixes are not yet compatible with Cosmos Limit Break</Description>
       <Tags>
         <string>Nitpick</string>
         <string>User Interface</string>
