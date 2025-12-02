@@ -885,12 +885,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.4171</Version>
-        <ReleaseDate>2025-11-25</ReleaseDate>
+        <Version>1.418</Version>
+        <ReleaseDate>2025-12-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed crash when Sephiroth is in party.</ReleaseNotes>
-        <DownloadSize>652807</DownloadSize>
+        <ReleaseNotes>Renamed [Stat] Up items to [Stat] Plus. Restored unused enemy behaviors. Added controller icons to world map.</ReleaseNotes>
+        <DownloadSize>705589</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
