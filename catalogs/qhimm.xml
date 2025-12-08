@@ -885,12 +885,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.418</Version>
-        <ReleaseDate>2025-12-02</ReleaseDate>
+        <Version>1.419</Version>
+        <ReleaseDate>2025-12-08</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Renamed [Stat] Up items to [Stat] Plus. Restored unused enemy behaviors. Added controller icons to world map.</ReleaseNotes>
-        <DownloadSize>705589</DownloadSize>
+        <ReleaseNotes>Restored JORG-only Debug and North Corel battle arenas. Updated Demo Battle Arenas option to use actual demo geometry for reactor maps.</ReleaseNotes>
+        <DownloadSize>706069</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
