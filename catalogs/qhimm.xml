@@ -1428,11 +1428,11 @@ E.g., Bolt2 = Thundara</Description>
 	<Link></Link>
 	<LatestVersion>
 	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
-	        <Version>1.21</Version>
+	        <Version>1.22</Version>
 	        <ReleaseDate>2025-11-25</ReleaseDate>
 		<CompatibleGameVersions>All</CompatibleGameVersions>
 	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
-	        <ReleaseNotes>Fixed crash when Sephiroth is in party.</ReleaseNotes>
+	        <ReleaseNotes>Fixed crash when fighting Elphadunk enemy.</ReleaseNotes>
         	<DownloadSize>6748</DownloadSize>
 	</LatestVersion>
 	<Name>Universal Blink Fix</Name>
