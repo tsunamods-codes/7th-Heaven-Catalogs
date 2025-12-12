@@ -2050,27 +2050,29 @@ Requires Enhanced Stock UI
       </Tags>
     </Mod>
 
-## wictoriously Avatars ##
+## Wictoriously Avatars + ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc817</ID>
-      <Author>Wictoriously, Reiletuag, Rimavelle</Author>
+      <Author>Kuraudo, Wictoriously, Reiletuag</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1owHpoLhdW98Np8Fyhj7-hj_RG64TxwsL</Link>
-        <Version>2.02</Version>
-        <ReleaseDate>2023-10-21</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/PO6b5MQ.png</PreviewImage>
-        <ReleaseNotes>Added V2 ESUI Thinnest new Vincent and Sephiroth</ReleaseNotes>
-        <DownloadSize>23000</DownloadSize>
+        <Link>iros://GDrive/1dsoy3TdbLb7KujWJqH5WDQsV2iS1eVEF</Link>
+        <Version>2.5</Version>
+        <ReleaseDate>2025-12-07</ReleaseDate>
+		<CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/FU21IWd.jpeg</PreviewImage>
+        <ReleaseNotes>Start screen, battle and dialogue mini avatars added for AavockESUI.</ReleaseNotes>
+        <DownloadSize>6898</DownloadSize>
       </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Wictoriously Avatars</Name>
+      <Name>Wictoriously Avatars +</Name>
       <Category>User Interface</Category>
-      <Description>Alternative avatars from official artworks</Description>
+      <Description>Collection of alternative avatars, each meticulously crafted from official artworks.
+-Requires both Enhanced Stock UI, AavockESUI for the battle and dialogue mini avatars.
+-Special thanks: Chrysalis, Bonez, benteja, Zunguh</Description>
       <Tags>
         <string>Avatar</string>
         <string>User Interface</string>
-        <string>wictoriously</string>
+        <string>Wictoriously</string>
       </Tags>
     </Mod>
 
@@ -2167,14 +2169,6 @@ Requires Enhanced Stock UI
       <Tags>
         <string>Nitpick</string>
         <string>User Interface</string>
-		<string>Kuraudo</string>
-		<string>Cae Lumen</string>
-		<string>Satsuki</string>
-        <string>Aavock</string>
-        <string>L@zar0</string>
-        <string>Dangarfield</string>
-		<string>Kaldarasha</string>
-		<string>Grimmy</string>
       </Tags>
     </Mod>
 
