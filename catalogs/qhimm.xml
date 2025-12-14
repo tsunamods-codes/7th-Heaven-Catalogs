@@ -2380,13 +2380,15 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1GGTXXPwXUwHzybaiO4SwOdLpMAl4EfkF</Link>
-        <Version>2.3</Version>
-        <ReleaseDate>2025-09-02</ReleaseDate>
+        <Link>iros://GDrive/1PBL0uqPyp0otfr-MoI9V9zBDg83cWC8U</Link>
+        <Version>2.4</Version>
+        <ReleaseDate>2025-12-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed an issue that caused a visual bug in battle.</ReleaseNotes>
-        <DownloadSize>182085</DownloadSize>
+        <ReleaseNotes>Added the Fusion Sword.
+Added Remake Cloud Outfit.
+Fixed Chocobo colors.</ReleaseNotes>
+        <DownloadSize>194897</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
