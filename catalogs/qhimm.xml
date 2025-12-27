@@ -562,9 +562,9 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Author>Superbledur</Author>
       <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1ygl8_iHvZEttQH0xgNFoETjrLXa5dU1G</Link>
-        <Version>2.01</Version>
-        <ReleaseDate>2025-11-28</ReleaseDate>
+        <Link>iros://GDrive/1zegFYA-y8VtmU3cjrV4MyuchLEBJwMXO</Link>
+        <Version>2.11</Version>
+        <ReleaseDate>2025-12-21</ReleaseDate>
         <PreviewImage>https://i.imgur.com/iIK5tuJ.png</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>133400</DownloadSize>
@@ -908,24 +908,29 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
     <Name>MU80 Soundtrack</Name>
     <Author>Raymond</Author>
     <Category>Media</Category>
-    <Description>This is a soundtrack mod for Final Fantasy 7, featuring the XG MIDI data rendered through an MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer). The track: "One-Winged Angel," features versions with and without the vocal chorus. The vocal version is the default. Credit for the creation of this mod belongs to user Raymond from the Square Enix forums before they were retired years ago.
-Additional authors: NidoLNorris, Template</Description>
+    <Description>This is a soundtrack mod for Final Fantasy 7 featuring the original XG MIDI data rendered through a Yamaha MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer).&#10;2 options for the track "One-Winged Angel" (lb2) are included--1 with and 1 without vocal choir.&#10;Credit for the recordings belongs to Raymond from the old SE forums.
+Additional authors: Template, NidoLNorris</Description>
     <LatestVersion>
       <Link>iros://GDrive/1W4LAlsLpTAEPIjgWefkkemwyFv-oa23t</Link>
-      <Version>1.101</Version>
-      <ReleaseDate>2025-11-26</ReleaseDate>
+      <Version>1.2</Version>
+      <ReleaseDate>2025-12-08</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/C63znMv.png</PreviewImage>
-      <ReleaseNotes>1.101 Added External_Music_Sync command. Packaged for 7H catalog.
-1.1 This particular upload features the highest bit-rate possible as requested when the original upload did not.
+      <ReleaseNotes>Recommend setting both music and sfx volume to 100%.&#10;&#10;Version History:
+1.2 Overhaul of original files to restore peak levels and dynamics.
+      -Updated opening sequence, adjusted sync, tightened transition to first field.
+1.101 Initial 7H catalog release.
+      -Normalized loudness.
+      -Added new opening movie sequence.  
+1.1 NidoLNorris' NexusMods release. 
+      -Increased bit rate.
 1.0 The original 1.0 upload is lost to time.
 
-Known issues: 
-- The 7H catalog will install this mod unpacked in folder format. Recommend to keep in raw folder structure for use with 7th Heaven rather than packing it into an iro. Slowdowns on the worldmap when running this mod in iro format were resolved by unpacking. Check the readme for more info about installation.</ReleaseNotes>
-      <DownloadSize>863000</DownloadSize>
+The 7H catalog will install this mod unpacked in folder format. Check the readme for more info about installation.</ReleaseNotes>
+      <DownloadSize>893902</DownloadSize>
     </LatestVersion>
     <Link>https://www.nexusmods.com/finalfantasy7/mods/60</Link>
-    <DonationLink></DonationLink>
+    <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
     <Tags>
       <string>Media</string>
       <string>Sound</string>
@@ -1456,11 +1461,11 @@ E.g., Bolt2 = Thundara</Description>
 	<Link></Link>
 	<LatestVersion>
 	        <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
-	        <Version>1.21</Version>
+	        <Version>1.22</Version>
 	        <ReleaseDate>2025-11-25</ReleaseDate>
 		<CompatibleGameVersions>All</CompatibleGameVersions>
 	        <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
-	        <ReleaseNotes>Fixed crash when Sephiroth is in party.</ReleaseNotes>
+	        <ReleaseNotes>Fixed crash when fighting Elphadunk enemy.</ReleaseNotes>
         	<DownloadSize>6748</DownloadSize>
 	</LatestVersion>
 	<Name>Universal Blink Fix</Name>
@@ -1733,8 +1738,8 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.958</Version>
-        <ReleaseDate>2025-08-07</ReleaseDate>
+        <Version>2.959</Version>
+        <ReleaseDate>2025-12-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
         <ReleaseNotes>Update SAC Script</ReleaseNotes>
@@ -1758,6 +1763,45 @@ Battle Avatars Support</Description>
       </Tags>
     </Mod>
 
+## Modern Menu Icons for ESUI
+	<Mod>
+    <ID>9ce5c0e9-4ebc-47c8-b658-7fcf88ecbeea</ID>
+    <Name>Modern Icons for ESUI</Name>
+    <Author>Template</Author>
+    <Category>User Interface</Category>
+    <Description>Replacement options for ESUI menu and battle icons. **Requires Enhanced Stock UI**
+-Weapons, armor, extended items, and status icons.
+-2 jumbo materia sets w larger, textured slots: repainted ESUI 'Standard' and new 'Shiny' set.
+-Alternate bright Xbox dpad icons for onscreen directions.
+-Upscaled and re-shaded OG portrait avatar set.
+-Updated Sleep and Silence battle animations.
+-Sword cursor option alignment.
+
+This mod only contains image file swaps and makes no additional changes.
+
+Credit and thanks to ESUI authors and contributors: Chrysalis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, Vertex2995, Trueodin, Fewtch, Ahvia</Description>
+    <LatestVersion>
+      <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
+      <Version>.991</Version>
+      <ReleaseDate>2025-12-25</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
+      <ReleaseNotes>.991 Beta release.
+-Compatibility of icon sizing has not been validated across the entire game.</ReleaseNotes>
+      <DownloadSize>46900</DownloadSize>
+    </LatestVersion>
+    <Link>https://forums.qhimm.com/index.php?topic=30501</Link>
+    <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
+    <Tags>
+        <string>ESUI</string>
+        <string>Menu</string>
+        <string>Template</string>
+        <string>Bluesun311</string>
+        <string>Menu Overhaul</string>
+        <string>Enhanced Stock UI</string>
+		<string>User Interface</string>
+    </Tags>
+  </Mod>  
 
 
 ## Satsuki SYW Unified Menus and Fonts Textures (with credits) ##
@@ -2078,27 +2122,29 @@ Requires Enhanced Stock UI
       </Tags>
     </Mod>
 
-## wictoriously Avatars ##
+## Wictoriously Avatars + ##
     <Mod>
       <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc817</ID>
-      <Author>Wictoriously, Reiletuag, Rimavelle</Author>
+      <Author>Kuraudo, Wictoriously, Reiletuag</Author>
       <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1owHpoLhdW98Np8Fyhj7-hj_RG64TxwsL</Link>
-        <Version>2.02</Version>
-        <ReleaseDate>2023-10-21</ReleaseDate>
-        <PreviewImage>https://i.imgur.com/PO6b5MQ.png</PreviewImage>
-        <ReleaseNotes>Added V2 ESUI Thinnest new Vincent and Sephiroth</ReleaseNotes>
-        <DownloadSize>23000</DownloadSize>
+        <Link>iros://GDrive/1dsoy3TdbLb7KujWJqH5WDQsV2iS1eVEF</Link>
+        <Version>2.5</Version>
+        <ReleaseDate>2025-12-07</ReleaseDate>
+		<CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/FU21IWd.jpeg</PreviewImage>
+        <ReleaseNotes>Start screen, battle and dialogue mini avatars added for AavockESUI.</ReleaseNotes>
+        <DownloadSize>6898</DownloadSize>
       </LatestVersion>
-      <MetaVersion>0</MetaVersion>
-      <Name>Wictoriously Avatars</Name>
+      <Name>Wictoriously Avatars +</Name>
       <Category>User Interface</Category>
-      <Description>Alternative avatars from official artworks</Description>
+      <Description>Collection of alternative avatars, each meticulously crafted from official artworks.
+-Requires both Enhanced Stock UI, AavockESUI for the battle and dialogue mini avatars.
+-Special thanks: Chrysalis, Bonez, benteja, Zunguh</Description>
       <Tags>
         <string>Avatar</string>
         <string>User Interface</string>
-        <string>wictoriously</string>
+        <string>Wictoriously</string>
       </Tags>
     </Mod>
 
@@ -2195,14 +2241,6 @@ Requires Enhanced Stock UI
       <Tags>
         <string>Nitpick</string>
         <string>User Interface</string>
-		<string>Kuraudo</string>
-		<string>Cae Lumen</string>
-		<string>Satsuki</string>
-        <string>Aavock</string>
-        <string>L@zar0</string>
-        <string>Dangarfield</string>
-		<string>Kaldarasha</string>
-		<string>Grimmy</string>
       </Tags>
     </Mod>
 
@@ -2414,13 +2452,15 @@ And all of the creators of the tools that were used for the project.
       <Author>htp314</Author>
       <Link></Link>
       <LatestVersion>
-        <Link>iros://GDrive/1GGTXXPwXUwHzybaiO4SwOdLpMAl4EfkF</Link>
-        <Version>2.3</Version>
-        <ReleaseDate>2025-09-02</ReleaseDate>
+        <Link>iros://GDrive/1sd8CQvHf3pe4QEueQspBO0SZ7XrJLycC</Link>
+        <Version>2.5</Version>
+        <ReleaseDate>2025-12-15</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>Fixed an issue that caused a visual bug in battle.</ReleaseNotes>
-        <DownloadSize>182085</DownloadSize>
+        <ReleaseNotes>Added the Fusion Sword.
+Added Remake Cloud Outfit.
+Fixed Chocobo colors.</ReleaseNotes>
+        <DownloadSize>194704</DownloadSize>
       </LatestVersion>
       <Name>Ninostyle Chibi Fixes and Additions</Name>
       <Category>Field Models</Category>
