@@ -1738,10 +1738,10 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.959</Version>
-        <ReleaseDate>2025-12-25</ReleaseDate>
+        <Version>2.960</Version>
+        <ReleaseDate>2025-12-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/n4vnSx0.png</PreviewImage>
+        <PreviewImage>https://chris.7thheaven.rocks/n4vnSx0.png</PreviewImage>
         <ReleaseNotes>Update SAC Script</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
