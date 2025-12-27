@@ -1397,6 +1397,39 @@ E.g., Bolt2 = Thundara</Description>
       </Tags>
     </Mod>
 
+## Chthonic Harmony ##
+	<Mod>
+	    <ID>a22e6110-d56e-4e7e-ae4b-0eb7ebba03fd</ID>
+	    <Name>Chthonic Harmony</Name>
+	    <Author>ChthonVII, Odysseus, TurquioseHammer, Vertex2995, Obesebear, Kaldrasha, Satsuki Yatoshi, Cosmos, Chrysalis, Bonez, Aavock, NinoStyle, BlitzNCS, and others.</Author>
+	    <Category>Miscellaneous</Category>
+	    <Description>A compatibility pack to make other mods play together nicely. Plus a few new things and some reverse color corrections for compatibilty with revised NTSC-J mode.
+      Requires maximum priority.</Description>
+	    <LatestVersion>
+	    	<Link>iros://Url/https://github.com/ChthonVII/ff7chthonicharmony/releases/latest/download/ChthonicHarmony.iro</Link>
+	    	<Version>1.1</Version>
+	    	<ReleaseDate>2025-12-11</ReleaseDate>
+	    	<CompatibleGameVersions>All</CompatibleGameVersions>
+	    	<PreviewImage>https://raw.githubusercontent.com/ChthonVII/ff7chthonicharmony/main/preview/ChthonicHarmonyLogo.png</PreviewImage>
+	    	<ReleaseNotes>1.1: Replaced EidosLogo FMV with higher quality version recovered from abandoned Team Avalanche file repository. Revised credits.
+				1.0: Initial release
+	    	</ReleaseNotes>
+	    	<DownloadSize>1334763</DownloadSize>
+	    </LatestVersion>
+	    <Link>https://forums.qhimm.com/index.php?topic=30337</Link>
+	    <DonationLink></DonationLink>
+	    <Tags>
+	    	<string>compatibility</string>
+			<string>60</string>
+        	<string>fps</string>
+			<string>NinoStyle</string>
+			<string>Shinra Archaeology Cut</string>
+			<string>FMV</string>
+			<string>NTSC-J</string>
+			<string>SNES</string>
+		</Tags>
+	</Mod>
+
 ## Jessie Mod ##
     <Mod>
       <ID>45f280cc-327f-4242-a77c-40e2241ad6d3</ID>
