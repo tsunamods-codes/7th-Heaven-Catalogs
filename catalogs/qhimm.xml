@@ -885,12 +885,12 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.42</Version>
-        <ReleaseDate>2025-12-31</ReleaseDate>
+        <Version>1.421</Version>
+        <ReleaseDate>2025-01-03</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Divided Arch mode and Vanilla mode scene files so only arch mode has enemy AI adjustments.</ReleaseNotes>
-        <DownloadSize>707704</DownloadSize>
+        <ReleaseNotes>More enemy AI fixes. Settings compat with Chthonic Harmony added.</ReleaseNotes>
+        <DownloadSize>707720</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
