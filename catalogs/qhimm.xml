@@ -403,19 +403,20 @@ Big thanks to:
     <Mod>
       <ID>7d42b459-ce44-40cc-b4b2-4ba6301538d4</ID>
       <Author>Kaldarasha</Author>
-      <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=13960.0</Link>
       <LatestVersion>
-        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/ChaOS_1.803.7z</Link>
-        <Version>1.803</Version>
-        <ReleaseDate>2024-08-28</ReleaseDate>
+        <Link>iros://GDrive/1gjS03hB-hmBgKNIIdnwEaQSBDcbTJ01g</Link>
+        <Version>1.85</Version>
+        <ReleaseDate>2026-01-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
-        <ReleaseNotes>Added blinking eyes fix by Orichalcon.</ReleaseNotes>
-        <DownloadSize>54000</DownloadSize>
+        <PreviewImage>https://i.imgur.com/fsjMJky.jpeg</PreviewImage>
+        <ReleaseNotes>Bug Fixes.</ReleaseNotes>
+        <DownloadSize>77670</DownloadSize>
       </LatestVersion>
       <Name>ChaOS</Name>
       <Category>Field Models</Category>
-      <Description>Character Overhaul Seven: Replaces all character models with non-chibi versions by Kaldarasha, plus extra options.</Description>
+      <Description>Character Overhaul Seven: Replaces nearly all the character models with non-chibi versions, field and battle.
+Special thanks: Orichalcon, Squallff8, ice_cold513, Borde, Stormmedia, Grimmy, Angebleu.</Description>
       <Tags>
         <string>Kaldarasha</string>
         <string>Field Models</string>
