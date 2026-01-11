@@ -1781,12 +1781,14 @@ This mod only contains image file swaps and makes no additional changes.
 Thanks to authors of ESUI: Chrysalis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>.992</Version>
-      <ReleaseDate>2026-01-05</ReleaseDate>
+      <Version>0.993</Version>
+      <ReleaseDate>2026-01-10</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
-      <ReleaseNotes>.992 Update to Standard materia set and Tifa avatar.
-.991 Beta release.
+      <ReleaseNotes>0.993 -Update to Standard Materia Set.
+          -Fixed Sleep/Silence battle animations.
+0.992 -Update to Standard Materia Set and Tifa avatar.
+0.991 -Initial Beta release.
 
 *Compatibility of oversized icons has not been validated across the entire game.</ReleaseNotes>
       <DownloadSize>9999</DownloadSize>
