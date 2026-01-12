@@ -556,6 +556,41 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
     </Mod>
 
 ## GAMEPLAY ##
+
+## FF7-What if...? ##
+<Mod>
+    <ID>70a3219c-a9f0-4819-800e-b98dae959dc7</ID>
+    <Name>FF7-What if...?</Name>
+    <Author>Final Figue</Author>
+    <Category>Gameplay</Category>
+    <Description>This mod is about what would have happened if Aeris had survived.
+		
+Credits to these authors for their contribution:
+		
+Gameplay:
+Kaiseran,Sega Chief,Death Unites / 4-8Productions,Markul,CAulin and Postscriptthree.
+		
+Visual Changes and Battle UI:
+Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
+    <LatestVersion>
+      <Link>iros://GDrive/1efR8zxPRXF7Out5NJBgBvnTqedmJpksO</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2026-01-12</ReleaseDate>
+      <CompatibleGameVersions>Steam</CompatibleGameVersions>
+      <PreviewImage>https://i.imgur.com/sbJlAy6.jpeg</PreviewImage>
+      <ReleaseNotes>
+      </ReleaseNotes>
+      <DownloadSize>495616</DownloadSize>
+    </LatestVersion>
+    <Link>https://forums.qhimm.com/index.php?topic=30625.0</Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>What if...?</string>
+	  <string>Aeris</string>
+	  <string>Story</string>
+	  <string>Gameplay</string>
+    </Tags>
+  </Mod>
 	  
 ## Tifarith 2.0 ##
     <Mod>
