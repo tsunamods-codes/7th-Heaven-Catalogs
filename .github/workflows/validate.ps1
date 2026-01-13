@@ -1,3 +1,5 @@
+Set-StrictMode -Version Latest
+
 if ($env:_BUILD_BRANCH -eq "refs/heads/master" -Or $env:_BUILD_BRANCH -eq "refs/tags/canary") {
   $env:_IS_BUILD_CANARY = "true"
   $env:_IS_GITHUB_RELEASE = "true"
@@ -21,4 +23,9 @@ Write-Output "_IS_GITHUB_RELEASE=${env:_IS_GITHUB_RELEASE}" >> ${env:GITHUB_ENV}
 foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
   dotnet run --project app/CatalogValidator $file
+
+  if ($LASTEXITCODE -ne 0) {
+    Write-Error "Catalog validation failed for: $($file.FullName)"
+    exit $LASTEXITCODE
+  }
 }

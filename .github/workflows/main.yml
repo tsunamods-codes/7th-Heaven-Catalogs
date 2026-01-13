@@ -41,8 +41,8 @@ jobs:
       with:
         repository: 'tsunamods-codes/7th-Heaven'
         path: 'app'
-    - name: Prepare Env
-      run: ".github/workflows/prepare.ps1"
+    - name: Validate
+      run: ".github/workflows/validate.ps1"
       shell: pwsh
     - name: Move canary tag to this commit
       uses: richardsimko/update-tag@v1
