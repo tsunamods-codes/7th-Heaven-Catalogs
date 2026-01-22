@@ -262,11 +262,11 @@ Changelog:
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>24.0531</Version>
-        <ReleaseDate>2024-05-31</ReleaseDate>
+        <Version>26.0121</Version>
+        <ReleaseDate>2026-01-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
-        <ReleaseNotes>Added swaa, svaa NT battle models</ReleaseNotes>
+        <ReleaseNotes></ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
@@ -461,11 +461,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>24.0531</Version>
-        <ReleaseDate>2024-05-31</ReleaseDate>
+        <Version>26.0121</Version>
+        <ReleaseDate>2026-01-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
-        <ReleaseNotes>Added Materia Keeper field model for HD and chibi</ReleaseNotes>
+        <ReleaseNotes></ReleaseNotes>
         <DownloadSize>140968</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
@@ -484,11 +484,11 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20HD.7z</Link>
-        <Version>24.0531</Version>
-        <ReleaseDate>2024-05-31</ReleaseDate>
+        <Version>26.0121</Version>
+        <ReleaseDate>2026-01-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Hr5bC39.png</PreviewImage>
-        <ReleaseNotes>Fixed conflict Tifas hd field model with moddersheaven</ReleaseNotes>
+        <ReleaseNotes></ReleaseNotes>
         <DownloadSize>113059</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
