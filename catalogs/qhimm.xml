@@ -614,6 +614,29 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
         <string>NT-like</string>
       </Tags>
     </Mod>
+
+## Tifarith Casual 2.0 ##
+    <Mod>
+      <ID>37680b6c-975b-480f-a955-0e943933602d</ID>
+      <Author>Superbledur</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1v2Z2mdhdsFNW91KdqCmf1TRu7vRg22ki</Link>
+        <Version>2.14</Version>
+        <ReleaseDate>2026-01-24</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/iIK5tuJ.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>133400</DownloadSize>
+      </LatestVersion>
+      <Name>Tifarith Casual 2.0</Name>
+      <Category>Gameplay</Category>
+      <Description>Gameplay mod with added content and modified spells/enemies/weapons/armors, not too hard difficulty and scenes additions</Description>
+      <Tags>
+        <string>Superbledur</string>
+        <string>Gameplay</string>
+        <string>NT-like</string>
+      </Tags>
+    </Mod>
 	  
 ## Tifarith ##
     <Mod>
