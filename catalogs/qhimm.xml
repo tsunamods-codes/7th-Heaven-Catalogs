@@ -1540,6 +1540,32 @@ E.g., Bolt2 = Thundara</Description>
       </Tags>
     </Mod>
 
+## Recast Magic Textures
+	<Mod>
+	  <ID>c23b0335-0e55-4e73-90ee-837ed434ea9a</ID>
+	  <Name>Recast Magic Textures</Name>	
+	  <Author>Template</Author>
+	  <Category>Spell Textures</Category>
+	  <Description>Upscale of original limit/magic casting textures and a plain but effective alternative texture for the broken Enemy Skill casting animation.</Description>	
+	  <Link>https://forums.qhimm.com/index.php?topic=30644</Link>
+	  <LatestVersion>
+		<Link>iros://GDrive/1tIbXaaeh-iyyiTCcxqYje3fjN5NSHkiA</Link>
+		<Version>0.91</Version>
+		<ReleaseDate>2026-01-19</ReleaseDate>
+		<PreviewImage>https://i.imgur.com/O6mZi5M.jpeg</PreviewImage>
+		<ReleaseNotes>Initial release.</ReleaseNotes>
+		<DownloadSize>10069</DownloadSize>
+	  </LatestVersion>
+	  <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
+	  <Tags>
+		<string>Textures</string>
+        <string>Limit Break</string>
+		<string>Magic</string>
+		<string>Enemy Skill</string>
+		<string>Spell Textures</string>  
+	  </Tags>
+	</Mod>
+		
 ## 4x Upscale sl1982 ##
     <Mod>
       <ID>a2d77904-08db-43a3-92da-cf4deb48dabf</ID>
