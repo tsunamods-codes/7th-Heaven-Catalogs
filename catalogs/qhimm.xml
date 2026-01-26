@@ -975,7 +975,7 @@ It is perhaps the best possible 1:1 expression of the game's original music data
       <Version>1.31</Version>
       <ReleaseDate>2026-01-23</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.imgur.com/C63znMv.png</PreviewImage>
+      <PreviewImage>https://i.imgur.com/jJG01x9.png</PreviewImage>
       <ReleaseNotes>Version History:
 1.31 -Adjusted Prelude timing to account for video loop.
 -Adjusted timing of Alternate Theme (tb.ogg) to correct sync with lifestream memories cutscene.
@@ -1872,17 +1872,18 @@ This mod only contains image file swaps and makes no additional changes.
 Many thanks to ESUI authors and contributors: Chrysalis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>0.995</Version>
-      <ReleaseDate>2026-01-14</ReleaseDate>
+      <Version>0.996</Version>
+      <ReleaseDate>2026-01-26</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
-      <ReleaseNotes>0.995 -Normalized alignment of materia and items at shops.
-          -Centered materia linkage vertically.
-0.994 -Fixed spacing for linked materia slots at shops.
-0.993 -Update to Standard Materia Set.
-          -Fixed Sleep/Silence battle animations.
-0.992 -Update to Standard Materia Set and Tifa avatar.
-0.991 -Initial Beta release.
+      <ReleaseNotes>0.996 Update to Barret's weapon icon.
+0.995 Normalized alignment of materia and items at shops.
+          Centered materia linkage vertically.
+0.994 Fixed spacing for linked materia slots at shops.
+0.993 Update to Standard Materia Set.
+          Fixed Sleep/Silence battle animations.
+0.992 Update to Standard Materia Set and Tifa avatar.
+0.991 Initial Beta release.
 
 *Compatibility of icon sizing and spacing has not been validated across the entire game.</ReleaseNotes>
       <DownloadSize>9616</DownloadSize>
