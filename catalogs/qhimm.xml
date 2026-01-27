@@ -963,35 +963,33 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
 	  <Mod>
     <ID>91119111-9de5-43fc-922f-9d92ed8fb322</ID>
     <Name>MU80 Soundtrack</Name>
-    <Author>Raymond, Template</Author>
+    <Author>Raymond</Author>
     <Category>Media</Category>
-    <Description>-This is a Final Fantasy 7 soundtrack mod featuring the original XG MIDI data from the 1998 PC release, as rendered through a rackmount Yamaha MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer).
-It is perhaps the best possible 1:1 expression of the game's original music data using a single sample set--in this case, the XG extended midi soundbank offered by the MU80. 
+    <Description>Final Fantasy 7 soundtrack mod featuring the original XG (eXtended General) MIDI data from the 1998 PC release, as rendered through a rackmount Yamaha MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer).
 -2 options for the track "One-Winged Angel" (lb2) are included--1 with and 1 without vocal choir.
 -Credit and a debt of gratitude go to Raymond from the old SE forums for the original recordings.
--Additional authors: NidoLNorris, Dte102 (opening sfx)</Description>
+Additional authors: Template, Dte102, NidoLNorris</Description>
     <LatestVersion>
       <Link>iros://GDrive/1W4LAlsLpTAEPIjgWefkkemwyFv-oa23t</Link>
-      <Version>1.31</Version>
-      <ReleaseDate>2026-01-23</ReleaseDate>
+      <Version>1.32</Version>
+      <ReleaseDate>2026-01-27</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/jJG01x9.png</PreviewImage>
-      <ReleaseNotes>Version History:
-1.31 -Adjusted Prelude timing to account for video loop.
--Adjusted timing of Alternate Theme (tb.ogg) to correct sync with lifestream memories cutscene.
-1.3 -Added specific compatibility with Cosmo Memory via Hext.
--Added Barret Sync tweak-allows opening video and field music tracks to blend (thanks 2 Bonez). 
-1.2 -Overhaul of original files to restore peak levels and dynamics.
--Updated opening sequence, adjusted sync, tightened transition to first field.
-1.101 -Initial 7H catalog release.
--Normalized loudness.
--Added new opening movie sequence.  
-1.1 -NidoLNorris' NexusMods release. 
--Increased bit rate.
-1.0 The original 1.0 upload is lost to time.
-
-The 7H catalog will install this mod unpacked in folder format. Check the readme for more info about installation.</ReleaseNotes>
-      <DownloadSize>895646</DownloadSize>
+      <ReleaseNotes>
+1.32 Various minor fixes. New opening_va.ogg file. Volume mixing improvements.
+1.31 Adjusted Prelude timing to account for video loop.
+        Adjusted timing of Alternate Theme (tb.ogg) to correct sync with lifestream memories cutscene.
+1.3 Added specific compatibility with Cosmo Memory via Hext.
+        Added Barret Sync tweak-allows opening video and field music tracks to blend (thanks 2 Bonez). 
+1.2 Overhaul of original files to restore peak levels and dynamics.
+        Updated opening sequence, adjusted sync, tightened transition to first field.
+1.101 Initial 7H catalog release.
+        Normalized loudness.
+        Added new opening movie sequence.  
+1.1 NidoLNorris' NexusMods release. 
+        Increased bit rate.
+1.0 Original 1.0 upload is lost to time.</ReleaseNotes>
+      <DownloadSize>897051</DownloadSize>
     </LatestVersion>
     <Link>https://www.nexusmods.com/finalfantasy7/mods/60</Link>
     <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
@@ -1872,21 +1870,21 @@ This mod only contains image file swaps and makes no additional changes.
 Many thanks to ESUI authors and contributors: Chrysalis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>0.996</Version>
-      <ReleaseDate>2026-01-26</ReleaseDate>
+      <Version>0.997</Version>
+      <ReleaseDate>2026-01-27</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
-      <ReleaseNotes>0.996 Update to Barret's weapon icon.
+      <ReleaseNotes>0.997 Update to the update to Barret's weapon icon.
+          Various minor pixel level corrections.
+0.996 Update to Barret's weapon icon.
 0.995 Normalized alignment of materia and items at shops.
           Centered materia linkage vertically.
 0.994 Fixed spacing for linked materia slots at shops.
 0.993 Update to Standard Materia Set.
           Fixed Sleep/Silence battle animations.
 0.992 Update to Standard Materia Set and Tifa avatar.
-0.991 Initial Beta release.
-
-*Compatibility of icon sizing and spacing has not been validated across the entire game.</ReleaseNotes>
-      <DownloadSize>9616</DownloadSize>
+0.991 Initial Beta release.</ReleaseNotes>
+      <DownloadSize>11697</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=30501</Link>
     <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
