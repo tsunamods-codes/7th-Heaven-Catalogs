@@ -942,12 +942,12 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.421</Version>
-        <ReleaseDate>2026-01-03</ReleaseDate>
+        <Version>1.422</Version>
+        <ReleaseDate>2026-01-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>More enemy AI fixes. Settings compat with Chthonic Harmony added.</ReleaseNotes>
-        <DownloadSize>707720</DownloadSize>
+        <ReleaseNotes>Various minor fixes.</ReleaseNotes>
+        <DownloadSize>707727</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
