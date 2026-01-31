@@ -1867,14 +1867,15 @@ Battle Avatars Support</Description>
 
 This mod only contains image file swaps and makes no additional changes.
 
-Many thanks to ESUI authors and contributors: Chrysalis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
+Many thanks to ESUI authors and contributors: Chrysaliis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>0.997</Version>
-      <ReleaseDate>2026-01-27</ReleaseDate>
+      <Version>0.998</Version>
+      <ReleaseDate>2026-01-31</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
-      <ReleaseNotes>0.997 Update to the update to Barret's weapon icon.
+      <ReleaseNotes>0.998 Corrected sizing of the XBOX button options.
+0.997 Update to the update to Barret's weapon icon.
           Various minor pixel level corrections.
 0.996 Update to Barret's weapon icon.
 0.995 Normalized alignment of materia and items at shops.
