@@ -1848,7 +1848,8 @@ Battle Avatars Support</Description>
      <Category>User Interface</Category>
      <Description>Replacement options for ESUI menu and battle icons. **Requires Enhanced Stock UI**
 -Weapons, armor, extended items, and status icons.
--2 jumbo materia sets w larger, textured slots: repainted ESUI 'Standard' and new 'Shiny' set.
+-3 jumbo materia sets: repainted ESUI 'Standard', plus new 'Shiny' and 'Stylized' types.
+-4 materia slot options including new jumbo OG frames.
 -Alternate bright Xbox dpad icons for onscreen directions.
 -Upscaled and re-shaded OG portrait avatar set.
 -Updated Sleep and Silence battle animations.
@@ -1859,22 +1860,14 @@ This mod only contains image file swaps and makes no additional changes.
 Many thanks to ESUI authors and contributors: Chrysaliis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>0.998</Version>
-      <ReleaseDate>2026-01-31</ReleaseDate>
+      <Version>1.01</Version>
+      <ReleaseDate>2026-02-07</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
-      <ReleaseNotes>0.998 Corrected sizing of the XBOX button options.
-0.997 Update to the update to Barret's weapon icon.
-          Various minor pixel level corrections.
-0.996 Update to Barret's weapon icon.
-0.995 Normalized alignment of materia and items at shops.
-          Centered materia linkage vertically.
-0.994 Fixed spacing for linked materia slots at shops.
-0.993 Update to Standard Materia Set.
-          Fixed Sleep/Silence battle animations.
-0.992 Update to Standard Materia Set and Tifa avatar.
-0.991 Initial Beta release.</ReleaseNotes>
-      <DownloadSize>11697</DownloadSize>
+      <ReleaseNotes>1.01 Added additional materia set and frame options.
+  
+  Check readme for full version history.</ReleaseNotes>
+      <DownloadSize>22554</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=30501</Link>
     <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
