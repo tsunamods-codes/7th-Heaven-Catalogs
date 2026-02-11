@@ -2012,12 +2012,12 @@ Full retro-modern ESUI theme (Requires Enhanced Stock UI).
       <DonationLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=77DA5WPWUWHCJ&amp;currency_code=USD&amp;source=url</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_AavockESUI.7z</Link>
-        <Version>0.95</Version>
-        <ReleaseDate>2025-01-03</ReleaseDate>
+        <Version>0.96</Version>
+        <ReleaseDate>2025-02-11</ReleaseDate>
         <CompatibleGameVersions></CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/aqOIHP0.png</PreviewImage>
         <ReleaseNotes>
-	Add 16:10
+	Fix vanishing boxes in SAC
         </ReleaseNotes>
         <DownloadSize>50000</DownloadSize>
       </LatestVersion>
