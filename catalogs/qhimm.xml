@@ -1860,14 +1860,15 @@ This mod only contains image file swaps and makes no additional changes.
 Many thanks to ESUI authors and contributors: Chrysaliis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>1.01</Version>
-      <ReleaseDate>2026-02-07</ReleaseDate>
+      <Version>1.02</Version>
+      <ReleaseDate>2026-02-14</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
-      <PreviewImage>https://i.imgur.com/pEIV0cE.gif</PreviewImage>
-      <ReleaseNotes>1.01 Added additional materia set and frame options.
+      <PreviewImage>https://i.imgur.com/4x0Tvu5.gif</PreviewImage>
+      <ReleaseNotes>1.02 Added Stylized2 materia option.
+	Implemented ESUI font sensing (thanks to Chris).
   
   Check readme for full version history.</ReleaseNotes>
-      <DownloadSize>22554</DownloadSize>
+      <DownloadSize>21145</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=30501</Link>
     <DonationLink>https://protect.worldwildlife.org/page/90206/donate</DonationLink>
