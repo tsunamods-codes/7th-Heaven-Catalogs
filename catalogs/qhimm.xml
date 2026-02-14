@@ -2128,6 +2128,30 @@ Requires Enhanced Stock UI
       </Tags>
     </Mod>
 
+	  ## Upscaled Vanilla Intro and Credits ##
+    <Mod>
+      <ID>a19eaec7-496d-4c4b-9914-e4ff54df53ed</ID>
+      <Author>Orichalcon</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1uC1n_xnQTkzkuShobOjn1YSay1cFkwhl</Link>
+        <Version>0.99</Version>
+        <ReleaseDate>2026-02-13</ReleaseDate>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>76486</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Upscaled Vanilla Intro and Credits</Name>
+      <Category>Media</Category>
+      <Description>The credit intro and buster sword new game screen, accurately upscaled and then manually edited for looks.</Description>
+      <Tags>
+        <string>Prelude</string>
+        <string>Media</string>
+        <string>Orichalcon</string>
+      </Tags>
+    </Mod>
+
 ## Prelude Credits Grimmy ##
     <Mod>
       <ID>b8432e99-6baa-4bdc-94fa-efc381c61dc3</ID>
