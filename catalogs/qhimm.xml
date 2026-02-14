@@ -942,12 +942,12 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.423</Version>
-        <ReleaseDate>2026-02-01</ReleaseDate>
+        <Version>1.424</Version>
+        <ReleaseDate>2026-02-14</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Adjustments to accomodate new KAWAI code fixes in FFNx.</ReleaseNotes>
-        <DownloadSize>707734</DownloadSize>
+        <ReleaseNotes>Minor adjustments.</ReleaseNotes>
+        <DownloadSize>707735</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
