@@ -2571,7 +2571,37 @@ Fixed Chocobo colors.</ReleaseNotes>
       <Description>This is an Add-on to the Ninostyle Chibi mod. It adds various fixes and additions and makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. This mod now includes fixes for the Dynamic Weapons and adds new options for Alternative outfits.</Description>
       <Tags></Tags>
     </Mod>
-
+	  
+## PSX Battle Shadows and Vertex Snapping ##
+    <Mod>
+      <ID>14dc4785-bb4f-4a29-9d3c-6ac8e8a75f43</ID>
+      <Author>JakeIsYoshi</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=30975.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1g4PxlrQFHCRhUo8c2ethoE4I4PDvrRw1</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2026-02-22</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://imgur.com/a/QF1684x.jpeg</PreviewImage>
+        <ReleaseNotes>Initial release.</ReleaseNotes>
+        <DownloadSize>12237</DownloadSize>
+      </LatestVersion>
+      <Name>PSX Battle Shadows and Vertex Snapping</Name>
+      <Category>Shaders</Category>
+      <Description>This mod change the look of shadows during battles to match the original PlayStation. A few presets are available, as well as an additional option that gives you access to Vertex Snapping Effect.
+	   -REQUIRES 7th Heaven 4.4.0.67+ and FFNx 1.23.0.159+
+	   -This mod is not compatible with Advanced Lighting or Cosmos Gaia
+	   -Additional Author: Pashtarot
+	   -Special thanks: Chrysalis, Kuraudo
+	  </Description>
+        <DonationLink></DonationLink>
+      <Tags>
+        <string>PSX Shadows</string>
+        <string>Shaders</string>
+        <string>JakeIsYoshi</string>
+      </Tags>
+    </Mod>`
+	  
 ## ReShade CRT Royale - by Tsunamods
     <Mod>
       <ID>4e735663-c755-4d56-a85e-733715678232</ID>
