@@ -2578,16 +2578,16 @@ Fixed Chocobo colors.</ReleaseNotes>
       <Author>Tsunamods</Author>
       <Link>https://github.com/tsunamods-codes/reshade-crt-royale</Link>
       <LatestVersion>
-        <Link>iros://Url/https$github.com/tsunamods-codes/reshade-crt-royale/releases/download/0.1.1/ReShadeCRTRoyale-v0.1.1.0.iro</Link>
-        <Version>0.110</Version>
-        <ReleaseDate>2025-08-23</ReleaseDate>
+        <Link>iros://Url/https$github.com/tsunamods-codes/reshade-crt-royale/releases/download/0.1.2/ReShadeCRTRoyale-v0.1.2.0.iro</Link>
+        <Version>0.120</Version>
+        <ReleaseDate>2026-02-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>618</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] ReShade CRT-Royale</Name>
-      <Category>ReShade Shaders</Category>
+      <Category>Shaders</Category>
       <Description>
         A ReShade mod that will provide CRT Royale.
 
