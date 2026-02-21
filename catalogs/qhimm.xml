@@ -2582,7 +2582,7 @@ Fixed Chocobo colors.</ReleaseNotes>
         <Version>1.01</Version>
         <ReleaseDate>2026-02-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://imgur.com/a/QF1684x.jpeg</PreviewImage>
+        <PreviewImage>https://i.imgur.com/zy3zaJO.png</PreviewImage>
         <ReleaseNotes>Initial release.</ReleaseNotes>
         <DownloadSize>12237</DownloadSize>
       </LatestVersion>
@@ -2600,7 +2600,7 @@ Fixed Chocobo colors.</ReleaseNotes>
         <string>Shaders</string>
         <string>JakeIsYoshi</string>
       </Tags>
-    </Mod>`
+    </Mod>
 	  
 ## ReShade CRT Royale - by Tsunamods
     <Mod>
