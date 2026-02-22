@@ -942,12 +942,12 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.425</Version>
-        <ReleaseDate>2026-02-20</ReleaseDate>
+        <Version>1.426</Version>
+        <ReleaseDate>2026-02-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Restored shadow effect post-Diamond Weapon fight.</ReleaseNotes>
-        <DownloadSize>707735</DownloadSize>
+        <ReleaseNotes>Added native 60FPS mode field fixes. Fixed issues with enemy attack data in arch mode.</ReleaseNotes>
+        <DownloadSize>708858</DownloadSize>
       </LatestVersion>
       <Name>Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
