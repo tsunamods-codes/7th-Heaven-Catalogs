@@ -12,8 +12,8 @@
       <Author>Vertex2995, Obesebear, Kaldarasha</Author>
       <Link>https://github.com/tangtang95/ff7-60fps-mod</Link>
       <LatestVersion>
-        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.14/ff7-60fps-mod.iro</Link>
-        <Version>1.14</Version>
+        <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.15/ff7-60fps-mod.iro</Link>
+        <Version>1.15</Version>
         <ReleaseDate>2022-09-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/4T7hFii.png</PreviewImage>
@@ -38,6 +38,7 @@ Changelog:
               Fix 60 fps counter speed of lock inside Nibelheim Manor (field map: sinin2_1)
    - 1.13: Add optional fix for FIELD mode 60 FPS animation for kuro_4 field map (Look at README file)
    - 1.14: Update link url to github repo
+   - 1.15: Add compatibility flag support for easier 60fps enabled detection by other mods
         </ReleaseNotes>
         <DownloadSize>97921</DownloadSize>
       </LatestVersion>
