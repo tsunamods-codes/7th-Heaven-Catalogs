@@ -1816,11 +1816,11 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.962</Version>
-        <ReleaseDate>2026-02-12</ReleaseDate>
+        <Version>2.963</Version>
+        <ReleaseDate>2026-02-24</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://chris.7thheaven.rocks/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Fixes for SAC script for dashes on ESUI themes</ReleaseNotes>
+        <ReleaseNotes>Minor fixes</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
