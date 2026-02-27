@@ -1861,12 +1861,11 @@ This mod only contains image file swaps and makes no additional changes.
 Many thanks to ESUI authors and contributors: Chrysaliis, Bonez, EQ2Alyza, DLPB, Kranmer, Covarr, TrueOdin, Fewtch, Ahvia</Description>
     <LatestVersion>
       <Link>iros://GDrive/1ZfKA1au47h503xF7VeYDOj4ErTWAOYgN</Link>
-      <Version>1.02</Version>
-      <ReleaseDate>2026-02-14</ReleaseDate>
+      <Version>1.03</Version>
+      <ReleaseDate>2026-02-27</ReleaseDate>
       <CompatibleGameVersions>All</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/4x0Tvu5.gif</PreviewImage>
-      <ReleaseNotes>1.02 Added Stylized2 materia option.
-	Implemented ESUI font sensing (thanks to Chris).
+      <ReleaseNotes>1.03 Added Ultima Weapon icon. Added requirement for ESUI.
   
   Check readme for full version history.</ReleaseNotes>
       <DownloadSize>21145</DownloadSize>
