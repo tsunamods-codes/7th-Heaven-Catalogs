@@ -2330,25 +2330,27 @@ Requires Enhanced Stock UI
 ## Nitpick ##
     <Mod>
       <ID>7ac77aef-8732-4e9a-8321-bec5c016456c</ID>
-      <Author>Kuraudo, Cae Lumen, Satsuki, Aavock, L@zar0, Dangarfield, Kaldarasha, Grimmy</Author>
+      <Author>Kuraudo, Cae Lumen, Satsuki, Aavock, L@zar0, Dangarfield, Kaldarasha, Grimmy, Jusete</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1PPoKAYq2eivdKDkC4Ik_yPHOqVO7tMh0</Link>
-        <Version>1.7</Version>
-        <ReleaseDate>2025-12-01</ReleaseDate>
+        <Link>iros://GDrive/10vR_a0jr_BINK1Q3g7gzNcpXyzIeWrIb</Link>
+        <Version>1.8</Version>
+        <ReleaseDate>2026-03-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/9QHdwR7.jpeg</PreviewImage>
-        <ReleaseNotes>Gardening.</ReleaseNotes>
-        <DownloadSize>59558</DownloadSize>
+        <ReleaseNotes>Added PS1-style options: Light up the World, Pixelback. Also, option to play music on new game screen.</ReleaseNotes>
+        <DownloadSize>100145</DownloadSize>
       </LatestVersion>
       <Name>Nitpick</Name>
       <Category>User Interface</Category>
-      <Description>This mod gives you access to some niche options, which fixes a few minor details, for example, Seventh Heaven bar sign, Midgar 5 truck label, District 5 gate number, Corel Prison sign, black materia shape, Red XIII's portrait and more.
-   -Requires SYW Unified Field Textures and 60/30 FPS Gameplay
-   -Background fixes are not yet compatible with Cosmos Limit Break</Description>
+      <Description>This mod gives you access to some niche options, which fixes a few minor details, for example, Seventh Heaven bar sign, Midgar 5 truck label, District 5 gate number, Corel Prison sign, black materia shape, Red XIII's portrait, PS1-style tweaks and more.
+   -Requires SYW Unified Field Textures, SYW Unified Worldmap Textures, 60/30 FPS Gameplay
+   -Background fixes are not yet compatible with Cosmos Limit Break
+   -Light up the World not compatible with Cosmos Gaia</Description>
       <Tags>
         <string>Nitpick</string>
         <string>User Interface</string>
+		<string>Kuraudo</string>
       </Tags>
     </Mod>
 
