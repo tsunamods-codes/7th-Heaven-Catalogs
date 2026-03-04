@@ -97,30 +97,33 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       </Tags>
     </Mod>
 
-## 60 FPS ChaOS Animations ##
+## 60 FPS Animations for ChaOS ##
     <Mod>
       <ID>832104ef-c150-4680-8fa9-084ca633db3c</ID>
       <Author>Vertex2995, Kaldarasha</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1c17OOFC0ByyYDy03bX8xRi59hEdLjyDf</Link>
-        <Version>1.00</Version>
-        <ReleaseDate>2024-08-29</ReleaseDate>
+        <Link>iros://GDrive/1zLz-Yymb7JnVNCVI3VHOGEox1AHFmH1w</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2026-03-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
+        <PreviewImage></PreviewImage>
         <ReleaseNotes>
-REQUIRES "ChaOS" and "60/30FPS FPS Gameplay" mods.
+REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
+
 Changelog:
  - 1.00: First release
-        </ReleaseNotes>
-        <DownloadSize>771</DownloadSize>
+ - 1.01: Add flag for easier 60fps enabled detection by other mods
+
+Special Thanks: Kuraudo
+	</ReleaseNotes>
+        <DownloadSize>848</DownloadSize>
       </LatestVersion>
       <Name>60 FPS Animations for ChaOS</Name>
       <Category>Animations</Category>
       <Description>60 FPS Animations for Character Overhaul Seven: Provide Sephiroth 60 FPS fix.</Description>
       <Tags>
-        <string>60</string>
-        <string>fps</string>
+        <string>60fps</string>
         <string>Animations</string>
         <string>Vertex2995</string>
         <string>Kaldarasha</string>
