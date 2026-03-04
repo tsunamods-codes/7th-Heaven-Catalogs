@@ -964,6 +964,35 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
 
 ## MEDIA ##
 
+## MIDI Soundtrack Restore
+<Mod>
+    <ID>e645f0d7-263f-4969-9041-0f6b8211947d</ID>
+ <Name>MIDI Soundtrack Restore</Name>
+    <Author>Template, TrueOdin</Author>
+    <Category>Media</Category>
+    <Description>Simple mod to restore MIDI soundtrack functionality from 2013 release. 
+		Allows the user to play the soundtrack with the chosen MIDI version type from Game Launcher settings in 7th Heaven (XG is recommended). 
+		Allows the use of a custom VSTi (SYXG50 is recommended) or external MIDI processor such as a Yamaha MU-50 to play the game soundtrack.
+	</Description>
+
+    <LatestVersion>
+      <Link>iros://GDrive/1OTlznPmgDpEHA3GllcTmIptshTBxyul6</Link>
+      <Version>1.0</Version>
+      <ReleaseDate>2026-03-03</ReleaseDate>
+      <CompatibleGameVersions>All</CompatibleGameVersions>
+      <PreviewImage></PreviewImage>
+      <ReleaseNotes>Initial Release.</ReleaseNotes>
+      <DownloadSize>1</DownloadSize>
+    </LatestVersion>
+    <Link></Link>
+    <DonationLink></DonationLink>
+    <Tags>
+      <string>Media</string>
+      <string>Sound</string>
+	  <string>OST</string>
+    </Tags>
+  </Mod>
+
 ## MU80 Soundtrack 
 	  <Mod>
     <ID>91119111-9de5-43fc-922f-9d92ed8fb322</ID>
