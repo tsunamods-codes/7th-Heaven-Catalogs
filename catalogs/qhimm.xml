@@ -407,14 +407,14 @@ Big thanks to:
       <Link>https://forums.qhimm.com/index.php?topic=13960.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1OettKsWscVLO0R4CGhc17rvzVE_WS1qQ</Link>
-        <Version>2.01</Version>
-        <ReleaseDate>2026-03-01</ReleaseDate>
+        <Version>2.02</Version>
+        <ReleaseDate>2026-03-04</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fsjMJky.jpeg</PreviewImage>
-        <ReleaseNotes>Bug Fixes. 
-  Dynamic Weapons option. 
-  Situational Weaponry update.</ReleaseNotes>
-        <DownloadSize>73037</DownloadSize>
+        <ReleaseNotes>Bug Fixes.
+-Added back Resize option for vanilla playthrough, still in BETA.
+-Added requirement/option for 60fps animations.</ReleaseNotes>
+        <DownloadSize>78644</DownloadSize>
       </LatestVersion>
       <Name>ChaOS</Name>
       <Category>Field Models</Category>
