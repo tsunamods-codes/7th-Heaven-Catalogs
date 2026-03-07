@@ -950,14 +950,14 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.427</Version>
-        <ReleaseDate>2026-02-28</ReleaseDate>
+        <Version>1.4271</Version>
+        <ReleaseDate>2026-03-07</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Improved FMV quality. Added 300k bytes to mod. Suffer.</ReleaseNotes>
-        <DownloadSize>1011322</DownloadSize>
+        <ReleaseNotes>Now with BRANDING INTEGRATION.</ReleaseNotes>
+        <DownloadSize>1011320</DownloadSize>
       </LatestVersion>
-      <Name>Shinra Archaeology Cut</Name>
+      <Name>[Tsunamods] Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
       <Description>This mod does the double duty of retranslating the entire game script from the ground up directly from the original Japanese—taking care to conform with modern Square Enix localization choices for FFVII—as well as optionally restoring the vast majority of the game's unused content. Also offers a bevy of optional bonus features in the config settings.</Description>
       <Tags>
