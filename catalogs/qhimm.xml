@@ -100,24 +100,24 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
 ## 60 FPS Animations for ChaOS ##
     <Mod>
       <ID>832104ef-c150-4680-8fa9-084ca633db3c</ID>
-      <Author>Vertex2995, Kaldarasha</Author>
+      <Author>Vertex2995, Kaldarasha, Template</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1zLz-Yymb7JnVNCVI3VHOGEox1AHFmH1w</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2026-03-04</ReleaseDate>
+        <Link>iros://GDrive/1L7cOm2L2JNwUtZceMv622VtZLuy8NYFC/Link>
+        <Version>1.02</Version>
+        <ReleaseDate>2026-03-17</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes>
 REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
 
-Changelog:
- - 1.00: First release
+ - 1.02: Field animation fixes, including for Aerith just after Church escape
  - 1.01: Add flag for easier 60fps enabled detection by other mods
+ - 1.00: First release
 
 Special Thanks: Kuraudo
 	</ReleaseNotes>
-        <DownloadSize>848</DownloadSize>
+        <DownloadSize>3399</DownloadSize>
       </LatestVersion>
       <Name>60 FPS Animations for ChaOS</Name>
       <Category>Animations</Category>
