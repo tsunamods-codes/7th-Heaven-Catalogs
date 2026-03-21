@@ -2365,6 +2365,32 @@ Requires Enhanced Stock UI
 		<string>Kuraudo</string>
       </Tags>
     </Mod>
+	  
+## Dynamic Backgrounds ##
+    <Mod>
+      <ID>6bfff8d9-0550-40df-97a8-f7182038d41cc</ID>
+      <Author>Kuraudo</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1RRlBFtJ1Gk4oatS87mwX2CuVfe0IAf1x</Link>
+        <Version>0.90</Version>
+        <ReleaseDate>2026-03-21</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/9GOy2Ac.jpeg</PreviewImage>
+        <ReleaseNotes>Initial release.</ReleaseNotes>
+        <DownloadSize>217074</DownloadSize>
+      </LatestVersion>
+      <Name>Dynamic Backgrounds</Name>
+      <Category>User Interface</Category>
+      <Description>This is a compilation of official and fan-made backgrounds spanning all titles. The aspect ratio is automatically detected as either 4:3 or 16:9. The new game and continue options are located in the bottom-left corner. Engaging this mod results in the playing of music on the title screen.
+
+   -Special Thanks: Bonez, Chrysalis for new game/continue hext patch</Description>
+      <Tags>
+        <string>Dynamic Backgrounds</string>
+        <string>User Interface</string>
+		<string>Kuraudo</string>
+      </Tags>
+    </Mod>
 
 ## WORLD TEXTURES ##
 
