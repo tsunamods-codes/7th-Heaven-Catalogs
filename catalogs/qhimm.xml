@@ -587,19 +587,22 @@ Visual Changes and Battle UI:
 Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
     <LatestVersion>
       <Link>iros://GDrive/1efR8zxPRXF7Out5NJBgBvnTqedmJpksO</Link>
-      <Version>1.1</Version>
+      <Version>1.2</Version>
       <ReleaseDate>2026-01-12</ReleaseDate>
       <CompatibleGameVersions>Steam</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/sbJlAy6.jpeg</PreviewImage>
       <ReleaseNotes>
-		  Ver.1.1:
-- Compatibility with Enhanced Stock UI.
-* Credits to Chrysalis.
-- The visual appearance of the Materia Blade and Enhance Sword has been fixed.
-- The effect of the Chocobo Lure materia has been internally increased.
-- Now Enemy Lure materia is called Enemy Magnet and the effect has been increased, It will take more AP to master it.
-- The "Ancient Bracelet" has been changed to "Ancient Armor" to prevent a visual error in the Chocobo races.
-- Minor bugs has been fixed.
+Ver.1.2:
+- Vincent's weapon "Peacemaker" is no longer found in Kalm
+- The final reward from the Fort Condor battles has changed (Disc 2)
+- A description has been added to the "Materia Blade"
+- Some Materias can now be found earlier in the Icicle Area and on the Gaia Cliff
+- Cid or Tifa have an exclusive battle while they are party leaders in Disc 2
+- Two new Materias are now available: "Initiative" and "HP&MP"
+- The "Slash-All" and "Flash" Materia are now separate
+- Two more Mimic chest are now available
+- One additional slot has been added to Cid's "Scimitar" and Cloud's "Ancient Sword"
+- Dialogue formatting has been fixed, and texts and colors have been updated
       </ReleaseNotes>
       <DownloadSize>495616</DownloadSize>
     </LatestVersion>
