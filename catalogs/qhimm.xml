@@ -104,20 +104,21 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
       <LatestVersion>
         <Link>iros://GDrive/1L7cOm2L2JNwUtZceMv622VtZLuy8NYFC</Link>
-        <Version>1.02</Version>
-        <ReleaseDate>2026-03-17</ReleaseDate>
+        <Version>1.03</Version>
+        <ReleaseDate>2026-03-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
-        <ReleaseNotes>
-REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
+        <ReleaseNotes>REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
 
- - 1.02: Field animation fixes, including for Aerith just after Church escape
+Changelog:
+ - 1.03: Fix to Tifa's Choco riding animation
+ - 1.02: 3 animation fixes, including for Aerith just after Church escape
  - 1.01: Add flag for easier 60fps enabled detection by other mods
  - 1.00: First release
 
-Special Thanks: Kuraudo
+Special Thanks to Kuraudo
 	</ReleaseNotes>
-        <DownloadSize>3399</DownloadSize>
+        <DownloadSize>928</DownloadSize>
       </LatestVersion>
       <Name>60 FPS Animations for ChaOS</Name>
       <Category>Animations</Category>
@@ -410,15 +411,18 @@ Big thanks to:
       <Link>https://forums.qhimm.com/index.php?topic=13960.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1OettKsWscVLO0R4CGhc17rvzVE_WS1qQ</Link>
-        <Version>2.05</Version>
-        <ReleaseDate>2026-03-17</ReleaseDate>
+        <Version>2.06</Version>
+        <ReleaseDate>2026-03-27</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fsjMJky.jpeg</PreviewImage>
-        <ReleaseNotes>2.05: Kalm flashback fixes.
+        <ReleaseNotes>2.06: Animation fixes-Sleeping Forest, WM Choco Riding, Mideel.
+2.05: Kalm flashback fixes.
 2.03-2.04: Bug Fixes.
 2.02: Added back Resize option for vanilla playthrough, still in BETA.
--Added requirement/option for 60fps animations.</ReleaseNotes>
-        <DownloadSize>74323</DownloadSize>
+      Added requirement/option for 60fps animations.
+	  
+Known issues: HQ Buster Sword = minor Sephiroth battle texture issue.</ReleaseNotes>
+        <DownloadSize>78415</DownloadSize>
       </LatestVersion>
       <Name>ChaOS</Name>
       <Category>Field Models</Category>
