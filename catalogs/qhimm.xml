@@ -761,10 +761,10 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.72</Version>
-        <ReleaseDate>2026-03-22</ReleaseDate>
+        <Version>1.73</Version>
+        <ReleaseDate>2026-03-29</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Adding Character Order Randomizer, which randomizes the order that characters are unlocked in. Also adding it to the Super Randomizer Challenge.</ReleaseNotes>
+        <ReleaseNotes>Fixing some bugs with Character Order Randomizer.</ReleaseNotes>
         <DownloadSize>7670</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
