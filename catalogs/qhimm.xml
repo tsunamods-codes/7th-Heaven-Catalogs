@@ -1547,6 +1547,42 @@ E.g., Bolt2 = Thundara</Description>
 	<Tags />
     </Mod>
 
+## Double Input Bugfix (and menu input Qol) ##
+    <Mod>
+	<ID>22ed7aef-254c-49cf-923f-32c146f1597f</ID>
+	<Author>Dig (aka potus-barret)</Author>
+	<Link>https://github.com/potus-barret/ff7-pc-di-fix</Link>
+	<LatestVersion>
+	        <Link>iros://Url/https://github.com/potus-barret/ff7-pc-di-fix/releases/download/1.2/Double-input-fix.7z</Link>
+	        <Version>1.2</Version>
+	        <ReleaseDate>2026-04-01</ReleaseDate>
+		    <CompatibleGameVersions>All</CompatibleGameVersions>
+	        <PreviewImage>https://i.imgur.com/FPqDxnG.png</PreviewImage>
+	        <ReleaseNotes>Name change and description edits before submitting to catalog.
+I will be adding some menuing input Qol features this summer.
+Double input bugfix is now enabled by default, all other features are optional and disabled by default.</ReleaseNotes>
+        	<DownloadSize>37</DownloadSize>
+	</LatestVersion>
+	<Name>Double Input Bugfix (and menu input Qol)</Name>
+	<Category>Miscellaneous</Category>
+	<Description>BE GONE double input! May you never darken FF7 PC's door again!!
+
+  Fix is enabled by default, you can just play once the mod is enabled.
+
+  Uses an unused flag in FF7 PC's code to prevent all input acting like key repeat (the cause of DI).
+
+  Im in qhimm and "FF7 Speedruns and Research" discords if you want to find me and ask questions.
+
+  The bugfix is now part of the game since the 2026 rerelease.
+
+  Ping me in discord (@_dig_) if you encounter any unexpected or undesired behaviour.
+  I have an avatar of Vageta with a pink shirt like below.</Description>
+	<Tags>
+        <string>Double Input</string>
+        <string>Bugfix</string>
+      </Tags>
+    </Mod>
+
 ## SPELL TEXTURES ##
 
 ## Satsuki SYW Unified Spells Textures ##
