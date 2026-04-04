@@ -964,12 +964,12 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.428</Version>
-        <ReleaseDate>2026-03-17</ReleaseDate>
+        <Version>1.429</Version>
+        <ReleaseDate>2026-04-02</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>Fixed crash with PS3 Tweaks. Fixed skyboxes of a few battle arenas.</ReleaseNotes>
-        <DownloadSize>1012631</DownloadSize>
+        <ReleaseNotes>Minor adjustments.</ReleaseNotes>
+        <DownloadSize>1011974</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
