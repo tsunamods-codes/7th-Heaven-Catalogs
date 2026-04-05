@@ -187,6 +187,32 @@ Special Thanks to Kuraudo
 
 ##BATTLE MODELS##
 
+## High-Poly Cloud+Dynamic Weapons
+	<Mod>
+	  <ID>e9811e4e-b72c-4d4c-a491-12af730cb3e4</ID>
+	  <Author>Template, Kuraudo</Author>
+	  <Link />
+	  <LatestVersion>
+		<Link>iros://GDrive/1BXB3dUszTcntoNIGzZ4qWO_j2Sy-WIpv</Link>
+		<Version>1.0</Version>
+		<ReleaseDate>2026-04-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://imgur.com/0TOMiE9</PreviewImage>
+ 	    <ReleaseNotes>Initial</ReleaseNotes>
+	 	<DownloadSize>40015</DownloadSize>
+	  </LatestVersion>
+      <Name> High-Poly Cloud+Dynamic Weapons </Name>
+      <Category>Battle Models</Category>
+      <Description>Model replacement for field and world to display Cloud's equipped weapon. Includes Millenia+Mike weapons and final high-poly Cloud as options.</Description>
+      <Tags>
+        <string>Models</string>
+        <string>Template</string>
+        <string>Vanilla</string>
+        <string>Dynamic Weapons</string>
+        <string>Weapons</string>
+      </Tags>
+    </Mod>		
+		  
 ## [Tsunamods] The Barret Mod
     <Mod>
       <ID>8e11ffbd-13a2-43c4-9795-ab66194ddfab</ID>
