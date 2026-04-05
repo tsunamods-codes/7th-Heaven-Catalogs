@@ -266,12 +266,13 @@ Special Thanks to Kuraudo
       <Author>Ninostyle + Tsunamix + Shiniboy</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
-        <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>26.0121</Version>
-        <ReleaseDate>2026-01-21</ReleaseDate>
+         <Link>iros://GDrive/1quTnDjqD2ngwHNe64AdAcd1Ae62dkxTP</Link>
+        <Version>26.2</Version>
+        <ReleaseDate>2026-04-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
-        <ReleaseNotes></ReleaseNotes>
+        <ReleaseNotes>26.2. Final battle models
+			Additional authors: Template</ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
