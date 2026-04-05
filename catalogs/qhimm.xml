@@ -104,13 +104,14 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
       <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
       <LatestVersion>
         <Link>iros://GDrive/1L7cOm2L2JNwUtZceMv622VtZLuy8NYFC</Link>
-        <Version>1.03</Version>
-        <ReleaseDate>2026-03-27</ReleaseDate>
+        <Version>1.04</Version>
+        <ReleaseDate>2026-04-05</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes>REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
 
 Changelog:
+ - 1.04: Global animation fixes for Tifa and Cloud
  - 1.03: Fix to Tifa's Choco riding animation
  - 1.02: 3 animation fixes, including for Aerith just after Church escape
  - 1.01: Add flag for easier 60fps enabled detection by other mods
@@ -118,7 +119,7 @@ Changelog:
 
 Special Thanks to Kuraudo
 	</ReleaseNotes>
-        <DownloadSize>928</DownloadSize>
+        <DownloadSize>1184</DownloadSize>
       </LatestVersion>
       <Name>60 FPS Animations for ChaOS</Name>
       <Category>Animations</Category>
