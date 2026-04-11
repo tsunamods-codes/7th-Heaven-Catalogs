@@ -2416,17 +2416,17 @@ Requires Enhanced Stock UI
       <Author>Kuraudo</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1RRlBFtJ1Gk4oatS87mwX2CuVfe0IAf1x</Link>
-        <Version>0.90</Version>
-        <ReleaseDate>2026-03-21</ReleaseDate>
+        <Link>iros://GDrive/14pE1hWLPatiPoAyKFCy9ccWU13qP_6rF</Link>
+        <Version>0.91</Version>
+        <ReleaseDate>2026-04-12</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/9GOy2Ac.jpeg</PreviewImage>
-        <ReleaseNotes>Initial release.</ReleaseNotes>
-        <DownloadSize>217074</DownloadSize>
+        <ReleaseNotes>Added more backgrounds and Random Option.</ReleaseNotes>
+        <DownloadSize>342054</DownloadSize>
       </LatestVersion>
       <Name>Dynamic Backgrounds</Name>
       <Category>User Interface</Category>
-      <Description>This is a compilation of official and fan-made backgrounds spanning all titles. The aspect ratio is automatically detected as either 4:3 or 16:9. The new game and continue options are located in the bottom-left corner. Engaging this mod results in the playing of music on the title screen.
+      <Description>This is a compilation of official and fan-made backgrounds spanning all titles. The aspect ratio is automatically detected as either 4:3 or 16:9. The new game and continue options are located in the bottom-left corner. Enabling backgrounds in this mod results in the playing of music on the title screen.
 
    -Special Thanks: Bonez, Chrysalis for new game/continue hext patch</Description>
       <Tags>
