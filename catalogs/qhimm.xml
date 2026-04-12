@@ -762,10 +762,10 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.74</Version>
-        <ReleaseDate>2026-04-05</ReleaseDate>
+        <Version>1.75</Version>
+        <ReleaseDate>2026-04-12</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Fixing another bug with Character Order Randomizer.</ReleaseNotes>
+        <ReleaseNotes>Fixing a bug with Character Order Randomizer.</ReleaseNotes>
         <DownloadSize>7670</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
