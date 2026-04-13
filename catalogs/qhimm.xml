@@ -2416,12 +2416,12 @@ Requires Enhanced Stock UI
       <Author>Kuraudo</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/14pE1hWLPatiPoAyKFCy9ccWU13qP_6rF</Link>
-        <Version>0.91</Version>
-        <ReleaseDate>2026-04-12</ReleaseDate>
+        <Link>iros://GDrive/1h2FqT9S3By8dc-r-8midsuPRvqCWsM0s</Link>
+        <Version>0.92</Version>
+        <ReleaseDate>2026-04-13</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/9GOy2Ac.jpeg</PreviewImage>
-        <ReleaseNotes>Added more backgrounds and Random Option.</ReleaseNotes>
+        <ReleaseNotes>Hotfix. The options in the Remake drop-down menu now match what appears in the game. Added more backgrounds and Random Option.</ReleaseNotes>
         <DownloadSize>342054</DownloadSize>
       </LatestVersion>
       <Name>Dynamic Backgrounds</Name>
