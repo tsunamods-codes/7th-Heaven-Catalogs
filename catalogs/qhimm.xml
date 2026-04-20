@@ -170,14 +170,37 @@ Special Thanks to Kuraudo
       <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
       <LatestVersion>
         <Link>iros://GDrive/1r-7r1PX_JDz_oT8qH5jeikg4JZqaTcgn</Link>
-        <Version>2.1</Version>
-        <ReleaseDate>2026-02-25</ReleaseDate>
+        <Version>2.2</Version>
+        <ReleaseDate>2026-04-20</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage></PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>113357</DownloadSize>
+        <DownloadSize>168074</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Idle Animations</Name>
+      <Category>Animations</Category>
+      <Description>Configurable mod to add a choice of idle animations for the main cast to perform when idle for a certain length of time.</Description>
+      <Tags>
+        <string>Orichalcon</string>
+        <string>Animations</string>
+      </Tags>
+    </Mod>
+
+	  ## [Tsunamods] Idle Animations - 60fps ##
+    <Mod>
+      <ID>22b8d4ec-603f-46cd-9a70-20f2fcd7aea4</ID>
+      <Author>Orichalcon</Author>
+      <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1TJLu1k5P343VWpLnJYJITIjWZudM4J2X</Link>
+        <Version>2.2</Version>
+        <ReleaseDate>2026-04-20</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage></PreviewImage>
+        <ReleaseNotes></ReleaseNotes>
+        <DownloadSize>169770</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Idle Animations - 60fps</Name>
       <Category>Animations</Category>
       <Description>Configurable mod to add a choice of idle animations for the main cast to perform when idle for a certain length of time.</Description>
       <Tags>
