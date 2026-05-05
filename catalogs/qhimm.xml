@@ -634,24 +634,30 @@ Gameplay:
 Kaiseran,Sega Chief,Death Unites / 4-8Productions,Markul,CAulin and Postscriptthree.
 		
 Visual Changes and Battle UI:
-Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.</Description>
+Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.
+	For more info, tips, and recommendations, visit the link below:</Description>
     <LatestVersion>
       <Link>iros://GDrive/1efR8zxPRXF7Out5NJBgBvnTqedmJpksO</Link>
-      <Version>1.2</Version>
-      <ReleaseDate>2026-01-12</ReleaseDate>
+      <Version>1.3</Version>
+      <ReleaseDate>2026-05-05</ReleaseDate>
       <CompatibleGameVersions>Steam</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/sbJlAy6.jpeg</PreviewImage>
-      <ReleaseNotes>Ver.1.2:
-- Vincents weapon Peacemaker is no longer found in Kalm
-- The final reward from the Fort Condor battles has changed (Disc 2)
-- A description has been added to the Materia Blade
-- Some Materias can now be found earlier in the Icicle Area and on the Gaia Cliff
-- Cid or Tifa have an exclusive battle while they are party leaders in Disc 2
-- Two new Materias are now available: Initiative and HP-MP
-- The Slash-All and Flash Materia are now separate
-- Two more Mimic chests are now available
-- One additional slot has been added to Cids Scimitar and Clouds Ancient Sword
-- Dialogue formatting has been fixed, and texts and colors have been updated</ReleaseNotes>
+      <ReleaseNotes>Ver.1.3:
+- The Princess Guard weapon now has all slots unlocked
+- A new weapon for Aeris is available: Save The Queen
+- Cloud’s Masamune can now use Morph normally
+- A new armor is available: Viral Armor
+- The Gold Armor now has double growth
+- Four new accessories are available: Defense Veil, Glass Buckle, Princess Ring and Tiara
+- Now Hypnocrown/Coronet can be found on Disc1
+- A new materia is available: Overdrive
+- Mega All can be found earlier 
+- Now Amplify++ increase HP and MP by 05%
+- Now Chocobo Lure materia has three stars
+- Some bosses now have new item drops and stealable items
+- The sell prices of the new Materias have been corrected
+- Default BattleUI alignment issues have been fixed
+- Minor bugs has been fixed</ReleaseNotes>
       <DownloadSize>495616</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=30625.0</Link>
