@@ -461,18 +461,19 @@ Big thanks to:
       <Link>https://forums.qhimm.com/index.php?topic=13960.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1OettKsWscVLO0R4CGhc17rvzVE_WS1qQ</Link>
-        <Version>2.07</Version>
-        <ReleaseDate>2026-04-05</ReleaseDate>
+        <Version>2.08</Version>
+        <ReleaseDate>2026-05-23</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/fsjMJky.jpeg</PreviewImage>
-        <ReleaseNotes>2.07: Global animation fixes and adjustments for Tifa and Cloud.
-  Fixes Sephiroth battle model conflict with HQ weapons.
+        <ReleaseNotes>2.08 Fix for final Zack cutscene when using resize.
+2.07: Global animation fixes and adjustments for Tifa and Cloud.
+  	  Fixes Sephiroth battle model conflict with HQ weapons.
 2.06: Animation fixes-Sleeping Forest, WM Choco Riding, Mideel.
 2.05: Kalm flashback fixes.
 2.03-2.04: Bug Fixes.
 2.02: Added back Resize option for vanilla playthrough, still in BETA.
       Added requirement/option for 60fps animations.</ReleaseNotes>
-        <DownloadSize>77183</DownloadSize>
+        <DownloadSize>72306</DownloadSize>
       </LatestVersion>
       <Name>ChaOS</Name>
       <Category>Field Models</Category>
