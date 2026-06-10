@@ -1,4 +1,4 @@
-name: 7th-Heaven-Catalogs
+name: Catalog XML Validation
 
 run-name: 1.0.0.${{ github.run_number }}
 
@@ -26,8 +26,6 @@ jobs:
   CICD:
     runs-on: windows-latest
     timeout-minutes: 1440
-    strategy:
-      max-parallel: 1
     steps:
     - name: Set Git Config
       run: |

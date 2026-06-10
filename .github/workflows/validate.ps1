@@ -19,10 +19,18 @@ Write-Output "_RELEASE_VERSION=${env:_RELEASE_VERSION}" >> ${env:GITHUB_ENV}
 Write-Output "_IS_BUILD_CANARY=${env:_IS_BUILD_CANARY}" >> ${env:GITHUB_ENV}
 Write-Output "_IS_GITHUB_RELEASE=${env:_IS_GITHUB_RELEASE}" >> ${env:GITHUB_ENV}
 
+# Build dotnet run arguments
+$dotnetArgs = @('run', '--property', 'WarningLevel=0;NuGetAudit=false', '--project', 'app/CatalogValidator')
+
 # Lint all XML files
 foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
-  dotnet run --property WarningLevel=0 --project app/CatalogValidator $file
+  $appArgs = @($file)
+  if ($env:_VALIDATE_LINKS -eq 'true') {
+    $appArgs += '--validate-links'
+  }
+
+  & dotnet @dotnetArgs -- @appArgs
 
   if ($LASTEXITCODE -ne 0) {
     Write-Error "Catalog validation failed for: $($file.FullName)"

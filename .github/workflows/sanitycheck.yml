@@ -1,0 +1,46 @@
+name: Catalog Links Validation
+
+run-name: "Links Validation #${{ github.run_number }}"
+
+on:
+  workflow_dispatch:  # allows manual trigger
+  schedule:
+    - cron: '0 1 * * 0'  # every Sunday at 01:00 UTC
+
+env:
+  _IS_BUILD_CANARY: false
+  _IS_GITHUB_RELEASE: false
+  _RELEASE_NAME: 7thHeavenCatalogs
+  _RELEASE_VERSION: v0
+  _BUILD_BRANCH: "${{ github.ref }}"
+  _BUILD_VERSION: "1.0.0.${{ github.run_number }}"
+  _VALIDATE_LINKS: 'true'
+  # GIT: Fix reporting from stderr to stdout
+  GIT_REDIRECT_STDERR: 2>&1
+
+jobs:
+  CICD:
+    runs-on: windows-latest
+    timeout-minutes: 1440
+    steps:
+    - name: Set Git Config
+      run: |
+        git config --global core.autocrlf false
+        git config --global core.filemode false
+        git config --global core.longpaths true
+    - name: Checkout
+      uses: actions/checkout@v4.1.0
+    - name: Checkout 7th-Heaven
+      uses: actions/checkout@v4.1.0
+      with:
+        repository: 'tsunamods-codes/7th-Heaven'
+        path: 'app'
+    - name: Validate
+      run: ".github/workflows/validate.ps1"
+      shell: pwsh
+    - name: Send alerts
+      if: success()
+      env:
+        _MAP_7TH_INTERNAL: "${{ secrets._7TH_INTERNAL }}"
+      run: ".github/workflows/alert.ps1"
+      shell: pwsh
