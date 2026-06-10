@@ -22,7 +22,7 @@ Write-Output "_IS_GITHUB_RELEASE=${env:_IS_GITHUB_RELEASE}" >> ${env:GITHUB_ENV}
 # Lint all XML files
 foreach($file in Get-ChildItem -Path .\catalogs\*.xml –Recurse)
 {
-  dotnet run --project app/CatalogValidator $file
+  dotnet run --property WarningLevel=0 --project app/CatalogValidator $file
 
   if ($LASTEXITCODE -ne 0) {
     Write-Error "Catalog validation failed for: $($file.FullName)"
