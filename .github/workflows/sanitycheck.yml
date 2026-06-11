@@ -1,4 +1,4 @@
-name: Catalog Links Validation
+name: Links Validation
 
 run-name: "Links Validation #${{ github.run_number }}"
 

@@ -1,4 +1,4 @@
-name: Catalog XML Validation
+name: XML Validation and Release
 
 run-name: 1.0.0.${{ github.run_number }}
 
