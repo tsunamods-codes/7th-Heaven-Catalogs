@@ -1535,14 +1535,15 @@ E.g., Bolt2 = Thundara</Description>
       Requires maximum priority.</Description>
 	    <LatestVersion>
 	    	<Link>iros://Url/https://github.com/ChthonVII/ff7chthonicharmony/releases/latest/download/ChthonicHarmony.iro</Link>
-	    	<Version>1.1</Version>
-	    	<ReleaseDate>2025-12-11</ReleaseDate>
+	    	<Version>1.2</Version>
+	    	<ReleaseDate>2026-06-17</ReleaseDate>
 	    	<CompatibleGameVersions>All</CompatibleGameVersions>
 	    	<PreviewImage>https://raw.githubusercontent.com/ChthonVII/ff7chthonicharmony/main/preview/ChthonicHarmonyLogo.png</PreviewImage>
-	    	<ReleaseNotes>1.1: Replaced EidosLogo FMV with higher quality version recovered from abandoned Team Avalanche file repository. Revised credits.
+	    	<ReleaseNotes>1.2 Edited and re-encoded EidosLogo FMV to exactly match original duration and use original audio. (Reduces frequency of a very weird bug.)
+				1.1: Replaced EidosLogo FMV with higher quality version recovered from abandoned Team Avalanche file repository. Revised credits.
 				1.0: Initial release
 	    	</ReleaseNotes>
-	    	<DownloadSize>1334763</DownloadSize>
+	    	<DownloadSize>1334759</DownloadSize>
 	    </LatestVersion>
 	    <Link>https://forums.qhimm.com/index.php?topic=30337</Link>
 	    <DonationLink></DonationLink>
