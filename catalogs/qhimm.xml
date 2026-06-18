@@ -2086,16 +2086,17 @@ Requires Enhanced Stock UI
       <Link>https://forums.qhimm.com/index.php?topic=29682.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1ZzRfuJpF27L-UvrtNGl-CAulcKRRoU5U</Link>
-        <Version>1.0</Version>
-        <ReleaseDate>2026-06-02</ReleaseDate>
+        <Version>1.1</Version>
+        <ReleaseDate>2026-06-16</ReleaseDate>
         <PreviewImage>https://i.imgur.com/AMx0PgL.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>104287654</DownloadSize>
+        <DownloadSize>122683178</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Composition7</Name>
       <Category>User Interface</Category>
-      <Description>A collection of HD avatars featuring official and original artwork.</Description>
+      <Description>A collection of HD avatars featuring official and original artwork. 
+More info in the link below:</Description>
       <Tags>
         <string>Avatars</string>
         <string>User Interface</string>
