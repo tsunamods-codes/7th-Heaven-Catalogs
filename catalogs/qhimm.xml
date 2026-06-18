@@ -1903,11 +1903,12 @@ Features:
       <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
       <LatestVersion>
         <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
-        <Version>2.965</Version>
-        <ReleaseDate>2026-02-26</ReleaseDate>
+        <Version>2.966</Version>
+        <ReleaseDate>2026-06-18</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://chris.7thheaven.rocks/n4vnSx0.png</PreviewImage>
-        <ReleaseNotes>Remove obsolete steamdeck config</ReleaseNotes>
+        <ReleaseNotes>Fix for broken 2026 steam release world text prompts.
+		Restore ECHOS world map button prompts.</ReleaseNotes>
         <DownloadSize>43928</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Enhanced Stock UI</Name>
