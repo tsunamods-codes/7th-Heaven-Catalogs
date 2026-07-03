@@ -816,11 +816,11 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.
       <Link>https://www.nexusmods.com/finalfantasy7/mods/82</Link>
       <LatestVersion>
         <Link>iros://GDrive/1sIwpkJOWG5RpdTvoFXUFxAdcg_AVB8mW</Link>
-        <Version>1.77</Version>
-        <ReleaseDate>2026-06-18</ReleaseDate>
+        <Version>1.78</Version>
+        <ReleaseDate>2026-07-03</ReleaseDate>
         <PreviewImage>https://i.imgur.com/y5WG7Kq.png</PreviewImage>
-        <ReleaseNotes>Removing Character Order Randomizer from the Super Randomizer Challenge because it's too buggy. Also adding compatibility restrictions with ESUI.</ReleaseNotes>
-        <DownloadSize>7670</DownloadSize>
+        <ReleaseNotes>Fixed Cloud always being recruited at level 6 in Character Order Randomizer. Also added new option Fixed Stat Gains to QOL.</ReleaseNotes>
+        <DownloadSize>7672</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Postscriptthree's Gameplay Tweaks</Name>
