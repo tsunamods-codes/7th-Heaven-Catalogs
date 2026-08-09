@@ -49,8 +49,7 @@
       <Author>Sega Chief</Author>
       <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1b7HmPrTd3w1XZDpcznJvO8wckpr-SQTx</Link>
-		<Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
+		    <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
         <Version>2.099993</Version>
         <ReleaseDate>2024-02-25</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -113,7 +112,6 @@
       <Link>http://forums.qhimm.com/index.php?topic=17008.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1YjCJuRX0nExjabKi5u7zYhwz6NN8TldF</Link>
-		<Link>iros://Url/http$sega.7thheaven.rocks/FF7TrueNecrosis.iro.7z</Link>
         <Version>1.22</Version>
         <ReleaseDate>2024-02-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -134,7 +132,6 @@
       <Link>http://forums.qhimm.com/index.php?topic=15155.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1OFmbLmmrAhOEWwqXvxffU0FoBuDA5ets</Link>
-		<Link>iros://Url/http$sega.7thheaven.rocks/FF7Lv1Challenge.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2024-02-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -155,7 +152,6 @@
       <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1d2vJ9N5owfw5wnuSn7vjCOwTQUreOSTP</Link>
-		<Link>iros://Url/http$sega.7thheaven.rocks/FF7MouthReplacer.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2024-02-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -176,7 +172,6 @@
       <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
       <LatestVersion>
         <Link>iros://GDrive/1GnQ5t-bTKuwwcJvKW6CiP1wsqRFDdK2T</Link>
-		<Link>iros://Url/http$sega.7thheaven.rocks/FF7BattleModelSwapsOGStyle.iro.7z</Link>
         <Version>1.03</Version>
         <ReleaseDate>2024-02-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
