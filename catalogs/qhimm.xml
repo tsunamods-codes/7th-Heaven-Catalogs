@@ -1010,12 +1010,12 @@ Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.
       <LatestVersion>
         <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
         <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
-        <Version>1.4292</Version>
-        <ReleaseDate>2026-06-13</ReleaseDate>
+        <Version>1.43</Version>
+        <ReleaseDate>2026-08-22</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
-        <ReleaseNotes>More minor adjustments.</ReleaseNotes>
-        <DownloadSize>1012091</DownloadSize>
+        <ReleaseNotes>Improved scene choreography in secret Honeybee Inn sequence.</ReleaseNotes>
+        <DownloadSize>1011537</DownloadSize>
       </LatestVersion>
       <Name>[Tsunamods] Shinra Archaeology Cut</Name>
       <Category>Gameplay</Category>
