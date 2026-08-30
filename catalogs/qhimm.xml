@@ -519,16 +519,16 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
 ## NinoStyle Chibi Field Models ##
     <Mod>
       <ID>2b25060c-c60e-426e-ac46-f85439e903e2</ID>
-      <Author>Ninostyle + L@zar0 + Tsunamix + Shiniboy</Author>
+      <Author>Ninostyle + L@zar0 + Tsunamix + Shiniboy + htp314</Author>
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>26.0810</Version>
-        <ReleaseDate>2026-08-10</ReleaseDate>
+        <Version>26.0830</Version>
+        <ReleaseDate>2026-08-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
         <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>140968</DownloadSize>
+        <DownloadSize>235203</DownloadSize>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
