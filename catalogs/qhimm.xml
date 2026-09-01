@@ -2420,17 +2420,17 @@ More info in the link below:</Description>
       <Author>Kuraudo</Author>
       <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1h2FqT9S3By8dc-r-8midsuPRvqCWsM0s</Link>
-        <Version>0.92</Version>
-        <ReleaseDate>2026-04-13</ReleaseDate>
+        <Link>iros://GDrive/1MLzFnlTWmoLupR2cSNxmHuuH7ZcjBuJm</Link>
+        <Version>0.93</Version>
+        <ReleaseDate>2026-09-01</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/9GOy2Ac.jpeg</PreviewImage>
-        <ReleaseNotes>Hotfix. The options in the Remake drop-down menu now match what appears in the game. Added more backgrounds and Random Option.</ReleaseNotes>
-        <DownloadSize>342054</DownloadSize>
+        <ReleaseNotes>Added one more BC background. Added option to select music manually, to improve compatibility with other mods and give players more agency.</ReleaseNotes>
+        <DownloadSize>189992</DownloadSize>
       </LatestVersion>
       <Name>Dynamic Backgrounds</Name>
       <Category>User Interface</Category>
-      <Description>This is a compilation of official and fan-made backgrounds spanning all titles. The aspect ratio is automatically detected as either 4:3 or 16:9. The new game and continue options are located in the bottom-left corner. Enabling backgrounds in this mod results in the playing of music on the title screen.
+      <Description>This is a compilation of official and fan-made backgrounds spanning all titles. The aspect ratio is automatically detected as either 4:3 or 16:9. The new game and continue options on the title screen are located in the bottom-left corner. You can choose some background music for the title screen too.
 
    -Special Thanks: Bonez, Chrysalis for new game/continue hext patch</Description>
       <Tags>
