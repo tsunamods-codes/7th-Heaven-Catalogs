@@ -633,21 +633,20 @@ Kaiseran,Sega Chief,Death Unites / 4-8Productions,Markul,CAulin and Postscriptth
 		
 Visual Changes and Battle UI:
 Cosmos,KWRRK,Trueodin,Chrysalis,Satsuki,Aavock and DLPB.
-	For more info, tips, and recommendations, visit the link below:</Description>
+* Download the mod "Composition7" for extra features for FF7 What If...?
+* For more info, tips, and recommendations, visit the link below.</Description>
     <LatestVersion>
       <Link>iros://GDrive/1efR8zxPRXF7Out5NJBgBvnTqedmJpksO</Link>
-      <Version>1.6</Version>
-      <ReleaseDate>2026-08-27</ReleaseDate>
+      <Version>1.7</Version>
+      <ReleaseDate>2026-09-08</ReleaseDate>
       <CompatibleGameVersions>Steam</CompatibleGameVersions>
       <PreviewImage>https://i.imgur.com/sbJlAy6.jpeg</PreviewImage>
-      <ReleaseNotes>Ver. 1.6:
-- Recruiting Yuffie is now easier.
-- The first conversation with Cait Sith has been edited (Aeris).
-- The encounter rate for the appropriate Chocobos needed to obtain the Gold Chocobo has been increased: Good, Great, and Wonderful Chocobo.
-- The "Composition7" mod now includes more options for FF7 What If…?:
-- Enable a Kernel that provides additional options.
-- Enable the use of Mini Avatars in dialogues. All credit goes to the author "Chrysalis" for this great addition.</ReleaseNotes>
-      <DownloadSize>504535</DownloadSize>
+      <ReleaseNotes>Ver. 1.7:
+-Aegis Armlet now has Triple Growth.
+-Updated the Battle Simulator with new improvements.
+-The optional Kernel included in Composition7 now adds a new accessory:
+Mako Ring replaces Reflect Ring.</ReleaseNotes>
+      <DownloadSize>492711</DownloadSize>
     </LatestVersion>
     <Link>https://forums.qhimm.com/index.php?topic=30625.0</Link>
     <DonationLink></DonationLink>
