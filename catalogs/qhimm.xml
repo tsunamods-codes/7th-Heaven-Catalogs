@@ -2440,7 +2440,31 @@ More info in the link below:</Description>
 		<string>Kuraudo</string>
       </Tags>
     </Mod>
-
+	  
+## FFVII Revelation Portraits ##
+    <Mod>
+      <ID>36db545e-23b4-4bc9-aedd-413e03220a9e</ID>
+      <Author>Marius Boss</Author>
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/174</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1AmLrljKl1gAj4fLoFVYplULqs4UO_ih2</Link>
+        <Version>1</Version>
+        <ReleaseDate>2026-09-30</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/a/2PIIThx.jpeg</PreviewImage>
+        <ReleaseNotes>Initial Release.</ReleaseNotes>
+        <DownloadSize>64031</DownloadSize>
+      </LatestVersion>
+      <Name>FFVII Revelation Portraits</Name>
+      <Category>User Interface</Category>
+      <Description>Adds the FFVII Revelation portraits.</Description>
+      <Tags>
+        <string>FFVII Revelation Portraits</string>
+        <string>User Interface</string>
+		<string>Marius Boss</string>
+      </Tags>
+    </Mod>
+	  
 ## WORLD TEXTURES ##
 
 ## Realistic, Subtle World Map Animations ##
