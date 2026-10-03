@@ -664,16 +664,16 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
       <Author>Superbledur</Author>
       <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
       <LatestVersion>
-	    <Link>iros://GDrive/16_e0KdIQUKCQB4TyZ8AfkRNElcSqMAtS</Link>
-        <Version>2.29</Version>
-        <ReleaseDate>2026-08-29</ReleaseDate>
+	    <Link>iros://GDrive/1BRV_reAr-r0CiCo8_19iIwtwIOsb7Lms</Link>
+        <Version>2.3</Version>
+        <ReleaseDate>2026-10-03</ReleaseDate>
         <PreviewImage>https://i.imgur.com/iIK5tuJ.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>134200</DownloadSize>
+        <DownloadSize>135200</DownloadSize>
       </LatestVersion>
       <Name>Tifarith 2.0</Name>
       <Category>Gameplay</Category>
-      <Description>Gameplay mod with added content and modified spells/enemies/weapons/armors and progressive difficulty and scenes additions</Description>
+      <Description>Gameplay mod with added content and modified spells/enemies/equipment. New : Difficulty choice possible! </Description>
       <Tags>
         <string>Superbledur</string>
         <string>Gameplay</string>
@@ -687,16 +687,16 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
       <Author>Superbledur</Author>
       <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
       <LatestVersion>
-		<Link>iros://GDrive/1IvNdcUZPPveBL9buoLf0W_zECoFZONw0</Link>
-        <Version>2.29</Version>
-        <ReleaseDate>2026-08-29</ReleaseDate>
+		<Link>iros://GDrive/1l2sH8mtT9olp6aJ9URH_g5OVZedlQat2</Link>
+        <Version>2.3</Version>
+        <ReleaseDate>2026-10-03</ReleaseDate>
         <PreviewImage>https://i.imgur.com/iIK5tuJ.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>134200</DownloadSize>
+        <DownloadSize>134600</DownloadSize>
       </LatestVersion>
       <Name>Tifarith Casual 2.0</Name>
       <Category>Gameplay</Category>
-      <Description>Gameplay mod with added content and modified spells/enemies/weapons/armors, not too hard difficulty and scenes additions</Description>
+      <Description>Gameplay mod with added content and modified spells/enemies/equipment. Vanilla-like difficulty</Description>
       <Tags>
         <string>Superbledur</string>
         <string>Gameplay</string>
