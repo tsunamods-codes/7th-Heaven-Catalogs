@@ -11,6 +11,11 @@ on:
   pull_request:
     branches:
     - master
+  merge_group:
+    types:
+    - checks_requested
+    branches:
+    - master
 
 env:
   _IS_BUILD_CANARY: false
