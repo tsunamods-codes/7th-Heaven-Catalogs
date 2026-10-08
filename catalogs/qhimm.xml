@@ -316,12 +316,13 @@ Special Thanks to Kuraudo
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
-        <Version>26.08301</Version>
+        <Version>26.08302</Version>
         <ReleaseDate>2026-08-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
         <ReleaseNotes></ReleaseNotes>
         <DownloadSize>53535</DownloadSize>
+		<GameLanguage>ANY</GameLanguage>
       </LatestVersion>
       <Name>NinoStyle Battle Models</Name>
       <Category>Battle Models</Category>
@@ -523,12 +524,13 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20Chibi.7z</Link>
-        <Version>26.08302</Version>
+        <Version>26.08303</Version>
         <ReleaseDate>2026-08-30</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
         <ReleaseNotes></ReleaseNotes>
         <DownloadSize>240690</DownloadSize>
+		<GameLanguage>ANY</GameLanguage>
       </LatestVersion>
       <Name>NinoStyle Chibi Field Models</Name>
       <Category>Field Models</Category>
@@ -546,12 +548,13 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Field%20Models/Ninostyle%20HD.7z</Link>
-        <Version>26.0121</Version>
+        <Version>26.012101</Version>
         <ReleaseDate>2026-01-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/Hr5bC39.png</PreviewImage>
         <ReleaseNotes></ReleaseNotes>
         <DownloadSize>113059</DownloadSize>
+		<GameLanguage>ANY</GameLanguage>
       </LatestVersion>
       <Name>NinoStyle HD Field Models</Name>
       <Category>Field Models</Category>
