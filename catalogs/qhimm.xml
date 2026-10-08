@@ -1080,17 +1080,18 @@ Check Readme for full version history.</ReleaseNotes>
     <Mod>
       <ID>66b68c94-fee1-452d-83a1-7c7067d86376</ID>
       <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>	  
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV15.iro</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2022-10-06</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <Version>1.11</Version>
+        <ReleaseDate>2026-10-07</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>		
         <PreviewImage>https://i.imgur.com/xzaxVeT.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>1993357</DownloadSize>
+        <DownloadSize>1975853</DownloadSize>
       </LatestVersion>
       <Name>Cosmos FMV (15 fps)</Name>
+	  <GameLanguage>ANY</GameLanguage>
       <Category>Media</Category>
       <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
       <Tags>
@@ -1106,17 +1107,18 @@ Check Readme for full version history.</ReleaseNotes>
     <Mod>
       <ID>4309613f-d6b3-4e0a-a5c7-6af71da34d7d</ID>
       <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>	  
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV30.iro</Link>
-        <Version>1.1</Version>
-        <ReleaseDate>2022-10-06</ReleaseDate>
+        <Version>1.11</Version>
+        <ReleaseDate>2026-10-07</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/xzaxVeT.png</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>2908525</DownloadSize>
+        <DownloadSize>2885517</DownloadSize>
       </LatestVersion>
       <Name>Cosmos FMV (30 fps)</Name>
+	  <GameLanguage>ANY</GameLanguage>
       <Category>Media</Category>
       <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
       <Tags>
@@ -1132,17 +1134,18 @@ Check Readme for full version history.</ReleaseNotes>
     <Mod>
       <ID>7c6a0289-ae89-411d-836a-531e78938401</ID>
       <Author>Cosmos, Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=21686.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21686.0</Link>	  
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosLimitBreak.iro</Link>
-        <Version>1.6</Version>
-        <ReleaseDate>2024-12-24</ReleaseDate>
+        <Version>1.61</Version>
+        <ReleaseDate>2026-10-07</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/luyEKP0.jpg</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>3169875</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Limit Break</Name>
+	  <GameLanguage>ANY</GameLanguage>
       <Category>Field Textures</Category>
       <Description>Field background textures upscaled to preserve texture detail and extended for widescreen displays using a combination of AI and extensive manual editing.</Description>
       <Tags>
@@ -1156,17 +1159,18 @@ Check Readme for full version history.</ReleaseNotes>
     <Mod>
       <ID>1970dd4b-cd94-410e-a3af-f9c7086c6699</ID>
       <Author>Cosmos, L@ZaRO, Satsuki_Yatoshi</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=21687.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=21687.0</Link>	  
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosGaia.iro</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2024-02-24</ReleaseDate>
+        <Version>1.02</Version>
+        <ReleaseDate>2026-10-07</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/6c935Ci.jpg</PreviewImage>
         <ReleaseNotes/>
         <DownloadSize>84971</DownloadSize>
       </LatestVersion>
       <Name>Cosmos Gaia</Name>
+	  <GameLanguage>ANY</GameLanguage>
       <Category>World Textures</Category>
       <Description>Worldmap overhaul that re-implements the terrain rendering to add analog movement and camera controls, real-time lighting and extended view distance.</Description>
       <Tags>
@@ -1391,17 +1395,18 @@ Check Readme for full version history.</ReleaseNotes>
     <Mod>
       <ID>0df45991-45f2-4b53-b323-a5e788305667</ID>
       <Author>Bynyl</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=18483.0</Link>
+      <Link>https://forums.qhimm.com/index.php?topic=18483.0</Link>	  
       <LatestVersion>
         <Link>iros://Url/https://cosmos.7thheaven.rocks/Bynyl_FF7_Soundtrack_Remake.iro</Link>
-        <Version>0.58</Version>
-        <ReleaseDate>2024-05-18</ReleaseDate>
+        <Version>0.59</Version>
+        <ReleaseDate>2026-10-07</ReleaseDate>
         <PreviewImage>https://i.imgur.com/9ft52TX.jpeg</PreviewImage>
         <ReleaseNotes/>
-        <DownloadSize>153761</DownloadSize>
+        <DownloadSize>122767</DownloadSize>
       </LatestVersion>
       <MetaVersion>0</MetaVersion>
       <Name>Bynyl FF7 Soundtrack</Name>
+	  <GameLanguage>ANY</GameLanguage>
       <Category>Media</Category>
       <Description>This is a reorchestration project by Bynyl, 57/91 tracks remade as well as a modified Opening FMV. Incomplete.</Description>
       <Tags>
