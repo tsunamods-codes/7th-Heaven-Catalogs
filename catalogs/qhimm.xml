@@ -783,7 +783,7 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
       <Link>https://forums.qhimm.com/index.php?topic=16653.msg236205#msg236205</Link>
       <LatestVersion>
         <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/GameplayTweaks.iro</Link>
-        <Version>4.038</Version>
+        <Version>4.039</Version>
         <ReleaseDate>2026-06-03</ReleaseDate>
         <PreviewImage>https://i.imgur.com/oHJvuQE.png</PreviewImage>
         <ReleaseNotes/>
@@ -793,6 +793,7 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
       <Name>Gameplay Tweaks</Name>
       <Category>Gameplay</Category>
       <Description>A collection of Tweaks and Cheats.</Description>
+	  <GameLanguage>ANY</GameLanguage>
       <Tags>
         <string>Qhimm</string>
         <string>Gameplay</string>
