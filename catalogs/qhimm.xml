@@ -2705,9 +2705,9 @@ Fixed Chocobo colors.</ReleaseNotes>
       <Author>JakeIsYoshi</Author>
       <Link>https://forums.qhimm.com/index.php?topic=30975.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1g4PxlrQFHCRhUo8c2ethoE4I4PDvrRw1</Link>
-        <Version>1.01</Version>
-        <ReleaseDate>2026-02-22</ReleaseDate>
+        <Link>iros://GDrive/1HXmrrZQQbUJ6qjLMOq-lVCKIwjQsUKFX</Link>
+        <Version>1.10</Version>
+        <ReleaseDate>2026-10-10</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://i.imgur.com/zy3zaJO.png</PreviewImage>
         <ReleaseNotes>Initial release.</ReleaseNotes>
@@ -2715,6 +2715,7 @@ Fixed Chocobo colors.</ReleaseNotes>
       </LatestVersion>
       <Name>PSX Battle Shadows and Vertex Snapping</Name>
       <Category>Shaders</Category>
+	  <GameLanguage>ANY</GameLanguage>
       <Description>This mod change the look of shadows during battles to match the original PlayStation. A few presets are available, as well as an additional option that gives you access to Vertex Snapping Effect.
 	   -REQUIRES 7th Heaven 4.4.0.67+ and FFNx 1.23.0.159+
 	   -This mod is not compatible with Advanced Lighting or Cosmos Gaia
