@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>767c163b-1ad6-429b-bba5-391f3d401c31</ID>
+  <Author>FeliX Leonhart, Orichalcon</Author>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1LMmcgyFXjI7XxmFCi6IanasR2Spgqxhy</Link>
+    <Version>0.99</Version>
+    <ReleaseDate>2024-07-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>88881</DownloadSize>
+  </LatestVersion>
+  <Name>High-Detail World Map</Name>
+  <Category>World Textures</Category>
+  <Description>Custom-made World Map Textures</Description>
+  <Tags>
+    <string>FeliX Leonhart, Orichalcon</string>
+    <string>World Textures</string>
+  </Tags>
+</Mod>

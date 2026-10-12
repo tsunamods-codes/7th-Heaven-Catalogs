@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>debe4027-3b07-4fab-a45b-d7acb444973a</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/10yCi0IdDnovhaHNq2_wBHb24xDn0w--m</Link>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5.iro.7z</Link>
+    <Version>1.59</Version>
+    <ReleaseDate>2025-02-11</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/ctPek1l.jpg</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>22000</DownloadSize>
+  </LatestVersion>
+  <Name>New Threat 1.5</Name>
+  <Description>An extensive gameplay rebalance and content mod.</Description>
+  <Category>Gameplay</Category>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

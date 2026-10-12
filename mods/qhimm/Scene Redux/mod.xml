@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>e69c43ca-1704-4dc5-9e2c-f17989b38e79</ID>
+  <Author>Salk</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/SceneRedux.iro</Link>
+    <Version>1.31</Version>
+    <ReleaseDate>2007-10-09</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/Qj9ZM03.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>282</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Scene Redux</Name>
+  <Category>Gameplay</Category>
+  <Description>Item stealing and drop chances are changed, drop/steal tables are changed, and enemies that don't have normally have items to steal/morph now do.</Description>
+  <Tags>
+    <string>Salk</string>
+    <string>Gameplay</string>
+    <string>Difficulty</string>
+  </Tags>
+</Mod>

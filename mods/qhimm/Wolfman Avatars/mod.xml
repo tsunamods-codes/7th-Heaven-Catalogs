@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>2a36f9f0-2723-4cfe-a5d7-04701cf554ac</ID>
+  <Author>Wolfman</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Wolfman.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/CaSajxk.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>35500</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Wolfman Avatars</Name>
+  <Category>User Interface</Category>
+  <Description>Multple custom avatar choices by Wolfman</Description>
+  <Tags>
+    <string>Avatar</string>
+    <string>User Interface</string>
+    <string>Wolfman</string>
+  </Tags>
+</Mod>

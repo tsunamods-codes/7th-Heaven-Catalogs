@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>e1a9773f-b7e4-461b-860c-73b8cf8875d6</ID>
+  <Author>dotAXiS</Author>
+  <Link></Link>
+  <LatestVersion>
+    <DownloadSize>3</DownloadSize>
+    <Link>iros://Url/https$github.com/dotaxis/7thDeck/releases/latest/download/SteamDeckAutoConfig.iro</Link>
+    <Version>1.05</Version>
+    <ReleaseDate>2024-01-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+  </LatestVersion>
+  <Name>Steam Deck Auto-Config</Name>
+  <Description>Automatically apply recommended settings for Steam Deck
+
+    Resolution: Auto
+    Window Mode: Fullscreen
+    Aspect Ratio: 16:10
+    Antialiasing: 4x MSAA
+    Anisotropic Filtering: On
+    Internal Resolution Scaling: 4x
+    Vertical Sync: Off
+    Advanced Lighting: Enabled
+    Analogue Controls: Enabled
+    Steam Compatibility: Enabled
+    Auto Run: Enabled
+      </Description>
+  <Category>Gameplay</Category>
+  <Tags></Tags>
+</Mod>

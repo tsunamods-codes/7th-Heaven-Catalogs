@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>7ac77aef-8732-4e9a-8321-bec5c016456c</ID>
+  <Author>Kuraudo</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1i1pzRTsr55DQGbWmZQWZyYk3dzbFY0bS</Link>
+    <Version>1.82</Version>
+    <ReleaseDate>2026-08-24</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/9QHdwR7.jpeg</PreviewImage>
+    <ReleaseNotes>Added PS1-style options: Optic Blast (vanilla + SAC/UBF), Light up the World (vanilla + SYW), Pixelback, UWback. Added Midgar title screen background, attract mode credit backgrounds and fixed music on title screen. Added alternative world map.</ReleaseNotes>
+    <DownloadSize>127312</DownloadSize>
+  </LatestVersion>
+  <Name>Nitpick</Name>
+  <Category>User Interface</Category>
+  <Description>This mod gives you access to some niche options and fixes a few minor details. This includes the fixed backgrounds for Seventh Heaven bar sign, Midgar 5 truck label, Sector 5 gate number, Corel Prison sign, black materia shape, Red XIII's portrait etc. It also offers a range of add-ons, including the option to change the background on the title screen and on the credits screen, a disc change screen homage. Listen to music during the title screen and enjoy PSX-style tweaks and more!
+	  Additional Authors: Aavock, Cae Lumen, Satsuki, L@zar0, Dangarfield, Kaldarasha, Grimmy, Jusete</Description>
+  <Tags>
+    <string>Nitpick</string>
+    <string>User Interface</string>
+    <string>Kuraudo</string>
+  </Tags>
+</Mod>

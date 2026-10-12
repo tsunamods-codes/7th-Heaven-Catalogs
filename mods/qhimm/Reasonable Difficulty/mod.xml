@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>cad0e61c-be30-4885-b6ac-d1900f7aa5ab</ID>
+  <Author>hay</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/ReasonableDifficulty.iro</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2005-10-11</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/QytNp4D.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>247</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Reasonable Difficulty</Name>
+  <Category>Gameplay</Category>
+  <Description>A difficulty mod made for hays own personal enjoyment because the original difficulty was "Too damn boring"</Description>
+  <Tags>
+    <string>hay</string>
+    <string>Gameplay</string>
+    <string>Difficulty</string>
+  </Tags>
+</Mod>

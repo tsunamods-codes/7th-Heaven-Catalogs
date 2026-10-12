@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>5a42dc2f-1ead-444e-af46-e496d4631e6a</ID>
+  <Author>FinalFanTim, PacGamer</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=8160.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Media/OST%20Remastered%20-%20FinalFanTim.iro</Link>
+    <Version>1.04</Version>
+    <ReleaseDate>2025-04-15</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/E3yG6yf.png</PreviewImage>
+    <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
+    <DownloadSize>354493</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>OST Music Remastered</Name>
+  <Category>Media</Category>
+  <Description>Remastered versions of the original soundtrack.</Description>
+  <Tags>
+    <string>Media</string>
+    <string>Music</string>
+  </Tags>
+</Mod>

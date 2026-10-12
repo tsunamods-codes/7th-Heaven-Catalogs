@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>a3c6e436-72ba-46c9-b34a-23004b2d4d75</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
+    <Version>2.099993</Version>
+    <ReleaseDate>2024-02-25</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>33000</DownloadSize>
+  </LatestVersion>
+  <Name>New Threat 2.0 Vanilla Combat</Name>
+  <Description>Content mod with vanilla encounters.</Description>
+  <Category>Gameplay</Category>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

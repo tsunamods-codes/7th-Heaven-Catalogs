@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>8e11ffbd-13a2-43c4-9795-ab66194ddfab</ID>
+  <Author>UpRisen Sega Chief</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=19313.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Battle Models/barretmod.iro</Link>
+    <Version>1.6</Version>
+    <ReleaseDate>2019-10-28</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/enIrc2d.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>184314</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] The Barret Mod</Name>
+  <Category>Battle Models</Category>
+  <Description>This mod makes your darkest nightmares come true. The Barret cells have spread to everyone in the Final Fantasy VII universe, and have gained the appearance of Barret.</Description>
+  <Tags>
+    <string>Models</string>
+    <string>UpRisen</string>
+    <string>Sega Chief</string>
+    <string>Barret Mod</string>
+    <string>Tsunamods</string>
+  </Tags>
+</Mod>

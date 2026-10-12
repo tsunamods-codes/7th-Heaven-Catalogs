@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>bc4f77b2-f3ce-4378-bd13-7fcc7e55960c</ID>
+  <Author>Odysseus, TurquoiseHammer</Author>
+  <Link>https://shinraarchaeology.com/retransmod.html</Link>
+  <DonationLink>https://ko-fi.com/odysseus77777</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https$strifeisrife.7thheaven.rocks//FFVII%20Shinra%20Archaeology%20Cut.iro</Link>
+    <Link>iros://GDrive/1ZL8dYQ7RGSZKLrQNKHnR4Z4Md3LFsH2h</Link>
+    <Version>1.43</Version>
+    <ReleaseDate>2026-08-22</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/p2BdqVo.jpeg</PreviewImage>
+    <ReleaseNotes>Improved scene choreography in secret Honeybee Inn sequence.</ReleaseNotes>
+    <DownloadSize>1011537</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Shinra Archaeology Cut</Name>
+  <Category>Gameplay</Category>
+  <Description>This mod does the double duty of retranslating the entire game script from the ground up directly from the original Japanese—taking care to conform with modern Square Enix localization choices for FFVII—as well as optionally restoring the vast majority of the game's unused content. Also offers a bevy of optional bonus features in the config settings.</Description>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

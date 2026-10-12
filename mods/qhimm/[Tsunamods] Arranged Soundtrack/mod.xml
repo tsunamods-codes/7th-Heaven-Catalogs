@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>ed5a8c57-56bf-4cf1-acfa-8e5347f27463</ID>
+  <Author>Dracula9AntiChapel, Bonez, Tsunamix</Author>
+  <Link>https://discord.gg/XVHBExy</Link>
+  <LatestVersion>
+    <Link>iros://Url/https://motr.7thheaven.rocks/TsunamodsArranged/[Tsunamods]-Arranged-Soundtrack.iro</Link>
+    <Version>1.24</Version>
+    <ReleaseDate>2025-04-15</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/X7lQH2y.png</PreviewImage>
+    <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
+    <DownloadSize>136972</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Arranged Soundtrack</Name>
+  <Category>Media</Category>
+  <Description>Alternate Soundtrack</Description>
+  <Tags>
+    <string>Arranged</string>
+    <string>Soundtrack</string>
+    <string>Tsunamix</string>
+    <string>Dracula9AntiChapel</string>
+  </Tags>
+</Mod>

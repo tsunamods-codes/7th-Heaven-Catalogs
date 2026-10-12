@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>2e4c6623-97b9-4d5c-b2f3-b4f24f06a911</ID>
+  <Author>Bonez</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=20475.0</Link>
+  <DonationLink>https://7thheaven.rocks/bonezdonate.html</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
+    <Version>1.21</Version>
+    <ReleaseDate>2026-03-23</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
+    <ReleaseNotes>Update for Echo-S fixes</ReleaseNotes>
+    <DownloadSize>363000</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Cosmo Memory</Name>
+  <Category>Media</Category>
+  <Description>Complete sound overhaul.
+  -Updates every single sound effect in the game.
+  -Adds ambient sound effects to every field in the game.
+  -Adds ambient sound effects to every battle in the game.
+  -Voiced attacks for every character.
+  -Ground-conditional footstep sounds.
+  -Updates all video cutscene sound effects.
+  -Shuffles sounds so repeating sounds don't sound the same.
+  -3 selectable menu sound sets.
+      </Description>
+  <Tags>
+    <string>Bonez</string>
+    <string>Tsunamods</string>
+    <string>Media</string>
+    <string>Sound</string>
+    <string>sfx</string>
+  </Tags>
+</Mod>

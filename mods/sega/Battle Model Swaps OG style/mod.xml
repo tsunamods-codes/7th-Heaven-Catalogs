@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>fd337dbc-5c77-4031-b06e-afadf78ecd2c</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1GnQ5t-bTKuwwcJvKW6CiP1wsqRFDdK2T</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2024-02-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/hAESdnj.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>3700</DownloadSize>
+  </LatestVersion>
+  <Name>Battle Model Swaps OG style</Name>
+  <Description>A series of costume/model swaps for battle models using the Original Game style (shaded polygons)</Description>
+  <Category>Battle Models</Category>
+  <Tags>
+    <string>Graphics</string>
+    <string>Battle Models</string>
+  </Tags>
+</Mod>

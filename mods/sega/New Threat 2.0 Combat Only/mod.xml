@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>e6c78e87-24b6-452c-9477-880ba6bbc7bb</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0CombatOnly.iro.7z</Link>
+    <Version>2.099995</Version>
+    <ReleaseDate>2025-10-01</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>3800</DownloadSize>
+  </LatestVersion>
+  <Name>New Threat 2.0 Combat Only</Name>
+  <Description>A combat rebalance mod.</Description>
+  <Category>Gameplay</Category>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

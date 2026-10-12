@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>e17f6212-2f51-4c51-b2e3-ca3bafcf2b6b</ID>
+  <Author>unab0mb, Symphonic Remasters</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=20240.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/Symphonic_Remasters_Redux.iro</Link>
+    <Version>2.03</Version>
+    <ReleaseDate>2025-04-15</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/n0H52S0.png</PreviewImage>
+    <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
+    <DownloadSize>519999</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Symphonic Remasters: Redux</Name>
+  <Description>Complete FF7 soundtrack replacement in a symphonic style. Thanks to Bonez for the artwork and Satsuki for video upscales! To hear the included intro/ending movies, place this mod above other movie mods. If other music mods include movies, disable the movies from the other mods if possible.</Description>
+  <Category>Media</Category>
+  <Tags>
+    <string>unab0mb</string>
+    <string>Symphonic Remasters</string>
+    <string>Music</string>
+    <string>Media</string>
+  </Tags>
+</Mod>

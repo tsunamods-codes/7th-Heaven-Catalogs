@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>01427f14-6d02-47b7-84de-39f7991d9042</ID>
+  <Author>Bonez, Aavock, Chrysalis</Author>
+  <Link></Link>
+  <DonationLink>https://7thheaven.rocks/bonezdonate.html</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_AavockESUI.7z</Link>
+    <Version>0.97</Version>
+    <ReleaseDate>2026-03-13</ReleaseDate>
+    <CompatibleGameVersions></CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/aqOIHP0.png</PreviewImage>
+    <ReleaseNotes>
+	Fix vanishing boxes in SAC
+        </ReleaseNotes>
+    <DownloadSize>50000</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] AavockESUI</Name>
+  <Category>User Interface</Category>
+  <Description>ESUI theme using Aavock's remastered textures. Vanilla upscaled textures with all of ESUI's features including multiple battle views, mini avatars and expanded icons.
+Requires Enhanced Stock UI
+      </Description>
+  <Tags>
+    <string>Bonez</string>
+    <string>Tsunamods</string>
+    <string>User Interface</string>
+  </Tags>
+</Mod>

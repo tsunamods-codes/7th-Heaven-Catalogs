@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>b6629e6b-4a35-4ea7-b837-ad9655d01cfe</ID>
+  <Author>Kaldarasha</Author>
+  <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$motr.7thheaven.rocks/ChaOS/Rise-of-the-Black-Wolf.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2019-05-18</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>8063</DownloadSize>
+  </LatestVersion>
+  <Name>Rise of the Black Wolf</Name>
+  <Category>Battle Models</Category>
+  <Description>Replaces Clouds model with a certain black haired 1st Class SOLDIER</Description>
+  <Tags>
+    <string>Kaldarasha</string>
+    <string>Battle Models</string>
+  </Tags>
+</Mod>

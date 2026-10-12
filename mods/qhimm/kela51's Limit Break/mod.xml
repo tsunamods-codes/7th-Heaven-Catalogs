@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>189f00ec-ec88-44bd-a2d4-05dd387db47d</ID>
+  <Author>kela51</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/kela51_Limit_Break.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/Ao7LELA.mp4</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>15900</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>kela51's Limit Break</Name>
+  <Category>Spell Textures</Category>
+  <Description>Multiple Limit Break retextures done by kela51</Description>
+  <Tags>
+    <string>Textures</string>
+    <string>Limit Break</string>
+    <string>kela51</string>
+  </Tags>
+</Mod>

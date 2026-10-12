@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID>
+  <Author>Bonez</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
+  <DonationLink>https://7thheaven.rocks/bonezdonate.html</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.7z</Link>
+    <Version>2.57</Version>
+    <ReleaseDate>2026-03-13</ReleaseDate>
+    <CompatibleGameVersions></CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/OlNGKPm.gif</PreviewImage>
+    <ReleaseNotes>
+	-Add 16:10 for FT battle views
+	-Fix issue where NT would disable field buttons
+	-New theme font closer to original ff12 font
+	-Add 16:10
+	-New ff12 color scheme
+
+Additional credits:
+Lap Pun Cheung
+Chrysalis
+Xhris
+Twinees
+Vertex2995
+Prism
+        </ReleaseNotes>
+    <DownloadSize>820000</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Finishing Touch</Name>
+  <Category>User Interface</Category>
+  <Description>A collection of menu enhancements including:
+Prelude Credits, Start Screens and Game Over Screens from artist Lap Pun Cheung with option to randomize from 109 pieces on every launch.
+11 avatar sets.
+7 battle/dialogue avatar sets.
+Full retro-modern ESUI theme (Requires Enhanced Stock UI).
+      </Description>
+  <Tags>
+    <string>Bonez</string>
+    <string>Tsunamods</string>
+    <string>User Interface</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>de38b84b-076a-4bcd-b176-c546295e9aae</ID>
+  <Author>Masa-Buster</Author>
+  <Link>https://forums.qhimm.com</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/HarderItems.iro</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2009-08-21</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/HvxqcHg.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>550</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Harder Items</Name>
+  <Category>Gameplay</Category>
+  <Description>Steal and drop rates are adjusted by 15% or 30%. (Changed in the settings)</Description>
+  <Tags>
+    <string>Masa-Buster</string>
+    <string>Gameplay</string>
+    <string>Difficulty</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>09E81530-3F09-46B9-831B-DF431B8F319C</ID>
+  <Author>Tsunamods Team</Author>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$gp-mc.net/tsunamods/echo-s-7/latest_full/Echo-s.iro</Link>
+    <Version>1.24</Version>
+    <ReleaseDate>2026-07-19</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://tsunamods.7thheaven.rocks/preview/Echo-SFix.gif</PreviewImage>
+    <ReleaseNotes>-Replace placeholder line</ReleaseNotes>
+    <DownloadSize>3307496</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Echo-S</Name>
+  <Category>Gameplay</Category>
+  <Description>Adds full voice acting to the game</Description>
+  <Tags>
+    <string>Tsunamods</string>
+    <string>Tsunamix</string>
+  </Tags>
+</Mod>

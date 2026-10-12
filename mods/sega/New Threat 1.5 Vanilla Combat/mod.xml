@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>1c79292b-bbeb-429b-aea6-07b7c825ff86</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1BkEhmZxY50Ow9DsEmbcdxhtNV8BZis3q</Link>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5VanillaCombat.iro.7z</Link>
+    <Version>1.54</Version>
+    <ReleaseDate>2024-02-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/ctPek1l.jpg</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>14000</DownloadSize>
+  </LatestVersion>
+  <Name>New Threat 1.5 Vanilla Combat</Name>
+  <Description>New Threat mod but with vanilla enemies and character balancing</Description>
+  <Category>Gameplay</Category>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>3e25ff6e-a00b-4b92-930d-57b9cd09a1e1</ID>
+  <Author>Orichalcon</Author>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1fGaXEbimhHTw7n393h0IUBb2V7b4nfa1</Link>
+    <Version>0.99</Version>
+    <ReleaseDate>2024-07-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>14983</DownloadSize>
+  </LatestVersion>
+  <Name>Realistic, Subtle World Map Animations</Name>
+  <Category>World Textures</Category>
+  <Description>Custom-made World Map Animations</Description>
+  <Tags>
+    <string>Orichalcon</string>
+    <string>World Textures</string>
+  </Tags>
+</Mod>

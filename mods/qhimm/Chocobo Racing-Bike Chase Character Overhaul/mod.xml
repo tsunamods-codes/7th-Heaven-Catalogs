@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>13d65cc9-f8fb-4576-890d-e08e2f8454f2</ID>
+  <Author>Orichalcon</Author>
+  <Link>https://discord.gg/tsunamods-community-277610501721030656</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1jolROfAt_r3aFxYaBlTwa_xAS1M91mBZ</Link>
+    <Version>0.999</Version>
+    <ReleaseDate>2025-07-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>897</DownloadSize>
+  </LatestVersion>
+  <Name>Chocobo Racing-Bike Chase Character Overhaul</Name>
+  <Category>Minigames</Category>
+  <Description>Replaces the triangular low quality character models of these 2 minigames with each character's respective vanilla field model.</Description>
+  <Tags>
+    <string>Orichalcon</string>
+    <string>Minigames</string>
+  </Tags>
+</Mod>

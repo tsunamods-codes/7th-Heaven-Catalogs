@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>8c1020f8-562c-4a1e-87ab-dd328c0aa567</ID>
+  <Author>Bonez</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=19884.0</Link>
+  <DonationLink>https://7thheaven.rocks/bonezdonate.html</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https://bonez.7thheaven.rocks/%5BTsunamods%5D_Modern_Spell_Names.iro</Link>
+    <Version>1.78</Version>
+    <ReleaseDate>2026-03-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/i4NPnAO.png</PreviewImage>
+    <ReleaseNotes>Further workarounds for SAC and NTCO</ReleaseNotes>
+    <DownloadSize>5920</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Wizard Staff</Name>
+  <Category>Miscellaneous</Category>
+  <Description>Updates spell names to official names used in modern Final Fantasy games and improves spell/item info.
+E.g., Bolt2 = Thundara</Description>
+  <Tags>
+    <string>Bonez</string>
+    <string>tsunamods</string>
+    <string>Miscellaneous</string>
+  </Tags>
+</Mod>

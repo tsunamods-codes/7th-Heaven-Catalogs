@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>c33191b1-439d-4536-9c70-cc5f6957dfa2</ID>
+  <Author>UpRisen</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=18029.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$tsunamods.7thheaven.rocks/%5BTsunamods%5D%20Avalanche%20Arisen%20Battle%20Scenes%201.0.DDS.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2018-07-26</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/DjBkB71.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>181588</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Avalanche Arisen Battle Scenes</Name>
+  <Category>Battle Textures</Category>
+  <Description>High resolution battle fields</Description>
+  <Tags>
+    <string>Avalanche</string>
+    <string>Tsunamods</string>
+    <string>Battle Fields</string>
+    <string>Fields</string>
+    <string>Arisen</string>
+    <string>Uprisen</string>
+  </Tags>
+</Mod>

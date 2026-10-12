@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>45f280cc-327f-4242-a77c-40e2241ad6d3</ID>
+  <Author>Grimmy</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Misc/JessieMod.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2015-02-28</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/FVrPIci.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>1980</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Jessie Mod</Name>
+  <Category>Miscellaneous</Category>
+  <Description>Talk to Jessie in the Elevator to have her temporarily join your party.</Description>
+  <Tags>
+    <string>Grimmy</string>
+    <string>Miscellaneous</string>
+    <string>Jessie</string>
+  </Tags>
+</Mod>

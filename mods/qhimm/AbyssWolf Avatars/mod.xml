@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>beae6bc5-90f0-43a8-990e-e382300a0ea6</ID>
+  <Author>AbyssWolf</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15546.msg218806#msg218806</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/AbyssWolf.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/k2kxq6M.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>3440</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>AbyssWolf Avatars</Name>
+  <Category>User Interface</Category>
+  <Description>Custom character avatars by AbyssWolf</Description>
+  <Tags>
+    <string>Avatar</string>
+    <string>User Interface</string>
+    <string>AbyssWolf</string>
+  </Tags>
+</Mod>

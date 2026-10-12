@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>689f9442-2ae8-4de5-b3a7-7099de769e97</ID>
+  <Author>gjoerulv</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=6818.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/Hardcore - gjoerulv.iro</Link>
+    <Version>1.02</Version>
+    <ReleaseDate>2007-06-23</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/iFNDVAP.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>5178</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Hardcore Mod</Name>
+  <Category>Gameplay</Category>
+  <Description>Basically boosts the game difficulty. This mod mainly strives to refresh the gameplay by sticking to the original settings, BUT it also tweaks some enemy AI, spell effect, equipments, etc, for different reasons. For instance, there are quite a few bugs in the AI and field scripts. Most of these have been fixed. Also, many equipments, spells and enemy skills are useless, gets obsolete and/or are overpowered or cheap. Thus some equipments and attack effects are tweaked in an attempt to balance things out. With the above said, keep in mind things have been kept as close to the original as possible while refreshing the gameplay. For those of you that don't want a new  FF7, but want a refreshed, more difficult FF7.</Description>
+  <Tags>
+    <string>gjoerulv</string>
+    <string>Gameplay</string>
+    <string>Difficulty</string>
+  </Tags>
+</Mod>

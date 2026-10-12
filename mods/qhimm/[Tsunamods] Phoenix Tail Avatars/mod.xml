@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>0487ed29-510a-43bb-99b2-a612d7df8d01</ID>
+  <Author>Tsunamix + TheWez1981</Author>
+  <Link>https://discord.gg/XVHBExy</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$tsunamods.7thheaven.rocks/%5BTsunamods%5DPhoenixTailAvatars.7z</Link>
+    <Version>4.04</Version>
+    <ReleaseDate>2024-02-14</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/UU937pj.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>127612</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Phoenix Tail Avatars</Name>
+  <Category>User Interface</Category>
+  <Description>Multiple choice avatars</Description>
+  <Tags>
+    <string>Tsunamix</string>
+    <string>TheWez1981</string>
+    <string>Tsunamods</string>
+  </Tags>
+</Mod>

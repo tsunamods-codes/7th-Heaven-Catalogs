@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>f109d541-9de5-43fc-922f-9d92ed8fb322</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1d2vJ9N5owfw5wnuSn7vjCOwTQUreOSTP</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2024-02-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Tx0N5Wp.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>16</DownloadSize>
+  </LatestVersion>
+  <Name>Mouth Texture Replacer</Name>
+  <Description>Removes or replaces the O mouths of default Field Model NPCs</Description>
+  <Category>Field Models</Category>
+  <Tags>
+    <string>Field Models</string>
+  </Tags>
+</Mod>

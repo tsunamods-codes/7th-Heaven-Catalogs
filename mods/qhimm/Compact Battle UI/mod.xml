@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>b24eb637-79e1-44a6-b06a-1003a23e5048</ID>
+  <Author></Author>
+  <Link></Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/cbui.iro</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-04-30</ReleaseDate>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes>Incompatible with ESUI.</ReleaseNotes>
+    <DownloadSize>820</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Compact Battle UI</Name>
+  <Category>User Interface</Category>
+  <Description>Compact Battle UI for SYW/Vanilla Fonts</Description>
+  <Tags>
+    <string>Battle</string>
+    <string>User Interface</string>
+  </Tags>
+</Mod>

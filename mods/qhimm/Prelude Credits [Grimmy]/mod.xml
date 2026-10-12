@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>b8432e99-6baa-4bdc-94fa-efc381c61dc3</ID>
+  <Author>Grimmy</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - Grimmy.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/72b2Www.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>17400</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Prelude Credits [Grimmy]</Name>
+  <Category>User Interface</Category>
+  <Description>Prelude credits background by Grimmy</Description>
+  <Tags>
+    <string>Prelude</string>
+    <string>User Interface</string>
+    <string>Grimmy</string>
+  </Tags>
+</Mod>

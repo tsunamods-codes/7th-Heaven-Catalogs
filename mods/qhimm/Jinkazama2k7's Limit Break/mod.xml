@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>dc938257-b11b-4168-8d59-3581f75c11d9</ID>
+  <Author>Jinkazama2k7</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/Jinkazama2k7_Limit_Break.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/1ILaot7.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>3830</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Jinkazama2k7's Limit Break</Name>
+  <Category>Spell Textures</Category>
+  <Description>Limit Break retexture done by Jinkazama2k7</Description>
+  <Tags>
+    <string>Textures</string>
+    <string>Limit Break</string>
+    <string>Jinkazama2k7</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>50000000-5555-ff75-5775-720000000004</ID>
+  <Author>Satsuki_Yatoshi, Aavock, jtd</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.MiniGames.Textures.V1.04.iro.7z</Link>
+    <Version>1.04</Version>
+    <ReleaseDate>2024-01-06</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/hqw97eG.jpeg</PreviewImage>
+    <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with some manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+    <DownloadSize>46692</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] SYW Unified Minigame Textures</Name>
+  <Category>Minigames</Category>
+  <Description>AI upscaled minigames textures</Description>
+  <Tags>
+    <string>Satsuki</string>
+    <string>Minigame Textures</string>
+  </Tags>
+</Mod>

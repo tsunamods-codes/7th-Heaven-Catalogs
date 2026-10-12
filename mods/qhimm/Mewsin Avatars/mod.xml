@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>cfba9e3b-0408-4148-be2a-027f7c978118</ID>
+  <Author>Mewsin</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=12825.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1eXKDA7EB4fNxQKFdgnycLnfhOVbrMF-Q</Link>
+    <Version>1.14</Version>
+    <ReleaseDate>2024-02-10</ReleaseDate>
+    <PreviewImage>https://i.ibb.co/0qPgd7y/logo-preview.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>115000</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Mewsin Avatars</Name>
+  <Category>User Interface</Category>
+  <Description>Custom Avatars by Mewsin</Description>
+  <Tags>
+    <string>Avatar</string>
+    <string>User Interface</string>
+    <string>Mewsin</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>0d386420-d581-4ea6-a4cf-5dbe5e6fbaa5</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=17008.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1YjCJuRX0nExjabKi5u7zYhwz6NN8TldF</Link>
+    <Version>1.22</Version>
+    <ReleaseDate>2024-02-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/MqJ5lGO.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>1500</DownloadSize>
+  </LatestVersion>
+  <Name>True Necrosis</Name>
+  <Description>Challenge Mod: Start with 9999HP/MP but no way to recover it!</Description>
+  <Category>Gameplay</Category>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

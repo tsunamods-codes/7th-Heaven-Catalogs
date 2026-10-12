@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>1e667b93-88a0-4b34-a973-a7a0bcf50cdc</ID>
+  <Author>Grimmy</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/[4xUpscale]Grimmy.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/re09Ej7.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>2270000</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>4x Upscaled Textures [Grimmy]</Name>
+  <Category>Spell Textures</Category>
+  <Description>Upscaled Textures done by Grimmy</Description>
+  <Tags>
+    <string>Grimmy</string>
+    <string>Textures</string>
+    <string>4K</string>
+  </Tags>
+</Mod>

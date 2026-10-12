@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>3b25060c-c60e-426e-ac46-f85479e983e5</ID>
+  <Author>htp314</Author>
+  <Link></Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1sd8CQvHf3pe4QEueQspBO0SZ7XrJLycC</Link>
+    <Version>2.5</Version>
+    <ReleaseDate>2025-12-15</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes>Added the Fusion Sword.
+Added Remake Cloud Outfit.
+Fixed Chocobo colors.</ReleaseNotes>
+    <DownloadSize>194704</DownloadSize>
+  </LatestVersion>
+  <Name>Ninostyle Chibi Fixes and Additions</Name>
+  <Category>Field Models</Category>
+  <Description>This is an Add-on to the Ninostyle Chibi mod. It adds various fixes and additions and makes the Ninostyle Chibi models compatible with Shinra Archaeology Cut's Advanced Facial Animation option. This mod now includes fixes for the Dynamic Weapons and adds new options for Alternative outfits.</Description>
+  <Tags></Tags>
+</Mod>

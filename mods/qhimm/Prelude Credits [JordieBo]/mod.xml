@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>1dc9c39d-1fa9-4090-a04f-d84007d2fe94</ID>
+  <Author>JordieBo</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - JordieBo.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/2ZOBAn8.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>17400</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Prelude Credits [JordieBo]</Name>
+  <Category>User Interface</Category>
+  <Description>Prelude credits background by JordieBo</Description>
+  <Tags>
+    <string>Prelude</string>
+    <string>User Interface</string>
+    <string>JordieBo</string>
+  </Tags>
+</Mod>

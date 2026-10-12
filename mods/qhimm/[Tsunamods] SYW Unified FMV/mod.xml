@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>50000000-5555-ff75-5775-734000000005</ID>
+  <Author>Satsuki_Yatoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.FMV.V1.04.iro</Link>
+    <Version>1.04</Version>
+    <ReleaseDate>2023-12-19</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/AR0j5ra.jpeg</PreviewImage>
+    <ReleaseNotes>The FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+    <DownloadSize>4182945</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] SYW Unified FMV</Name>
+  <Category>Media</Category>
+  <Description>AI upscaled and interpolated 30fps FMV</Description>
+  <Tags>
+    <string>Satsuki</string>
+    <string>Media</string>
+  </Tags>
+</Mod>

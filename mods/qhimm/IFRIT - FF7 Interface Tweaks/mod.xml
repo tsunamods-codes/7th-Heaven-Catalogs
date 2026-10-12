@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>4cbb8a22-3f87-483d-ab8c-81089a875f23</ID>
+  <Author>KWRRK</Author>
+  <Link></Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/ifrit.7z</Link>
+    <Version>1.5</Version>
+    <ReleaseDate>2024-04-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/ttk75MM.png</PreviewImage>
+    <ReleaseNotes>Version 1.5
+- Restore proper high res Portrait Transparent avatars
+</ReleaseNotes>
+    <DownloadSize>46400</DownloadSize>
+  </LatestVersion>
+  <Name>IFRIT - FF7 Interface Tweaks</Name>
+  <Category>User Interface</Category>
+  <Description>A collection of tweaks for the FF7 interface.
+
+Features:
+- Interface Compatibility (Stock, SYW, ESUI)
+- Optimize stock main menu and other UI elements
+- Choose between stock and 16:9 battle UI layouts
+- Move stock battle UI to the bottom of the screen
+- Different styles of AI enhanced Avatars
+- Set Avatar resolution
+- Transparent dialogue boxes
+- Intro Logos</Description>
+  <Tags>
+    <string>KWRRK</string>
+    <string>User Interface</string>
+    <string>Avatar</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>2b49d831-6556-41df-9ddb-d1a6e937f548</ID>
+  <Author>Chrysalis</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
+  <DonationLink>https://tinyurl.com/2p8ttbdy</DonationLink>
+  <LatestVersion>
+    <Link>iros://Url/https$chris.7thheaven.rocks/Enhanced%20Stock%20UI-rel2.7z</Link>
+    <Version>2.968</Version>
+    <ReleaseDate>2026-10-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://chris.7thheaven.rocks/n4vnSx0.png</PreviewImage>
+    <ReleaseNotes>Fix for broken 2026 steam release world text prompts.
+		Restore ECHOS world map button prompts.</ReleaseNotes>
+    <DownloadSize>43928</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] Enhanced Stock UI</Name>
+  <Category>User Interface</Category>
+  <Description>Enhanced Version of Stock UI - ESUI
+High Resolution Menu System
+Choice Of Battle UI
+Choice of Icons
+Controller Icons
+Battle Avatars Support</Description>
+  <Tags>
+    <string>ESUI</string>
+    <string>Menu</string>
+    <string>Chrysalis</string>
+    <string>ChrisC79UK</string>
+    <string>Menu Overhaul</string>
+    <string>Enhanced Stock UI</string>
+  </Tags>
+</Mod>

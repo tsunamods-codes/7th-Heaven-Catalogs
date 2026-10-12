@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>14dc4785-bb4f-4a29-9d3c-6ac8e8a75f43</ID>
+  <Author>JakeIsYoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=30975.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1HXmrrZQQbUJ6qjLMOq-lVCKIwjQsUKFX</Link>
+    <Version>1.10</Version>
+    <ReleaseDate>2026-10-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/zy3zaJO.png</PreviewImage>
+    <ReleaseNotes>Initial release.</ReleaseNotes>
+    <DownloadSize>12237</DownloadSize>
+  </LatestVersion>
+  <Name>PSX Battle Shadows and Vertex Snapping</Name>
+  <Category>Shaders</Category>
+  <GameLanguage>ANY</GameLanguage>
+  <Description>This mod change the look of shadows during battles to match the original PlayStation. A few presets are available, as well as an additional option that gives you access to Vertex Snapping Effect.
+	   -REQUIRES 7th Heaven 4.4.0.67+ and FFNx 1.23.0.159+
+	   -This mod is not compatible with Advanced Lighting or Cosmos Gaia
+	   -Additional Author: Pashtarot
+	   -Special thanks: Chrysalis, Kuraudo
+	  </Description>
+  <DonationLink></DonationLink>
+  <Tags>
+    <string>PSX Shadows</string>
+    <string>Shaders</string>
+    <string>JakeIsYoshi</string>
+  </Tags>
+</Mod>

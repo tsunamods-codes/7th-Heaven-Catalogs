@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>eaae8756-2e9c-4536-87b2-d6e61189c789</ID>
+  <Author>Karifean</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/SuperBossRush.iro</Link>
+    <Version>1.1</Version>
+    <ReleaseDate>2014-01-16</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/bEN9R7t.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>26352</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Super Boss Rush</Name>
+  <Category>Gameplay</Category>
+  <Description>Changes the "Hall of Beginners" in Junon to a "Hall of Battles". Load up your best save, and see if you can win the beat these enhanced bosses!</Description>
+  <Tags>
+    <string>Karifean</string>
+    <string>Gameplay</string>
+    <string>Difficulty</string>
+  </Tags>
+</Mod>

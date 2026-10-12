@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>ebec6404-07a8-4f5c-805f-b4536f42076e</ID>
+  <Author>xLostWingx</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Gameplay/LostWing.iro</Link>
+    <Version>1.1</Version>
+    <ReleaseDate>2010-10-29</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/YCR86aT.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>285</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Lost Wing</Name>
+  <Category>Gameplay</Category>
+  <Description>Difficulty mod with a huge overhaul of the battle system. Including new materia, and items! Lost Wing is a FF7 Overhaul that completely modifies many aspects of the game. It is moderately difficult until the Huge Materia quests, then it becomes Extremely Difficult. Hacking/Cheating/Modding All Equipment and/or Materia is encouraged post-Diamond WEAPON. </Description>
+  <Tags>
+    <string>xLostWingx</string>
+    <string>Gameplay</string>
+    <string>Difficulty</string>
+  </Tags>
+</Mod>

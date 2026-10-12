@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>37680b6c-975b-480f-a955-0e943933602d</ID>
+  <Author>Superbledur</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1_RsbXCtGVH2PkEgQYggMJgAqIC0lInoh</Link>
+    <Version>2.31</Version>
+    <ReleaseDate>2026-10-11</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/iIK5tuJ.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>134600</DownloadSize>
+  </LatestVersion>
+  <Name>Tifarith Casual 2.0</Name>
+  <Category>Gameplay</Category>
+  <Description>Gameplay mod with added content and modified spells/enemies/equipment. Vanilla-like difficulty</Description>
+  <Tags>
+    <string>Superbledur</string>
+    <string>Gameplay</string>
+    <string>NT-like</string>
+  </Tags>
+</Mod>

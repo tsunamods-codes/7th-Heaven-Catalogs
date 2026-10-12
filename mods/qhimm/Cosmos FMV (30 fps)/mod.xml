@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>4309613f-d6b3-4e0a-a5c7-6af71da34d7d</ID>
+  <Author>Cosmos, Satsuki Yatoshi, NiNoStyle, Kaldarasha</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21029.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosFMV30.iro</Link>
+    <Version>1.11</Version>
+    <ReleaseDate>2026-10-07</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/xzaxVeT.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>2885517</DownloadSize>
+  </LatestVersion>
+  <Name>Cosmos FMV (30 fps)</Name>
+  <GameLanguage>ANY</GameLanguage>
+  <Category>Media</Category>
+  <Description>Cosmos FMV is a character replacement mod for FF7 FMVs. You can choose between two style of characters from the mod options.</Description>
+  <Tags>
+    <string>FMV</string>
+    <string>Cosmos</string>
+    <string>Satsuki</string>
+    <string>NiNoStyle</string>
+    <string>Kaldarasha</string>
+  </Tags>
+</Mod>

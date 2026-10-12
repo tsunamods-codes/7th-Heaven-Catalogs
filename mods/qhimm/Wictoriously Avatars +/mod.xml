@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>3b5974ce-4b74-41c4-8aab-74c8a8ffc817</ID>
+  <Author>Kuraudo, Wictoriously, Reiletuag</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1C6u6YY2cK9RHoZPlFQARK_FG1eoicJlQ</Link>
+    <Version>3.0</Version>
+    <ReleaseDate>2026-01-03</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Bj5CmKd.jpeg</PreviewImage>
+    <ReleaseNotes>Start screen added; portraits added; battle and dialogue mini avatars added for Enhanced Stock UI and AavockESUI.</ReleaseNotes>
+    <DownloadSize>8279</DownloadSize>
+  </LatestVersion>
+  <Name>Wictoriously Avatars +</Name>
+  <Category>User Interface</Category>
+  <Description>Collection of alternative avatars, each meticulously crafted from official artworks.
+-Requires either Enhanced Stock UI or Enhanced Stock UI in combination with AavockESUI for the battle and dialogue mini avatars.
+-Special thanks: Chrysalis, Bonez, Aavock, Benteja, Zunguh</Description>
+  <DonationLink>https://impactful.ninja/best-charities-for-the-amazon-rainforest/</DonationLink>
+  <Tags>
+    <string>Avatar</string>
+    <string>User Interface</string>
+    <string>Wictoriously</string>
+  </Tags>
+</Mod>

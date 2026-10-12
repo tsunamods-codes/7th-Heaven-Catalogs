@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>25c13e1c-1ea4-42ba-bf39-c4412cb3772a</ID>
+  <Author>Final Figue</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=29682.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1ZzRfuJpF27L-UvrtNGl-CAulcKRRoU5U</Link>
+    <Version>1.4</Version>
+    <ReleaseDate>2026-09-08</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/ACuVsht.png</PreviewImage>
+    <ReleaseNotes>Ver:1.4
+-Added two new Main Menu backgrounds featuring Cloud in the FFVIII art style.
+-Updated the optional Kernel for FF7 What If…? with a new accessory.</ReleaseNotes>
+    <DownloadSize>292545</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Composition7</Name>
+  <Category>User Interface</Category>
+  <Description>A collection of visual enhancements, UI options, and additional content for Final Fantasy VII What If...?. 
+Credits to the original authors of the included resources:
+- DLPB
+- KWRRK 
+- Aavock 
+- Satsuki 
+- Trueodin 
+- Chrysalis 
+- Orichalcon 
+More info in the link below:</Description>
+  <Tags>
+    <string>Avatars</string>
+    <string>User Interface</string>
+    <string>Final Figue</string>
+  </Tags>
+</Mod>

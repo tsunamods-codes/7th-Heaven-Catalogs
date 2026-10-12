@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>50000000-5555-ff75-5775-700000000003</ID>
+  <Author>Kela51, Satsuki_Yatoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Spells.Textures.V1.03.iro.7z</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2023-12-16</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/FWP6rC5.jpeg</PreviewImage>
+    <ReleaseNotes>The textures are close to vanilla textures, but done from scratch in HD.</ReleaseNotes>
+    <DownloadSize>505008</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] SYW Unified Spells Textures</Name>
+  <Category>Spell Textures</Category>
+  <Description>Done from scratch HD spell textures</Description>
+  <Tags>
+    <string>Satsuki</string>
+    <string>Spell Textures</string>
+  </Tags>
+</Mod>

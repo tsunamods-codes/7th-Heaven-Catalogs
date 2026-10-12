@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>ee0e2b9f-9545-4688-b6b5-1f2fb6662aae</ID>
+  <Author>Orichalcon, Odysseus</Author>
+  <Link></Link>
+  <LatestVersion>
+    <Link>iros://Url/https$strifeisrife.7thheaven.rocks//universal_blink_fix.iro</Link>
+    <Version>1.23</Version>
+    <ReleaseDate>2026-10-06</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/38CU9ik.png</PreviewImage>
+    <ReleaseNotes>Updated for game language support. Added many more battle model fixes.</ReleaseNotes>
+    <DownloadSize>9205</DownloadSize>
+  </LatestVersion>
+  <Name>Universal Blink Fix</Name>
+  <GameLanguage>ANY</GameLanguage>
+  <Category>Field Models</Category>
+  <Description>Originally part of Shinra Archaeology Cut. Fixes winking issue on various character models and allows for use of advanced facial animations in mods outside of SAC.</Description>
+  <Tags></Tags>
+</Mod>

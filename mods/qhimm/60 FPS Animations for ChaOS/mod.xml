@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>832104ef-c150-4680-8fa9-084ca633db3c</ID>
+  <Author>Vertex2995, Kaldarasha</Author>
+  <Link>https://www.nexusmods.com/finalfantasy7/mods/1</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Field Models/60_FPS_Animations_for_ChaOS_1.04.iro</Link>
+    <Version>1.04</Version>
+    <ReleaseDate>2026-05-07</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes>REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
+
+Changelog:
+ - 1.04: Animation fixes for Tifa and Cloud
+ - 1.03: Fix to Tifa's Choco riding animation
+ - 1.02: 3 animation fixes, including for Aerith just after Church escape
+ - 1.01: Add flag for easier 60fps enabled detection by other mods
+ - 1.00: First release
+
+Special Thanks to Kuraudo
+	</ReleaseNotes>
+    <DownloadSize>1184</DownloadSize>
+  </LatestVersion>
+  <Name>60 FPS Animations for ChaOS</Name>
+  <Category>Animations</Category>
+  <Description>60 FPS Animations for Character Overhaul Seven: Provide Sephiroth 60 FPS fix.</Description>
+  <Tags>
+    <string>60fps</string>
+    <string>Animations</string>
+    <string>Vertex2995</string>
+    <string>Kaldarasha</string>
+  </Tags>
+</Mod>

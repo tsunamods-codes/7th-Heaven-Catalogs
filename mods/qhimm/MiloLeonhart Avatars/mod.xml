@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>78f52049-d62e-429a-99b0-7f9aed4a756c</ID>
+  <Author>MiloLeonhart</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/MiloLeonhart.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/zcruzX7.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>15900</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>MiloLeonhart Avatars</Name>
+  <Category>User Interface</Category>
+  <Description>Custom character avatars by MiloLeonhart</Description>
+  <Tags>
+    <string>Avatar</string>
+    <string>User Interface</string>
+    <string>MiloLeonhart</string>
+  </Tags>
+</Mod>

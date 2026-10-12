@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>c1fd814b-045d-4e83-a708-406fb3873029</ID>
+  <Author>anaho, Ben Nicholas, faulked, Grimmy, jmp434, Jusete, Mayo Master, Shampignon, shunsq, Ulpian</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=17791.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/FieldTextures/Final_Fantasy_VII_HD_Field_Scenes.7z</Link>
+    <Version>0.158</Version>
+    <ReleaseDate>2026-01-08</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/wT1mFDC.png</PreviewImage>
+    <ReleaseNotes>
+  -sbwy4_6</ReleaseNotes>
+    <DownloadSize>730000</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Project Edge/Team Avalanche Remodeled Fields</Name>
+  <Category>Field Textures</Category>
+  <Description>This package contains all currently available (14.68%) HD Backgrounds for Final Fantasy VII including Project Edge</Description>
+  <Tags>
+    <string>Team Avalanche</string>
+    <string>Field</string>
+    <string>Textures</string>
+    <string>3D</string>
+    <string>Jusete</string>
+  </Tags>
+</Mod>

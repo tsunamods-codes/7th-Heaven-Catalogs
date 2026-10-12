@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>1970dd4b-cd94-410e-a3af-f9c7086c6699</ID>
+  <Author>Cosmos, L@ZaRO, Satsuki_Yatoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21687.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https://cosmos.7thheaven.rocks/CosmosGaia.iro</Link>
+    <Version>1.02</Version>
+    <ReleaseDate>2026-10-07</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/6c935Ci.jpg</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>84971</DownloadSize>
+  </LatestVersion>
+  <Name>Cosmos Gaia</Name>
+  <GameLanguage>ANY</GameLanguage>
+  <Category>World Textures</Category>
+  <Description>Worldmap overhaul that re-implements the terrain rendering to add analog movement and camera controls, real-time lighting and extended view distance.</Description>
+  <Tags>
+    <string>Cosmos</string>
+    <string>Satsuki</string>
+    <string>World Textures</string>
+  </Tags>
+</Mod>

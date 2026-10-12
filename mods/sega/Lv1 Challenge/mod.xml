@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>5e2792c8-14a6-4e31-b583-5f38133aa9bb</ID>
+  <Author>Sega Chief</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=15155.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1OFmbLmmrAhOEWwqXvxffU0FoBuDA5ets</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2024-02-10</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/9WXItJa.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>1200</DownloadSize>
+  </LatestVersion>
+  <Name>Lv1 Challenge</Name>
+  <Description>Challenge Mod: Beat the game with a Lv.1 Party</Description>
+  <Category>Gameplay</Category>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+</Mod>

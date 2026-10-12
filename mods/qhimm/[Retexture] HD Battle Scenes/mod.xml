@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>5e19dd06-3e38-42a2-a6bc-b23ee50ada68</ID>
+  <Author>Felix Leonhart, Mago Chocobo, Bloodshot, Team Avalanche</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=14610.0;topicseen</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/BattleTextures/[Retexture]FelixLeonhartMagochocoboBloodshotTeam_Avalanche.7z</Link>
+    <Version>0.03</Version>
+    <ReleaseDate>2013-09-03</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/WEy7amK.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>498000</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>[Retexture] HD Battle Scenes</Name>
+  <Category>Battle Textures</Category>
+  <Description>HD Retextured Battle Scenes</Description>
+  <Tags>
+    <string>Retexture</string>
+    <string>Battle</string>
+    <string>Textures</string>
+    <string>Felix Leonhart</string>
+    <string>Mago Chocobo</string>
+    <string>Bloodshot</string>
+    <string>Team Avalanche</string>
+  </Tags>
+</Mod>

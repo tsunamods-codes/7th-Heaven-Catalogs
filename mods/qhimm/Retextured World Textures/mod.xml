@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>4ab84d33-8514-4696-b02a-ba6491f87a43</ID>
+  <Author>FeliXLeonhart, Ste41k, Grimmy</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/WorldTextures/[Retexture]FeliXLeonhart+Ste41k+Grimmy.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/ftUdGVa.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>98100</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Retextured World Textures</Name>
+  <Category>World Textures</Category>
+  <Description>Retextured World Textures</Description>
+  <Tags>
+    <string>Retexture</string>
+    <string>World Textures</string>
+    <string>Grimmy</string>
+    <string>FeliXLeonhart</string>
+    <string>Ste41k</string>
+  </Tags>
+</Mod>

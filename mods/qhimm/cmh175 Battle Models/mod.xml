@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>7769a522-0939-416e-ad17-a681b870d185</ID>
+  <Author>cmh175</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14852.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1SwFiDagHU5bnODE7I79_xUkviLVBIrtz</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2018-02-02</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/tGSThgc.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>328294</DownloadSize>
+  </LatestVersion>
+  <Name>cmh175 Battle Models</Name>
+  <Category>Battle Models</Category>
+  <Description>A group of cmh175's Battle Models</Description>
+  <Tags>
+    <string>Battle Models</string>
+    <string>CMH175</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>c422dbb0-8d91-4777-91e4-90b5bcc5646f</ID>
+  <Author>unab0mb, Enrico Deiana</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=19341.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/[Tsunamods]_EDMusic_FF7_Soundtrack.iro</Link>
+    <Version>0.43</Version>
+    <ReleaseDate>2025-04-15</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
+    <ReleaseNotes>Update for new opening FMV method</ReleaseNotes>
+    <DownloadSize>183393</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>[Tsunamods] EDMusic FF7 Soundtrack</Name>
+  <Description>This is an in-progress full soundtrack replacement for FF7 by Enrico Deiana.</Description>
+  <Category>Media</Category>
+  <Tags>
+    <string>unab0mb</string>
+    <string>Enrico Deiana</string>
+    <string>Music</string>
+    <string>Media</string>
+  </Tags>
+</Mod>

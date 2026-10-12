@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>50000000-5555-ff75-5775-700000000006</ID>
+  <Author>Satsuki_Yatoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.WorlMap.Textures.V1.03.iro.7z</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2023-12-16</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/VWnsmN6.jpeg</PreviewImage>
+    <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. The minimap design is from Team avalanche.</ReleaseNotes>
+    <DownloadSize>26192</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] SYW Unified WorldMap Textures</Name>
+  <Category>World Textures</Category>
+  <Description>AI upscaled world textures</Description>
+  <Tags>
+    <string>Satsuki</string>
+    <string>World Textures</string>
+  </Tags>
+</Mod>

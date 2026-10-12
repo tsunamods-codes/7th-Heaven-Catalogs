@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>cd7e9b5b-4b43-441e-b091-0e28e8c5c6db</ID>
+  <Author>cmh175</Author>
+  <Link>http://forums.qhimm.com/index.php?topic=14852.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1k0qQs28djwq_qyC1hocq0lrqOd9lw7F2</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2018-02-02</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/PjjgH4f.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>3554672</DownloadSize>
+  </LatestVersion>
+  <Name>cmh175 HQ FMV Pack</Name>
+  <Category>Media</Category>
+  <Description>A group of cmh175's HQ FMV's</Description>
+  <Tags>
+    <string>FMV</string>
+    <string>CMH175</string>
+  </Tags>
+</Mod>

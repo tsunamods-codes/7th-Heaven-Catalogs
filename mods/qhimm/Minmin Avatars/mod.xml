@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>f0e842a2-f0c9-456f-b0a8-01930f863873</ID>
+  <Author>Minmin</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Minmin.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/ebLwf4l.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>4650</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Minmin Avatars</Name>
+  <Category>User Interface</Category>
+  <Description>Custom character avatars by Minmin</Description>
+  <Tags>
+    <string>Avatar</string>
+    <string>User Interface</string>
+    <string>Minmin</string>
+  </Tags>
+</Mod>

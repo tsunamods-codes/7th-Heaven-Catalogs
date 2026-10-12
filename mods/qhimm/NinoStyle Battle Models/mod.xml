@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>2b25060c-c60e-426e-ac46-f85439e903e3</ID>
+  <Author>Ninostyle + Tsunamix + Shiniboy</Author>
+  <Link>https://www.nexusmods.com/finalfantasy7/mods/4?tab=description</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog%204.0/Battle%20Models/Ninostyle%20Battle.7z</Link>
+    <Version>26.08302</Version>
+    <ReleaseDate>2026-08-30</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Nhk0XwJ.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>53535</DownloadSize>
+    <GameLanguage>ANY</GameLanguage>
+  </LatestVersion>
+  <Name>NinoStyle Battle Models</Name>
+  <Category>Battle Models</Category>
+  <Description>Replacement for battle models.</Description>
+  <Tags>
+    <string>NinoStyle</string>
+    <string>Tsunamix</string>
+    <string>Shiniboy</string>
+    <string>Field Models</string>
+  </Tags>
+</Mod>

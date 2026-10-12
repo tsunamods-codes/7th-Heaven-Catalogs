@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>ab1a0bf6-85b9-435d-8fa1-80b55e5eaad2</ID>
+  <Author>Strayoff</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/Prelude Credits - Strayoff.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/SJZN3CC.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>17900</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>Prelude Credits [Strayoff]</Name>
+  <Category>User Interface</Category>
+  <Description>Prelude credits background by Strayoff</Description>
+  <Tags>
+    <string>Prelude</string>
+    <string>User Interface</string>
+    <string>Strayoff</string>
+  </Tags>
+</Mod>

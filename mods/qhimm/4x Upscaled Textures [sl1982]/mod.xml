@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>a2d77904-08db-43a3-92da-cf4deb48dabf</ID>
+  <Author>sl1982</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/[4x Upscale]sl1982.7z</Link>
+    <Version>3.1</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/SYPopqe.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>207000</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>4x Upscaled Textures [sl1982]</Name>
+  <Category>Spell Textures</Category>
+  <Description>Upscaled Textures done by sl1982</Description>
+  <Tags>
+    <string>sl1982</string>
+    <string>Textures</string>
+    <string>4K</string>
+  </Tags>
+</Mod>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>8ccda2c6-2585-4ba6-a5db-b61e69e64370</ID>
+  <Author>JOUTLAW</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=15975.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/SpellTextures/JOUTLAW_Limit_Break.7z</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2020-03-07</ReleaseDate>
+    <PreviewImage>https://i.imgur.com/Z2XSHnl.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>3470</DownloadSize>
+  </LatestVersion>
+  <MetaVersion>0</MetaVersion>
+  <Name>JOUTLAW's Limit Break</Name>
+  <Category>Spell Textures</Category>
+  <Description>Limit Break retexture done by JOUTLAW</Description>
+  <Tags>
+    <string>Textures</string>
+    <string>Limit Break</string>
+    <string>JOUTLAW</string>
+  </Tags>
+</Mod>

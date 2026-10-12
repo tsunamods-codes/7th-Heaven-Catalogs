@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>50000000-5555-ff75-5775-700000000001</ID>
+  <Author>Satsuki_Yatoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/https$syw.7thheaven.rocks/iros/[Tsunamods].SYW.Unified.Battles.Textures.V1.03.iro.7z</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2023-12-16</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/bI3nN7e.jpeg</PreviewImage>
+    <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+    <DownloadSize>204414</DownloadSize>
+  </LatestVersion>
+  <Name>[Tsunamods] SYW Unified Battle Textures</Name>
+  <Category>Battle Textures</Category>
+  <Description>AI upscaled battle textures</Description>
+  <Tags>
+    <string>Satsuki</string>
+    <string>Battle Textures</string>
+  </Tags>
+</Mod>
