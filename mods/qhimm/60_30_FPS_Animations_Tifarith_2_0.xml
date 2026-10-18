@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>49ff4472-7c26-458f-bda8-19535f8fbf6b</ID>
+  <Author>Vertex2995, Uprisen, Superbledur, Sega Chief</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=29526.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1JbFnY1TEwOYq2HYW7C4opUOoCvMIREsf</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-18</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage></PreviewImage>
+    <ReleaseNotes>REQUIRES "Tifarith 2.0" or "Tifarith Casual 2.0" and "60 FPS Gameplay" mods
+        </ReleaseNotes>
+    <DownloadSize>4072</DownloadSize>
+  </LatestVersion>
+  <Name>60/30 FPS Animations for Tifarith 2.0</Name>
+  <Category>Animations</Category>
+  <Description>Provide BATTLE mode compatibility of Tifarith 2.0 (works also for Tifarith Casual 2.0) mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
+  <Tags>
+    <string>60</string>
+    <string>fps</string>
+    <string>Animations</string>
+    <string>Vertex2995</string>
+    <string>Uprisen</string>
+    <string>Superbledur</string>
+    <string>Sega Chief</string>
+  </Tags>
+</Mod>
