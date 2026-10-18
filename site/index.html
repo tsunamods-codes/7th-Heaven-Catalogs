@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7th Heaven Catalogs</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.0.8/r-3.0.2/datatables.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+        }
+    </style>
+</head>
+    <body>
+    <section class="section">
+        <h1>7th Heaven Catalogs</h1>
+        <hr>
+        <table id="catalog" class="table table-striped">
+            <thead>
+                <tr>
+                    <th width="10%"></th>
+                    <th width="20%">Name</th>
+                    <th>Description</th>
+                    <th width="10%">Author</th>
+                    <th width="10%">Release Date</th>
+                    <th width="5%">Version</th>
+                    <th width="5%">Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/v/bs5/jq-3.7.0/dt-2.0.8/r-3.0.2/datatables.min.js"></script>
+    <script>
+    $(document).ready(function() {
+        const xmlUrls = [
+            './catalogs/qhimm.xml',
+            './catalogs/sega.xml'
+        ];
+
+        function parseLink(url) {
+            const match = url.match(/iros:\/\/([a-zA-Z]+)\//);
+
+            url = url.replace(match[0], '');
+
+            switch(match[1].toLowerCase())
+            {
+                case 'url':
+                    return url.replace('$', '://');
+                case 'gdrive':
+                    return 'https://drive.google.com/file/d/' + url;
+                case 'mega':
+                    return 'https://mega.co.nz/' + url;
+            }
+        }
+
+        function parseDate(date) {
+            return date.replace(/T.+/, '')
+        }
+
+        function fetchAndParseXML(url) {
+            return $.ajax({
+                url: url,
+                dataType: 'xml'
+            });
+        }
+
+        function processXMLData(data) {
+            const items = [];
+            $(data).find('Mod').each(function() {
+                const name = $(this).find('Name').text();
+                const description = $(this).find('Description').text();
+                const releaseDate = $(this).find('ReleaseDate').text();
+                const version = $(this).find('Version').text();
+                const image = $(this).find('PreviewImage').text();
+                const projectLink = $(this).children('Link').text();
+                const author = $(this).children('Author').text();
+                const links = [];
+                $(this).find('LatestVersion > Link').each(function() {
+                    links.push($(this).text());
+                });
+                items.push({ image, name, description, releaseDate, version, links, projectLink, author });
+            });
+            return items;
+        }
+
+        function populateTable(data) {
+            const tableBody = $('#catalog tbody');
+            data.forEach(item => {
+                const linksHtml = item.links.map((link, idx) => `<a href="${parseLink(link)}" target="_blank">Mirror ${idx + 1}</a>`).join('<br>');
+                const nameHtml = item.projectLink ? `<a href="${item.projectLink}">${item.name}</a>` : item.name;
+                const row = `<tr>
+                    <td><img class="mx-auto d-block" src="${item.image}" width="128px"></td>
+                    <td>${nameHtml}</td>
+                    <td>${item.description}</td>
+                    <td>${item.author}</td>
+                    <td>${parseDate(item.releaseDate)}</td>
+                    <td>${item.version}</td>
+                    <td>${linksHtml}</td>
+                </tr>`;
+                tableBody.append(row);
+            });
+            $('#catalog').DataTable({
+                order: [
+                    [4, 'desc'],
+                    [1, 'asc']
+                ],
+                pageLength: 25,
+                responsive: true
+            });
+        }
+
+        function fetchDataFromUrls(urls) {
+            const promises = urls.map(url => fetchAndParseXML(url));
+            $.when(...promises).done(function(...results) {
+                let allItems = [];
+                results.forEach(result => {
+                    const data = result[0];
+                    const items = processXMLData(data);
+                    allItems = allItems.concat(items);
+                });
+                populateTable(allItems);
+            }).fail(function() {
+                alert('Failed to fetch XML data.');
+            });
+        }
+
+        // Fetch and process XML content from multiple URLs
+        fetchDataFromUrls(xmlUrls);
+    });
+    </script>
+</body>
+</html>

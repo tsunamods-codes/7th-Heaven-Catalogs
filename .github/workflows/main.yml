@@ -27,10 +27,15 @@ env:
   # GIT: Fix reporting from stderr to stdout
   GIT_REDIRECT_STDERR: 2>&1
 
+permissions:
+  contents: read
+
 jobs:
   CICD:
     runs-on: windows-latest
     timeout-minutes: 1440
+    permissions:
+      contents: write
     steps:
     - name: Set Git Config
       run: |
@@ -74,3 +79,16 @@ jobs:
         makeLatest: true
         removeArtifacts: true
         name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
+    - name: Prepare GitHub Pages site
+      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      shell: pwsh
+      run: |
+        New-Item -ItemType Directory -Path "site/catalogs" -Force | Out-Null
+        Copy-Item -Path "catalogs/*.xml" -Destination "site/catalogs/" -Force
+    - name: Deploy to GitHub Pages
+      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      uses: peaceiris/actions-gh-pages@v4.1.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./site
+        publish_branch: gh-pages
