@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>950a066d-af7b-4b5b-8b27-88d987d6c40a</ID>
+  <Author>JakeIsYoshi</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=31411.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1BUXmLxlwcObix0K7Ou0Dnv7U7D3zc32k</Link>
+    <Version>1.0</Version>
+    <ReleaseDate>2026-10-20</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/Ev1d6F4.png</PreviewImage>
+    <ReleaseNotes>Initial release.</ReleaseNotes>
+    <DownloadSize>478</DownloadSize>
+  </LatestVersion>
+  <Name>PSX Ifrit Summon Effect</Name>
+  <Category>Spell Textures</Category>
+  <GameLanguage>ANY</GameLanguage>
+  <Description>This mod restores the correct black ground colour for Ifrit's summon effect during battles, matching the original PlayStation version. Pick your preferred language from the mod options and make sure it's in sync with the Game Launcher Setting from 7H.</Description>
+  <DonationLink></DonationLink>
+  <Tags>
+    <string>Spell Textures</string>
+    <string>Ifrit</string>
+    <string>JakeIsYoshi</string>
+  </Tags>
+</Mod>
