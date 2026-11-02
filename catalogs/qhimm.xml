@@ -850,15 +850,16 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
   <Author>Marius Boss</Author>
   <Link>https://www.nexusmods.com/finalfantasy7/mods/174</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1AmLrljKl1gAj4fLoFVYplULqs4UO_ih2</Link>
-    <Version>1</Version>
-    <ReleaseDate>2026-09-30</ReleaseDate>
+    <Link>iros://GDrive/1UwYMoKM4dGRT1w8B6W6K2EmVV73a7g_l</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2026-11-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/a/2PIIThx.jpeg</PreviewImage>
-    <ReleaseNotes>Initial Release.</ReleaseNotes>
-    <DownloadSize>64031</DownloadSize>
+    <PreviewImage>https://imgur.com/a/2PIIThx.jpeg</PreviewImage>
+    <ReleaseNotes>1.0.3 - November 1, 2026: Adds 6 sets of new avatars for all characters.</ReleaseNotes>
+    <DownloadSize>76631</DownloadSize>
   </LatestVersion>
   <Name>FFVII Revelation Portraits</Name>
+  <GameLanguage>ANY</GameLanguage>
   <Category>User Interface</Category>
   <Description>Adds the FFVII Revelation portraits.</Description>
   <Tags>
@@ -1617,19 +1618,20 @@ Fixed Chocobo colors.</ReleaseNotes>
   <Author>JakeIsYoshi</Author>
   <Link>https://forums.qhimm.com/index.php?topic=30975.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1HXmrrZQQbUJ6qjLMOq-lVCKIwjQsUKFX</Link>
-    <Version>1.10</Version>
-    <ReleaseDate>2026-10-10</ReleaseDate>
+    <Link>iros://GDrive/1XWd6yK4tYQIBW4bafKAlJfcjCh7hY8JX</Link>
+    <Version>1.20</Version>
+    <ReleaseDate>2026-11-01</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/zy3zaJO.png</PreviewImage>
     <ReleaseNotes>Initial release.</ReleaseNotes>
-    <DownloadSize>12237</DownloadSize>
+    <DownloadSize>17232</DownloadSize>
   </LatestVersion>
   <Name>PSX Battle Shadows and Vertex Snapping</Name>
   <Category>Shaders</Category>
   <GameLanguage>ANY</GameLanguage>
   <Description>This mod change the look of shadows during battles to match the original PlayStation. A few presets are available, as well as an additional option that gives you access to Vertex Snapping Effect.
-	   -REQUIRES 7th Heaven 4.4.0.67+ and FFNx 1.23.0.159+
+	   -REQUIRES 7th Heaven 4.6.0+ and FFNx 1.25.1+
+	   -WARNING: This mod may break often due to changes in FFNx. If you experience issues, disable this mod and wait for an update.
 	   -This mod is not compatible with Advanced Lighting or Cosmos Gaia
 	   -Additional Author: Pashtarot
 	   -Special thanks: Chrysalis, Kuraudo
