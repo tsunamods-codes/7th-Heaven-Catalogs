@@ -1,29 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ModInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Mod>
   <ID>3c08d4e5-2e9d-4358-b3e2-0a0aedf5e626</ID>
   <Name>Starting Materia Bonus</Name>
-  <Category>Gameplay</Category>
   <Author>Karenaki</Author>
-  <Version>1.0</Version>
-  <Description>start new game with AP+, Steal ,Enemy Lure, Enemy Away, and Gil+ Requires : Postscriptthree's Tweaks mod, with the AP Plus enabler turned on, located under Mod Enablers
+  <Description>start new game with AP+, Steal ,Enemy Lure, Enemy Away, and Gil+ Requires : Postscriptthree's Gameplay Tweaks mod, with the AP Plus enabler turned on, located under Mod Enablers
 load order : place above Enhanced Stock UI
-requires new game
-</Description>
-  <ReleaseNotes />
-  <ReleaseDate>2026-10-17</ReleaseDate>
-  <Link>https://github.com/Karenaki-Renamon/Karenaki-Mods/raw/refs/heads/main/0%20Karenaki%20Mods/final%20fantasy%207%20steam%20og/Starting%20Materia%20Bonus.iro</Link>
-  <PreviewFile>preview.png</PreviewFile>
-
-<ModFolder Folder="No Change" ActiveWhen="YourModID = 0" />
-<ModFolder Folder="Starting Materia Bonus" ActiveWhen="Starting Materia BonusID = 1" />
-
-  <ConfigOption>
-    <Type>Bool</Type>
-    <Default>1</Default>
-    <ID>Starting Materia BonusID</ID>
-    <Name>Starting Materia Bonus</Name>
-    <Description>View the Readme for details.</Description>
-    <Option Value="0" Name="No Change" PreviewFile="no_change.png"/>
-    <Option Value="1" Name="Mod Activated" PreviewFile="preview.png"/>	
-  </ConfigOption>
-</ModInfo>
+requires new game.</Description>
+  <Category>Gameplay</Category>
+  <Link>https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/Starting.Materia.Bonus.iro</Link>
+  <DonationLink />
+  <MetaVersion>1.00</MetaVersion>
+  <Tags>
+    <string>Gameplay</string>
+  </Tags>
+  <GameLanguage>EN</GameLanguage>
+  <LatestVersion>
+    <DownloadSize>95</DownloadSize>
+    <Link>https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/Starting.Materia.Bonus.iro</Link>
+    <Version>1.00</Version>
+    <ReleaseDate>2026-11-02</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage />
+    <ReleaseNotes>Initial release.</ReleaseNotes>
+    <Requirement>5f9f1ce0-a402-46e1-b8af-e4c09f7c40a8</Requirement>
+    </LatestVersion>
+</Mod
