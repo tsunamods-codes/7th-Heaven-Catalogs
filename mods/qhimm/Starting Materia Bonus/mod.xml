@@ -16,7 +16,7 @@ requires new game.</Description>
   <GameLanguage>EN</GameLanguage>
   <LatestVersion>
     <DownloadSize>95</DownloadSize>
-    <Link>iros://Url//github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/starting-materia-bonus.iro</Link>
+    <Link>iros://Url/https$github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/starting-materia-bonus.iro</Link>
     <Version>1.00</Version>
     <ReleaseDate>2026-11-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
