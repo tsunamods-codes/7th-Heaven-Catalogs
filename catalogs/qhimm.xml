@@ -850,15 +850,16 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
   <Author>Marius Boss</Author>
   <Link>https://www.nexusmods.com/finalfantasy7/mods/174</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1AmLrljKl1gAj4fLoFVYplULqs4UO_ih2</Link>
-    <Version>1</Version>
-    <ReleaseDate>2026-09-30</ReleaseDate>
+    <Link>iros://GDrive/1UwYMoKM4dGRT1w8B6W6K2EmVV73a7g_l</Link>
+    <Version>1.03</Version>
+    <ReleaseDate>2026-11-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/a/2PIIThx.jpeg</PreviewImage>
-    <ReleaseNotes>Initial Release.</ReleaseNotes>
-    <DownloadSize>64031</DownloadSize>
+    <PreviewImage>https://imgur.com/a/2PIIThx.jpeg</PreviewImage>
+    <ReleaseNotes>1.0.3 - November 1, 2026: Adds 6 sets of new avatars for all characters.</ReleaseNotes>
+    <DownloadSize>76631</DownloadSize>
   </LatestVersion>
   <Name>FFVII Revelation Portraits</Name>
+  <GameLanguage>ANY</GameLanguage>
   <Category>User Interface</Category>
   <Description>Adds the FFVII Revelation portraits.</Description>
   <Tags>
