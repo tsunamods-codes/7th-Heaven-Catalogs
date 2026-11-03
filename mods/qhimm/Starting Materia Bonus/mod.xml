@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <Mod>
   <ID>3c08d4e5-2e9d-4358-b3e2-0a0aedf5e626</ID>
   <Name>Starting Materia Bonus</Name>
@@ -6,7 +7,7 @@
 load order : place above Enhanced Stock UI
 requires new game.</Description>
   <Category>Gameplay</Category>
-  <Link>https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/Starting.Materia.Bonus.iro</Link>
+  <Link>iros://Url/https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/Starting.Materia.Bonus.iro</Link>
   <DonationLink />
   <MetaVersion>1.00</MetaVersion>
   <Tags>
@@ -15,7 +16,7 @@ requires new game.</Description>
   <GameLanguage>EN</GameLanguage>
   <LatestVersion>
     <DownloadSize>95</DownloadSize>
-    <Link>https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/Starting.Materia.Bonus.iro</Link>
+    <Link>iros://Url/https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og/releases/download/1.0.0/Starting.Materia.Bonus.iro</Link>
     <Version>1.00</Version>
     <ReleaseDate>2026-11-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
