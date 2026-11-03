@@ -8,7 +8,7 @@ load order : place above Enhanced Stock UI
 requires new game.</Description>
   <Category>Gameplay</Category>
   <Link>https://github.com/Karenaki-Renamon/Karenaki-Mods-ff7-steam-og</Link>
-  <DonationLink />
+  <DonationLink></DonationLink>
   <MetaVersion>1.00</MetaVersion>
   <Tags>
     <string>Gameplay</string>
