@@ -38,7 +38,7 @@ requires new game.</Description>
     <Version>1.00</Version>
     <ReleaseDate>2026-11-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage />
+    <PreviewImage></PreviewImage>
     <ReleaseNotes>Initial release.</ReleaseNotes>
     <Requirement>5f9f1ce0-a402-46e1-b8af-e4c09f7c40a8</Requirement>
     </LatestVersion>
@@ -46,8 +46,7 @@ requires new game.</Description>
     <Version>1.00</Version>
     <ReleaseDate>2026-11-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage />
-    <ReleaseNotes>Initial release.</ReleaseNotes>
+      <ReleaseNotes>Initial release.</ReleaseNotes>
     <Requirement>5f9f1ce0-a402-46e1-b8af-e4c09f7c40a8</Requirement>
     </LatestVersion>
 </Mod
