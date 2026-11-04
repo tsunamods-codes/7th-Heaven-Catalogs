@@ -4,12 +4,12 @@
   <Author>JakeIsYoshi</Author>
   <Link>https://forums.qhimm.com/index.php?topic=30975.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1XWd6yK4tYQIBW4bafKAlJfcjCh7hY8JX</Link>
-    <Version>1.20</Version>
-    <ReleaseDate>2026-11-01</ReleaseDate>
+    <Link>iros://GDrive/1DtqtPVh9xHXUaQzNaUrSCjH8uUne1i9N</Link>
+    <Version>1.21</Version>
+    <ReleaseDate>2026-11-04</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/zy3zaJO.png</PreviewImage>
-    <ReleaseNotes>Initial release.</ReleaseNotes>
+    <ReleaseNotes>Turns off enhanced lighting when using this mod.</ReleaseNotes>
     <DownloadSize>17232</DownloadSize>
   </LatestVersion>
   <Name>PSX Battle Shadows and Vertex Snapping</Name>
