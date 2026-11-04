@@ -86,7 +86,7 @@ if (-not (Test-Path -Path "app/CatalogValidator")) {
 # Build dotnet run arguments
 $dotnetArgs = @('run', '--property', 'WarningLevel=0;NuGetAudit=false', '--project', 'app/CatalogValidator')
 
-# Validate every generated catalog
+# Validate every generated catalog for full repository builds.
 $exitCode = 0
 foreach ($finalXml in $generatedCatalogs) {
     $appArgs = @($finalXml)

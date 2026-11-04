@@ -61,15 +61,16 @@ jobs:
       with:
         crate: xmloxide
         version: 0.5.0
-    - name: Lint changed XML files
+    - name: Validate PR XML files
       if: github.event_name == 'pull_request' && success()
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         PR_NUMBER: ${{ github.event.pull_request.number }}
-      run: ".github/workflows/lint.ps1"
+      run: ".github/workflows/validate-pr.ps1"
       shell: pwsh
-    - name: Validate
-      run: ".github/workflows/validate.ps1"
+    - name: Validate all catalogs
+      if: (github.event_name == 'merge_group' || (github.event_name == 'push' && (github.ref == 'refs/heads/master' || startsWith(github.ref, 'refs/tags/')))) && success()
+      run: ".github/workflows/validate-all.ps1"
       shell: pwsh
     - name: Move canary tag to this commit
       uses: richardsimko/update-tag@v1
