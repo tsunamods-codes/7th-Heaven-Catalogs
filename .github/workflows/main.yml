@@ -18,6 +18,10 @@ on:
     branches:
     - master
 
+concurrency:
+  group: ${{ github.event_name == 'merge_group' && 'merge-group-gh-pages' || github.run_id }}
+  queue: max
+
 env:
   _IS_BUILD_CANARY: false
   _IS_GITHUB_RELEASE: false
@@ -81,13 +85,13 @@ jobs:
         removeArtifacts: true
         name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
     - name: Prepare GitHub Pages site
-      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      if: github.event_name == 'merge_group' && success()
       shell: pwsh
       run: |
         New-Item -ItemType Directory -Path "site/catalogs" -Force | Out-Null
         Copy-Item -Path "catalogs/*.xml" -Destination "site/catalogs/" -Force
     - name: Deploy to GitHub Pages
-      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      if: github.event_name == 'merge_group' && success()
       uses: peaceiris/actions-gh-pages@v4.1.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
