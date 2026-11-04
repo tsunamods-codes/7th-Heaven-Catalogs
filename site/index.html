@@ -19,6 +19,20 @@
     <section class="section">
         <h1>7th Heaven Catalogs</h1>
         <hr>
+        <div class="mb-3">
+            <label for="game-language" class="form-label">Game language</label>
+            <select id="game-language" class="form-select w-auto" aria-describedby="game-language-help">
+                <option value="">All languages</option>
+                <option value="EN">English</option>
+                <option value="FR">French</option>
+                <option value="DE">German</option>
+                <option value="ES">Spanish</option>
+                <option value="JA">Japanese</option>
+            </select>
+            <div id="game-language-help" class="form-text">
+                Mods without language metadata default to English. Mods marked ANY match every language.
+            </div>
+        </div>
         <table id="catalog" class="table table-striped">
             <thead>
                 <tr>
@@ -82,11 +96,18 @@
                 const image = $(this).find('PreviewImage').text();
                 const projectLink = $(this).children('Link').text();
                 const author = $(this).children('Author').text();
+                const gameLanguages = [];
+                $(this).children('GameLanguage').each(function() {
+                    gameLanguages.push(...$(this).text().split(',').map(code => code.trim().toUpperCase()).filter(Boolean));
+                });
+                if (gameLanguages.length === 0) {
+                    gameLanguages.push('EN');
+                }
                 const links = [];
                 $(this).find('LatestVersion > Link').each(function() {
                     links.push($(this).text());
                 });
-                items.push({ image, name, description, releaseDate, version, links, projectLink, author });
+                items.push({ image, name, description, releaseDate, version, links, projectLink, author, gameLanguages });
             });
             return items;
         }
@@ -105,15 +126,23 @@
                     <td>${item.version}</td>
                     <td>${linksHtml}</td>
                 </tr>`;
-                tableBody.append(row);
+                tableBody.append($(row).data('gameLanguages', item.gameLanguages));
             });
-            $('#catalog').DataTable({
+            const table = $('#catalog').DataTable({
                 order: [
                     [4, 'desc'],
                     [1, 'asc']
                 ],
                 pageLength: 25,
                 responsive: true
+            });
+            table.search.fixed('gameLanguage', function(search, data, rowIndex) {
+                const selectedLanguage = $('#game-language').val();
+                const gameLanguages = $(table.row(rowIndex).node()).data('gameLanguages');
+                return !selectedLanguage || gameLanguages.includes('ANY') || gameLanguages.includes(selectedLanguage);
+            }).draw();
+            $('#game-language').on('change', function() {
+                table.draw();
             });
         }
 

@@ -12,6 +12,10 @@ Catalogs for 7th-Heaven - Maintained by the Tsunamods community
 6. Automated system will report if there are any errors you need to fix.
 7. Wait for a manager to provide feedback on your Pull Request.
 
+## Validate locally
+
+On Windows, double-click [`validate.bat`](./validate.bat) to run the catalog validation script. Git and the .NET SDK must be installed. On the first run, the script clones 7th-Heaven into the `app` directory.
+
 ## `mod.xml` Template
 
 See https://github.com/tsunamods-codes/7th-Heaven/blob/master/docs/CATALOG.md
