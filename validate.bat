@@ -8,7 +8,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".github\workflows\validate.ps1"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".github\workflows\validate-all.ps1"
 set "result=%ERRORLEVEL%"
 
 if not "%result%"=="0" echo Validation failed with exit code %result%.
