@@ -3,6 +3,7 @@ name: XML Validation and Release
 run-name: 1.0.0.${{ github.run_number }}
 
 on:
+  workflow_dispatch:
   push:
     branches:
     - master
@@ -16,6 +17,10 @@ on:
     - checks_requested
     branches:
     - master
+
+concurrency:
+  group: ${{ (github.event_name == 'merge_group' || (github.event_name == 'push' && github.ref == 'refs/heads/master')) && 'gh-pages-publish' || github.run_id }}
+  queue: max
 
 env:
   _IS_BUILD_CANARY: false
@@ -36,6 +41,7 @@ jobs:
     timeout-minutes: 1440
     permissions:
       contents: write
+      pull-requests: read
     steps:
     - name: Set Git Config
       run: |
@@ -49,8 +55,21 @@ jobs:
       with:
         repository: 'tsunamods-codes/7th-Heaven'
         path: 'app'
-    - name: Validate
-      run: ".github/workflows/validate.ps1"
+    - name: Install xmlint
+      if: github.event_name == 'pull_request'
+      uses: baptiste0928/cargo-install@v3
+      with:
+        crate: xmloxide
+        version: 0.5.0
+    - name: Validate PR XML files
+      if: github.event_name == 'pull_request' && success()
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PR_NUMBER: ${{ github.event.pull_request.number }}
+      run: ".github/workflows/validate-pr.ps1"
+      shell: pwsh
+    - name: Validate all catalogs
+      run: ".github/workflows/validate-all.ps1"
       shell: pwsh
     - name: Move canary tag to this commit
       uses: richardsimko/update-tag@v1
@@ -80,13 +99,13 @@ jobs:
         removeArtifacts: true
         name: "${{ env._RELEASE_NAME }}-${{ env._RELEASE_VERSION }}"
     - name: Prepare GitHub Pages site
-      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      if: (github.event_name == 'merge_group' || (github.event_name == 'push' && github.ref == 'refs/heads/master')) && success()
       shell: pwsh
       run: |
         New-Item -ItemType Directory -Path "site/catalogs" -Force | Out-Null
         Copy-Item -Path "catalogs/*.xml" -Destination "site/catalogs/" -Force
     - name: Deploy to GitHub Pages
-      if: env._IS_GITHUB_RELEASE == 'true' && env._IS_BUILD_CANARY == 'true' && success()
+      if: (github.event_name == 'merge_group' || (github.event_name == 'push' && github.ref == 'refs/heads/master')) && success()
       uses: peaceiris/actions-gh-pages@v4.1.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}

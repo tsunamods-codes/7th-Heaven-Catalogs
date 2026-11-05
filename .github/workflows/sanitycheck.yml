@@ -36,7 +36,7 @@ jobs:
         repository: 'tsunamods-codes/7th-Heaven'
         path: 'app'
     - name: Validate
-      run: ".github/workflows/validate.ps1"
+      run: ".github/workflows/validate-all.ps1"
       shell: pwsh
     - name: Send alerts
       if: success()
