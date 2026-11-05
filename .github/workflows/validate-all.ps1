@@ -57,8 +57,8 @@ foreach ($dir in $catalogSubfolders) {
         # Read the mod.xml
         $xml = Get-Content -LiteralPath $file.FullName -Raw
 
-        # Remove the initial xml tag
-        $xml = $xml.Replace('<?xml version="1.0"?>', '')
+        # Remove only an initial XML declaration, regardless of its attributes or line breaks.
+        $xml = $xml -creplace '(?s)\A\uFEFF?<\?xml(?=\s|\?>).*?\?>', ''
 
         # Add content to final xml
         Add-Content -Path $finalXml -Value $xml
