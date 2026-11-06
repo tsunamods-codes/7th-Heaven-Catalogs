@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>30bba348-7773-4ed5-a71d-cb72c2ce472c</ID>
+  <Author>BrazilRules and Silentverge</Author>
+  <Link />
+  <DonationLink>https://www.patreon.com/cw/BrazilRules</DonationLink>
+  <LatestVersion>
+	<DownloadSize>347435</DownloadSize>
+	<Link>iros://Url/https$www.dropbox.com/scl/fi/9hr17cx98z6km80rn19jz/30bba348-7773-4ed5-a71d-cb72c2ce472c_JobRestrictions_1.0.iro?rlkey=jbnsntp39caa1sui0166t9hx7&amp;st=qxrbl8ip&amp;dl=1</Link>
+	<Version>1.0</Version>
+	<ReleaseDate>2026-10-19T00:00:00</ReleaseDate>
+	<ReleaseNotes>Initial release.</ReleaseNotes>
+	<CompatibleGameVersions>All</CompatibleGameVersions>
+	<PreviewImage />
+  </LatestVersion>
+  <MetaVersion>1.00</MetaVersion>
+  <Name>Job Restrictions</Name>
+  <Description>ONLY RECOMMENDED FOR PEOPLE THAT ALREADY BEAT THE GAME NORMALLY!
+Adds restrictions to what materia each character can equip to simulate Jobs. Also added new Stat Plus materia to give an edge to physical only Jobs, and each Job starts with up to 2 Stat Plus materia. The Job select menu appears when you open the Field Menu for the first time.
+
+Warrior: Can only equip Strength Plus, Counter Attack and Command materia that replaces Attack;
+
+Knight: Can only equip Vitality Plus, Cover, Restore, Heal, Barrier and All materia;
+
+Mystic Knight: Can only equip Strength Plus, Elemental,the 4 elemental green materia that goes with it, Added Effect and Poison materia to go with that;
+
+Thief:Can only Equip Speed Plus, Luck Plus, Pre-Emptive, Sneak Attack, Steal and Steal as Well;
+
+Ninja: Can Equip Speed Plus, Pre-Emptive, Sneak Attack, Mega All, Counter, Magic Counter, Elemental, the 4 elemental green materia, Added Effect, Added Cut, Throw(obviously), Exit and Poison;
+
+Monk: Can only Equip HP Plus, Strength Plus, Counter, Final Attack, Deathblow. Starts with 2 Stat materia;
+
+Blue Mage: Can only Equip MP Plus, Magic Plus, Sense, Morph, Manipulate, Enemy Skill, and Mistify;
+
+White Mage: Can Equip MP Plus, Magic Plus, Spirit Plus, Long Range, Mega All, W-Magic, All, Magic Counter, Added Effect, Seal, Restore, Heal, Revive, Exit, Barrier, Full Cure and Shield;
+
+Black Mage: Can Equip MP Plus, Magic Plus, Long Range, Mega All, HP &lt;-&gt; MP, W-Magic, All, Magic Counter, MP Turbo, MP Absorb, HP Absorb, Elemental, Quadra Magic, Fire, Ice, Earth, Lightning, Poison, Destruct, Contain and Ultima;
+
+Summoner: Can Equip MP Plus, Magic Plus, Spirit Plus, Long Range, Mega All, HP &lt;-&gt; MP, W-Summon, All, Fire, Ice, Earth, Lightning, Restore, Heal and all red materia;
+
+Sage: Can Equip MP Plus, Magic Plus, Spirit Plus, Long Range, Mega All, HP &lt;-&gt; MP, W-Magic, All, Magic Counter, MP Absorb, Elemental, Fire, Ice, Earth, Lightning, Restore, Heal, Destruct and Master Magic;
+
+Time Mage: Can only Equip MP Plus, Magic Plus, Long Range, W-Magic, W-Item, Quadra Magic, Exit, Gravity, Comet and (obviously) Time;
+
+Mimic: Can only Equip all Plus materia, Mega All, Counter Attack, Counter, Added Cut, Mime(duh) and Master Command. Starts with Speed Plus and Mime materia;
+
+All Field Materia can be equiped by all Jobs.</Description>
+  <Category>Gameplay</Category>
+  <Tags />
+  <GameLanguage>EN</GameLanguage>
+</Mod>
