@@ -1413,11 +1413,11 @@ Check Readme for full version history.</ReleaseNotes>
     <PreviewImage>https://i.imgur.com/58cvWBW.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
     <DownloadSize>240690</DownloadSize>
-    <GameLanguage>ANY</GameLanguage>
   </LatestVersion>
   <Name>NinoStyle Chibi Field Models</Name>
   <Category>Field Models</Category>
   <Description>Replacement for field, world, minigame and vehicle models</Description>
+  <GameLanguage>ANY</GameLanguage>
   <Tags>
     <string>NinoStyle</string>
     <string>Field Models</string>
