@@ -14,9 +14,10 @@ I will be adding some menuing input Qol features this summer.
 Double input bugfix is now enabled by default, all other features are optional and disabled by default.</ReleaseNotes>
     <DownloadSize>37</DownloadSize>
   </LatestVersion>
-  <Name>Double Input Bugfix (and menu input Qol)</Name>
+  <Name>Double Input Bugfix (and menu input Qol)(Deprecated)</Name>
   <Category>Miscellaneous</Category>
-  <Description>BE GONE double input! May you never darken FF7 PC's door again!!
+  <Description>(Deprecated due to 7H/FFNx built-in implementation) 
+    BE GONE double input! May you never darken FF7 PC's door again!!
 
   Fix is enabled by default, you can just play once the mod is enabled.
 
