@@ -2109,13 +2109,13 @@ And all of the creators of the tools that were used for the project.
   <Author>Kuraudo, Wictoriously, Reiletuag</Author>
   <Link>https://forums.qhimm.com/index.php?topic=19450</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1C6u6YY2cK9RHoZPlFQARK_FG1eoicJlQ</Link>
-    <Version>3.0</Version>
-    <ReleaseDate>2026-01-03</ReleaseDate>
+    <Link>iros://GDrive/1GcwFz-loVv9xhxVE7ElpoSrASLi1MPqw</Link>
+    <Version>3.01</Version>
+    <ReleaseDate>2026-11-08</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/Bj5CmKd.jpeg</PreviewImage>
-    <ReleaseNotes>Start screen added; portraits added; battle and dialogue mini avatars added for Enhanced Stock UI and AavockESUI.</ReleaseNotes>
-    <DownloadSize>8279</DownloadSize>
+    <ReleaseNotes>GameLanguage compatibility.</ReleaseNotes>
+    <DownloadSize>30454</DownloadSize>
   </LatestVersion>
   <Name>Wictoriously Avatars +</Name>
   <Category>User Interface</Category>
@@ -2128,6 +2128,7 @@ And all of the creators of the tools that were used for the project.
     <string>User Interface</string>
     <string>Wictoriously</string>
   </Tags>
+  <GameLanguage>ANY</GameLanguage>
 </Mod>
 
 
