@@ -1459,11 +1459,11 @@ Fixed Chocobo colors.</ReleaseNotes>
     <PreviewImage>https://i.imgur.com/Hr5bC39.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
     <DownloadSize>113059</DownloadSize>
-    <GameLanguage>ANY</GameLanguage>
   </LatestVersion>
   <Name>NinoStyle HD Field Models</Name>
   <Category>Field Models</Category>
   <Description>Replacement for field, world, minigame and vehicle models</Description>
+  <GameLanguage>ANY</GameLanguage>
   <Tags>
     <string>NinoStyle</string>
     <string>Tsunamix</string>
