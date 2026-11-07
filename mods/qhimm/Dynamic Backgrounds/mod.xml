@@ -4,13 +4,13 @@
   <Author>Kuraudo</Author>
   <Link>https://forums.qhimm.com/index.php?topic=21345.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1Se0kkSHsF0LMx_bZH4xqMlGcjggUUdvp</Link>
-    <Version>0.94</Version>
-    <ReleaseDate>2026-09-29</ReleaseDate>
+    <Link>iros://GDrive/1GbgXIsbXZFHQVdJeGd8mGGZtCGwHNX57</Link>
+    <Version>0.95</Version>
+    <ReleaseDate>2026-11-08</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/9GOy2Ac.jpeg</PreviewImage>
-    <ReleaseNotes>Added Revelation backgrounds.</ReleaseNotes>
-    <DownloadSize>203611</DownloadSize>
+    <ReleaseNotes>Added GameLanguage compatibility.</ReleaseNotes>
+    <DownloadSize>252605</DownloadSize>
   </LatestVersion>
   <Name>Dynamic Backgrounds</Name>
   <Category>User Interface</Category>
@@ -22,4 +22,5 @@
     <string>User Interface</string>
     <string>Kuraudo</string>
   </Tags>
+  <GameLanguage>ANY</GameLanguage>
 </Mod>
