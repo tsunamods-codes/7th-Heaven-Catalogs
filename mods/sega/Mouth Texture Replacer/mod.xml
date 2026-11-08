@@ -5,6 +5,7 @@
   <Link>http://forums.qhimm.com/index.php?topic=14425.0</Link>
   <LatestVersion>
     <Link>iros://GDrive/1d2vJ9N5owfw5wnuSn7vjCOwTQUreOSTP</Link>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7MouthReplacer.7z</Link>
     <Version>1.03</Version>
     <ReleaseDate>2024-02-10</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -15,6 +16,9 @@
   <Name>Mouth Texture Replacer</Name>
   <Description>Removes or replaces the O mouths of default Field Model NPCs</Description>
   <Category>Field Models</Category>
+  <MetaVersion>1.00</MetaVersion>
+  <GameLanguage>EN</GameLanguage>
+  <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
     <string>Field Models</string>
   </Tags>
