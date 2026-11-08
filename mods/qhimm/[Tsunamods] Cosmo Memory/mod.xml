@@ -6,9 +6,10 @@
   <DonationLink>https://7thheaven.rocks/bonezdonate.html</DonationLink>
   <LatestVersion>
     <Link>iros://Url/https$bonez.7thheaven.rocks/%5BTsunamods%5D_Cosmo_Memory.iro</Link>
-    <Version>1.21</Version>
-    <ReleaseDate>2026-03-23</ReleaseDate>
+    <Version>1.22</Version>
+    <ReleaseDate>2026-11-07</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
+    <GameLanguage>ANY</GameLanguage>
     <PreviewImage>https://i.imgur.com/gLNj138.png</PreviewImage>
     <ReleaseNotes>Update for Echo-S fixes</ReleaseNotes>
     <DownloadSize>363000</DownloadSize>
