@@ -120,12 +120,12 @@
   <Author>Vertex2995, Obesebear, Kaldarasha</Author>
   <Link>https://github.com/tangtang95/ff7-60fps-mod</Link>
   <LatestVersion>
-    <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.15/ff7-60fps-mod.iro</Link>
-    <Version>1.15</Version>
+    <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-mod/releases/download/v1.16/ff7-60fps-mod.iro</Link>
+    <Version>1.16</Version>
     <ReleaseDate>2022-09-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/4T7hFii.png</PreviewImage>
-    <ReleaseNotes>REQUIRES 7th Heaven 2.3.3+ and FFNx 1.11.0+
+    <ReleaseNotes>REQUIRES 7th Heaven 4.6.0+ and FFNx 1.11.0+
 
 Changelog:
    - 1.00: BETA Release
@@ -147,6 +147,7 @@ Changelog:
    - 1.13: Add optional fix for FIELD mode 60 FPS animation for kuro_4 field map (Look at README file)
    - 1.14: Update link url to github repo
    - 1.15: Add compatibility flag support for easier 60fps enabled detection by other mods
+   - 1.16: Add game language configuration
         </ReleaseNotes>
     <DownloadSize>97921</DownloadSize>
   </LatestVersion>
@@ -167,6 +168,7 @@ If you are playing FF7 without any gameplay mods, make sure to set the fix field
     <string>Kaldarasha</string>
     <string>Vertex2995</string>
   </Tags>
+  <GameLanguage>ANY</GameLanguage>
 </Mod>
 
 
