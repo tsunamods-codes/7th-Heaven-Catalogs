@@ -1,25 +1,26 @@
 <?xml version="1.0"?>
 <Mod>
-  <ID>fd337dbc-5c77-4031-b06e-afadf78ecd2c</ID>
-  <Author>Sega Chief</Author>
-  <Link>https://forums.qhimm.com/index.php?topic=14425.0</Link>
-  <LatestVersion>
-    <Link>iros://GDrive/1GnQ5t-bTKuwwcJvKW6CiP1wsqRFDdK2T</Link>
-    <Link>iros://Url/http$sega.7thheaven.rocks/FF7BattleModelSwapsOGStyle.7z</Link>
-    <Version>1.03</Version>
-    <ReleaseDate>2024-02-10</ReleaseDate>
-    <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/hAESdnj.png</PreviewImage>
-    <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>3700</DownloadSize>
-  </LatestVersion>
-  <Name>Battle Model Swaps OG style</Name>
-  <Description>A series of costume/model swaps for battle models using the Original Game style (shaded polygons)</Description>
-  <Category>Battle Models</Category>
-  <MetaVersion>1.00</MetaVersion>
-  <GameLanguage>EN</GameLanguage>
-  <DonationLink>https://paypal.me/segachief</DonationLink>
-  <Tags>
-    <string>Battle Models</string>
-  </Tags>
-</Mod>
+      <ID>fd337dbc-5c77-4031-b06e-afadf78ecd2c</ID>
+      <Author>Sega Chief</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=14425.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
+		<Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
+        <Version>1.04</Version>
+        <ReleaseDate>2026-11-09</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/hAESdnj.png</PreviewImage>
+        <ReleaseNotes>Updated battle costumes and added matching field costumes and supported character variants, refreshed preview images, and compatibility/load-order rules.</ReleaseNotes>
+        <DownloadSize>20202</DownloadSize>
+      </LatestVersion>
+      <Name>Model Swaps OG-Style</Name>
+      <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
+      <Category>Battle Models</Category>
+	  <MetaVersion>1.01</MetaVersion>
+	  <GameLanguage>EN</GameLanguage>
+	  <DonationLink>https://paypal.me/segachief</DonationLink>
+      <Tags>
+        <string>Battle Models</string>
+        <string>Field Models</string>
+      </Tags>
+    </Mod>
