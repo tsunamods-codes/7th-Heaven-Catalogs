@@ -6,18 +6,18 @@
   <LatestVersion>
     <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0CombatOnly.iro.7z</Link>
-    <Version>2.099996</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <Version>2.099997</Version>
+    <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-b6e522.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>2452</DownloadSize>
+    <DownloadSize>3548</DownloadSize>
   </LatestVersion>
   <Name>New Threat 2.0 Combat Only</Name>
   <Description>A combat rebalance mod.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.00</MetaVersion>
-  <GameLanguage>EN</GameLanguage>
+  <MetaVersion>1.01</MetaVersion>
+  <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
     <string>Gameplay</string>
