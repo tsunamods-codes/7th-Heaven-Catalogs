@@ -10,17 +10,17 @@
         <Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
 		<Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
         <Version>1.04</Version>
-        <ReleaseDate>2026-11-09</ReleaseDate>
+        <ReleaseDate>2026-11-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/hAESdnj.png</PreviewImage>
+        <PreviewImage>https://img.tedomum.net/data/main-335e59.png</PreviewImage>
         <ReleaseNotes>Updated battle costumes and added matching field costumes and supported character variants, refreshed preview images, and compatibility/load-order rules.</ReleaseNotes>
-        <DownloadSize>20202</DownloadSize>
+        <DownloadSize>11116</DownloadSize>
       </LatestVersion>
       <Name>Model Swaps OG-Style</Name>
       <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
       <Category>Battle Models</Category>
-	  <MetaVersion>1.01</MetaVersion>
-	  <GameLanguage>EN</GameLanguage>
+	  <MetaVersion>1.03</MetaVersion>
+	  <GameLanguage>ANY</GameLanguage>
 	  <DonationLink>https://paypal.me/segachief</DonationLink>
       <Tags>
         <string>Battle Models</string>
@@ -36,17 +36,17 @@
     <Link>iros://GDrive/1XpVV8m_KbtGPLhXn0jg73Wjjwq2mJ6AA</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7Lv1Challenge.7z</Link>
     <Version>1.04</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/9WXItJa.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-81fa5c.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>1262</DownloadSize>
+    <DownloadSize>535</DownloadSize>
   </LatestVersion>
   <Name>Lv1 Challenge</Name>
   <Description>Challenge Mod: Beat the game with a Lv.1 Party</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
-  <GameLanguage>EN</GameLanguage>
+  <MetaVersion>1.03</MetaVersion>
+  <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
     <string>Gameplay</string>
@@ -88,9 +88,9 @@
     <Link>iros://GDrive/10yCi0IdDnovhaHNq2_wBHb24xDn0w--m</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5.iro.7z</Link>
     <Version>1.591</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <ReleaseDate>2026-11-09</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/ctPek1l.jpg</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-0f7079.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
     <DownloadSize>162097</DownloadSize>
   </LatestVersion>
@@ -114,16 +114,16 @@
     <Link>iros://GDrive/1M_9cQrbaz_psRNGKA_2SUU_0DnQxLf-U</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5VanillaCombat.iro.7z</Link>
     <Version>1.55</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/ctPek1l.jpg</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-fdd1ee.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>152850</DownloadSize>
+    <DownloadSize>158118</DownloadSize>
   </LatestVersion>
   <Name>New Threat 1.5 Vanilla Combat</Name>
   <Description>FF7 NT Content mod with vanilla combat balancing and encounters.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
+  <MetaVersion>1.03</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -140,16 +140,16 @@
     <Link>iros://GDrive/1leGVo1CMMPNXKUr8nwiQzVwn6hN4mLLU</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0.iro.7z</Link>
     <Version>2.0999994</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <ReleaseDate>2026-11-09</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-10f33b.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
     <DownloadSize>186311</DownloadSize>
   </LatestVersion>
   <Name>New Threat 2.0</Name>
   <Description>An extensive gameplay rebalance and content mod.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.00</MetaVersion>
+  <MetaVersion>1.01</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -165,18 +165,18 @@
   <LatestVersion>
     <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0CombatOnly.iro.7z</Link>
-    <Version>2.099996</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <Version>2.099997</Version>
+    <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-b6e522.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>2452</DownloadSize>
+    <DownloadSize>3548</DownloadSize>
   </LatestVersion>
   <Name>New Threat 2.0 Combat Only</Name>
   <Description>A combat rebalance mod.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.00</MetaVersion>
-  <GameLanguage>EN</GameLanguage>
+  <MetaVersion>1.01</MetaVersion>
+  <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
     <string>Gameplay</string>
@@ -192,16 +192,16 @@
     <Link>iros://GDrive/1dGYzBwArKnGa4K51gAe3vtU87vzhb6zZ</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
     <Version>2.099994</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/Yq1luvw.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-a9aa27.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>164738</DownloadSize>
+    <DownloadSize>168729</DownloadSize>
   </LatestVersion>
   <Name>New Threat 2.0 Vanilla Combat</Name>
   <Description>Content mod with vanilla encounters.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.00</MetaVersion>
+  <MetaVersion>1.02</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -218,16 +218,16 @@
     <Link>iros://GDrive/19_gK14aoRzUMdOGGQXlva6zWF2xYOSKz</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7TrueNecrosis.7z</Link>
     <Version>1.23</Version>
-    <ReleaseDate>2026-11-08</ReleaseDate>
+    <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/MqJ5lGO.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-8d7e93.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>1482</DownloadSize>
+    <DownloadSize>2661</DownloadSize>
   </LatestVersion>
   <Name>True Necrosis</Name>
   <Description>Challenge Mod: Start with 9999HP/MP but no way to recover it!</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
+  <MetaVersion>1.03</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
