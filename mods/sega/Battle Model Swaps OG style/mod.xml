@@ -11,12 +11,12 @@
         <CompatibleGameVersions>All</CompatibleGameVersions>
         <PreviewImage>https://img.tedomum.net/data/main-335e59.png</PreviewImage>
         <ReleaseNotes>Updated battle costumes and added matching field costumes and supported character variants, refreshed preview images, and compatibility/load-order rules.</ReleaseNotes>
-        <DownloadSize>20202</DownloadSize>
+        <DownloadSize>11116</DownloadSize>
       </LatestVersion>
       <Name>Model Swaps OG-Style</Name>
       <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
       <Category>Battle Models</Category>
-	  <MetaVersion>1.02</MetaVersion>
+	  <MetaVersion>1.03</MetaVersion>
 	  <GameLanguage>ANY</GameLanguage>
 	  <DonationLink>https://paypal.me/segachief</DonationLink>
       <Tags>
