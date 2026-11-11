@@ -9,15 +9,15 @@
     <Version>1.04</Version>
     <ReleaseDate>2026-11-08</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
-    <PreviewImage>https://i.imgur.com/9WXItJa.png</PreviewImage>
+    <PreviewImage>https://img.tedomum.net/data/main-81fa5c.png</PreviewImage>
     <ReleaseNotes></ReleaseNotes>
     <DownloadSize>1262</DownloadSize>
   </LatestVersion>
   <Name>Lv1 Challenge</Name>
   <Description>Challenge Mod: Beat the game with a Lv.1 Party</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
-  <GameLanguage>EN</GameLanguage>
+  <MetaVersion>1.02</MetaVersion>
+  <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
     <string>Gameplay</string>

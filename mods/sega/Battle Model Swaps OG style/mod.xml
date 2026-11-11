@@ -7,17 +7,17 @@
         <Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
 		<Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
         <Version>1.04</Version>
-        <ReleaseDate>2026-11-09</ReleaseDate>
+        <ReleaseDate>2026-11-11</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://i.imgur.com/hAESdnj.png</PreviewImage>
+        <PreviewImage>https://img.tedomum.net/data/main-335e59.png</PreviewImage>
         <ReleaseNotes>Updated battle costumes and added matching field costumes and supported character variants, refreshed preview images, and compatibility/load-order rules.</ReleaseNotes>
         <DownloadSize>20202</DownloadSize>
       </LatestVersion>
       <Name>Model Swaps OG-Style</Name>
       <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
       <Category>Battle Models</Category>
-	  <MetaVersion>1.01</MetaVersion>
-	  <GameLanguage>EN</GameLanguage>
+	  <MetaVersion>1.02</MetaVersion>
+	  <GameLanguage>ANY</GameLanguage>
 	  <DonationLink>https://paypal.me/segachief</DonationLink>
       <Tags>
         <string>Battle Models</string>
