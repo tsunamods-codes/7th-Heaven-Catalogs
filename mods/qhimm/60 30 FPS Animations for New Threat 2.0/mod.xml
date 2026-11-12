@@ -4,8 +4,8 @@
   <Author>Vertex2995, Uprisen, Sega Chief</Author>
   <Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
   <LatestVersion>
-    <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.05/ff7-60fps-nt-plugin-mod.iro</Link>
-    <Version>1.05</Version>
+    <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.06/ff7-60fps-nt-plugin-mod.iro</Link>
+    <Version>1.06</Version>
     <ReleaseDate>2022-05-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage></PreviewImage>
@@ -19,12 +19,13 @@
    - 1.03: Add another IRO for New Threat 2.0 (ESP)
    - 1.04: Remove hard requirement of "New Threat 2.0" since this mod can be used also for "New Threat 2.0 Combat Only"
    - 1.05: Add game language configuration
+   - 1.06: Set game language to EN as NTCO does not need this mod anymore
         </ReleaseNotes>
     <DownloadSize>8572</DownloadSize>
   </LatestVersion>
   <Name>60/30 FPS Animations for New Threat 2.0</Name>
   <Category>Animations</Category>
-  <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 (works also for New Threat 2.0 Combat Only) mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
+  <Description>Provide BATTLE and FIELD mode compatibility of New Threat 2.0 mod with 60 FPS Gameplay mod. Both "Full 30 FPS" and "Full 60 FPS" of 60 FPS Gameplay mod are available (Can be changed in the mod config options)</Description>
   <Tags>
     <string>60</string>
     <string>fps</string>
@@ -33,5 +34,5 @@
     <string>Uprisen</string>
     <string>Sega Chief</string>
   </Tags>
-  <GameLanguage>ANY</GameLanguage>
+  <GameLanguage>EN</GameLanguage>
 </Mod>
