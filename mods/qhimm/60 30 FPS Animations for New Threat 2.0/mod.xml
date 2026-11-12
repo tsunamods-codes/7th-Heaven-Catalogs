@@ -4,8 +4,8 @@
   <Author>Vertex2995, Uprisen, Sega Chief</Author>
   <Link>https://github.com/tangtang95/ff7-60fps-nt-plugin-mod</Link>
   <LatestVersion>
-    <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.04/ff7-60fps-nt-plugin-mod.iro</Link>
-    <Version>1.04</Version>
+    <Link>iros://Url/https$github.com/tangtang95/ff7-60fps-nt-plugin-mod/releases/download/v1.05/ff7-60fps-nt-plugin-mod.iro</Link>
+    <Version>1.05</Version>
     <ReleaseDate>2022-05-02</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage></PreviewImage>
@@ -18,6 +18,7 @@
    - 1.02: Add link url to github repo
    - 1.03: Add another IRO for New Threat 2.0 (ESP)
    - 1.04: Remove hard requirement of "New Threat 2.0" since this mod can be used also for "New Threat 2.0 Combat Only"
+   - 1.05: Add game language configuration
         </ReleaseNotes>
     <DownloadSize>8572</DownloadSize>
   </LatestVersion>
@@ -32,4 +33,5 @@
     <string>Uprisen</string>
     <string>Sega Chief</string>
   </Tags>
+  <GameLanguage>ANY</GameLanguage>
 </Mod>
