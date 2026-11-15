@@ -6,15 +6,15 @@
   <LatestVersion>
     <Link>iros://GDrive/1leGVo1CMMPNXKUr8nwiQzVwn6hN4mLLU</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0.iro.7z</Link>
-    <Version>2.0999994</Version>
-    <ReleaseDate>2026-11-09</ReleaseDate>
+    <Version>2.0999995</Version>
+    <ReleaseDate>2026-11-15</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://img.tedomum.net/data/main-10f33b.png</PreviewImage>
-    <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>186311</DownloadSize>
+    <ReleaseNotes>Fix Cloud's world-map model crash with recent FFNx lighting changes. Correct battle-model bounding-box headers.</ReleaseNotes>
+    <DownloadSize>184461</DownloadSize>
   </LatestVersion>
   <Name>New Threat 2.0</Name>
-  <Description>An extensive gameplay rebalance and content mod.</Description>
+  <Description>An extensive gameplay rebalance and content mod, rebuilt.</Description>
   <Category>Gameplay</Category>
   <MetaVersion>1.01</MetaVersion>
   <GameLanguage>EN</GameLanguage>

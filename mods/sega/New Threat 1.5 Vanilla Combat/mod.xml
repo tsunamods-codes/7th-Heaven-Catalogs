@@ -2,16 +2,16 @@
 <Mod>
   <ID>1c79292b-bbeb-429b-aea6-07b7c825ff86</ID>
   <Author>Sega Chief</Author>
-  <Link>http://forums.qhimm.com/index.php?topic=14938.0</Link>
+  <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
     <Link>iros://GDrive/1M_9cQrbaz_psRNGKA_2SUU_0DnQxLf-U</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5VanillaCombat.iro.7z</Link>
-    <Version>1.55</Version>
-    <ReleaseDate>2026-11-11</ReleaseDate>
+    <Version>1.56</Version>
+    <ReleaseDate>2026-11-15</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://img.tedomum.net/data/main-fdd1ee.png</PreviewImage>
-    <ReleaseNotes></ReleaseNotes>
-    <DownloadSize>158118</DownloadSize>
+    <ReleaseNotes>Fix Cloud's world-map model crash with recent FFNx lighting changes.</ReleaseNotes>
+    <DownloadSize>157731</DownloadSize>
   </LatestVersion>
   <Name>New Threat 1.5 Vanilla Combat</Name>
   <Description>FF7 NT Content mod with vanilla combat balancing and encounters.</Description>
