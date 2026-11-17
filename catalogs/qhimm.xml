@@ -1403,14 +1403,14 @@ Check Readme for full version history.</ReleaseNotes>
   <Author>htp314</Author>
   <Link></Link>
   <LatestVersion>
-    <Link>iros://GDrive/1T2Aklean78PNRaYccDgg0rHrwDnP4D90</Link>
-    <Version>2.6</Version>
-    <ReleaseDate>2026-11-16</ReleaseDate>
+    <Link>iros://GDrive/1I0VWTyk8fPLR5gNHQ5QyteKt9gbqTdnu</Link>
+    <Version>2.7</Version>
+    <ReleaseDate>2026-11-17</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage></PreviewImage>
     <ReleaseNotes>Fixed culling issues with some models.
 Updated Sailor Barret model.</ReleaseNotes>
-    <DownloadSize>205959</DownloadSize>
+    <DownloadSize>202421</DownloadSize>
   </LatestVersion>
   <Name>Ninostyle Chibi Fixes and Additions</Name>
   <GameLanguage>ANY</GameLanguage>
