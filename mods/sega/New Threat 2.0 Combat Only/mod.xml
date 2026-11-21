@@ -4,8 +4,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0CombatOnly.iro.7z</Link>
+    <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
     <Version>2.099997</Version>
     <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -16,7 +16,7 @@
   <Name>New Threat 2.0 Combat Only</Name>
   <Description>A combat rebalance mod.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
+  <MetaVersion>1.02</MetaVersion>
   <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>

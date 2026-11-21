@@ -4,8 +4,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14425.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1Tqu_cYk943Iplgoi_04tIDByeSYZOZWs</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7MouthReplacer.7z</Link>
+    <Link>iros://GDrive/1Tqu_cYk943Iplgoi_04tIDByeSYZOZWs</Link>
     <Version>1.05</Version>
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -18,7 +18,7 @@
   Option 1: No mouths (PSX style)
   Option 2: Player Character mouths for NPCs (replaces 'o' mouths)</Description>
   <Category>Field Models</Category>
-  <MetaVersion>1.00</MetaVersion>
+  <MetaVersion>1.01</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
