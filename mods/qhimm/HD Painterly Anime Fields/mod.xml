@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>d8ae1d67-2414-4124-9de4-fc1e8be82a86</ID>
+  <Author>FF7 Field Studio</Author>
+  <LatestVersion>
+    <Link>iros://GDrive/1fWMmYT4bod3DXaLDPa3UQbDHCXKvY_g0</Link>
+    <Version>2026.1121</Version>
+    <ReleaseDate>2026-11-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://i.imgur.com/IGv69wx.jpeg</PreviewImage>
+    <ReleaseNotes>Remastered field backgrounds for 702 fields at 4x the original size, with their doors, lights and animated parts. Needs FFNx with animated textures on (this mod turns it on). Put it above other field texture mods, such as SYW Unified, so its fields are the ones shown.</ReleaseNotes>
+    <DownloadSize>4148723</DownloadSize>
+  </LatestVersion>
+  <Name>HD Painterly Anime Fields</Name>
+  <Category>Field Textures</Category>
+  <Description>Remastered field backgrounds, repainted in a hand-painted style that keeps the original layouts, lighting and mood.</Description>
+  <Tags>
+    <string>Field Textures</string>
+    <string>Backgrounds</string>
+  </Tags>
+</Mod>
