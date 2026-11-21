@@ -6,17 +6,17 @@
   <LatestVersion>
     <Link>iros://GDrive/1dGYzBwArKnGa4K51gAe3vtU87vzhb6zZ</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
-    <Version>2.099995</Version>
-    <ReleaseDate>2026-11-15</ReleaseDate>
+    <Version>2.099996</Version>
+    <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://img.tedomum.net/data/main-a9aa27.png</PreviewImage>
-    <ReleaseNotes>Fix Cloud's world-map model crash with recent FFNx lighting changes.</ReleaseNotes>
-    <DownloadSize>159922</DownloadSize>
+    <ReleaseNotes>Version numbering fix, unused model part cleanup</ReleaseNotes>
+    <DownloadSize>165767</DownloadSize>
   </LatestVersion>
   <Name>New Threat 2.0 Vanilla Combat</Name>
   <Description>FF7 NT Content mod with vanilla combat balancing and encounters.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.02</MetaVersion>
+  <MetaVersion>1.03</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>

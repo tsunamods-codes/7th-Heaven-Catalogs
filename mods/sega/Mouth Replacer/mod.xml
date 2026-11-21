@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Mod>
+  <ID>f109d541-9de5-43fc-922f-9d92ed8fb322</ID>
+  <Author>Sega Chief</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=14425.0</Link>
+  <LatestVersion>
+    <Link>iros://GDrive/1d2vJ9N5owfw5wnuSn7vjCOwTQUreOSTP</Link>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7MouthReplacer.7z</Link>
+    <Version>1.04</Version>
+    <ReleaseDate>2026-11-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://img.tedomum.net/data/main-7ef8c8.png</PreviewImage>
+    <ReleaseNotes>Blink Fix option added, general refresh of IRO</ReleaseNotes>
+    <DownloadSize>667</DownloadSize>
+  </LatestVersion>
+  <Name>Mouth Replacer</Name>
+  <Description>Mouth texture replacer for original chibi models only
+  Option 1: No mouths (PSX style)
+  Option 2: Player Character mouths for NPCs (replaces 'o' mouths)</Description>
+  <Category>Field Models</Category>
+  <MetaVersion>1.00</MetaVersion>
+  <GameLanguage>EN</GameLanguage>
+  <DonationLink>https://paypal.me/segachief</DonationLink>
+  <Tags>
+    <string>Field Models</string>
+  </Tags>
+</Mod>
