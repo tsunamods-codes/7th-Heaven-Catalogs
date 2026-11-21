@@ -1016,15 +1016,16 @@ Mako Ring replaces Reflect Ring.</ReleaseNotes>
   <Author>KWRRK</Author>
   <Link></Link>
   <LatestVersion>
-    <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/UserInterface/ifrit.7z</Link>
-    <Version>1.5</Version>
-    <ReleaseDate>2024-04-21</ReleaseDate>
+    <Link>iros://Url/https$drive.proton.me/urls/8WKNZF2QCM#aa5iHDzutYWM</Link>
+    <Version>1.51</Version>
+    <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/ttk75MM.png</PreviewImage>
-    <ReleaseNotes>Version 1.5
+    <ReleaseNotes>Version 1.5 and 1.51
 - Restore proper high res Portrait Transparent avatars
+- SAC Heart Fix for SYW Unified UI; GameLanguage flag added      
 </ReleaseNotes>
-    <DownloadSize>46400</DownloadSize>
+    <DownloadSize>247655</DownloadSize>
   </LatestVersion>
   <Name>IFRIT - FF7 Interface Tweaks</Name>
   <Category>User Interface</Category>
@@ -1044,6 +1045,7 @@ Features:
     <string>User Interface</string>
     <string>Avatar</string>
   </Tags>
+    <GameLanguage>EN</GameLanguage>
 </Mod>
 
 
