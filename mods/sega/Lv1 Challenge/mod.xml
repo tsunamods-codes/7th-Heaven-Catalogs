@@ -4,8 +4,8 @@
   <Author>Sega Chief</Author>
   <Link>http://forums.qhimm.com/index.php?topic=15155.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1XpVV8m_KbtGPLhXn0jg73Wjjwq2mJ6AA</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7Lv1Challenge.7z</Link>
+    <Link>iros://GDrive/1XpVV8m_KbtGPLhXn0jg73Wjjwq2mJ6AA</Link>
     <Version>1.04</Version>
     <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -16,7 +16,7 @@
   <Name>Lv1 Challenge</Name>
   <Description>Challenge Mod: Beat the game with a Lv.1 Party</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.03</MetaVersion>
+  <MetaVersion>1.04</MetaVersion>
   <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
