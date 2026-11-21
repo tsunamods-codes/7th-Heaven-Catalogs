@@ -5,7 +5,8 @@
       <ID>17cbfee5-ad6a-4dc7-9c1a-05f24276f2c3</ID>
       <Name>SAC Heart Fix</Name>
       <Author>Kuraudo</Author>
-      <Description>Resolves UI Glyph Incompatibility between Shinra Archaeology Cut and SYW Unified UI.</Description>
+      <Description>Resolves UI Glyph Incompatibility between Shinra Archaeology Cut and SYW Unified UI. This patch corrects the display of the heart icon in dialogue, which previously rendered as a British pound symbol. 
+Original authors for SYW Unified UI: Aavock, Satsuki_Yatoshi, jtd</Description>
       <Category>User Interface</Category>
       <Link>https://forums.qhimm.com/index.php?topic=21616.0</Link>
       <DonationLink />
