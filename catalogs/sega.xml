@@ -7,8 +7,8 @@
       <Author>Sega Chief</Author>
       <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
       <LatestVersion>
-        <Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
-		<Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
+        <Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
+		<Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
         <Version>1.05</Version>
         <ReleaseDate>2026-11-21</ReleaseDate>
         <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -19,7 +19,7 @@
       <Name>Model Swaps OG-Style</Name>
       <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
       <Category>Battle Models</Category>
-	  <MetaVersion>1.03</MetaVersion>
+	  <MetaVersion>1.04</MetaVersion>
 	  <GameLanguage>ANY</GameLanguage>
 	  <DonationLink>https://paypal.me/segachief</DonationLink>
       <Tags>
@@ -34,8 +34,8 @@
   <Author>Sega Chief</Author>
   <Link>http://forums.qhimm.com/index.php?topic=15155.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1XpVV8m_KbtGPLhXn0jg73Wjjwq2mJ6AA</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7Lv1Challenge.7z</Link>
+    <Link>iros://GDrive/1XpVV8m_KbtGPLhXn0jg73Wjjwq2mJ6AA</Link>
     <Version>1.04</Version>
     <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -46,7 +46,7 @@
   <Name>Lv1 Challenge</Name>
   <Description>Challenge Mod: Beat the game with a Lv.1 Party</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.03</MetaVersion>
+  <MetaVersion>1.04</MetaVersion>
   <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -60,8 +60,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14425.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1Tqu_cYk943Iplgoi_04tIDByeSYZOZWs</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7MouthReplacer.7z</Link>
+    <Link>iros://GDrive/1Tqu_cYk943Iplgoi_04tIDByeSYZOZWs</Link>
     <Version>1.05</Version>
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -74,7 +74,7 @@
   Option 1: No mouths (PSX style)
   Option 2: Player Character mouths for NPCs (replaces 'o' mouths)</Description>
   <Category>Field Models</Category>
-  <MetaVersion>1.00</MetaVersion>
+  <MetaVersion>1.01</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -88,8 +88,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/10yCi0IdDnovhaHNq2_wBHb24xDn0w--m</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5.iro.7z</Link>
+    <Link>iros://GDrive/10yCi0IdDnovhaHNq2_wBHb24xDn0w--m</Link>
     <Version>1.593</Version>
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -100,7 +100,7 @@
   <Name>New Threat 1.5</Name>
   <Description>An extensive gameplay rebalance and content mod.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.00</MetaVersion>
+  <MetaVersion>1.02</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -114,8 +114,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1M_9cQrbaz_psRNGKA_2SUU_0DnQxLf-U</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5VanillaCombat.iro.7z</Link>
+    <Link>iros://GDrive/1M_9cQrbaz_psRNGKA_2SUU_0DnQxLf-U</Link>
     <Version>1.57</Version>
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -126,7 +126,7 @@
   <Name>New Threat 1.5 Vanilla Combat</Name>
   <Description>FF7 NT Content mod with vanilla combat balancing and encounters.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.03</MetaVersion>
+  <MetaVersion>1.05</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -140,8 +140,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1leGVo1CMMPNXKUr8nwiQzVwn6hN4mLLU</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0.iro.7z</Link>
+    <Link>iros://GDrive/1leGVo1CMMPNXKUr8nwiQzVwn6hN4mLLU</Link>
     <Version>2.0999996</Version>
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -152,7 +152,7 @@
   <Name>New Threat 2.0</Name>
   <Description>An extensive gameplay rebalance and content mod, rebuilt.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
+  <MetaVersion>1.03</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -166,8 +166,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0CombatOnly.iro.7z</Link>
+    <Link>iros://GDrive/15jQ-vh4yYJj9lQ82hxDg4fBCXeXNFOK5</Link>
     <Version>2.099997</Version>
     <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -178,7 +178,7 @@
   <Name>New Threat 2.0 Combat Only</Name>
   <Description>A combat rebalance mod.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.01</MetaVersion>
+  <MetaVersion>1.02</MetaVersion>
   <GameLanguage>ANY</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -192,8 +192,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/1dGYzBwArKnGa4K51gAe3vtU87vzhb6zZ</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT2.0VanillaCombat.iro.7z</Link>
+    <Link>iros://GDrive/1dGYzBwArKnGa4K51gAe3vtU87vzhb6zZ</Link>
     <Version>2.099996</Version>
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -204,7 +204,7 @@
   <Name>New Threat 2.0 Vanilla Combat</Name>
   <Description>FF7 NT Content mod with vanilla combat balancing and encounters.</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.02</MetaVersion>
+  <MetaVersion>1.04</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
@@ -218,8 +218,8 @@
   <Author>Sega Chief</Author>
   <Link>https://forums.qhimm.com/index.php?topic=17008.0</Link>
   <LatestVersion>
-    <Link>iros://GDrive/19_gK14aoRzUMdOGGQXlva6zWF2xYOSKz</Link>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7TrueNecrosis.7z</Link>
+    <Link>iros://GDrive/19_gK14aoRzUMdOGGQXlva6zWF2xYOSKz</Link>
     <Version>1.23</Version>
     <ReleaseDate>2026-11-11</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
@@ -230,7 +230,7 @@
   <Name>True Necrosis</Name>
   <Description>Challenge Mod: Start with 9999HP/MP but no way to recover it!</Description>
   <Category>Gameplay</Category>
-  <MetaVersion>1.03</MetaVersion>
+  <MetaVersion>1.04</MetaVersion>
   <GameLanguage>EN</GameLanguage>
   <DonationLink>https://paypal.me/segachief</DonationLink>
   <Tags>
