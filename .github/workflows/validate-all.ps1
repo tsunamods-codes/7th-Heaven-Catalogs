@@ -47,25 +47,30 @@ foreach ($dir in $catalogSubfolders) {
     $finalXml = Join-Path "catalogs" "$catalogKey.xml"
     Write-Output "Building catalog: $finalXml"
 
-    Set-Content -Path $finalXml -Value '<?xml version="1.0"?>'
-    Add-Content -Path $finalXml -Value ('<Catalog Name="' + $catalogName + '" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">')
-    Add-Content -Path $finalXml -Value '<Mods>'
+    Set-Content -Path $finalXml -Value '<?xml version="1.0"?>' -Encoding UTF8
+    Add-Content -Path $finalXml -Value ('<Catalog Name="' + $catalogName + '" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">') -Encoding UTF8
+    Add-Content -Path $finalXml -Value '<Mods>' -Encoding UTF8
 
     # Loop over the mod.xml files inside this catalog's folder
     $files = Get-ChildItem -Path $dir.FullName -Recurse -Filter *.xml
     foreach ($file in $files) {
         # Read the mod.xml
-        $xml = Get-Content -LiteralPath $file.FullName -Raw
+        $xml = Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
 
         # Remove only an initial XML declaration, regardless of its attributes or line breaks.
         $xml = $xml -creplace '(?s)\A\uFEFF?<\?xml(?=\s|\?>).*?\?>', ''
 
         # Add content to final xml
-        Add-Content -Path $finalXml -Value $xml
+        Add-Content -Path $finalXml -Value $xml -Encoding UTF8
     }
 
-    Add-Content -Path $finalXml -Value '</Mods>'
-    Add-Content -Path $finalXml -Value '</Catalog>'
+    Add-Content -Path $finalXml -Value '</Mods>' -Encoding UTF8
+    Add-Content -Path $finalXml -Value '</Catalog>' -Encoding UTF8
+
+    & .\.scripts\format.ps1 -Path $finalXml -ErrorAction Stop
+    if ($LASTEXITCODE -ne 0) {
+        throw "Failed to format generated catalog: $finalXml"
+    }
 
     $generatedCatalogs += , $finalXml
 }

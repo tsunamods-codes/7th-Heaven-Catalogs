@@ -1,0 +1,2 @@
+# Preserve XML bytes on checkout; the formatter controls layout line endings.
+mods/**/*.xml -text
