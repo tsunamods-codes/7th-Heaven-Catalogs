@@ -6,11 +6,11 @@
   <LatestVersion>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5.iro.7z</Link>
     <Link>iros://GDrive/10yCi0IdDnovhaHNq2_wBHb24xDn0w--m</Link>
-    <Version>1.594</Version>
+    <Version>1.595</Version>
     <ReleaseDate>2026-11-22</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://img.tedomum.net/data/main-0f7079.png</PreviewImage>
-    <ReleaseNotes>Version numbering fix, unused model part cleanup</ReleaseNotes>
+    <ReleaseNotes>Adds missing battle model, blocks Nino replacing certain battle models with 2.0 ones, and compat tags updated</ReleaseNotes>
     <DownloadSize>162213</DownloadSize>
   </LatestVersion>
   <Name>New Threat 1.5</Name>
