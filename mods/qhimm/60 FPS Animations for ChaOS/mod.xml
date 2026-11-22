@@ -9,15 +9,15 @@
     <ReleaseDate>2026-11-08</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage></PreviewImage>
-    <ReleaseNotes>REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.
-
-Changelog:
- - 1.05: GameLanguage compatibility		
- - 1.04: Animation fixes for Tifa and Cloud
- - 1.03: Fix to Tifa's Choco riding animation
- - 1.02: 3 animation fixes, including for Aerith just after Church escape
- - 1.01: Add flag for easier 60fps enabled detection by other mods
- - 1.00: First release
+    <ReleaseNotes>REQUIRES "ChaOS" and "60/30 FPS Gameplay" mods.&#xD;
+&#xD;
+Changelog:&#xD;
+ - 1.05: GameLanguage compatibility		&#xD;
+ - 1.04: Animation fixes for Tifa and Cloud&#xD;
+ - 1.03: Fix to Tifa's Choco riding animation&#xD;
+ - 1.02: 3 animation fixes, including for Aerith just after Church escape&#xD;
+ - 1.01: Add flag for easier 60fps enabled detection by other mods&#xD;
+ - 1.00: First release&#xD;
 	</ReleaseNotes>
     <DownloadSize>1050</DownloadSize>
   </LatestVersion>

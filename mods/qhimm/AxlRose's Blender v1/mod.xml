@@ -15,16 +15,16 @@
   </LatestVersion>
   <Name>AxlRose's Blender v1</Name>
   <Category>Battle Textures</Category>
-  <Description>- Fixes the "shadow/light" effect (blending) of the ground/floor for all affected Battle Stages
-- Improvements to the Battle Fields were done directly to the 3D model's floor meshes
-- Compatible with most Battle Texture mods
-
-Important:
-- Place this mod below (After) other texture mods such as "SYW Battle Textures", "AxlRose's Battle Scenes" or "Avalanche Arisen" (Auto Sort)
-
-Big thanks to:
-- L@Zar0 for the help provided with KimeraCS
-- Kaldarasha for work-around applying the light/shadows with KimeraCS.
+  <Description>- Fixes the "shadow/light" effect (blending) of the ground/floor for all affected Battle Stages&#xD;
+- Improvements to the Battle Fields were done directly to the 3D model's floor meshes&#xD;
+- Compatible with most Battle Texture mods&#xD;
+&#xD;
+Important:&#xD;
+- Place this mod below (After) other texture mods such as "SYW Battle Textures", "AxlRose's Battle Scenes" or "Avalanche Arisen" (Auto Sort)&#xD;
+&#xD;
+Big thanks to:&#xD;
+- L@Zar0 for the help provided with KimeraCS&#xD;
+- Kaldarasha for work-around applying the light/shadows with KimeraCS.&#xD;
       </Description>
   <Tags>
     <string>AxlRose</string>

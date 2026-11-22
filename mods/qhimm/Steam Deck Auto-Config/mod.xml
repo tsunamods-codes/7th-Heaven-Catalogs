@@ -12,19 +12,19 @@
     <PreviewImage></PreviewImage>
   </LatestVersion>
   <Name>Steam Deck Auto-Config</Name>
-  <Description>Automatically apply recommended settings for Steam Deck
-
-    Resolution: Auto
-    Window Mode: Fullscreen
-    Aspect Ratio: 16:10
-    Antialiasing: 4x MSAA
-    Anisotropic Filtering: On
-    Internal Resolution Scaling: 4x
-    Vertical Sync: Off
-    Advanced Lighting: Enabled
-    Analogue Controls: Enabled
-    Steam Compatibility: Enabled
-    Auto Run: Enabled
+  <Description>Automatically apply recommended settings for Steam Deck&#xD;
+&#xD;
+    Resolution: Auto&#xD;
+    Window Mode: Fullscreen&#xD;
+    Aspect Ratio: 16:10&#xD;
+    Antialiasing: 4x MSAA&#xD;
+    Anisotropic Filtering: On&#xD;
+    Internal Resolution Scaling: 4x&#xD;
+    Vertical Sync: Off&#xD;
+    Advanced Lighting: Enabled&#xD;
+    Analogue Controls: Enabled&#xD;
+    Steam Compatibility: Enabled&#xD;
+    Auto Run: Enabled&#xD;
       </Description>
   <Category>Gameplay</Category>
   <Tags></Tags>

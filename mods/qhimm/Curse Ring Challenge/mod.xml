@@ -9,17 +9,17 @@
     <ReleaseDate>2024-02-24</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage></PreviewImage>
-    <ReleaseNotes>
-	1.0 - Initial Release
-	1.1 - Toggle Sources On or Off, still sellable
-	1.2 - Used a hex edit to equip Vincent and Cait Sith and removed spares from inventory.
+    <ReleaseNotes>&#xD;
+	1.0 - Initial Release&#xD;
+	1.1 - Toggle Sources On or Off, still sellable&#xD;
+	1.2 - Used a hex edit to equip Vincent and Cait Sith and removed spares from inventory.&#xD;
 	</ReleaseNotes>
     <DownloadSize>152</DownloadSize>
   </LatestVersion>
   <Name>Curse Ring Challenge</Name>
   <Category>Gameplay</Category>
-  <Description>Making a New Game save seemed to upset the encounters so I turned it into a mod.
-Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentance kills you, how you do it is up to you, we don't judge around here.
+  <Description>Making a New Game save seemed to upset the encounters so I turned it into a mod.&#xD;
+Everyone has a Curse Ring Equipped, the challenge is to win before Death Sentance kills you, how you do it is up to you, we don't judge around here.&#xD;
       </Description>
   <Tags></Tags>
 </Mod>

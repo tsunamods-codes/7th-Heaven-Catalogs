@@ -4,9 +4,9 @@
   <Name>MU80 Soundtrack</Name>
   <Author>Raymond</Author>
   <Category>Media</Category>
-  <Description>Final Fantasy 7 soundtrack mod featuring the original XG (eXtended General) MIDI data from the 1998 PC release, as rendered through a rackmount Yamaha MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer).
--2 options for the track "One-Winged Angel" (lb2) are included--1 with and 1 without vocal choir.
--Credit and a debt of gratitude go to Raymond from the old SE forums for the original recordings.
+  <Description>Final Fantasy 7 soundtrack mod featuring the original XG (eXtended General) MIDI data from the 1998 PC release, as rendered through a rackmount Yamaha MU80 sound module (closest hardware equivalent of the original S-YXG70 software synthesizer).&#xD;
+-2 options for the track "One-Winged Angel" (lb2) are included--1 with and 1 without vocal choir.&#xD;
+-Credit and a debt of gratitude go to Raymond from the old SE forums for the original recordings.&#xD;
 Additional authors: Template, Dte102, NidoLNorris</Description>
   <LatestVersion>
     <Link>iros://Url/https$qhimm.7thheaven.rocks/Catalog 4.0/Media/mu80_soundtrack_1.33.zip</Link>
@@ -14,8 +14,8 @@ Additional authors: Template, Dte102, NidoLNorris</Description>
     <ReleaseDate>2026-02-04</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/jJG01x9.png</PreviewImage>
-    <ReleaseNotes>1.33 Fix to opening FMV directories. 
-  
+    <ReleaseNotes>1.33 Fix to opening FMV directories. &#xD;
+  &#xD;
 Check Readme for full version history.</ReleaseNotes>
     <DownloadSize>882274</DownloadSize>
   </LatestVersion>

@@ -10,15 +10,15 @@
     <ReleaseDate>2026-03-13</ReleaseDate>
     <CompatibleGameVersions></CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/aqOIHP0.png</PreviewImage>
-    <ReleaseNotes>
-	Fix vanishing boxes in SAC
+    <ReleaseNotes>&#xD;
+	Fix vanishing boxes in SAC&#xD;
         </ReleaseNotes>
     <DownloadSize>50000</DownloadSize>
   </LatestVersion>
   <Name>[Tsunamods] AavockESUI</Name>
   <Category>User Interface</Category>
-  <Description>ESUI theme using Aavock's remastered textures. Vanilla upscaled textures with all of ESUI's features including multiple battle views, mini avatars and expanded icons.
-Requires Enhanced Stock UI
+  <Description>ESUI theme using Aavock's remastered textures. Vanilla upscaled textures with all of ESUI's features including multiple battle views, mini avatars and expanded icons.&#xD;
+Requires Enhanced Stock UI&#xD;
       </Description>
   <Tags>
     <string>Bonez</string>

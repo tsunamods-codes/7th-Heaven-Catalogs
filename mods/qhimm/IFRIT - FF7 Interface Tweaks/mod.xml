@@ -9,29 +9,29 @@
     <ReleaseDate>2026-11-21</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/ttk75MM.png</PreviewImage>
-    <ReleaseNotes>Version 1.5 and 1.51
-- Restore proper high res Portrait Transparent avatars
-- SAC Heart Fix for SYW Unified UI; GameLanguage flag added      
+    <ReleaseNotes>Version 1.5 and 1.51&#xD;
+- Restore proper high res Portrait Transparent avatars&#xD;
+- SAC Heart Fix for SYW Unified UI; GameLanguage flag added      &#xD;
 </ReleaseNotes>
     <DownloadSize>55528</DownloadSize>
   </LatestVersion>
   <Name>IFRIT - FF7 Interface Tweaks</Name>
   <Category>User Interface</Category>
-  <Description>A collection of tweaks for the FF7 interface.
-
-Features:
-- Interface Compatibility (Stock, SYW, ESUI)
-- Optimize stock main menu and other UI elements
-- Choose between stock and 16:9 battle UI layouts
-- Move stock battle UI to the bottom of the screen
-- Different styles of AI enhanced Avatars
-- Set Avatar resolution
-- Transparent dialogue boxes
+  <Description>A collection of tweaks for the FF7 interface.&#xD;
+&#xD;
+Features:&#xD;
+- Interface Compatibility (Stock, SYW, ESUI)&#xD;
+- Optimize stock main menu and other UI elements&#xD;
+- Choose between stock and 16:9 battle UI layouts&#xD;
+- Move stock battle UI to the bottom of the screen&#xD;
+- Different styles of AI enhanced Avatars&#xD;
+- Set Avatar resolution&#xD;
+- Transparent dialogue boxes&#xD;
 - Intro Logos</Description>
   <Tags>
     <string>KWRRK</string>
     <string>User Interface</string>
     <string>Avatar</string>
   </Tags>
-    <GameLanguage>EN</GameLanguage>
+  <GameLanguage>EN</GameLanguage>
 </Mod>

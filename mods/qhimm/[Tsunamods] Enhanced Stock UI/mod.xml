@@ -10,17 +10,17 @@
     <ReleaseDate>2026-10-10</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://chris.7thheaven.rocks/n4vnSx0.png</PreviewImage>
-    <ReleaseNotes>Fix for broken 2026 steam release world text prompts.
+    <ReleaseNotes>Fix for broken 2026 steam release world text prompts.&#xD;
 		Restore ECHOS world map button prompts.</ReleaseNotes>
     <DownloadSize>43928</DownloadSize>
   </LatestVersion>
   <Name>[Tsunamods] Enhanced Stock UI</Name>
   <Category>User Interface</Category>
-  <Description>Enhanced Version of Stock UI - ESUI
-High Resolution Menu System
-Choice Of Battle UI
-Choice of Icons
-Controller Icons
+  <Description>Enhanced Version of Stock UI - ESUI&#xD;
+High Resolution Menu System&#xD;
+Choice Of Battle UI&#xD;
+Choice of Icons&#xD;
+Controller Icons&#xD;
 Battle Avatars Support</Description>
   <Tags>
     <string>ESUI</string>

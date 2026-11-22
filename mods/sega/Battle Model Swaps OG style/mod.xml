@@ -1,26 +1,26 @@
 <?xml version="1.0"?>
 <Mod>
-      <ID>fd337dbc-5c77-4031-b06e-afadf78ecd2c</ID>
-      <Author>Sega Chief</Author>
-      <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
-      <LatestVersion>
-        <Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
-		<Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
-        <Version>1.05</Version>
-        <ReleaseDate>2026-11-21</ReleaseDate>
-        <CompatibleGameVersions>All</CompatibleGameVersions>
-        <PreviewImage>https://img.tedomum.net/data/main-335e59.png</PreviewImage>
-        <ReleaseNotes></ReleaseNotes>
-        <DownloadSize>12880</DownloadSize>
-      </LatestVersion>
-      <Name>Model Swaps OG-Style</Name>
-      <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
-      <Category>Battle Models</Category>
-	  <MetaVersion>1.04</MetaVersion>
-	  <GameLanguage>ANY</GameLanguage>
-	  <DonationLink>https://paypal.me/segachief</DonationLink>
-      <Tags>
-        <string>Battle Models</string>
-        <string>Field Models</string>
-      </Tags>
-    </Mod>
+  <ID>fd337dbc-5c77-4031-b06e-afadf78ecd2c</ID>
+  <Author>Sega Chief</Author>
+  <Link>https://forums.qhimm.com/index.php?topic=14938.0</Link>
+  <LatestVersion>
+    <Link>iros://Url/http$sega.7thheaven.rocks/FF7ModelSwapOGStyle.7z</Link>
+    <Link>iros://GDrive/1Z2daRnK59aNofxvIVv55Vw1MEexlCrmd</Link>
+    <Version>1.05</Version>
+    <ReleaseDate>2026-11-21</ReleaseDate>
+    <CompatibleGameVersions>All</CompatibleGameVersions>
+    <PreviewImage>https://img.tedomum.net/data/main-335e59.png</PreviewImage>
+    <ReleaseNotes></ReleaseNotes>
+    <DownloadSize>12880</DownloadSize>
+  </LatestVersion>
+  <Name>Model Swaps OG-Style</Name>
+  <Description>A series of costume/model swaps for battle/field models using the Original Game style (shaded polygons)</Description>
+  <Category>Battle Models</Category>
+  <MetaVersion>1.04</MetaVersion>
+  <GameLanguage>ANY</GameLanguage>
+  <DonationLink>https://paypal.me/segachief</DonationLink>
+  <Tags>
+    <string>Battle Models</string>
+    <string>Field Models</string>
+  </Tags>
+</Mod>

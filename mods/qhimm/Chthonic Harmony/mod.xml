@@ -4,7 +4,7 @@
   <Name>Chthonic Harmony</Name>
   <Author>ChthonVII, Odysseus, TurquioseHammer, Vertex2995, Obesebear, Kaldrasha, Satsuki Yatoshi, Cosmos, Chrysalis, Bonez, Aavock, NinoStyle, BlitzNCS, and others.</Author>
   <Category>Miscellaneous</Category>
-  <Description>A compatibility pack to make other mods play together nicely. Plus a few new things and some reverse color corrections for compatibilty with revised NTSC-J mode.
+  <Description>A compatibility pack to make other mods play together nicely. Plus a few new things and some reverse color corrections for compatibilty with revised NTSC-J mode.&#xD;
       Requires maximum priority.</Description>
   <LatestVersion>
     <Link>iros://Url/https://github.com/ChthonVII/ff7chthonicharmony/releases/latest/download/ChthonicHarmony.iro</Link>
@@ -12,9 +12,9 @@
     <ReleaseDate>2026-06-17</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://raw.githubusercontent.com/ChthonVII/ff7chthonicharmony/main/preview/ChthonicHarmonyLogo.png</PreviewImage>
-    <ReleaseNotes>1.2 Edited and re-encoded EidosLogo FMV to exactly match original duration and use original audio. (Reduces frequency of a very weird bug.)
-				1.1: Replaced EidosLogo FMV with higher quality version recovered from abandoned Team Avalanche file repository. Revised credits.
-				1.0: Initial release
+    <ReleaseNotes>1.2 Edited and re-encoded EidosLogo FMV to exactly match original duration and use original audio. (Reduces frequency of a very weird bug.)&#xD;
+				1.1: Replaced EidosLogo FMV with higher quality version recovered from abandoned Team Avalanche file repository. Revised credits.&#xD;
+				1.0: Initial release&#xD;
 	    	</ReleaseNotes>
     <DownloadSize>1334759</DownloadSize>
   </LatestVersion>

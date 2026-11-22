@@ -10,16 +10,16 @@
     <ReleaseDate>2025-03-13</ReleaseDate>
     <CompatibleGameVersions></CompatibleGameVersions>
     <PreviewImage>https://i.imgur.com/vntsPnN.gif</PreviewImage>
-    <ReleaseNotes>
-	Realign font
-	Some Rebirth assets
+    <ReleaseNotes>&#xD;
+	Realign font&#xD;
+	Some Rebirth assets&#xD;
         </ReleaseNotes>
     <DownloadSize>68000</DownloadSize>
   </LatestVersion>
   <Name>[Tsunamods] Retouch</Name>
   <Category>User Interface</Category>
-  <Description>Full Remake style ESUI theme including battleview, avatars, expanded icons, prelude and start screen.
-	Requires Enhanced Stock UI
+  <Description>Full Remake style ESUI theme including battleview, avatars, expanded icons, prelude and start screen.&#xD;
+	Requires Enhanced Stock UI&#xD;
       </Description>
   <Tags>
     <string>Bonez</string>
