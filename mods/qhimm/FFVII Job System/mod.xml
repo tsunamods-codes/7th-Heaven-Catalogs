@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>2a737e43-7bcd-4da4-962d-3c87631fca5e</ID>
+  <Name>FFVII Job System</Name>
+  <Author>Willard82</Author>
+  <Category>Gameplay</Category>
+  <Description>Choose one of 25 Final Fantasy jobs for each character. Your choices decide which Materia they can equip, with weapon icons showing eligible characters. Configure Mod includes class and accessory guides. For original English FF7 PC.</Description>
+  <Link>https://github.com/WailSolaiman/ffviijobs</Link>
+  <DonationLink>https://ko-fi.com/ffviijobs</DonationLink>
+  <GameLanguage>EN</GameLanguage>
+  <MetaVersion>1.00</MetaVersion>
+  <Tags>
+    <string>Gameplay</string>
+    <string>Jobs</string>
+    <string>Classes</string>
+    <string>Materia</string>
+    <string>Willard82</string>
+  </Tags>
+  <LatestVersion>
+    <Link>iros://Url/https$github.com/WailSolaiman/ffviijobs/releases/download/v1.0.0/FFVIIJobSystem-1.0.0.iro</Link>
+    <Version>1.00</Version>
+    <ReleaseDate>2026-11-24</ReleaseDate>
+    <CompatibleGameVersions>Steam</CompatibleGameVersions>
+    <PreviewImage>https://github.com/WailSolaiman/ffviijobs/releases/download/v1.0.0/preview.png</PreviewImage>
+    <DownloadSize>7290</DownloadSize>
+  </LatestVersion>
+</Mod>
