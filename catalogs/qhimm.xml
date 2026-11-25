@@ -1892,6 +1892,31 @@ NOTE:- Load Ninostyle Chibi mod, Shinra Archaeology cut and Advanced Facial Anim
       </Tags>
     </Mod>
     <Mod>
+      <ID>553b68be-062c-4abc-b8d8-6b4515291af2</ID>
+      <Author>Kuraudo</Author>
+      <Link></Link>
+      <LatestVersion>
+        <Link>iros://GDrive/14LMaomdC91wZhMGm39QfwTyl-e9O_te2</Link>
+        <Version>1.00</Version>
+        <ReleaseDate>2026-11-25</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/Zjdcs1Z.png</PreviewImage>
+        <ReleaseNotes>Initial release.</ReleaseNotes>
+        <DownloadSize>6566</DownloadSize>
+      </LatestVersion>
+      <Name>Transparent UI</Name>
+      <Category>User Interface</Category>
+      <Description>Transparent Battle UI/Menus and Transparent Field Dialogue Box.
+    Warning: This mod overwrites your existing UI transparency mod settings.
+    Check the ReadMe for Full Credits.</Description>
+      <Tags>
+        <string>Transparent UI</string>
+        <string>User Interface</string>
+        <string>Kuraudo</string>
+      </Tags>
+      <GameLanguage>EN</GameLanguage>
+    </Mod>
+    <Mod>
       <ID>ee0e2b9f-9545-4688-b6b5-1f2fb6662aae</ID>
       <Author>Orichalcon, Odysseus</Author>
       <Link></Link>
