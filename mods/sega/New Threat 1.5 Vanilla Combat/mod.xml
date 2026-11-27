@@ -6,12 +6,12 @@
   <LatestVersion>
     <Link>iros://Url/http$sega.7thheaven.rocks/FF7NT1.5VanillaCombat.iro.7z</Link>
     <Link>iros://GDrive/1M_9cQrbaz_psRNGKA_2SUU_0DnQxLf-U</Link>
-    <Version>1.58</Version>
-    <ReleaseDate>2026-11-22</ReleaseDate>
+    <Version>1.59</Version>
+    <ReleaseDate>2026-11-27</ReleaseDate>
     <CompatibleGameVersions>All</CompatibleGameVersions>
     <PreviewImage>https://img.tedomum.net/data/main-fdd1ee.png</PreviewImage>
-    <ReleaseNotes>Compat update to block NT 2.0 60FPS Patch</ReleaseNotes>
-    <DownloadSize>152066</DownloadSize>
+    <ReleaseNotes>Version numbering fix, unused model part cleanup</ReleaseNotes>
+    <DownloadSize>151986</DownloadSize>
   </LatestVersion>
   <Name>New Threat 1.5 Vanilla Combat</Name>
   <Description>FF7 NT Content mod with vanilla combat balancing and encounters.</Description>
